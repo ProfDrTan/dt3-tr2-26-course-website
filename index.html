@@ -1,0 +1,227 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>CP3405 DT3 · Market Intelligence Platform</title>
+<style>
+*{box-sizing:border-box}
+body{margin:0;background:#f5f7fb;font-family:Inter,Segoe UI,Arial,sans-serif;color:#102033;line-height:1.55}
+a{color:#0f6fbd;text-decoration:none;font-weight:800}
+/* HEADER */
+.top{background:#071426;color:#fff;border-bottom:4px solid #12c7b7;padding:18px 22px;display:flex;justify-content:space-between;gap:16px;align-items:center;flex-wrap:wrap}
+.brand{display:flex;gap:14px;align-items:center;font-weight:900;font-size:1.25rem}
+.badge{background:#12c7b7;color:#071426;padding:8px 12px;border-radius:8px;font-family:monospace}
+.prof{color:#12c7b7;font-family:monospace;font-size:.95rem}
+/* TICKER */
+.ticker{background:#173b6a;color:#f5b942;font-weight:900;letter-spacing:.035em;white-space:nowrap;overflow:auto;padding:14px 22px;font-size:.95rem}
+/* NAV */
+.nav{display:flex;overflow:auto;background:#132747;border-bottom:1px solid #0f2040}
+.nav a{padding:14px 18px;color:#dbeafe;white-space:nowrap;font-weight:700;font-size:.9rem;transition:background .2s}
+.nav a:hover{background:#1e3a6e}
+.nav a.active-sprint{background:#e8a020;color:#111827;}
+.nav a.active{background:#f5b942;color:#111827}
+.nav a.sys{border-left:3px solid #12c7b7}
+/* HERO */
+.hero{background:linear-gradient(135deg,#0b1a31 0%,#0e2a52 50%,#0a3d6b 100%);color:#fff;text-align:center;padding:64px 22px 50px;position:relative;overflow:hidden}
+.hero::before{content:'';position:absolute;top:0;left:0;right:0;bottom:0;background:radial-gradient(ellipse at 70% 30%,rgba(18,199,183,.12) 0%,transparent 60%)}
+.hero h1{font-size:clamp(2rem,5vw,3.8rem);margin:12px 0;position:relative}
+.hero p{max-width:900px;margin:0 auto;color:#dbeafe;font-size:1.18rem;position:relative}
+.hero-badge{display:inline-block;background:rgba(18,199,183,.2);border:1px solid #12c7b7;color:#12c7b7;padding:6px 16px;border-radius:999px;font-size:.85rem;font-weight:900;letter-spacing:.08em;margin-bottom:16px}
+.hero-actions{display:flex;justify-content:center;gap:12px;flex-wrap:wrap;margin-top:28px;position:relative}
+/* SYSTEM STATUS BAR */
+.sysbar{background:linear-gradient(90deg,#071426,#0e2a52);border-bottom:2px solid #12c7b7;padding:12px 22px;display:flex;gap:24px;overflow:auto;align-items:center}
+.sysbar-item{display:flex;align-items:center;gap:8px;white-space:nowrap}
+.sysbar-label{color:#64748b;font-size:.8rem;font-weight:700;text-transform:uppercase;letter-spacing:.06em}
+.sysbar-val{color:#f5b942;font-weight:900;font-size:.9rem}
+.sysbar-dot{width:8px;height:8px;border-radius:50%;background:#10b981;box-shadow:0 0 6px #10b981;animation:pulse 2s infinite}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.5}}
+/* MAIN */
+.main{max-width:1180px;margin:0 auto;padding:22px}
+/* PANELS */
+.panel{background:#fff;border:1px solid #dbe3ef;border-radius:20px;padding:26px;margin:18px 0;box-shadow:0 8px 24px rgba(15,23,42,.06)}
+.panel h2{margin:0 0 14px;color:#071426;font-size:1.35rem}
+.panel-sys{background:linear-gradient(135deg,#f0fffe,#ecfdf5);border-color:#a7f3d0;border-left:5px solid #10b981}
+/* GRIDS */
+.grid{display:grid;grid-template-columns:repeat(2,minmax(280px,1fr));gap:18px}
+.grid3{display:grid;grid-template-columns:repeat(3,minmax(220px,1fr));gap:16px}
+.grid4{display:grid;grid-template-columns:repeat(4,minmax(180px,1fr));gap:14px}
+/* CARDS */
+.card{border:1px solid #dbe3ef;border-radius:16px;padding:18px;background:#f8fafc;transition:box-shadow .2s}
+.card:hover{box-shadow:0 4px 14px rgba(15,23,42,.1)}
+.card-sys{border-left:4px solid #10b981;background:linear-gradient(135deg,#f0fffe,#f8fafc)}
+.card-warn{border-left:4px solid #f59e0b;background:#fffbeb}
+.card-danger{border-left:4px solid #ef4444;background:#fef2f2}
+.card-teal{border-left:4px solid #12c7b7;background:#f0fdfa}
+/* COLOR BARS */
+.danger{border-left:7px solid #ef4444;background:#fef2f2}
+.ok{border-left:7px solid #10b981;background:#ecfdf5}
+.warn{border-left:7px solid #f59e0b;background:#fffbeb}
+.wisdom{border-left:7px solid #7c3aed;background:#f5f3ff}
+/* TYPOGRAPHY */
+.big{font-size:1.9rem;color:#0f766e;font-weight:900}
+.quote{font-size:1.22rem;font-weight:900;color:#32136b}
+.label{font-size:.78rem;text-transform:uppercase;letter-spacing:.08em;font-weight:900;color:#64748b}
+/* MATURITY DIAGRAM */
+.maturity-track{display:flex;gap:0;margin:20px 0;border-radius:16px;overflow:hidden;border:2px solid #dbe3ef}
+.m-step{flex:1;padding:20px 16px;text-align:center;position:relative}
+.m-step::after{content:'→';position:absolute;right:-10px;top:50%;transform:translateY(-50%);color:#94a3b8;font-size:1.4rem;z-index:2}
+.m-step:last-child::after{display:none}
+.m-step.l1{background:#fef2f2}.m-step.l2{background:#fffbeb}.m-step.l3{background:#ecfdf5}.m-step.l4{background:#eff6ff}
+.m-icon{font-size:2rem;margin-bottom:8px}
+.m-title{font-weight:900;font-size:.9rem;margin-bottom:6px}
+.m-sub{font-size:.8rem;color:#64748b}
+/* PIPELINE DIAGRAM */
+.pipeline{display:flex;align-items:center;gap:0;overflow:auto;padding:8px 0;margin:16px 0}
+.pipe-node{background:#071426;color:#fff;padding:14px 18px;border-radius:12px;text-align:center;min-width:120px;font-size:.85rem;font-weight:900;flex-shrink:0}
+.pipe-node .pipe-icon{font-size:1.6rem;margin-bottom:6px;display:block}
+.pipe-node.teal{background:linear-gradient(135deg,#0d9488,#0f766e)}
+.pipe-node.blue{background:linear-gradient(135deg,#1d4ed8,#1e40af)}
+.pipe-node.purple{background:linear-gradient(135deg,#7c3aed,#6d28d9)}
+.pipe-node.gold{background:linear-gradient(135deg,#d97706,#b45309);color:#fff}
+.pipe-node.green{background:linear-gradient(135deg,#059669,#047857)}
+.pipe-arrow{color:#94a3b8;font-size:1.8rem;flex-shrink:0;padding:0 4px}
+/* TABLE */
+table{width:100%;border-collapse:collapse;border:1px solid #dbe3ef;border-radius:12px;overflow:hidden}
+th{background:#071426;color:white;text-align:left;padding:11px 14px;font-size:.9rem}
+td{padding:11px 14px;border-top:1px solid #dbe3ef;vertical-align:top}
+tr:nth-child(even) td{background:#f8fafc}
+/* MISC */
+code{background:#eef2ff;padding:2px 7px;border-radius:6px;font-family:monospace;font-size:.9em}
+.btn{display:inline-block;background:#12c7b7;color:#071426;font-weight:900;padding:12px 20px;border-radius:999px;margin:6px 6px 0 0;transition:opacity .2s}
+.btn:hover{opacity:.85}
+.btn.gold{background:#f5b942}
+.btn.dark{background:#071426;color:#12c7b7}
+.btn.outline{background:transparent;border:2px solid #12c7b7;color:#12c7b7}
+.small{color:#64748b;font-size:.9rem}
+.pill{border-radius:999px;padding:4px 10px;font-size:.8rem;font-weight:900;display:inline-block}
+.pill-red{background:#fee2e2;color:#991b1b}
+.pill-green{background:#dcfce7;color:#166534}
+.pill-yellow{background:#fef3c7;color:#92400e}
+.pill-blue{background:#dbeafe;color:#1e40af}
+.pill-teal{background:#ccfbf1;color:#0f766e}
+/* DIVIDER */
+.divider{height:1px;background:linear-gradient(90deg,transparent,#dbe3ef,transparent);margin:24px 0}
+/* PROVOKING QUESTIONS */
+.question-row{display:flex;gap:12px;flex-wrap:wrap;margin:16px 0}
+.q-pill{background:#071426;color:#12c7b7;padding:10px 18px;border-radius:999px;font-weight:900;font-size:.88rem;border:1px solid #12c7b7}
+/* FOOTER */
+footer{text-align:center;color:#64748b;padding:36px 22px;border-top:1px solid #dbe3ef;margin-top:24px}
+footer strong{color:#102033}
+/* RESPONSIVE */
+@media(max-width:900px){.grid,.grid3,.grid4{grid-template-columns:1fr}.main{padding:12px}.nav a{padding:12px 14px}.maturity-track{flex-direction:column}.m-step::after{content:'↓';right:auto;bottom:-14px;left:50%}.pipeline{flex-direction:column;align-items:stretch}.pipe-arrow{transform:rotate(90deg);text-align:center}}
+</style>
+</head>
+<body>
+
+<header class="top">
+  <div class="brand">
+    <span class="badge">CP3405</span>
+    <span>DT3 · System Intelligence Platform</span>
+  </div>
+  <div class="prof">Prof. Dr. Tan · TR2 '26</div>
+</header>
+
+<div class="ticker">
+  <strong>📚 STUDY WEEK · W6 · Nothing due</strong> &nbsp;·&nbsp; Sprint 6 opens Mon 6 Jul · Prac A 10am–12pm · Prac B 1pm–3pm &nbsp;·&nbsp; <strong>vW28 due Sun 12 Jul 23:59 SGT</strong> &nbsp;·&nbsp; Final Demo Day Mon 3 Aug &nbsp;·&nbsp; Manual → Structured → Automated → Intelligent
+</div>
+
+<nav class="nav">
+  <a class="new active-sprint" href="audit/index.html">🆕 Pipeline Audit Day · 6 Jul</a>
+  <a class="new" href="sprint5/index.html">Sprint 5 Archive</a>
+  <a class="new" href="roadmap/index.html">Roadmap</a>
+  <a class="active" href="index.html">Home</a>
+  <a class="sys" href="system/index.html">System Architecture</a>
+  <a class="sys" href="roles/index.html">Roles &amp; Responsibilities</a>
+  <a class="sys" href="architecture/index.html">Architecture Deep Dive</a>
+  
+</nav>
+
+<section class="hero">
+  <div class="hero-badge">STUDY WEEK · W6 · 29 JUN – 5 JUL</div>
+  <h1>You Are On A Break.<br>Nothing Is Due.</h1>
+  <p>Sprint 5 is sealed. Sprint 6 opens in class on <strong>Monday 6 July</strong>. Your first Sprint 6 prediction tag <strong>vW28</strong> is due Sunday 12 July 23:59 SGT.</p>
+  <div class="hero-actions">
+    <a class="btn gold" href="#what-to-expect">What to Expect on 6 July</a>
+    <a class="btn" href="audit/index.html">Pipeline Audit Day Brief</a>
+    <a class="btn" href="roadmap/index.html">View Full Roadmap</a>
+  </div>
+</section>
+
+<!-- SYSTEM STATUS BAR -->
+<div class="sysbar">
+  <div class="sysbar-item"><span class="sysbar-dot"></span><span class="sysbar-label">Platform</span><span class="sysbar-val">LIVE</span></div>
+  <div class="sysbar-item"><span class="sysbar-label">Status</span><span class="sysbar-val">STUDY WEEK</span></div>
+  <div class="sysbar-item"><span class="sysbar-label">Next Tag</span><span class="sysbar-val">vW28</span></div>
+  <div class="sysbar-item"><span class="sysbar-label">Teams Active</span><span class="sysbar-val">5</span></div>
+  <div class="sysbar-item"><span class="sysbar-label">LLMs Required</span><span class="sysbar-val">ChatGPT · Gemini · DeepSeek</span></div>
+  <div class="sysbar-item"><span class="sysbar-label">Deadline</span><span class="sysbar-val">Sun 21 Jun · 23:59 SGT</span></div>
+</div>
+
+<!-- STUDY WEEK BANNER -->
+<section class="panel" style="border-left:6px solid #94a3b8;background:linear-gradient(135deg,#f1f5f9,#fff);margin-bottom:0">
+  <div style="display:flex;align-items:center;gap:16px;flex-wrap:wrap">
+    <div style="font-size:2rem">📚</div>
+    <div style="flex:1">
+      <div style="font-size:.75rem;text-transform:uppercase;letter-spacing:.09em;font-weight:900;color:#475569;margin-bottom:4px">Study Week · W6 · 29 Jun – 5 Jul</div>
+      <strong style="font-size:1.1rem;color:#071426">Nothing is due this weekend. Sprint 6 opens in class Monday 6 July.</strong>
+      <p style="margin:6px 0 0;color:#374151;font-size:.9rem">Practical A: 10:00 AM – 12:00 PM &nbsp;·&nbsp; Practical B: 1:00 PM – 3:00 PM &nbsp;·&nbsp; First tag vW28 due Sunday 12 July 23:59 SGT.</p>
+    </div>
+    <div style="display:flex;gap:10px;flex-wrap:wrap">
+      <a href="audit/index.html" style="background:#0f766e;color:#fff;font-weight:900;padding:10px 20px;border-radius:999px;text-decoration:none;white-space:nowrap">Pipeline Audit Day Brief →</a>
+      <a href="sprint5/index.html" style="background:#e8f4f8;color:#071426;font-weight:900;padding:10px 20px;border-radius:999px;text-decoration:none;white-space:nowrap">Sprint 4 Archive</a>
+      <a href="roadmap/index.html" style="background:#071426;color:#12c7b7;font-weight:900;padding:10px 20px;border-radius:999px;text-decoration:none;white-space:nowrap">8-Week Roadmap</a>
+    </div>
+  </div>
+</section>
+
+<main class="main">
+
+<!-- WHAT TO EXPECT -->
+<section class="panel" id="what-to-expect">
+  <div class="label">Sprint 6 · Opens Monday 6 July</div>
+  <h2>Here Is Exactly What Happens Next</h2>
+  <div class="grid3">
+    <div class="card">
+      <div class="big">1</div>
+      <strong>Nothing is due this weekend</strong><br>No prediction file. No release tag. No Discord post. The roadmap said study week and that stands. Close the laptop.
+    </div>
+    <div class="card">
+      <div class="big">2</div>
+      <strong>Sprint 6 starts in class — Monday 6 July</strong><br>Practical A: 10:00 AM – 12:00 PM &nbsp;|&nbsp; Practical B: 1:00 PM – 3:00 PM<br><br>Come ready for sprint planning — sprint goal, role assignments, Definition of Done. Not a presentation. Not a submission review.
+    </div>
+    <div class="card">
+      <div class="big">3</div>
+      <strong>First Sprint 6 tag: vW28 · due Sunday 12 July</strong><br>Prediction: SPX + NDX + IWM + all 11 S&amp;P sectors. Pipeline must be running automatically. Delta score for vW25 is a Sprint 6 deliverable. Present Monday 13 July.
+    </div>
+  </div>
+</section>
+
+<!-- PIPELINE STATUS -->
+<section class="panel ok" id="pipeline">
+  <h2>If Your Pipeline Is Automated — Let It Run</h2>
+  <p>If your GitHub Actions workflow is scheduled to fetch on Friday nights, it will trigger this week without you doing anything. Come back on Monday with data already in your repo. That is the point of what you have built.</p>
+  <p style="margin-top:10px">If your pipeline is still manual, this gap is your window. You do not need to produce a prediction. But wiring up even one automated step now means one less thing you are doing by hand on Sunday 12 July.</p>
+</section>
+
+<!-- SPRINT 6 PREVIEW -->
+<section class="panel warn" id="sprint6-preview">
+  <h2>Sprint 6 Preview — What the Bar Looks Like</h2>
+  <table>
+    <tr><th>Requirement</th><th>Sprint 5</th><th>Sprint 6 (from 6 Jul)</th></tr>
+    <tr><td>Prediction coverage</td><td>SPX + NDX + IWM + 5 sectors</td><td>SPX + NDX + IWM + <strong>all 11 S&amp;P sectors</strong></td></tr>
+    <tr><td>Release tag</td><td>vW25</td><td><strong>vW28</strong> — correct format, no exceptions</td></tr>
+    <tr><td>LLM synthesis</td><td>3 LLMs compared</td><td><strong>At least 2 LLMs called via API</strong>, responses logged</td></tr>
+    <tr><td>Automation</td><td>At least 2 agents automated</td><td><strong>Pipeline runs without manual intervention</strong></td></tr>
+    <tr><td>Calibration</td><td>delta_W24.md</td><td><strong>delta_W25.md + accuracy tracked W3–W7</strong></td></tr>
+    <tr><td>Deadline</td><td>Sun 21 Jun 23:59 SGT</td><td><strong>Sun 12 Jul 23:59 SGT</strong></td></tr>
+  </table>
+  <p style="margin-top:14px;font-size:.9rem;color:#64748b">Full Sprint 6 brief will be published in class on Monday 6 July.</p>
+</section>
+
+</main>
+
+<footer></footer>
+
+</body>
+</html>
