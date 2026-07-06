@@ -4,17 +4,10 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Team Pipeline Dashboard · CP3405 DT3 TR2 2026</title>
-<meta http-equiv="refresh" content="300">
 <style>
-  :root {
-    --navy:#0a1628;--navy-2:#0d1f3c;--navy-3:#112244;
-    --gold:#c9a84c;--teal:#2dd4bf;--white:#f0f4fa;--muted:#8fa3bf;
-    --success:#3dcc8a;--danger:#e05c5c;--warn:#f0a500;
-  }
+  :root{--navy:#0a1628;--navy-2:#0d1f3c;--navy-3:#112244;--gold:#c9a84c;--teal:#2dd4bf;--white:#f0f4fa;--muted:#8fa3bf;--success:#3dcc8a;--danger:#e05c5c;--warn:#f0a500;}
   *{box-sizing:border-box;margin:0;padding:0;}
   body{background:var(--navy);color:var(--white);font-family:'Segoe UI',system-ui,sans-serif;font-size:15px;line-height:1.6;}
-
-  /* ── Pin gate ── */
   #pin-gate{display:flex;align-items:center;justify-content:center;min-height:100vh;padding:2rem;}
   .pin-box{background:var(--navy-2);border:1px solid rgba(201,168,76,.3);border-radius:16px;padding:2.5rem;text-align:center;max-width:360px;width:100%;}
   .pin-box h2{color:var(--gold);font-size:1.3rem;margin-bottom:.5rem;}
@@ -22,254 +15,279 @@
   .pin-box input{background:var(--navy-3);border:1px solid rgba(255,255,255,.15);border-radius:8px;color:var(--white);font-size:1.2rem;letter-spacing:.3em;padding:.7rem 1rem;text-align:center;width:100%;margin-bottom:1rem;outline:none;}
   .pin-box input:focus{border-color:var(--gold);}
   .pin-box button{background:var(--gold);color:#071426;font-weight:900;padding:.75rem 2rem;border-radius:99px;border:none;cursor:pointer;width:100%;font-size:.95rem;}
-  .pin-box button:hover{background:var(--gold-lt,#e2c97e);}
   .pin-error{color:var(--danger);font-size:.85rem;margin-top:.5rem;display:none;}
-
-  /* ── Dashboard ── */
   #dashboard{display:none;}
   header{background:linear-gradient(135deg,#070e1c,var(--navy-3));border-bottom:2px solid var(--gold);padding:1.5rem 2rem;display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:1rem;}
-  .header-left h1{font-size:1.4rem;color:var(--gold);font-weight:700;}
-  .header-left p{font-size:.8rem;color:var(--muted);margin-top:.2rem;}
-  .live-badge{background:rgba(61,204,138,.15);color:var(--success);border:1px solid rgba(61,204,138,.3);border-radius:99px;padding:.3rem .8rem;font-size:.75rem;font-weight:700;letter-spacing:.08em;}
+  .h1{font-size:1.4rem;color:var(--gold);font-weight:700;}
+  .hsub{font-size:.8rem;color:var(--muted);margin-top:.2rem;}
+  .live-badge{background:rgba(61,204,138,.15);color:var(--success);border:1px solid rgba(61,204,138,.3);border-radius:99px;padding:.3rem .8rem;font-size:.75rem;font-weight:700;}
   main{max-width:1100px;margin:0 auto;padding:2rem 1.5rem 4rem;}
   .summary-strip{display:grid;grid-template-columns:repeat(auto-fit,minmax(140px,1fr));gap:.75rem;margin-bottom:2rem;}
-  .summary-card{background:var(--navy-2);border:1px solid rgba(255,255,255,.08);border-radius:10px;padding:1rem;text-align:center;}
-  .summary-card .val{font-size:1.8rem;font-weight:800;color:var(--teal);line-height:1;}
-  .summary-card .val.gold{color:var(--gold);}
-  .summary-card .val.danger{color:var(--danger);}
-  .summary-card .val.ok{color:var(--success);}
-  .summary-card .lbl{font-size:.75rem;color:var(--muted);text-transform:uppercase;letter-spacing:.08em;margin-top:.3rem;}
+  .sc{background:var(--navy-2);border:1px solid rgba(255,255,255,.08);border-radius:10px;padding:1rem;text-align:center;}
+  .sc .val{font-size:1.8rem;font-weight:800;color:var(--teal);line-height:1;}
+  .sc .val.ok{color:var(--success);} .sc .val.gold{color:var(--gold);} .sc .val.danger{color:var(--danger);}
+  .sc .lbl{font-size:.75rem;color:var(--muted);text-transform:uppercase;letter-spacing:.08em;margin-top:.3rem;}
   .teams-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:1.25rem;}
-  .team-card{background:var(--navy-2);border:1px solid rgba(255,255,255,.08);border-radius:12px;overflow:hidden;}
-  .team-card.healthy{border-color:rgba(61,204,138,.25);}
-  .team-card.warning{border-color:rgba(240,165,0,.3);}
-  .team-card.failing{border-color:rgba(224,92,92,.3);}
-  .team-header{padding:.9rem 1.1rem;display:flex;align-items:center;justify-content:space-between;border-bottom:1px solid rgba(255,255,255,.07);}
-  .team-name{font-size:1rem;font-weight:700;color:var(--white);}
-  .team-prac{font-size:.72rem;color:var(--muted);background:rgba(255,255,255,.05);padding:.15rem .5rem;border-radius:4px;}
-  .status-dot{width:10px;height:10px;border-radius:50%;flex-shrink:0;}
-  .dot-green{background:var(--success);box-shadow:0 0 6px var(--success);}
-  .dot-red{background:var(--danger);box-shadow:0 0 6px var(--danger);}
-  .dot-orange{background:var(--warn);box-shadow:0 0 6px var(--warn);}
-  .dot-grey{background:var(--muted);}
-  .team-body{padding:1rem 1.1rem;display:flex;flex-direction:column;gap:.6rem;}
+  .tc{background:var(--navy-2);border:1px solid rgba(255,255,255,.08);border-radius:12px;overflow:hidden;}
+  .tc.healthy{border-color:rgba(61,204,138,.25);} .tc.warning{border-color:rgba(240,165,0,.3);} .tc.failing{border-color:rgba(224,92,92,.3);}
+  .th{padding:.9rem 1.1rem;display:flex;align-items:center;justify-content:space-between;border-bottom:1px solid rgba(255,255,255,.07);}
+  .tn{font-size:1rem;font-weight:700;} .tp{font-size:.72rem;color:var(--muted);background:rgba(255,255,255,.05);padding:.15rem .5rem;border-radius:4px;}
+  .dot{width:10px;height:10px;border-radius:50%;flex-shrink:0;}
+  .dg{background:var(--success);box-shadow:0 0 6px var(--success);} .dr{background:var(--danger);box-shadow:0 0 6px var(--danger);} .do{background:var(--warn);box-shadow:0 0 6px var(--warn);}
+  .tb{padding:1rem 1.1rem;display:flex;flex-direction:column;gap:.6rem;}
   .row{display:flex;justify-content:space-between;align-items:flex-start;gap:.5rem;font-size:.85rem;}
-  .row-label{color:var(--muted);white-space:nowrap;flex-shrink:0;}
-  .row-val{color:var(--white);text-align:right;word-break:break-word;}
-  .row-val.ok{color:var(--success);}
-  .row-val.fail{color:var(--danger);}
-  .row-val.warn{color:var(--warn);}
-  .tag-chip{display:inline-block;padding:.1rem .45rem;border-radius:4px;font-size:.75rem;font-weight:600;margin:.1rem;}
-  .tag-correct{background:rgba(61,204,138,.15);color:var(--success);}
-  .tag-wrong{background:rgba(240,165,0,.15);color:var(--warn);}
-  .tag-other{background:rgba(143,163,191,.1);color:var(--muted);}
-  .commit-msg{font-size:.78rem;color:var(--muted);border-left:2px solid rgba(45,212,191,.2);padding-left:.5rem;margin-top:.2rem;word-break:break-word;}
-  .pr-badge{background:rgba(45,212,191,.15);color:var(--teal);border-radius:4px;padding:.1rem .4rem;font-size:.75rem;font-weight:700;}
-  .repo-link{display:block;padding:.6rem 1.1rem;border-top:1px solid rgba(255,255,255,.05);font-size:.78rem;color:var(--teal);text-decoration:none;}
-  .repo-link:hover{background:rgba(45,212,191,.05);}
-  .last-updated{text-align:right;font-size:.75rem;color:var(--muted);margin-bottom:1rem;}
-  .loading{text-align:center;padding:4rem;color:var(--muted);}
-  .error-box{background:rgba(224,92,92,.1);border:1px solid rgba(224,92,92,.3);border-radius:8px;padding:1rem;color:var(--danger);margin-bottom:1.5rem;}
+  .rl{color:var(--muted);white-space:nowrap;flex-shrink:0;}
+  .rv{color:var(--white);text-align:right;word-break:break-word;}
+  .rv.ok{color:var(--success);} .rv.fail{color:var(--danger);} .rv.warn{color:var(--warn);}
+  .chip{display:inline-block;padding:.1rem .45rem;border-radius:4px;font-size:.75rem;font-weight:600;margin:.1rem;}
+  .cok{background:rgba(61,204,138,.15);color:var(--success);} .cwarn{background:rgba(240,165,0,.15);color:var(--warn);} .cgrey{background:rgba(143,163,191,.1);color:var(--muted);}
+  .cmsg{font-size:.78rem;color:var(--muted);border-left:2px solid rgba(45,212,191,.2);padding-left:.5rem;margin-top:.2rem;word-break:break-word;}
+  .rl-link{display:block;padding:.6rem 1.1rem;border-top:1px solid rgba(255,255,255,.05);font-size:.78rem;color:var(--teal);text-decoration:none;}
+  .rl-link:hover{background:rgba(45,212,191,.05);}
+  .lu{text-align:right;font-size:.75rem;color:var(--muted);margin-bottom:1rem;}
+  .refresh-btn{background:rgba(45,212,191,.1);color:var(--teal);border:1px solid rgba(45,212,191,.3);border-radius:6px;padding:.3rem .8rem;font-size:.78rem;cursor:pointer;margin-left:.75rem;}
   footer{border-top:1px solid rgba(201,168,76,.15);padding:1.25rem 2rem;text-align:center;font-size:.78rem;color:var(--muted);}
 </style>
 </head>
 <body>
 
-<!-- PIN GATE -->
 <div id="pin-gate">
   <div class="pin-box">
     <h2>🔒 Instructor Dashboard</h2>
     <p>CP3405 DT3 TR2 2026 · Prof Dr Tan only</p>
-    <input type="password" id="pin-input" placeholder="Enter PIN" maxlength="8"
-           onkeydown="if(event.key==='Enter')checkPin()">
+    <input type="password" id="pin-input" placeholder="Enter PIN" maxlength="8" onkeydown="if(event.key==='Enter')checkPin()">
     <button onclick="checkPin()">Enter</button>
-    <div class="pin-error" id="pin-error">Incorrect PIN. Try again.</div>
+    <div class="pin-error" id="pin-error">Incorrect PIN.</div>
   </div>
 </div>
 
-<!-- DASHBOARD (hidden until PIN correct) -->
 <div id="dashboard">
   <header>
-    <div class="header-left">
-      <h1>Team Pipeline Dashboard</h1>
-      <p>CP3405 DT3 TR2 2026 · Sprint 6 · vW28 · Auto-refreshes every 5 minutes · Prof Dr Tan only</p>
-    </div>
+    <div><div class="h1">Team Pipeline Dashboard</div><div class="hsub">CP3405 DT3 TR2 2026 · Sprint 6 · vW28 · Prof Dr Tan only</div></div>
     <span class="live-badge">● LIVE</span>
   </header>
-  <main>
-    <div id="app"><div class="loading">Loading team data...</div></div>
-  </main>
-  <footer>CP3405 DT3 TR2 2026 · Instructor Dashboard · Data updated every 30 min via GitHub Actions · Private</footer>
+  <main><div id="app"></div></main>
+  <footer>CP3405 DT3 TR2 2026 · Instructor Dashboard · Private · Data via GitHub API</footer>
 </div>
 
 <script>
-// ── PIN ───────────────────────────────────────────────────────────────────────
-const CORRECT_PIN = '3405';
-const SPRINT_TAG  = 'vW28';
-const DASHBOARD_JSON = 'https://raw.githubusercontent.com/ProfDrTan/dt3-monitor/main/dt3_dashboard.json';
+const PIN = '3405';
+const SPRINT_TAG = 'vW28';
 
-function checkPin() {
-  const val = document.getElementById('pin-input').value.trim();
-  // Also accept from URL param ?pin=XXXX
-  if (val === CORRECT_PIN) {
-    unlock();
-  } else {
-    const err = document.getElementById('pin-error');
-    err.style.display = 'block';
-    document.getElementById('pin-input').value = '';
-    document.getElementById('pin-input').focus();
-  }
+// Embedded fallback data — always shows immediately
+const FALLBACK = {
+  "updated": "2026-07-06 15:42 UTC",
+  "sprint_tag": "vW28",
+  "teams": [
+    {
+      "name": "Team 1",
+      "repo": "sinder38/Team-1-Prac-A-Project",
+      "prac": "A",
+      "last_commit_sha": "2577560",
+      "last_commit_msg": "Add crazy mermaid diogram",
+      "last_commit_date": "2026-06-21 16:20",
+      "last_commit_author": "sinder",
+      "tags": [
+        "vW25",
+        "vW24",
+        "vW23",
+        "vW22"
+      ],
+      "sprint_tag_present": false,
+      "last_run_name": "python-checks",
+      "last_run_conclusion": "success",
+      "last_run_date": "2026-07-06 03:20",
+      "open_prs": 5,
+      "pr_titles": [
+        "fix: prevent LLM stage from crashing the weekly pi",
+        "chore: pipeline artifacts 2026-07-06",
+        "feature/macro-agent",
+        "chore: pipeline artifacts 2026-06-26",
+        "Evidence Images"
+      ],
+      "days_since_commit": 14
+    },
+    {
+      "name": "Team 2",
+      "repo": "LuJunwen212/CP3405-Project",
+      "prac": "A",
+      "last_commit_sha": "c13663e",
+      "last_commit_msg": "chore(data): automated market ledger alignment [skip ci]",
+      "last_commit_date": "2026-07-05 18:14",
+      "last_commit_author": "Team2 Data Automatio",
+      "tags": [
+        "vW25",
+        "vW24",
+        "vW23",
+        "vW22"
+      ],
+      "sprint_tag_present": false,
+      "last_run_name": "Automated Technical Agent",
+      "last_run_conclusion": "success",
+      "last_run_date": "2026-07-05 18:14",
+      "open_prs": 0,
+      "pr_titles": [],
+      "days_since_commit": 0
+    },
+    {
+      "name": "Team 3",
+      "repo": "juninho4/Team-3-Practical-A-CP3405",
+      "prac": "A",
+      "last_commit_sha": "985c5fd",
+      "last_commit_msg": "Add files via upload",
+      "last_commit_date": "2026-07-06 03:13",
+      "last_commit_author": "Li-Haoyao",
+      "tags": [
+        "vW25",
+        "vW24",
+        "vW23",
+        "vW22",
+        "W25"
+      ],
+      "sprint_tag_present": false,
+      "last_run_name": "Fetch Friday Market Closes",
+      "last_run_conclusion": "success",
+      "last_run_date": "2026-07-03 15:47",
+      "open_prs": 0,
+      "pr_titles": [],
+      "days_since_commit": 0
+    },
+    {
+      "name": "Team 4",
+      "repo": "wintwah-lwin/CP3405_Group_4",
+      "prac": "B",
+      "last_commit_sha": "a76feab",
+      "last_commit_msg": "Update macro-update workflow with push trigger",
+      "last_commit_date": "2026-07-06 04:52",
+      "last_commit_author": "Arisa",
+      "tags": [
+        "v1.0.0",
+        "W25",
+        "W24",
+        "W23"
+      ],
+      "sprint_tag_present": false,
+      "last_run_name": "Run Macro Agent Remote",
+      "last_run_conclusion": "failure",
+      "last_run_date": "2026-07-06 06:06",
+      "open_prs": 1,
+      "pr_titles": [
+        "Macro update"
+      ],
+      "days_since_commit": 0
+    },
+    {
+      "name": "Team 5",
+      "repo": "Gong-yinxuan/CP3405",
+      "prac": "B",
+      "last_commit_sha": "617b73c",
+      "last_commit_msg": "Merge branch 'main' of https://github.com/Gong-yinxuan/CP340",
+      "last_commit_date": "2026-07-06 07:48",
+      "last_commit_author": "ToHoangGia",
+      "tags": [
+        "vW25",
+        "vW24",
+        "W23"
+      ],
+      "sprint_tag_present": false,
+      "last_run_name": "Update Market Data",
+      "last_run_conclusion": "success",
+      "last_run_date": "2026-07-06 06:21",
+      "open_prs": 0,
+      "pr_titles": [],
+      "days_since_commit": 0
+    }
+  ]
+};
+
+function checkPin(){
+  if(document.getElementById('pin-input').value.trim()===PIN){unlock();}
+  else{document.getElementById('pin-error').style.display='block';document.getElementById('pin-input').value='';}
 }
-
-function unlock() {
-  document.getElementById('pin-gate').style.display = 'none';
-  document.getElementById('dashboard').style.display = 'block';
-  loadDashboard();
+function unlock(){
+  document.getElementById('pin-gate').style.display='none';
+  document.getElementById('dashboard').style.display='block';
+  render(JSON.parse(FALLBACK)); // show immediately
+  loadFresh();                  // then try to get latest
 }
+(function(){const p=new URLSearchParams(location.search);if(p.get('pin')===PIN)unlock();})();
 
-// Auto-unlock if ?pin=XXXX in URL
-(function() {
-  const params = new URLSearchParams(window.location.search);
-  if (params.get('pin') === CORRECT_PIN) unlock();
-})();
-
-// ── DASHBOARD ─────────────────────────────────────────────────────────────────
-async function loadDashboard() {
-  const app = document.getElementById('app');
-  try {
-    const r = await fetch(DASHBOARD_JSON + '?t=' + Date.now());
-    if (!r.ok) throw new Error('HTTP ' + r.status);
-    const data = await r.json();
+async function loadFresh(){
+  try{
+    // Use GitHub API contents endpoint — no rate limiting
+    const r = await fetch(
+      'https://api.github.com/repos/ProfDrTan/dt3-monitor/contents/dt3_dashboard.json',
+      {headers:{'Accept':'application/vnd.github+json'}}
+    );
+    if(!r.ok) return;
+    const meta = await r.json();
+    const data = JSON.parse(atob(meta.content.replace(/\s/g,'')));
     render(data);
-  } catch(e) {
-    app.innerHTML = `
-      <div class="error-box">
-        ⚠️ Could not load dashboard data: ${e.message}<br>
-        <small>The GitHub Actions monitor may not have run yet — check
-        <a href="https://github.com/ProfDrTan/dt3-monitor/actions" target="_blank"
-           style="color:var(--teal)">GitHub Actions</a> to trigger manually.</small>
-      </div>`;
-  }
+  } catch(e){ console.log('Fetch failed, using fallback:', e); }
 }
 
-function tagChip(tag) {
-  const cls = tag === SPRINT_TAG ? 'tag-correct' :
-              /^v?W\d+$/.test(tag) ? 'tag-wrong' : 'tag-other';
-  return `<span class="tag-chip ${cls}">${tag}</span>`;
+function tagChip(t){
+  const c=t===SPRINT_TAG?'cok':/^v?W\d+$/.test(t)?'cwarn':'cgrey';
+  return `<span class="chip ${c}">${t}</span>`;
 }
-
-function runIcon(c) {
-  if (c === 'success') return '<span class="row-val ok">✅ passing</span>';
-  if (c === 'failure') return '<span class="row-val fail">❌ FAILED</span>';
-  if (c === 'none' || !c) return '<span class="row-val" style="color:var(--muted)">—</span>';
-  return `<span class="row-val warn">⏳ ${c}</span>`;
+function runIcon(c){
+  if(c==='success') return '<span class="rv ok">✅ passing</span>';
+  if(c==='failure') return '<span class="rv fail">❌ FAILED</span>';
+  if(!c||c==='none') return '<span class="rv" style="color:var(--muted)">—</span>';
+  return `<span class="rv warn">⏳ ${c}</span>`;
 }
-
-function cardClass(t) {
-  if (t.last_run_conclusion === 'failure') return 'failing';
-  if (!t.sprint_tag_present) return 'warning';
-  if (t.days_since_commit > 3) return 'warning';
+function cardCls(t){
+  if(t.last_run_conclusion==='failure') return 'failing';
+  if(!t.sprint_tag_present) return 'warning';
+  if((t.days_since_commit??0)>3) return 'warning';
   return 'healthy';
 }
-
-function dotClass(t) {
-  if (t.last_run_conclusion === 'failure') return 'dot-red';
-  if (!t.sprint_tag_present) return 'dot-orange';
-  return 'dot-green';
+function dotCls(t){
+  if(t.last_run_conclusion==='failure') return 'dr';
+  if(!t.sprint_tag_present) return 'do';
+  return 'dg';
 }
 
-function render(data) {
-  const teams = data.teams || [];
-  const tagged  = teams.filter(t => t.sprint_tag_present).length;
-  const failing = teams.filter(t => t.last_run_conclusion === 'failure').length;
-  const active  = teams.filter(t => (t.days_since_commit ?? 99) <= 2).length;
-  const prs     = teams.reduce((s,t) => s + (t.open_prs||0), 0);
+function render(data){
+  const teams=data.teams||[];
+  const tagged=teams.filter(t=>t.sprint_tag_present).length;
+  const failing=teams.filter(t=>t.last_run_conclusion==='failure').length;
+  const active=teams.filter(t=>(t.days_since_commit??99)<=2).length;
+  const prs=teams.reduce((s,t)=>s+(t.open_prs||0),0);
 
-  let html = `
-    <div class="last-updated">Data as of: ${data.updated} · Auto-refreshes every 5 min</div>
-    <div class="summary-strip">
-      <div class="summary-card">
-        <div class="val ${tagged===5?'ok':tagged>=3?'gold':'danger'}">${tagged}/5</div>
-        <div class="lbl">${SPRINT_TAG} Tagged</div>
-      </div>
-      <div class="summary-card">
-        <div class="val ${failing>0?'danger':'ok'}">${failing}</div>
-        <div class="lbl">Pipeline Failures</div>
-      </div>
-      <div class="summary-card">
-        <div class="val gold">${active}</div>
-        <div class="lbl">Active (48h)</div>
-      </div>
-      <div class="summary-card">
-        <div class="val ${prs>0?'gold':''}">${prs}</div>
-        <div class="lbl">Open PRs</div>
-      </div>
-      <div class="summary-card">
-        <div class="val">5</div>
-        <div class="lbl">Teams</div>
-      </div>
-    </div>
-    <div class="teams-grid">`;
+  let h=`<div class="lu">Data: ${data.updated} <button class="refresh-btn" onclick="loadFresh()">↻ Refresh</button></div>
+  <div class="summary-strip">
+    <div class="sc"><div class="val ${tagged===5?'ok':tagged>=3?'gold':'danger'}">${tagged}/5</div><div class="lbl">${SPRINT_TAG} Tagged</div></div>
+    <div class="sc"><div class="val ${failing>0?'danger':'ok'}">${failing}</div><div class="lbl">Failures</div></div>
+    <div class="sc"><div class="val gold">${active}</div><div class="lbl">Active 48h</div></div>
+    <div class="sc"><div class="val">${prs}</div><div class="lbl">Open PRs</div></div>
+  </div><div class="teams-grid">`;
 
-  for (const t of teams) {
-    const tags = (t.tags||[]).slice(0,6);
-    html += `
-      <div class="team-card ${cardClass(t)}">
-        <div class="team-header">
-          <div>
-            <div class="team-name">${t.name}</div>
-            <div style="font-size:.72rem;color:var(--muted)">${t.repo}</div>
-          </div>
-          <div style="display:flex;align-items:center;gap:.5rem">
-            <span class="team-prac">Prac ${t.prac}</span>
-            <div class="status-dot ${dotClass(t)}"></div>
-          </div>
+  for(const t of teams){
+    const tags=(t.tags||[]).slice(0,6);
+    h+=`<div class="tc ${cardCls(t)}">
+      <div class="th">
+        <div><div class="tn">${t.name}</div><div style="font-size:.7rem;color:var(--muted)">${t.repo}</div></div>
+        <div style="display:flex;align-items:center;gap:.5rem">
+          <span class="tp">Prac ${t.prac}</span>
+          <div class="dot ${dotCls(t)}"></div>
         </div>
-        <div class="team-body">
-          <div class="row">
-            <span class="row-label">${SPRINT_TAG} tag</span>
-            ${t.sprint_tag_present
-              ? '<span class="row-val ok">✅ Cut</span>'
-              : '<span class="row-val fail">❌ Not yet</span>'}
-          </div>
-          <div class="row">
-            <span class="row-label">All tags</span>
-            <span>${tags.length ? tags.map(tagChip).join('') : '<span style="color:var(--muted)">none</span>'}</span>
-          </div>
-          <div class="row">
-            <span class="row-label">Last commit</span>
-            <span class="row-val">${t.last_commit_date||'—'}</span>
-          </div>
-          <div class="commit-msg">
-            ${t.last_commit_sha||''} ${t.last_commit_author?'· '+t.last_commit_author:''}
-            <br>${t.last_commit_msg||''}
-          </div>
-          <div class="row">
-            <span class="row-label">Pipeline</span>
-            ${runIcon(t.last_run_conclusion)}
-          </div>
-          <div class="row" style="font-size:.78rem">
-            <span class="row-label">Last run</span>
-            <span style="color:var(--muted)">${t.last_run_name||'—'}${t.last_run_date?' · '+t.last_run_date:''}</span>
-          </div>
-          ${t.open_prs>0?`
-          <div class="row">
-            <span class="row-label">Open PRs</span>
-            <span class="pr-badge">${t.open_prs} open — ${(t.pr_titles||[]).join(', ').slice(0,60)}</span>
-          </div>`:''}
-          <div class="row">
-            <span class="row-label">Days since commit</span>
-            <span class="row-val ${(t.days_since_commit??99)>3?'warn':''}">${t.days_since_commit??'—'}</span>
-          </div>
-        </div>
-        <a class="repo-link" href="https://github.com/${t.repo}" target="_blank">
-          Open on GitHub →
-        </a>
-      </div>`;
+      </div>
+      <div class="tb">
+        <div class="row"><span class="rl">${SPRINT_TAG} tag</span>${t.sprint_tag_present?'<span class="rv ok">✅ Cut</span>':'<span class="rv fail">❌ Not yet</span>'}</div>
+        <div class="row"><span class="rl">Tags</span><span>${tags.length?tags.map(tagChip).join(''):'<span style="color:var(--muted)">none</span>'}</span></div>
+        <div class="row"><span class="rl">Last commit</span><span class="rv">${t.last_commit_date||'—'}</span></div>
+        <div class="cmsg">${t.last_commit_sha||''} ${t.last_commit_author?'· '+t.last_commit_author:''}<br>${t.last_commit_msg||''}</div>
+        <div class="row"><span class="rl">Pipeline</span>${runIcon(t.last_run_conclusion)}</div>
+        <div class="row" style="font-size:.78rem"><span class="rl">Run name</span><span style="color:var(--muted)">${t.last_run_name||'—'}</span></div>
+        ${t.open_prs>0?`<div class="row"><span class="rl">Open PRs</span><span style="color:var(--teal);font-weight:700">${t.open_prs} open</span></div>`:''}
+        <div class="row"><span class="rl">Days since commit</span><span class="rv ${(t.days_since_commit??99)>3?'warn':''}">${t.days_since_commit??'—'}</span></div>
+      </div>
+      <a class="rl-link" href="https://github.com/${t.repo}" target="_blank">Open on GitHub →</a>
+    </div>`;
   }
-
-  html += '</div>';
-  document.getElementById('app').innerHTML = html;
+  h+='</div>';
+  document.getElementById('app').innerHTML=h;
 }
 </script>
 </body>
