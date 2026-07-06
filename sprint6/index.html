@@ -149,7 +149,7 @@
 
   <div class="callout success">
     <div class="callout-title success">Sprint 6 goal in one sentence</div>
-    <p>Run a complete Scrum cycle — planning through retrospective — with a pipeline that collects data, runs your agents, calls at least two AI models via API, and delivers a prediction file <strong>automatically, without manual intervention on Friday night.</strong></p>
+    <p>Run a complete Scrum cycle — planning through retrospective — with a pipeline that collects data, runs your agents, calls at least two AI models via API, and delivers a prediction file <strong>automatically, without manual intervention — automatically after the US market closes Friday.</strong></p>
   </div>
 </section>
 
@@ -192,7 +192,7 @@
     <div class="card">
       <div class="big">1</div>
       <strong>Pipeline ran automatically</strong><br>
-      <span style="font-size:.85rem;color:var(--muted)">GitHub Actions triggered on Friday night without manual intervention. The run log is the evidence. Show it on Monday 13 July.</span>
+      <span style="font-size:.85rem;color:var(--muted)">GitHub Actions triggered automatically after the US market closes Friday (Saturday morning SGT ~4am). The run log is the evidence. The run log is the evidence. Show it on Monday 13 July.</span>
     </div>
     <div class="card">
       <div class="big">2</div>
@@ -262,7 +262,7 @@
         <td>LLM response files in repo. delta_W25.md started.</td>
       </tr>
       <tr class="hl">
-        <td class="day">Fri night SGT</td>
+        <td class="day">Sat morning SGT<br><small>~4am (US Fri close)</small></td>
         <td>
           <span class="scrum-tag" style="background:rgba(201,168,76,.15);color:var(--gold)">AUTOMATED FETCH</span><br>
           GitHub Actions triggers at the scheduled time. Collects all instrument closes. No one touches a keyboard. <em>If the fetch fails, R9 is responsible for diagnosing it — this is a production system.</em>
@@ -370,7 +370,7 @@
     <div class="tl-item"><div class="tl-date">MON 6 JUL — SPRINT PLANNING</div><div class="tl-event">Pipeline Audit Day + Sprint 6 kickoff in class</div><div class="tl-detail">Sprint goal written. Roles confirmed. DoD committed. DECISION.md updated today.</div></div>
     <div class="tl-item"><div class="tl-date">MON–WED 6–8 JUL — EXECUTION</div><div class="tl-event">Agent work + API wiring</div><div class="tl-detail">R3, R4, R5 outputs committed independently. R8 wires LLM API calls. R6 confirms Friday fetch.</div></div>
     <div class="tl-item"><div class="tl-date">THU 10 JUL — SYNTHESIS</div><div class="tl-event">LLM API calls run · delta_W25 starts</div><div class="tl-detail">R8 calls APIs, saves responses, builds comparison table. R10 begins delta scoring.</div></div>
-    <div class="tl-item deadline"><div class="tl-date">FRI NIGHT 11 JUL — AUTOMATED FETCH</div><div class="tl-event">⚡ Pipeline runs without you</div><div class="tl-detail">GitHub Actions cron collects Friday closes for all instruments. Auto-committed by github-actions[bot].</div></div>
+    <div class="tl-item deadline"><div class="tl-date">SAT MORNING 12 JUL ~4AM SGT — AUTOMATED FETCH</div><div class="tl-event">⚡ Pipeline runs without you</div><div class="tl-detail">GitHub Actions cron fires after Friday US market close. Collects closes for all instruments. Auto-committed by github-actions[bot].</div></div>
     <div class="tl-item"><div class="tl-date">SAT 12 JUL — HUMAN REVIEW</div><div class="tl-event">Wild Card · branch merge</div><div class="tl-detail">R7 applies Human Score. R9 merges all branches. R2 confirms every role is done.</div></div>
     <div class="tl-item deadline"><div class="tl-date">SUN 12 JUL · 23:59 SGT — SPRINT SEALED</div><div class="tl-event">🏁 vW28 cut · Sprint done</div><div class="tl-detail">delta_W25.md + accuracy table committed. vW28 tag cut. Discord template posted.</div></div>
     <div class="tl-item"><div class="tl-date">MON 13 JUL — SPRINT REVIEW &amp; RETROSPECTIVE</div><div class="tl-event">Presentation in class</div><div class="tl-detail">Prac A: 10:00 AM – 12:00 PM · Prac B: 1:00 PM – 3:00 PM. Show pipeline live or GitHub Actions log.</div></div>
@@ -418,7 +418,7 @@ Human Score Wild Card applied: Y/N
 Wild Card reasoning (must be sourced and specific):
 
 ━━━ PIPELINE ━━━
-Friday automated fetch ran without manual trigger: Y/N
+Automated fetch ran after Friday US market close (Sat morning SGT): Y/N
 GitHub Actions run URL (the successful Friday run):
 All branches merged before tag: Y/N
 
