@@ -89,7 +89,7 @@
 <body>
 
 <header>
-  <p class="eyebrow">CP3405 Design Thinking 3 · TR2 2026 · Course Week 7</p>
+  <p class="eyebrow">CP3405 Design Thinking 3 · TR2 2026 · Course Week 6</p>
   <h1>Sprint 6 <span>— Automation &amp; Accuracy Sprint</span></h1>
   <div class="header-meta">
     <span class="badge badge-gold">vW28 · Due Sun 12 July 2026 · 23:59 SGT</span>
@@ -110,7 +110,7 @@
 <main>
 
 <div class="countdown-strip">
-  <div class="cd-item"><span class="label">Sprint</span><span class="value">6 · W7</span></div>
+  <div class="cd-item"><span class="label">Sprint</span><span class="value">6 · W6</span></div>
   <div class="cd-item"><span class="label">Tag Required</span><span class="value">vW28</span></div>
   <div class="cd-item"><span class="label">Deadline</span><span class="value">Sun 12 Jul · 23:59 SGT</span></div>
   <div class="cd-item"><span class="label">Presentation</span><span class="value teal">Mon 13 Jul</span></div>
@@ -170,7 +170,7 @@
 
   <div class="callout">
     <div class="callout-title gold">Definition of Done — Write it down</div>
-    <p>A strong DoD makes "done" unambiguous. Weak DoD: "pipeline seems to work." Strong DoD: automated fetch ran and committed data · all agent outputs committed before LLM synthesis · two LLM API calls logged as files · <code>delta_W25.md</code> committed · <code>vW28</code> tag cut before Sunday midnight. <em>Scrum principle: user stories — or in your case, pipeline tasks — are never "mostly done." They are done or they are not.</em></p>
+    <p>A strong DoD makes "done" unambiguous. Weak DoD: "pipeline seems to work." Strong DoD: automated fetch ran and committed data · all agent outputs committed before LLM synthesis · two LLM API calls logged as files · calibration framework ready · <code>vW28</code> tag cut before Sunday midnight. <em>Scrum principle: user stories — or in your case, pipeline tasks — are never "mostly done." They are done or they are not.</em></p>
   </div>
 
   <div class="callout">
@@ -223,8 +223,8 @@
   </div>
 
   <div class="callout teal">
-    <div class="callout-title teal">3 · delta_W25.md + cumulative accuracy W3–W7</div>
-    <p>R10 scores the vW25 prediction against Friday 4 July actuals and builds a cumulative accuracy table across Weeks 3 to 7. In Scrum terms, this is your <strong>retrospective data</strong> — did the system's output match reality, and is it improving? The actuals are at the bottom of this page.</p>
+    <div class="callout-title teal">3 · Calibration — score vW28 against Friday 11 July actuals</div>
+    <p>R10 scores the vW28 prediction against Friday 11 July actuals after the automated fetch runs Saturday morning SGT. This is your <strong>retrospective data</strong> — did the system's output match reality, and is it improving sprint over sprint? Cumulative accuracy table W3–W6 builds the longer-term picture.</p>
   </div>
 </section>
 
@@ -259,7 +259,7 @@
           <span class="scrum-tag">AI SYNTHESIS</span><br>
           R8 runs API calls to at least 2 LLMs. Responses saved as files. Comparison table built from those files. R10 begins scoring vW25 against actuals.
         </td>
-        <td>LLM response files in repo. delta_W25.md started.</td>
+        <td>LLM response files in repo. Calibration framework committed.</td>
       </tr>
       <tr class="hl">
         <td class="day">Sat morning SGT<br><small>~4am (US Fri close)</small></td>
@@ -281,7 +281,7 @@
         <td class="day">Sun · 23:59 SGT</td>
         <td>
           <span class="scrum-tag" style="background:rgba(201,168,76,.15);color:var(--gold)">SPRINT SEALED</span><br>
-          R10 commits final delta_W25.md and cumulative accuracy table. R9 cuts <code>vW28</code> tag. Discord submission posted. Sprint is done. <em>A sprint that is "mostly done" is not done.</em>
+          R10 commits calibration notes from prior sprints if applicable. R9 cuts <code>vW28</code> tag. Discord submission posted. Sprint is done. <em>A sprint that is "mostly done" is not done.</em>
         </td>
         <td>vW28 tag on GitHub. Discord post complete.</td>
       </tr>
@@ -324,7 +324,7 @@
       <div class="role-id">R5 · Technical Agent</div>
       <div class="role-real">→ Data Analyst</div>
       <div class="role-name">Signal Analysis</div>
-      <div class="role-focus">Technical read from Fri 4 Jul close. Key levels, trend direction. Commit before Thursday.</div>
+      <div class="role-focus">Technical read from Friday 4 July close (the last US market close before sprint opens). Key levels, trend direction. Commit before Thursday.</div>
     </div>
     <div class="role-card">
       <div class="role-id">R6 · Data Collector</div>
@@ -357,7 +357,7 @@
       <div class="role-id">R10 · Calibration</div>
       <div class="role-real">→ Product Analyst</div>
       <div class="role-name">Accuracy Tracking</div>
-      <div class="role-focus">Score vW25 against actuals. Build cumulative W3–W7 accuracy table. Is the system improving? This is your retrospective data.</div>
+      <div class="role-focus">Score the vW28 prediction against Friday 11 July actuals after the sprint closes. Build cumulative accuracy table W3–W7. Is the system improving sprint over sprint?</div>
       <div><span class="scrum-principle">Retrospective data drives improvement</span></div>
     </div>
   </div>
@@ -369,27 +369,25 @@
   <div class="timeline">
     <div class="tl-item"><div class="tl-date">MON 6 JUL — SPRINT PLANNING</div><div class="tl-event">Pipeline Audit Day + Sprint 6 kickoff in class</div><div class="tl-detail">Sprint goal written. Roles confirmed. DoD committed. DECISION.md updated today.</div></div>
     <div class="tl-item"><div class="tl-date">MON–WED 6–8 JUL — EXECUTION</div><div class="tl-event">Agent work + API wiring</div><div class="tl-detail">R3, R4, R5 outputs committed independently. R8 wires LLM API calls. R6 confirms Friday fetch.</div></div>
-    <div class="tl-item"><div class="tl-date">THU 10 JUL — SYNTHESIS</div><div class="tl-event">LLM API calls run · delta_W25 starts</div><div class="tl-detail">R8 calls APIs, saves responses, builds comparison table. R10 begins delta scoring.</div></div>
+    <div class="tl-item"><div class="tl-date">THU 10 JUL — SYNTHESIS</div><div class="tl-event">LLM API calls run · calibration prep</div><div class="tl-detail">R8 calls APIs, saves responses, builds comparison table. R10 prepares calibration framework.</div></div>
     <div class="tl-item deadline"><div class="tl-date">SAT MORNING 12 JUL ~4AM SGT — AUTOMATED FETCH</div><div class="tl-event">⚡ Pipeline runs without you</div><div class="tl-detail">GitHub Actions cron fires after Friday US market close. Collects closes for all instruments. Auto-committed by github-actions[bot].</div></div>
     <div class="tl-item"><div class="tl-date">SAT 12 JUL — HUMAN REVIEW</div><div class="tl-event">Wild Card · branch merge</div><div class="tl-detail">R7 applies Human Score. R9 merges all branches. R2 confirms every role is done.</div></div>
-    <div class="tl-item deadline"><div class="tl-date">SUN 12 JUL · 23:59 SGT — SPRINT SEALED</div><div class="tl-event">🏁 vW28 cut · Sprint done</div><div class="tl-detail">delta_W25.md + accuracy table committed. vW28 tag cut. Discord template posted.</div></div>
+    <div class="tl-item deadline"><div class="tl-date">SUN 12 JUL · 23:59 SGT — SPRINT SEALED</div><div class="tl-event">🏁 vW28 cut · Sprint done</div><div class="tl-detail">vW28 tag cut. Discord template posted. Delta scoring happens after Friday 11 Jul actuals collected.</div></div>
     <div class="tl-item"><div class="tl-date">MON 13 JUL — SPRINT REVIEW &amp; RETROSPECTIVE</div><div class="tl-event">Presentation in class</div><div class="tl-detail">Prac A: 10:00 AM – 12:00 PM · Prac B: 1:00 PM – 3:00 PM. Show pipeline live or GitHub Actions log.</div></div>
   </div>
 </section>
 
 <!-- ACTUALS -->
 <section id="actuals">
-  <div class="section-title">Actuals for delta_W25.md — R10 Use These</div>
-  <p>Friday 4 July 2026 closes. Score your vW25 prediction against these.</p>
+  <div class="section-title">Actuals — R10 Reference</div>
+  <p>Friday 11 July 2026 closes — auto-fetched by R6/R9 during the sprint. R10 uses these to score the vW28 prediction after Monday 13 July presentation.</p>
   <table class="del-table">
-    <thead><tr><th>Instrument</th><th>Fri 4 Jul Close</th><th>Week Direction</th><th>Change</th></tr></thead>
+    <thead><tr><th>Instrument</th><th>Fri 11 Jul Close (auto-fetched)</th><th>Week Direction</th><th>Change</th></tr></thead>
     <tbody>
-      <tr><td><strong>SPX</strong></td><td>7,483.24</td><td>↑ Up</td><td>+1.7%</td></tr>
-      <tr><td><strong>NDX</strong></td><td>29,329.21</td><td>↓ Slight down</td><td>−0.4%</td></tr>
-      <tr><td><strong>IWM</strong></td><td>297.58</td><td>↓ Slight down</td><td>−0.4%</td></tr>
-      <tr><td>GOLD</td><td>4,187.30</td><td>↑ Strong</td><td>+2.7%</td></tr>
-      <tr><td>VIX</td><td>15.81</td><td>↓ Risk-on</td><td>−14.1%</td></tr>
-      <tr><td>WTI Oil</td><td>68.78</td><td>↓ Slight down</td><td>−0.7%</td></tr>
+      <tr><td><strong>SPX</strong></td><td>Available after Sat 12 Jul ~4am SGT</td><td>—</td><td>—</td></tr>
+      <tr><td><strong>NDX</strong></td><td>Auto-fetched by R6/R9</td><td>—</td><td>—</td></tr>
+      <tr><td><strong>IWM</strong></td><td>Auto-fetched by R6/R9</td><td>—</td><td>—</td></tr>
+      <tr><td>All 11 sectors</td><td>Auto-fetched by R6/R9</td><td>—</td><td>—</td></tr>
     </tbody>
   </table>
 </section>
@@ -432,10 +430,8 @@ Responses saved as files in repo: Y/N
 Comparison table committed: Y/N
 
 ━━━ CALIBRATION (R10) ━━━
-delta_W25.md committed: Y/N
-vW25 SPX direction correct: Y/N · error %:
-vW25 NDX direction correct: Y/N · error %:
-vW25 IWM direction correct: Y/N · error %:
+delta_W28.md committed after actuals available (post Mon 13 Jul): Y/N
+Calibration framework ready: Y/N
 Cumulative accuracy table W3–W7 committed: Y/N
 
 ━━━ SCRUM HEALTH ━━━
