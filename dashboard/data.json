@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-10 19:01 UTC",
+  "updated": "2026-07-10 20:50 UTC",
   "sprint_tag": "vW28",
   "teams": [
     {
@@ -18,15 +18,15 @@
       ],
       "sprint_tag_present": false,
       "last_run_name": "Weekly Pipeline",
-      "last_run_conclusion": "in_progress",
+      "last_run_conclusion": "success",
       "last_run_date": "2026-07-10 18:59",
       "open_prs": 5,
       "pr_titles": [
+        "chore: pipeline artifacts 2026-07-10",
         "chore: pipeline artifacts 2026-07-06",
         "feature/macro-agent",
         "chore: pipeline artifacts 2026-06-26",
-        "Evidence Images",
-        "Add Week 5 delta engine draft"
+        "Evidence Images"
       ],
       "days_since_commit": 0
     },
