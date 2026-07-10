@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-10 09:37 UTC",
+  "updated": "2026-07-10 12:26 UTC",
   "sprint_tag": "vW28",
   "teams": [
     {
@@ -103,9 +103,9 @@
       "name": "Team 5",
       "repo": "Gong-yinxuan/CP3405",
       "prac": "B",
-      "last_commit_sha": "6e5dbec",
+      "last_commit_sha": "ddc7990",
       "last_commit_msg": "chore: update Prism data 2026-07-10",
-      "last_commit_date": "2026-07-10 09:03",
+      "last_commit_date": "2026-07-10 12:09",
       "last_commit_author": "github-actions[bot]",
       "tags": [
         "vW25",
@@ -115,7 +115,7 @@
       "sprint_tag_present": false,
       "last_run_name": "Update Market Data",
       "last_run_conclusion": "success",
-      "last_run_date": "2026-07-10 09:02",
+      "last_run_date": "2026-07-10 12:09",
       "open_prs": 0,
       "pr_titles": [],
       "days_since_commit": 0
