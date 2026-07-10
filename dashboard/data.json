@@ -1,0 +1,124 @@
+{
+  "updated": "2026-07-10 01:09 UTC",
+  "sprint_tag": "vW28",
+  "teams": [
+    {
+      "name": "Team 1",
+      "repo": "sinder38/Team-1-Prac-A-Project",
+      "prac": "A",
+      "last_commit_sha": "2577560",
+      "last_commit_msg": "Add crazy mermaid diogram",
+      "last_commit_date": "2026-06-21 16:20",
+      "last_commit_author": "sinder",
+      "tags": [
+        "vW25",
+        "vW24",
+        "vW23",
+        "vW22"
+      ],
+      "sprint_tag_present": false,
+      "last_run_name": "python-checks",
+      "last_run_conclusion": "success",
+      "last_run_date": "2026-07-06 03:20",
+      "open_prs": 5,
+      "pr_titles": [
+        "fix: prevent LLM stage from crashing the weekly pi",
+        "chore: pipeline artifacts 2026-07-06",
+        "feature/macro-agent",
+        "chore: pipeline artifacts 2026-06-26",
+        "Evidence Images"
+      ],
+      "days_since_commit": 18
+    },
+    {
+      "name": "Team 2",
+      "repo": "LuJunwen212/CP3405-Project",
+      "prac": "A",
+      "last_commit_sha": "c13663e",
+      "last_commit_msg": "chore(data): automated market ledger alignment [skip ci]",
+      "last_commit_date": "2026-07-05 18:14",
+      "last_commit_author": "Team2 Data Automatio",
+      "tags": [
+        "vW25",
+        "vW24",
+        "vW23",
+        "vW22"
+      ],
+      "sprint_tag_present": false,
+      "last_run_name": "Automated Technical Agent",
+      "last_run_conclusion": "success",
+      "last_run_date": "2026-07-05 18:14",
+      "open_prs": 0,
+      "pr_titles": [],
+      "days_since_commit": 4
+    },
+    {
+      "name": "Team 3",
+      "repo": "juninho4/Team-3-Practical-A-CP3405",
+      "prac": "A",
+      "last_commit_sha": "2452d3b",
+      "last_commit_msg": "Create standup_w26.md",
+      "last_commit_date": "2026-07-09 14:29",
+      "last_commit_author": "Jiale Zhang",
+      "tags": [
+        "vW25",
+        "vW24",
+        "vW23",
+        "vW22",
+        "W25"
+      ],
+      "sprint_tag_present": false,
+      "last_run_name": "Fetch Friday Market Closes",
+      "last_run_conclusion": "success",
+      "last_run_date": "2026-07-03 15:47",
+      "open_prs": 0,
+      "pr_titles": [],
+      "days_since_commit": 0
+    },
+    {
+      "name": "Team 4",
+      "repo": "wintwah-lwin/CP3405_Group_4",
+      "prac": "B",
+      "last_commit_sha": "a76feab",
+      "last_commit_msg": "Update macro-update workflow with push trigger",
+      "last_commit_date": "2026-07-06 04:52",
+      "last_commit_author": "Arisa",
+      "tags": [
+        "v1.0.0",
+        "W25",
+        "W24",
+        "W23"
+      ],
+      "sprint_tag_present": false,
+      "last_run_name": "Run Macro Agent Remote",
+      "last_run_conclusion": "failure",
+      "last_run_date": "2026-07-06 06:06",
+      "open_prs": 1,
+      "pr_titles": [
+        "Macro update"
+      ],
+      "days_since_commit": 3
+    },
+    {
+      "name": "Team 5",
+      "repo": "Gong-yinxuan/CP3405",
+      "prac": "B",
+      "last_commit_sha": "1d97aa1",
+      "last_commit_msg": "Squashed commit of the following:",
+      "last_commit_date": "2026-07-09 13:58",
+      "last_commit_author": "HYH-design-bot",
+      "tags": [
+        "vW25",
+        "vW24",
+        "W23"
+      ],
+      "sprint_tag_present": false,
+      "last_run_name": "Update Market Data",
+      "last_run_conclusion": "success",
+      "last_run_date": "2026-07-09 13:52",
+      "open_prs": 0,
+      "pr_titles": [],
+      "days_since_commit": 0
+    }
+  ]
+}
