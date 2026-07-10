@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-10 15:13 UTC",
+  "updated": "2026-07-10 17:18 UTC",
   "sprint_tag": "vW28",
   "teams": [
     {
@@ -17,9 +17,9 @@
         "vW22"
       ],
       "sprint_tag_present": false,
-      "last_run_name": "python-checks",
-      "last_run_conclusion": "success",
-      "last_run_date": "2026-07-06 03:20",
+      "last_run_name": "Weekly Pipeline",
+      "last_run_conclusion": "failure",
+      "last_run_date": "2026-07-10 16:23",
       "open_prs": 5,
       "pr_titles": [
         "fix: prevent LLM stage from crashing the weekly pi",
@@ -28,7 +28,7 @@
         "chore: pipeline artifacts 2026-06-26",
         "Evidence Images"
       ],
-      "days_since_commit": 18
+      "days_since_commit": 19
     },
     {
       "name": "Team 2",
@@ -56,10 +56,10 @@
       "name": "Team 3",
       "repo": "juninho4/Team-3-Practical-A-CP3405",
       "prac": "A",
-      "last_commit_sha": "2452d3b",
-      "last_commit_msg": "Create standup_w26.md",
-      "last_commit_date": "2026-07-09 14:29",
-      "last_commit_author": "Jiale Zhang",
+      "last_commit_sha": "6a8a61e",
+      "last_commit_msg": "Add Friday market close data",
+      "last_commit_date": "2026-07-10 16:14",
+      "last_commit_author": "github-actions",
       "tags": [
         "vW25",
         "vW24",
@@ -70,10 +70,10 @@
       "sprint_tag_present": false,
       "last_run_name": "Fetch Friday Market Closes",
       "last_run_conclusion": "success",
-      "last_run_date": "2026-07-03 15:47",
+      "last_run_date": "2026-07-10 16:13",
       "open_prs": 0,
       "pr_titles": [],
-      "days_since_commit": 1
+      "days_since_commit": 0
     },
     {
       "name": "Team 4",
