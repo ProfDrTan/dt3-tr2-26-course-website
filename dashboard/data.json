@@ -1,15 +1,15 @@
 {
-  "updated": "2026-07-10 17:18 UTC",
+  "updated": "2026-07-10 19:01 UTC",
   "sprint_tag": "vW28",
   "teams": [
     {
       "name": "Team 1",
       "repo": "sinder38/Team-1-Prac-A-Project",
       "prac": "A",
-      "last_commit_sha": "2577560",
-      "last_commit_msg": "Add crazy mermaid diogram",
-      "last_commit_date": "2026-06-21 16:20",
-      "last_commit_author": "sinder",
+      "last_commit_sha": "5e69e38",
+      "last_commit_msg": "fix: weekly pipeline (#71)",
+      "last_commit_date": "2026-07-10 18:55",
+      "last_commit_author": "Oakkar Phyoe",
       "tags": [
         "vW25",
         "vW24",
@@ -18,17 +18,17 @@
       ],
       "sprint_tag_present": false,
       "last_run_name": "Weekly Pipeline",
-      "last_run_conclusion": "failure",
-      "last_run_date": "2026-07-10 16:23",
+      "last_run_conclusion": "in_progress",
+      "last_run_date": "2026-07-10 18:59",
       "open_prs": 5,
       "pr_titles": [
-        "fix: prevent LLM stage from crashing the weekly pi",
         "chore: pipeline artifacts 2026-07-06",
         "feature/macro-agent",
         "chore: pipeline artifacts 2026-06-26",
-        "Evidence Images"
+        "Evidence Images",
+        "Add Week 5 delta engine draft"
       ],
-      "days_since_commit": 19
+      "days_since_commit": 0
     },
     {
       "name": "Team 2",
@@ -50,7 +50,7 @@
       "last_run_date": "2026-07-05 18:14",
       "open_prs": 0,
       "pr_titles": [],
-      "days_since_commit": 4
+      "days_since_commit": 5
     },
     {
       "name": "Team 3",
@@ -79,9 +79,9 @@
       "name": "Team 4",
       "repo": "wintwah-lwin/CP3405_Group_4",
       "prac": "B",
-      "last_commit_sha": "a76feab",
-      "last_commit_msg": "Update macro-update workflow with push trigger",
-      "last_commit_date": "2026-07-06 04:52",
+      "last_commit_sha": "249a559",
+      "last_commit_msg": "Add sprint goal and definition of done to DECISION.md",
+      "last_commit_date": "2026-07-10 17:42",
       "last_commit_author": "Arisa",
       "tags": [
         "v1.0.0",
@@ -97,7 +97,7 @@
       "pr_titles": [
         "Macro update"
       ],
-      "days_since_commit": 4
+      "days_since_commit": 0
     },
     {
       "name": "Team 5",
