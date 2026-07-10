@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-10 22:04 UTC",
+  "updated": "2026-07-10 23:29 UTC",
   "sprint_tag": "vW28",
   "teams": [
     {
@@ -34,9 +34,9 @@
       "name": "Team 2",
       "repo": "LuJunwen212/CP3405-Project",
       "prac": "A",
-      "last_commit_sha": "c13663e",
+      "last_commit_sha": "7e21d1e",
       "last_commit_msg": "chore(data): automated market ledger alignment [skip ci]",
-      "last_commit_date": "2026-07-05 18:14",
+      "last_commit_date": "2026-07-10 23:12",
       "last_commit_author": "Team2 Data Automatio",
       "tags": [
         "vW25",
@@ -45,12 +45,12 @@
         "vW22"
       ],
       "sprint_tag_present": false,
-      "last_run_name": "Automated Technical Agent",
+      "last_run_name": "R10 Calibration Automation",
       "last_run_conclusion": "success",
-      "last_run_date": "2026-07-05 18:14",
+      "last_run_date": "2026-07-10 23:13",
       "open_prs": 0,
       "pr_titles": [],
-      "days_since_commit": 5
+      "days_since_commit": 0
     },
     {
       "name": "Team 3",
@@ -103,10 +103,10 @@
       "name": "Team 5",
       "repo": "Gong-yinxuan/CP3405",
       "prac": "B",
-      "last_commit_sha": "1ec6d80",
-      "last_commit_msg": "remove error  file",
-      "last_commit_date": "2026-07-10 21:57",
-      "last_commit_author": "ToHoangGia",
+      "last_commit_sha": "01d8704",
+      "last_commit_msg": "chore: update Prism data 2026-07-10",
+      "last_commit_date": "2026-07-10 22:56",
+      "last_commit_author": "github-actions[bot]",
       "tags": [
         "vW25",
         "vW24",
@@ -115,7 +115,7 @@
       "sprint_tag_present": false,
       "last_run_name": "Update Market Data",
       "last_run_conclusion": "success",
-      "last_run_date": "2026-07-10 12:09",
+      "last_run_date": "2026-07-10 22:55",
       "open_prs": 0,
       "pr_titles": [],
       "days_since_commit": 0
