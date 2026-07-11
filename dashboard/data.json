@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-11 04:06 UTC",
+  "updated": "2026-07-11 06:23 UTC",
   "sprint_tag": "vW28",
   "teams": [
     {
@@ -190,10 +190,10 @@
         "vW22"
       ],
       "sprint_tag_present": false,
-      "last_run_name": "R10 Calibration Automation",
+      "last_run_name": "R3 Almanac Agent Multi-Week Automation P",
       "last_run_conclusion": "success",
-      "last_run_date": "2026-07-10 23:13",
-      "last_run_url": "https://github.com/LuJunwen212/CP3405-Project/actions/runs/29129785307",
+      "last_run_date": "2026-07-11 06:00",
+      "last_run_url": "https://github.com/LuJunwen212/CP3405-Project/actions/runs/29142123250",
       "open_prs": 0,
       "pr_titles": [],
       "pr_links": [],
@@ -203,7 +203,7 @@
           "name": "Guanyu Lu",
           "login": "Guanyu-Lu",
           "kind": "human",
-          "commits": 18,
+          "commits": 15,
           "latest_date": "2026-06-21 02:55",
           "latest_msg": "Refine section headings and formatting in macro_agent_2026-W25.md",
           "latest_sha": "c9c7c0c",
@@ -213,21 +213,11 @@
           "name": "The Bao Le",
           "login": "The-Bao-Le",
           "kind": "human",
-          "commits": 16,
+          "commits": 9,
           "latest_date": "2026-06-25 02:26",
           "latest_msg": "Delete week24.md",
           "latest_sha": "7022e85",
           "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/7022e85eb43f02e4b685151bedbde8d0a9103e22"
-        },
-        {
-          "name": "Team2 Data Automation Bot",
-          "login": "",
-          "kind": "bot",
-          "commits": 12,
-          "latest_date": "2026-07-10 23:12",
-          "latest_msg": "chore(data): automated market ledger alignment [skip ci]",
-          "latest_sha": "7e21d1e",
-          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/7e21d1ea43ad71483742dc6d6567ae7eb059092e"
         },
         {
           "name": "Hamzah \"Opal\" Nutt",
@@ -238,6 +228,16 @@
           "latest_msg": "Merge pull request #15 from LuJunwen212/Week-05",
           "latest_sha": "fed76fa",
           "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/fed76fadc9c4ee35740339a3f01b650e94533bac"
+        },
+        {
+          "name": "Team2 Data Automation Bot",
+          "login": "",
+          "kind": "bot",
+          "commits": 6,
+          "latest_date": "2026-07-10 23:12",
+          "latest_msg": "chore(data): automated market ledger alignment [skip ci]",
+          "latest_sha": "7e21d1e",
+          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/7e21d1ea43ad71483742dc6d6567ae7eb059092e"
         },
         {
           "name": "Team2 Calibration Bot",
@@ -297,11 +297,11 @@
       "repo": "juninho4/Team-3-Practical-A-CP3405",
       "prac": "A",
       "is_ultra": false,
-      "last_commit_sha": "6a8a61e",
-      "last_commit_msg": "Add Friday market close data",
-      "last_commit_date": "2026-07-10 16:14",
-      "last_commit_author": "github-actions",
-      "last_commit_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/6a8a61ea53b4c4213d171a7d020627af1bf4d069",
+      "last_commit_sha": "7ce0aa3",
+      "last_commit_msg": "Add files via upload",
+      "last_commit_date": "2026-07-11 04:14",
+      "last_commit_author": "ZhangJiayu0201",
+      "last_commit_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/7ce0aa3955aedf759a949a5b83ffd6b360cd2934",
       "tags": [
         "vW25",
         "vW24",
@@ -319,16 +319,6 @@
       "pr_links": [],
       "days_since_commit": 0,
       "contributors": [
-        {
-          "name": "ZhangJiayu0201",
-          "login": "ZhangJiayu0201",
-          "kind": "human",
-          "commits": 10,
-          "latest_date": "2026-06-22 02:09",
-          "latest_msg": "Create actuals_2026-W25.md",
-          "latest_sha": "4a55aa1",
-          "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/4a55aa158dd61f65073aa5f6d01311d39d7e9d1c"
-        },
         {
           "name": "Jiale Zhang",
           "login": "ZHANGJIALELLLLL",
@@ -350,14 +340,14 @@
           "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/0f4773cad177c93d9f6a5826b62bbd766cb35b80"
         },
         {
-          "name": "github-actions",
-          "login": "invalid-email-address",
-          "kind": "bot",
-          "commits": 4,
-          "latest_date": "2026-07-10 16:14",
-          "latest_msg": "Add Friday market close data",
-          "latest_sha": "6a8a61e",
-          "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/6a8a61ea53b4c4213d171a7d020627af1bf4d069"
+          "name": "ZhangJiayu0201",
+          "login": "ZhangJiayu0201",
+          "kind": "human",
+          "commits": 6,
+          "latest_date": "2026-07-11 04:14",
+          "latest_msg": "Add files via upload",
+          "latest_sha": "7ce0aa3",
+          "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/7ce0aa3955aedf759a949a5b83ffd6b360cd2934"
         },
         {
           "name": "Li-Haoyao",
@@ -378,6 +368,16 @@
           "latest_msg": "Rename vW25/evidence/R3 Almanac System.ipynb to vW25/agents/almanac/R3",
           "latest_sha": "7335aa4",
           "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/7335aa40eeca6d78b31fe430a3592e0fbc86b11f"
+        },
+        {
+          "name": "github-actions",
+          "login": "invalid-email-address",
+          "kind": "bot",
+          "commits": 3,
+          "latest_date": "2026-07-10 16:14",
+          "latest_msg": "Add Friday market close data",
+          "latest_sha": "6a8a61e",
+          "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/6a8a61ea53b4c4213d171a7d020627af1bf4d069"
         },
         {
           "name": "Juninho",
@@ -417,11 +417,11 @@
       "repo": "wintwah-lwin/CP3405_Group_4",
       "prac": "B",
       "is_ultra": false,
-      "last_commit_sha": "249a559",
-      "last_commit_msg": "Add sprint goal and definition of done to DECISION.md",
-      "last_commit_date": "2026-07-10 17:42",
-      "last_commit_author": "Arisa",
-      "last_commit_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/249a5597ef276fb4642c0265ff73049446d96837",
+      "last_commit_sha": "ddc8322",
+      "last_commit_msg": "chore(macro): live fetch W28 \u2014 Finviz + Yahoo (2026-07-11 04",
+      "last_commit_date": "2026-07-11 04:08",
+      "last_commit_author": "github-actions[bot]",
+      "last_commit_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/ddc83225c540c6354fe7fc24e238ac7cdc33bf13",
       "tags": [
         "v1.0.0",
         "W25",
@@ -430,9 +430,9 @@
       ],
       "sprint_tag_present": false,
       "last_run_name": "Run Macro Agent Remote",
-      "last_run_conclusion": "failure",
-      "last_run_date": "2026-07-06 06:06",
-      "last_run_url": "https://github.com/wintwah-lwin/CP3405_Group_4/actions/runs/28771364398",
+      "last_run_conclusion": "success",
+      "last_run_date": "2026-07-11 04:10",
+      "last_run_url": "https://github.com/wintwah-lwin/CP3405_Group_4/actions/runs/29139190084",
       "open_prs": 1,
       "pr_titles": [
         "Macro update"
@@ -471,11 +471,11 @@
           "name": "github-actions[bot]",
           "login": "github-actions[bot]",
           "kind": "bot",
-          "commits": 3,
-          "latest_date": "2026-07-06 01:57",
-          "latest_msg": "chore(macro): live fetch W26 \u2014 Finviz + Yahoo (2026-07-06 01:57 SGT)",
-          "latest_sha": "ca9be46",
-          "latest_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/ca9be4664cd034365fe6b0bb4b76037c1618dde2"
+          "commits": 4,
+          "latest_date": "2026-07-11 04:08",
+          "latest_msg": "chore(macro): live fetch W28 \u2014 Finviz + Yahoo (2026-07-11 04:08 SGT)",
+          "latest_sha": "ddc8322",
+          "latest_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/ddc83225c540c6354fe7fc24e238ac7cdc33bf13"
         },
         {
           "name": "Arisa",
