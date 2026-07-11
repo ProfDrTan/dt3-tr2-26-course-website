@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-11 19:46 UTC",
+  "updated": "2026-07-11 21:01 UTC",
   "sprint_tag": "vW28",
   "teams": [
     {
@@ -417,11 +417,11 @@
       "repo": "wintwah-lwin/CP3405_Group_4",
       "prac": "B",
       "is_ultra": false,
-      "last_commit_sha": "9ae14dd",
-      "last_commit_msg": "Delete evidence/Week 28 directory",
-      "last_commit_date": "2026-07-11 18:40",
-      "last_commit_author": "Arisa",
-      "last_commit_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/9ae14ddb145c4af1c6de2c1ac9a88498efa6e61d",
+      "last_commit_sha": "c607e12",
+      "last_commit_msg": "Auto-commit: Pipeline execution (Week 7)",
+      "last_commit_date": "2026-07-11 20:39",
+      "last_commit_author": "github-actions[bot]",
+      "last_commit_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/c607e120b106b2edcee5a0fdba3d283aa71cc119",
       "tags": [
         "v1.0.0",
         "W25",
@@ -431,8 +431,8 @@
       "sprint_tag_present": false,
       "last_run_name": "Auto Prediction",
       "last_run_conclusion": "success",
-      "last_run_date": "2026-07-11 18:35",
-      "last_run_url": "https://github.com/wintwah-lwin/CP3405_Group_4/actions/runs/29163744672",
+      "last_run_date": "2026-07-11 20:38",
+      "last_run_url": "https://github.com/wintwah-lwin/CP3405_Group_4/actions/runs/29167398965",
       "open_prs": 1,
       "pr_titles": [
         "Macro update"
@@ -471,11 +471,11 @@
           "name": "github-actions[bot]",
           "login": "github-actions[bot]",
           "kind": "bot",
-          "commits": 7,
-          "latest_date": "2026-07-11 18:37",
+          "commits": 8,
+          "latest_date": "2026-07-11 20:39",
           "latest_msg": "Auto-commit: Pipeline execution (Week 7)",
-          "latest_sha": "4dbba13",
-          "latest_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/4dbba1359ac5bb4194313241d2fe3ad52217d829"
+          "latest_sha": "c607e12",
+          "latest_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/c607e120b106b2edcee5a0fdba3d283aa71cc119"
         },
         {
           "name": "AmiePhyo",
