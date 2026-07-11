@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-11 16:29 UTC",
+  "updated": "2026-07-11 17:33 UTC",
   "sprint_tag": "vW28",
   "teams": [
     {
@@ -417,11 +417,11 @@
       "repo": "wintwah-lwin/CP3405_Group_4",
       "prac": "B",
       "is_ultra": false,
-      "last_commit_sha": "ddc8322",
-      "last_commit_msg": "chore(macro): live fetch W28 \u2014 Finviz + Yahoo (2026-07-11 04",
-      "last_commit_date": "2026-07-11 04:08",
-      "last_commit_author": "github-actions[bot]",
-      "last_commit_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/ddc83225c540c6354fe7fc24e238ac7cdc33bf13",
+      "last_commit_sha": "cc51006",
+      "last_commit_msg": "Update auto-prediction",
+      "last_commit_date": "2026-07-11 17:26",
+      "last_commit_author": "Arisa",
+      "last_commit_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/cc51006bbc38107a5ccb255bfe152f928c163a00",
       "tags": [
         "v1.0.0",
         "W25",
@@ -429,10 +429,10 @@
         "W23"
       ],
       "sprint_tag_present": false,
-      "last_run_name": "Run Macro Agent Remote",
-      "last_run_conclusion": "success",
-      "last_run_date": "2026-07-11 04:10",
-      "last_run_url": "https://github.com/wintwah-lwin/CP3405_Group_4/actions/runs/29139190084",
+      "last_run_name": "Auto Prediction",
+      "last_run_conclusion": "failure",
+      "last_run_date": "2026-07-11 17:27",
+      "last_run_url": "https://github.com/wintwah-lwin/CP3405_Group_4/actions/runs/29161634630",
       "open_prs": 1,
       "pr_titles": [
         "Macro update"
@@ -451,11 +451,21 @@
           "name": "Arisa",
           "login": "wintwah-lwin",
           "kind": "human",
-          "commits": 15,
-          "latest_date": "2026-07-10 17:42",
-          "latest_msg": "Add sprint goal and definition of done to DECISION.md",
-          "latest_sha": "249a559",
-          "latest_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/249a5597ef276fb4642c0265ff73049446d96837"
+          "commits": 20,
+          "latest_date": "2026-07-11 17:26",
+          "latest_msg": "Update auto-prediction",
+          "latest_sha": "cc51006",
+          "latest_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/cc51006bbc38107a5ccb255bfe152f928c163a00"
+        },
+        {
+          "name": "AmiePhyo",
+          "login": "AmiePhyo",
+          "kind": "human",
+          "commits": 5,
+          "latest_date": "2026-07-06 15:22",
+          "latest_msg": "Fix final prediction parser and human score detection",
+          "latest_sha": "332462f",
+          "latest_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/332462f16f9d3236af5113e3b4e3731417fd188a"
         },
         {
           "name": "louishan42",
