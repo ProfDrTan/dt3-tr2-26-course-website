@@ -1,5 +1,5 @@
 {
-  "generated": "Saturday 11 July 2026 16:23 SGT",
+  "generated": "Saturday 11 July 2026 18:02 SGT",
   "teams": {
     "Team 1": {
       "blockers": []
@@ -45,12 +45,6 @@
           "content": "Unexpected blocker being that I cant login to groq, dunno what the issue is honestly",
           "ts_str": "2026-07-09 11:45:38",
           "url": "https://discord.com/channels/1505861202444816455/1505883282993315890/1524743331677212826"
-        },
-        {
-          "author": "yh03472",
-          "content": "I completed the llm synthesis automation in my current branch, only issue at the moment is that api keys are kinda of required for them to work, free ones seem to currently come from groq and gemini s",
-          "ts_str": "2026-07-09 08:51:30",
-          "url": "https://discord.com/channels/1505861202444816455/1505883282993315890/1524699510876667975"
         }
       ]
     }
