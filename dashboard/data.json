@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-11 02:20 UTC",
+  "updated": "2026-07-11 04:06 UTC",
   "sprint_tag": "vW28",
   "teams": [
     {
@@ -203,7 +203,7 @@
           "name": "Guanyu Lu",
           "login": "Guanyu-Lu",
           "kind": "human",
-          "commits": 23,
+          "commits": 18,
           "latest_date": "2026-06-21 02:55",
           "latest_msg": "Refine section headings and formatting in macro_agent_2026-W25.md",
           "latest_sha": "c9c7c0c",
