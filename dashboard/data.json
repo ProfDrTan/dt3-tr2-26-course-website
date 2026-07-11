@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-11 08:23 UTC",
+  "updated": "2026-07-11 10:03 UTC",
   "sprint_tag": "vW28",
   "teams": [
     {
@@ -200,26 +200,6 @@
       "days_since_commit": 0,
       "contributors": [
         {
-          "name": "Guanyu Lu",
-          "login": "Guanyu-Lu",
-          "kind": "human",
-          "commits": 10,
-          "latest_date": "2026-06-21 02:55",
-          "latest_msg": "Refine section headings and formatting in macro_agent_2026-W25.md",
-          "latest_sha": "c9c7c0c",
-          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/c9c7c0c026c08f5ec680c1ee26588e3d7b39b8f9"
-        },
-        {
-          "name": "The Bao Le",
-          "login": "The-Bao-Le",
-          "kind": "human",
-          "commits": 9,
-          "latest_date": "2026-06-25 02:26",
-          "latest_msg": "Delete week24.md",
-          "latest_sha": "7022e85",
-          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/7022e85eb43f02e4b685151bedbde8d0a9103e22"
-        },
-        {
           "name": "Hamzah \"Opal\" Nutt",
           "login": "hamzah-opal-n",
           "kind": "human",
@@ -238,6 +218,16 @@
           "latest_msg": "chore(data): automated market ledger alignment [skip ci]",
           "latest_sha": "7e21d1e",
           "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/7e21d1ea43ad71483742dc6d6567ae7eb059092e"
+        },
+        {
+          "name": "The Bao Le",
+          "login": "The-Bao-Le",
+          "kind": "human",
+          "commits": 5,
+          "latest_date": "2026-06-25 02:26",
+          "latest_msg": "Delete week24.md",
+          "latest_sha": "7022e85",
+          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/7022e85eb43f02e4b685151bedbde8d0a9103e22"
         },
         {
           "name": "Team2 Calibration Bot",
@@ -288,6 +278,16 @@
           "latest_msg": "Add files via upload",
           "latest_sha": "65e758a",
           "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/65e758aa5e17a3f365af4fb003f1712b6992c720"
+        },
+        {
+          "name": "Guanyu Lu",
+          "login": "Guanyu-Lu",
+          "kind": "human",
+          "commits": 1,
+          "latest_date": "2026-06-21 02:55",
+          "latest_msg": "Refine section headings and formatting in macro_agent_2026-W25.md",
+          "latest_sha": "c9c7c0c",
+          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/c9c7c0c026c08f5ec680c1ee26588e3d7b39b8f9"
         }
       ],
       "repo_url": "https://github.com/LuJunwen212/CP3405-Project"
@@ -525,11 +525,11 @@
       "repo": "Gong-yinxuan/CP3405",
       "prac": "B",
       "is_ultra": false,
-      "last_commit_sha": "0505fe8",
-      "last_commit_msg": "fix broken data",
-      "last_commit_date": "2026-07-11 08:12",
-      "last_commit_author": "ToHoangGia",
-      "last_commit_url": "https://github.com/Gong-yinxuan/CP3405/commit/0505fe8eb016f2d3711f6273e02e091efd4f59a1",
+      "last_commit_sha": "ef09a7c",
+      "last_commit_msg": "Add files via upload",
+      "last_commit_date": "2026-07-11 08:51",
+      "last_commit_author": "JiangJinsong",
+      "last_commit_url": "https://github.com/Gong-yinxuan/CP3405/commit/ef09a7ce3ee20f0e4dd30351fcc8b11ba847ca39",
       "tags": [
         "vW25",
         "vW24",
@@ -599,11 +599,21 @@
           "name": "EkaTiuJCU",
           "login": "EkaTiuJCU",
           "kind": "human",
-          "commits": 4,
+          "commits": 3,
           "latest_date": "2026-06-21 09:33",
           "latest_msg": "some changes on raw response",
           "latest_sha": "a3ead7e",
           "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/a3ead7e09ba43e8e7ab371654312abb09b600786"
+        },
+        {
+          "name": "JiangJinsong",
+          "login": "JiangJinsong",
+          "kind": "human",
+          "commits": 1,
+          "latest_date": "2026-07-11 08:51",
+          "latest_msg": "Add files via upload",
+          "latest_sha": "ef09a7c",
+          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/ef09a7ce3ee20f0e4dd30351fcc8b11ba847ca39"
         }
       ],
       "repo_url": "https://github.com/Gong-yinxuan/CP3405"
