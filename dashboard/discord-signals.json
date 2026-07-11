@@ -1,5 +1,5 @@
 {
-  "generated": "Saturday 11 July 2026 19:14 SGT",
+  "generated": "Saturday 11 July 2026 20:33 SGT",
   "teams": {
     "Team 1": {
       "blockers": []
@@ -39,12 +39,6 @@
           "content": "If anyone is responsible for recording blockers, please include this issue in the sprint/blocker log.",
           "ts_str": "2026-07-10 08:48:16",
           "url": "https://discord.com/channels/1505861202444816455/1505883282993315890/1525061083797131415"
-        },
-        {
-          "author": "yh03472",
-          "content": "Unexpected blocker being that I cant login to groq, dunno what the issue is honestly",
-          "ts_str": "2026-07-09 11:45:38",
-          "url": "https://discord.com/channels/1505861202444816455/1505883282993315890/1524743331677212826"
         }
       ]
     }
