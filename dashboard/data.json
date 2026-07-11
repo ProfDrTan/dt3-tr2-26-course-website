@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-11 06:23 UTC",
+  "updated": "2026-07-11 08:23 UTC",
   "sprint_tag": "vW28",
   "teams": [
     {
@@ -203,7 +203,7 @@
           "name": "Guanyu Lu",
           "login": "Guanyu-Lu",
           "kind": "human",
-          "commits": 15,
+          "commits": 10,
           "latest_date": "2026-06-21 02:55",
           "latest_msg": "Refine section headings and formatting in macro_agent_2026-W25.md",
           "latest_sha": "c9c7c0c",
@@ -403,7 +403,7 @@
           "name": "Jiawei990029",
           "login": "Jiawei990029",
           "kind": "human",
-          "commits": 2,
+          "commits": 1,
           "latest_date": "2026-07-06 02:52",
           "latest_msg": "Add files via upload",
           "latest_sha": "9c36d65",
@@ -525,11 +525,11 @@
       "repo": "Gong-yinxuan/CP3405",
       "prac": "B",
       "is_ultra": false,
-      "last_commit_sha": "01d8704",
-      "last_commit_msg": "chore: update Prism data 2026-07-10",
-      "last_commit_date": "2026-07-10 22:56",
-      "last_commit_author": "github-actions[bot]",
-      "last_commit_url": "https://github.com/Gong-yinxuan/CP3405/commit/01d8704fdcfa8b3d15217eb34953e92cf35021b7",
+      "last_commit_sha": "0505fe8",
+      "last_commit_msg": "fix broken data",
+      "last_commit_date": "2026-07-11 08:12",
+      "last_commit_author": "ToHoangGia",
+      "last_commit_url": "https://github.com/Gong-yinxuan/CP3405/commit/0505fe8eb016f2d3711f6273e02e091efd4f59a1",
       "tags": [
         "vW25",
         "vW24",
@@ -559,11 +559,11 @@
           "name": "ToHoangGia",
           "login": "ToHoangGia",
           "kind": "human",
-          "commits": 29,
-          "latest_date": "2026-07-10 22:33",
-          "latest_msg": "update update.yml",
-          "latest_sha": "26fa2d4",
-          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/26fa2d4ae2ec3df70dd472fbf67d8370b4609392"
+          "commits": 30,
+          "latest_date": "2026-07-11 08:12",
+          "latest_msg": "fix broken data",
+          "latest_sha": "0505fe8",
+          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/0505fe8eb016f2d3711f6273e02e091efd4f59a1"
         },
         {
           "name": "github-actions[bot]",
@@ -576,24 +576,14 @@
           "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/01d8704fdcfa8b3d15217eb34953e92cf35021b7"
         },
         {
-          "name": "EkaTiuJCU",
-          "login": "EkaTiuJCU",
-          "kind": "human",
-          "commits": 6,
-          "latest_date": "2026-06-21 09:33",
-          "latest_msg": "some changes on raw response",
-          "latest_sha": "a3ead7e",
-          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/a3ead7e09ba43e8e7ab371654312abb09b600786"
-        },
-        {
           "name": "HYH-design-bot",
           "login": "HYH-design-bot",
           "kind": "bot",
-          "commits": 4,
-          "latest_date": "2026-07-09 13:58",
-          "latest_msg": "Squashed commit of the following:",
-          "latest_sha": "1d97aa1",
-          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/1d97aa107c3f88e53c7d89d9555026c89d91ec74"
+          "commits": 5,
+          "latest_date": "2026-07-11 08:08",
+          "latest_msg": "Retrieved Monday Data",
+          "latest_sha": "953605b",
+          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/953605b11dc1068770d43e5cb838980430f14444"
         },
         {
           "name": "wujinrui2004",
@@ -604,6 +594,16 @@
           "latest_msg": "Update learning log.md",
           "latest_sha": "2734e3a",
           "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/2734e3a5624a1f9278957862f177871f1ec880f4"
+        },
+        {
+          "name": "EkaTiuJCU",
+          "login": "EkaTiuJCU",
+          "kind": "human",
+          "commits": 4,
+          "latest_date": "2026-06-21 09:33",
+          "latest_msg": "some changes on raw response",
+          "latest_sha": "a3ead7e",
+          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/a3ead7e09ba43e8e7ab371654312abb09b600786"
         }
       ],
       "repo_url": "https://github.com/Gong-yinxuan/CP3405"
