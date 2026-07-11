@@ -200,8 +200,15 @@ function toSGT(str, opts) {
 }
 
 // --- Per-team plain-language verdict ---
+function isWeekendSGT() {
+  const nowSGT = new Date(Date.now() + 8*60*60*1000);
+  const dow = nowSGT.getUTCDay();
+  return dow === 0 || dow === 6;
+}
+
 function verdict(t) {
   const idle = t.days_since_commit ?? 99;
+  const weekend = isWeekendSGT();
   if (t.last_run_conclusion === 'failure') {
     return { icon: '\ud83d\udd34', label: 'STUCK', cls: 'v-bad',
       reason: `Pipeline failing since ${toSGT(t.last_run_date,'short')} SGT — needs a fix before it can produce anything.` };
@@ -210,9 +217,15 @@ function verdict(t) {
     return { icon: '\ud83d\udd34', label: 'STALLED', cls: 'v-bad',
       reason: `No commits in ${idle} days. At this pace they will not make the vW28 deadline without action.` };
   }
+  // Weekend = prime working time (Friday close data is in, no class) — a quiet weekend team is worse
+  // news than a quiet weekday team, not better. Flag it a tier harsher.
+  if (weekend && idle >= 1) {
+    return { icon: '\ud83d\udfe1', label: 'QUIET ON A WORKING WEEKEND', cls: 'v-warn',
+      reason: `${idle} day(s) idle during the weekend, when Friday's close data is available and there's no class competing for time. Worth checking in on directly rather than assuming they're "getting to it."` };
+  }
   if (idle >= 4) {
     return { icon: '\ud83d\udfe1', label: 'SLOWING', cls: 'v-warn',
-      reason: `${idle} days since last commit. Not stalled yet, but worth a nudge before the weekend passes.` };
+      reason: `${idle} days since last commit. Not stalled yet, but worth a nudge.` };
   }
   if (!t.sprint_tag_present) {
     return { icon: '\ud83d\udfe2', label: 'ON TRACK', cls: 'v-ok',
@@ -258,7 +271,10 @@ function render(data) {
   const wn = document.getElementById('weekendnote');
   if (dow === 0 || dow === 6) {
     wn.style.display = 'block';
-    wn.textContent = '\ud83d\udcc5 Markets are closed today (weekend, SGT) \u2014 slower commit activity is expected. Heavier automation runs typically resume after Friday close and through Monday.';
+    wn.textContent = '\ud83d\udcc5 Weekend, SGT \u2014 markets are closed but this is prime working time: no class, Friday close data is in, teams should be pulling data, running agents, and doing LLM synthesis right now. Silence today is a stronger red flag than on a weekday, not a pass.';
+    wn.style.borderColor = 'rgba(240,165,0,.35)';
+    wn.style.color = '#ffcf6b';
+    wn.style.background = 'rgba(240,165,0,.08)';
   } else {
     wn.style.display = 'none';
   }
