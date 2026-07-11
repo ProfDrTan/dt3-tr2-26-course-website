@@ -1,0 +1,52 @@
+{
+  "generated": "Saturday 11 July 2026 10:20 SGT",
+  "teams": {
+    "Team 1": {
+      "blockers": []
+    },
+    "Team 2": {
+      "blockers": [
+        {
+          "author": "vileworx",
+          "content": "Also for R10 work, anyone know what's the status/what needs to be fixed? Since the guy who held that role last time can't access the server. Or can someone please help ask <@1283788299906846750>",
+          "ts_str": "2026-07-10 07:05:38",
+          "url": "https://discord.com/channels/1505861202444816455/1505883145466155079/1525035256481185812"
+        }
+      ]
+    },
+    "Team 3": {
+      "blockers": []
+    },
+    "Team 4": {
+      "blockers": []
+    },
+    "Team 5": {
+      "blockers": [
+        {
+          "author": "fiery_courgette_94143",
+          "content": "Guy, I noticed some huge problems with our workflow. When we run it manually, it will overwrite the data that is automatically run. In this case, our agent data from Monday seems completely gone \n\ngit",
+          "ts_str": "2026-07-10 22:28:00",
+          "url": "https://discord.com/channels/1505861202444816455/1505883282993315890/1525267374507298937"
+        },
+        {
+          "author": "yinxuan_19796",
+          "content": "If anyone is responsible for recording blockers, please include this issue in the sprint/blocker log.",
+          "ts_str": "2026-07-10 08:48:16",
+          "url": "https://discord.com/channels/1505861202444816455/1505883282993315890/1525061083797131415"
+        },
+        {
+          "author": "yh03472",
+          "content": "Unexpected blocker being that I cant login to groq, dunno what the issue is honestly",
+          "ts_str": "2026-07-09 11:45:38",
+          "url": "https://discord.com/channels/1505861202444816455/1505883282993315890/1524743331677212826"
+        },
+        {
+          "author": "yh03472",
+          "content": "I completed the llm synthesis automation in my current branch, only issue at the moment is that api keys are kinda of required for them to work, free ones seem to currently come from groq and gemini s",
+          "ts_str": "2026-07-09 08:51:30",
+          "url": "https://discord.com/channels/1505861202444816455/1505883282993315890/1524699510876667975"
+        }
+      ]
+    }
+  }
+}
