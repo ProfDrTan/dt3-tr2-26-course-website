@@ -171,11 +171,11 @@ function renderStaleness() {
   if (!current) { el.style.display = 'none'; return; }
   const updatedMs = Date.parse(current.updated.replace(' UTC','Z').replace(' ','T'));
   const ageMin = Math.round((Date.now() - updatedMs) / 60000);
-  if (ageMin > 90 || lastFetchOk === false) {
+  if (ageMin > 30 || lastFetchOk === false) {
     el.style.display = 'block';
     el.textContent = lastFetchOk === false
       ? `⚠️ Live refresh failing (${lastFetchErr}). Showing data from ${ageMin} min ago.`
-      : `⚠️ Data is ${ageMin} min old — expected refresh every ~30 min from dt3-monitor.`;
+      : `⚠️ Data is ${ageMin} min old — expected refresh every ~10 min from dt3-monitor.`;
   } else {
     el.style.display = 'none';
   }
