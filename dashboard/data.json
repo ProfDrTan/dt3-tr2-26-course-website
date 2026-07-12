@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-12 07:37 UTC",
+  "updated": "2026-07-12 09:30 UTC",
   "sprint_tag": "vW28",
   "teams": [
     {
@@ -343,11 +343,11 @@
       "repo": "LuJunwen212/CP3405-Project",
       "prac": "A",
       "is_ultra": false,
-      "last_commit_sha": "7e21d1e",
-      "last_commit_msg": "chore(data): automated market ledger alignment [skip ci]",
-      "last_commit_date": "2026-07-10 23:12",
-      "last_commit_author": "Team2 Data Automatio",
-      "last_commit_url": "https://github.com/LuJunwen212/CP3405-Project/commit/7e21d1ea43ad71483742dc6d6567ae7eb059092e",
+      "last_commit_sha": "0cefe68",
+      "last_commit_msg": "Rename chart_IWM_W26.png to evidence/screenshots/chart_IWM_W",
+      "last_commit_date": "2026-07-12 08:34",
+      "last_commit_author": "linyuchu",
+      "last_commit_url": "https://github.com/LuJunwen212/CP3405-Project/commit/0cefe689101595b0faa66d5f28ef425194cf0f3b",
       "tags": [
         "vW25",
         "vW24",
@@ -362,7 +362,7 @@
       "open_prs": 0,
       "pr_titles": [],
       "pr_links": [],
-      "days_since_commit": 1,
+      "days_since_commit": 0,
       "contributors": [
         {
           "name": "Hamzah \"Opal\" Nutt",
@@ -385,6 +385,26 @@
           "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/7e21d1ea43ad71483742dc6d6567ae7eb059092e"
         },
         {
+          "name": "louis848",
+          "login": "louis848",
+          "kind": "human",
+          "commits": 4,
+          "latest_date": "2026-07-12 08:09",
+          "latest_msg": "Update r5_technical_automation.py",
+          "latest_sha": "fa7fd9f",
+          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/fa7fd9fc2a1ce9ef1bb05799b905b1ea8562f567"
+        },
+        {
+          "name": "linyuchu",
+          "login": "mihawk-cell",
+          "kind": "human",
+          "commits": 3,
+          "latest_date": "2026-07-12 08:34",
+          "latest_msg": "Rename chart_IWM_W26.png to evidence/screenshots/chart_IWM_W26.png",
+          "latest_sha": "0cefe68",
+          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/0cefe689101595b0faa66d5f28ef425194cf0f3b"
+        },
+        {
           "name": "LuJunwen212",
           "login": "LuJunwen212",
           "kind": "human",
@@ -403,16 +423,6 @@
           "latest_msg": "chore(r10): automate calibration for W23",
           "latest_sha": "6602fe2",
           "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/6602fe2f748cb5752ab67e8ff70b743dc6e4c7f6"
-        },
-        {
-          "name": "louis848",
-          "login": "louis848",
-          "kind": "human",
-          "commits": 2,
-          "latest_date": "2026-06-25 06:19",
-          "latest_msg": "Create week25.md",
-          "latest_sha": "c88160f",
-          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/c88160f6f55fd59467339c7de2854e2e1aa79f9c"
         },
         {
           "name": "swan002",
@@ -881,11 +891,11 @@
       "repo": "Gong-yinxuan/CP3405",
       "prac": "B",
       "is_ultra": false,
-      "last_commit_sha": "ef09a7c",
-      "last_commit_msg": "Add files via upload",
-      "last_commit_date": "2026-07-11 08:51",
-      "last_commit_author": "JiangJinsong",
-      "last_commit_url": "https://github.com/Gong-yinxuan/CP3405/commit/ef09a7ce3ee20f0e4dd30351fcc8b11ba847ca39",
+      "last_commit_sha": "c17e825",
+      "last_commit_msg": "Reverted accidental data change",
+      "last_commit_date": "2026-07-12 08:11",
+      "last_commit_author": "HYH-design-bot",
+      "last_commit_url": "https://github.com/Gong-yinxuan/CP3405/commit/c17e825f984a68e961ec2504a8f6c8f57f5d3514",
       "tags": [
         "vW25",
         "vW24",
@@ -894,8 +904,8 @@
       "sprint_tag_present": false,
       "last_run_name": "Update Market Data",
       "last_run_conclusion": "success",
-      "last_run_date": "2026-07-12 07:30",
-      "last_run_url": "https://github.com/Gong-yinxuan/CP3405/actions/runs/29184329582",
+      "last_run_date": "2026-07-12 08:02",
+      "last_run_url": "https://github.com/Gong-yinxuan/CP3405/actions/runs/29185209597",
       "open_prs": 0,
       "pr_titles": [],
       "pr_links": [],
@@ -905,7 +915,7 @@
           "name": "Gong-yinxuan",
           "login": "Gong-yinxuan",
           "kind": "human",
-          "commits": 42,
+          "commits": 36,
           "latest_date": "2026-07-10 09:02",
           "latest_msg": "Delete Week8 directory",
           "latest_sha": "21c5819",
@@ -935,11 +945,11 @@
           "name": "HYH-design-bot",
           "login": "HYH-design-bot",
           "kind": "bot",
-          "commits": 5,
-          "latest_date": "2026-07-11 08:08",
-          "latest_msg": "Retrieved Monday Data",
-          "latest_sha": "953605b",
-          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/953605b11dc1068770d43e5cb838980430f14444"
+          "commits": 7,
+          "latest_date": "2026-07-12 08:11",
+          "latest_msg": "Reverted accidental data change",
+          "latest_sha": "c17e825",
+          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/c17e825f984a68e961ec2504a8f6c8f57f5d3514"
         },
         {
           "name": "wujinrui2004",
@@ -955,7 +965,7 @@
           "name": "EkaTiuJCU",
           "login": "EkaTiuJCU",
           "kind": "human",
-          "commits": 3,
+          "commits": 2,
           "latest_date": "2026-06-21 09:33",
           "latest_msg": "some changes on raw response",
           "latest_sha": "a3ead7e",
