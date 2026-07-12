@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-12 03:48 UTC",
+  "updated": "2026-07-12 03:51 UTC",
   "sprint_tag": "vW28",
   "teams": [
     {
@@ -171,6 +171,171 @@
           "latest_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/fdf651f8eb3ae2e39e0c76664f6c952f6ccab2b6"
         }
       ],
+      "pr_history": {
+        "total": 72,
+        "merged": 45,
+        "open": 10,
+        "abandoned": 17,
+        "weekly": {
+          "2026-07-06": {
+            "merged": 1,
+            "open": 2,
+            "abandoned": 0
+          },
+          "2026-06-29": {
+            "merged": 0,
+            "open": 1,
+            "abandoned": 0
+          },
+          "2026-06-22": {
+            "merged": 0,
+            "open": 1,
+            "abandoned": 0
+          },
+          "2026-06-15": {
+            "merged": 8,
+            "open": 5,
+            "abandoned": 0
+          },
+          "2026-06-08": {
+            "merged": 12,
+            "open": 1,
+            "abandoned": 12
+          },
+          "2026-06-01": {
+            "merged": 13,
+            "open": 0,
+            "abandoned": 0
+          },
+          "2026-05-25": {
+            "merged": 11,
+            "open": 0,
+            "abandoned": 5
+          }
+        },
+        "recent": [
+          {
+            "number": 72,
+            "title": "chore: pipeline artifacts 2026-07-10",
+            "status": "open",
+            "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/72",
+            "created_at": "2026-07-10",
+            "author": "github-actions[bot]"
+          },
+          {
+            "number": 71,
+            "title": "fix: prevent LLM stage from crashing the weekly pipeline",
+            "status": "merged",
+            "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/71",
+            "created_at": "2026-07-06",
+            "author": "oakkar-cm"
+          },
+          {
+            "number": 70,
+            "title": "chore: pipeline artifacts 2026-07-06",
+            "status": "open",
+            "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/70",
+            "created_at": "2026-07-06",
+            "author": "github-actions[bot]"
+          },
+          {
+            "number": 69,
+            "title": "feature/macro-agent",
+            "status": "open",
+            "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/69",
+            "created_at": "2026-07-03",
+            "author": "NaingPhonePyae"
+          },
+          {
+            "number": 68,
+            "title": "chore: pipeline artifacts 2026-06-26",
+            "status": "open",
+            "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/68",
+            "created_at": "2026-06-26",
+            "author": "github-actions[bot]"
+          },
+          {
+            "number": 67,
+            "title": "Scrum master w5 w25",
+            "status": "merged",
+            "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/67",
+            "created_at": "2026-06-21",
+            "author": "panhsumyat0179-pixel"
+          },
+          {
+            "number": 66,
+            "title": "Feature/human score analysis w25",
+            "status": "merged",
+            "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/66",
+            "created_at": "2026-06-21",
+            "author": "saikokokyaw"
+          },
+          {
+            "number": 65,
+            "title": "Create learning_log_W24.md",
+            "status": "merged",
+            "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/65",
+            "created_at": "2026-06-21",
+            "author": "Aeron03"
+          },
+          {
+            "number": 64,
+            "title": "Create calibration_log_W24.md",
+            "status": "merged",
+            "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/64",
+            "created_at": "2026-06-21",
+            "author": "Aeron03"
+          },
+          {
+            "number": 63,
+            "title": "chore: pipeline artifacts 2026-06-21",
+            "status": "merged",
+            "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/63",
+            "created_at": "2026-06-21",
+            "author": "github-actions[bot]"
+          },
+          {
+            "number": 62,
+            "title": "Evidence Images",
+            "status": "open",
+            "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/62",
+            "created_at": "2026-06-21",
+            "author": "NaingPhonePyae"
+          },
+          {
+            "number": 61,
+            "title": "Product Owner report",
+            "status": "merged",
+            "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/61",
+            "created_at": "2026-06-20",
+            "author": "sinder38"
+          },
+          {
+            "number": 60,
+            "title": "Add Week 5 delta engine draft",
+            "status": "open",
+            "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/60",
+            "created_at": "2026-06-20",
+            "author": "JasonEran"
+          },
+          {
+            "number": 59,
+            "title": "Update Evidence agent",
+            "status": "merged",
+            "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/59",
+            "created_at": "2026-06-20",
+            "author": "NaingPhonePyae"
+          },
+          {
+            "number": 58,
+            "title": "Feat/backend http server",
+            "status": "open",
+            "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/58",
+            "created_at": "2026-06-20",
+            "author": "sinder38"
+          }
+        ]
+      },
       "repo_url": "https://github.com/sinder38/Team-1-Prac-A-Project"
     },
     {
@@ -280,6 +445,156 @@
           "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/65e758aa5e17a3f365af4fb003f1712b6992c720"
         }
       ],
+      "pr_history": {
+        "total": 15,
+        "merged": 13,
+        "open": 0,
+        "abandoned": 2,
+        "weekly": {
+          "2026-06-15": {
+            "merged": 5,
+            "open": 0,
+            "abandoned": 1
+          },
+          "2026-06-08": {
+            "merged": 4,
+            "open": 0,
+            "abandoned": 0
+          },
+          "2026-06-01": {
+            "merged": 2,
+            "open": 0,
+            "abandoned": 1
+          },
+          "2026-05-25": {
+            "merged": 2,
+            "open": 0,
+            "abandoned": 0
+          }
+        },
+        "recent": [
+          {
+            "number": 15,
+            "title": "Week 05 merge for the technical agent",
+            "status": "merged",
+            "url": "https://github.com/LuJunwen212/CP3405-Project/pull/15",
+            "created_at": "2026-06-21",
+            "author": "hamzah-opal-n"
+          },
+          {
+            "number": 14,
+            "title": "Week 05",
+            "status": "merged",
+            "url": "https://github.com/LuJunwen212/CP3405-Project/pull/14",
+            "created_at": "2026-06-21",
+            "author": "The-Bao-Le"
+          },
+          {
+            "number": 13,
+            "title": "Update files from main",
+            "status": "abandoned",
+            "url": "https://github.com/LuJunwen212/CP3405-Project/pull/13",
+            "created_at": "2026-06-20",
+            "author": "The-Bao-Le"
+          },
+          {
+            "number": 12,
+            "title": "Update actuals",
+            "status": "merged",
+            "url": "https://github.com/LuJunwen212/CP3405-Project/pull/12",
+            "created_at": "2026-06-20",
+            "author": "The-Bao-Le"
+          },
+          {
+            "number": 11,
+            "title": "chore(data): automated market ledger alignment [skip ci]",
+            "status": "merged",
+            "url": "https://github.com/LuJunwen212/CP3405-Project/pull/11",
+            "created_at": "2026-06-20",
+            "author": "The-Bao-Le"
+          },
+          {
+            "number": 10,
+            "title": "chore(data): automated market ledger alignment [skip ci]",
+            "status": "merged",
+            "url": "https://github.com/LuJunwen212/CP3405-Project/pull/10",
+            "created_at": "2026-06-20",
+            "author": "The-Bao-Le"
+          },
+          {
+            "number": 9,
+            "title": "Add files via upload",
+            "status": "merged",
+            "url": "https://github.com/LuJunwen212/CP3405-Project/pull/9",
+            "created_at": "2026-06-14",
+            "author": "The-Bao-Le"
+          },
+          {
+            "number": 8,
+            "title": "Week 04",
+            "status": "merged",
+            "url": "https://github.com/LuJunwen212/CP3405-Project/pull/8",
+            "created_at": "2026-06-14",
+            "author": "The-Bao-Le"
+          },
+          {
+            "number": 7,
+            "title": "Update week 4 branch",
+            "status": "merged",
+            "url": "https://github.com/LuJunwen212/CP3405-Project/pull/7",
+            "created_at": "2026-06-13",
+            "author": "The-Bao-Le"
+          },
+          {
+            "number": 6,
+            "title": "Week 04 - Saturday",
+            "status": "merged",
+            "url": "https://github.com/LuJunwen212/CP3405-Project/pull/6",
+            "created_at": "2026-06-13",
+            "author": "The-Bao-Le"
+          },
+          {
+            "number": 5,
+            "title": "Week 03",
+            "status": "merged",
+            "url": "https://github.com/LuJunwen212/CP3405-Project/pull/5",
+            "created_at": "2026-06-07",
+            "author": "MannimMond811"
+          },
+          {
+            "number": 4,
+            "title": "Update Week 22 Actuals and Sectors",
+            "status": "merged",
+            "url": "https://github.com/LuJunwen212/CP3405-Project/pull/4",
+            "created_at": "2026-06-07",
+            "author": "Kyler017"
+          },
+          {
+            "number": 3,
+            "title": "Update actuals_2026-W22.md",
+            "status": "abandoned",
+            "url": "https://github.com/LuJunwen212/CP3405-Project/pull/3",
+            "created_at": "2026-06-07",
+            "author": "Kyler017"
+          },
+          {
+            "number": 2,
+            "title": "Week 02",
+            "status": "merged",
+            "url": "https://github.com/LuJunwen212/CP3405-Project/pull/2",
+            "created_at": "2026-05-31",
+            "author": "The-Bao-Le"
+          },
+          {
+            "number": 1,
+            "title": "Week 02",
+            "status": "merged",
+            "url": "https://github.com/LuJunwen212/CP3405-Project/pull/1",
+            "created_at": "2026-05-31",
+            "author": "The-Bao-Le"
+          }
+        ]
+      },
       "repo_url": "https://github.com/LuJunwen212/CP3405-Project"
     },
     {
@@ -400,6 +715,14 @@
           "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/59ddb45c557c5d7e36a06c1bb949fab04f9b7c8f"
         }
       ],
+      "pr_history": {
+        "total": 0,
+        "merged": 0,
+        "open": 0,
+        "abandoned": 0,
+        "weekly": {},
+        "recent": []
+      },
       "repo_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405"
     },
     {
@@ -518,6 +841,29 @@
           "latest_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/0c79e2ea625f8c96e12ce2459577a599c86bef48"
         }
       ],
+      "pr_history": {
+        "total": 1,
+        "merged": 0,
+        "open": 1,
+        "abandoned": 0,
+        "weekly": {
+          "2026-07-06": {
+            "merged": 0,
+            "open": 1,
+            "abandoned": 0
+          }
+        },
+        "recent": [
+          {
+            "number": 1,
+            "title": "Macro update",
+            "status": "open",
+            "url": "https://github.com/wintwah-lwin/CP3405_Group_4/pull/1",
+            "created_at": "2026-07-06",
+            "author": "wintwah-lwin"
+          }
+        ]
+      },
       "repo_url": "https://github.com/wintwah-lwin/CP3405_Group_4"
     },
     {
@@ -616,6 +962,14 @@
           "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/ef09a7ce3ee20f0e4dd30351fcc8b11ba847ca39"
         }
       ],
+      "pr_history": {
+        "total": 0,
+        "merged": 0,
+        "open": 0,
+        "abandoned": 0,
+        "weekly": {},
+        "recent": []
+      },
       "repo_url": "https://github.com/Gong-yinxuan/CP3405"
     },
     {
@@ -660,6 +1014,14 @@
           "latest_url": "https://github.com/ProfDrTan/market-prediction-engine/commit/11f1f0ba845f4ec38bb6c6ba6f7db75a8889f5a1"
         }
       ],
+      "pr_history": {
+        "total": 0,
+        "merged": 0,
+        "open": 0,
+        "abandoned": 0,
+        "weekly": {},
+        "recent": []
+      },
       "repo_url": "https://github.com/ProfDrTan/market-prediction-engine"
     }
   ]
