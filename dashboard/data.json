@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-12 05:05 UTC",
+  "updated": "2026-07-12 06:45 UTC",
   "sprint_tag": "vW28",
   "teams": [
     {
@@ -884,8 +884,8 @@
       "sprint_tag_present": false,
       "last_run_name": "Update Market Data",
       "last_run_conclusion": "success",
-      "last_run_date": "2026-07-10 22:55",
-      "last_run_url": "https://github.com/Gong-yinxuan/CP3405/actions/runs/29129049299",
+      "last_run_date": "2026-07-12 06:40",
+      "last_run_url": "https://github.com/Gong-yinxuan/CP3405/actions/runs/29183010700",
       "open_prs": 0,
       "pr_titles": [],
       "pr_links": [],
