@@ -1,5 +1,5 @@
 {
-  "generated": "Sunday 12 July 2026 15:37 SGT",
+  "generated": "Sunday 12 July 2026 17:29 SGT",
   "teams": {
     "Team 1": {
       "blockers": []
@@ -11,12 +11,6 @@
           "content": "So essentially the current challenge is just monitoring and correcting when I see things go wrong?",
           "ts_str": "2026-07-12 07:29:16",
           "url": "https://discord.com/channels/1505861202444816455/1505883145466155079/1525765976631803995"
-        },
-        {
-          "author": "guanyulu_88237",
-          "content": "\"**Progress:**\nThis week, I successfully automated the prediction validation process. The system now compares both Human Score and AI predictions with the actual TradingView closing prices automatical",
-          "ts_str": "2026-07-10 08:08:29",
-          "url": "https://discord.com/channels/1505861202444816455/1505883145466155079/1525051070253109298"
         }
       ]
     },
@@ -39,12 +33,6 @@
           "content": "Guy, I noticed some huge problems with our workflow. When we run it manually, it will overwrite the data that is automatically run. In this case, our agent data from Monday seems completely gone \n\ngit",
           "ts_str": "2026-07-10 22:28:00",
           "url": "https://discord.com/channels/1505861202444816455/1505883282993315890/1525267374507298937"
-        },
-        {
-          "author": "yinxuan_19796",
-          "content": "If anyone is responsible for recording blockers, please include this issue in the sprint/blocker log.",
-          "ts_str": "2026-07-10 08:48:16",
-          "url": "https://discord.com/channels/1505861202444816455/1505883282993315890/1525061083797131415"
         }
       ]
     }
