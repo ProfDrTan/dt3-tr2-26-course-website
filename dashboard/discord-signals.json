@@ -1,5 +1,5 @@
 {
-  "generated": "Sunday 12 July 2026 20:05 SGT",
+  "generated": "Sunday 12 July 2026 21:56 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
@@ -30,6 +30,24 @@
     "Team 5": {
       "blockers": [
         {
+          "author": "yh03472",
+          "content": "no problems with that, thank you!",
+          "ts_str": "2026-07-12 13:08:53",
+          "url": "https://discord.com/channels/1505861202444816455/1505883282993315890/1525851444207685732"
+        },
+        {
+          "author": "fiery_courgette_94143",
+          "content": "if no problems then Imma do the prediction for this week",
+          "ts_str": "2026-07-12 13:08:29",
+          "url": "https://discord.com/channels/1505861202444816455/1505883282993315890/1525851342940147813"
+        },
+        {
+          "author": "fiery_courgette_94143",
+          "content": "btw did we have prediction for this week my work for next week is going to run into huge problems if we are missing that \ud83e\udd72",
+          "ts_str": "2026-07-12 12:49:27",
+          "url": "https://discord.com/channels/1505861202444816455/1505883282993315890/1525846555351974069"
+        },
+        {
           "author": "fiery_courgette_94143",
           "content": "it say that wrong url lead to the ai not running :L",
           "ts_str": "2026-07-12 11:40:27",
@@ -40,24 +58,6 @@
           "content": "hey I asked chatgpt and it say the current url is wrong",
           "ts_str": "2026-07-12 11:39:52",
           "url": "https://discord.com/channels/1505861202444816455/1505883282993315890/1525829043373608961"
-        },
-        {
-          "author": "yh03472",
-          "content": "either i did something wrong with the api key configuration or something wrong with the code",
-          "ts_str": "2026-07-12 11:38:48",
-          "url": "https://discord.com/channels/1505861202444816455/1505883282993315890/1525828773419814953"
-        },
-        {
-          "author": "yh03472",
-          "content": "i tried huggingface and openrouter for chatgpt type models but they failed",
-          "ts_str": "2026-07-12 11:33:07",
-          "url": "https://discord.com/channels/1505861202444816455/1505883282993315890/1525827344571433082"
-        },
-        {
-          "author": "yh03472",
-          "content": "the server could have high traffic and be so slow that your code already throws an error before it responds,\nmaybe the code doesnt retrieve or send data in the right format\nmaybe the api key settings ",
-          "ts_str": "2026-07-12 11:28:50",
-          "url": "https://discord.com/channels/1505861202444816455/1505883282993315890/1525826268321419364"
         }
       ]
     }
