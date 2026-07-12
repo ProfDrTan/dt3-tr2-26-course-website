@@ -1,5 +1,5 @@
 {
-  "generated": "Sunday 12 July 2026 18:58 SGT",
+  "generated": "Sunday 12 July 2026 20:05 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
@@ -30,16 +30,34 @@
     "Team 5": {
       "blockers": [
         {
-          "author": "yh03472",
-          "content": "you can take note from my attempts and the learning points after if you got any issue",
-          "ts_str": "2026-07-11 08:20:49",
-          "url": "https://discord.com/channels/1505861202444816455/1505883282993315890/1525416562750787674"
+          "author": "fiery_courgette_94143",
+          "content": "it say that wrong url lead to the ai not running :L",
+          "ts_str": "2026-07-12 11:40:27",
+          "url": "https://discord.com/channels/1505861202444816455/1505883282993315890/1525829191688388671"
         },
         {
           "author": "fiery_courgette_94143",
-          "content": "Guy, I noticed some huge problems with our workflow. When we run it manually, it will overwrite the data that is automatically run. In this case, our agent data from Monday seems completely gone \n\ngit",
-          "ts_str": "2026-07-10 22:28:00",
-          "url": "https://discord.com/channels/1505861202444816455/1505883282993315890/1525267374507298937"
+          "content": "hey I asked chatgpt and it say the current url is wrong",
+          "ts_str": "2026-07-12 11:39:52",
+          "url": "https://discord.com/channels/1505861202444816455/1505883282993315890/1525829043373608961"
+        },
+        {
+          "author": "yh03472",
+          "content": "either i did something wrong with the api key configuration or something wrong with the code",
+          "ts_str": "2026-07-12 11:38:48",
+          "url": "https://discord.com/channels/1505861202444816455/1505883282993315890/1525828773419814953"
+        },
+        {
+          "author": "yh03472",
+          "content": "i tried huggingface and openrouter for chatgpt type models but they failed",
+          "ts_str": "2026-07-12 11:33:07",
+          "url": "https://discord.com/channels/1505861202444816455/1505883282993315890/1525827344571433082"
+        },
+        {
+          "author": "yh03472",
+          "content": "the server could have high traffic and be so slow that your code already throws an error before it responds,\nmaybe the code doesnt retrieve or send data in the right format\nmaybe the api key settings ",
+          "ts_str": "2026-07-12 11:28:50",
+          "url": "https://discord.com/channels/1505861202444816455/1505883282993315890/1525826268321419364"
         }
       ]
     }
