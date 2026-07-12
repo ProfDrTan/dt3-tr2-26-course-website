@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-12 16:12 UTC",
+  "updated": "2026-07-12 17:28 UTC",
   "sprint_tag": "vW28",
   "teams": [
     {
@@ -21,8 +21,8 @@
       "sprint_tag_present": false,
       "last_run_name": "python-checks",
       "last_run_conclusion": "success",
-      "last_run_date": "2026-07-12 15:13",
-      "last_run_url": "https://github.com/sinder38/Team-1-Prac-A-Project/actions/runs/29197780177",
+      "last_run_date": "2026-07-12 16:52",
+      "last_run_url": "https://github.com/sinder38/Team-1-Prac-A-Project/actions/runs/29200945403",
       "open_prs": 9,
       "pr_titles": [
         "Scrum master week 5",
@@ -102,16 +102,6 @@
           "latest_msg": "fix: weekly pipeline (#71)",
           "latest_sha": "5e69e38",
           "latest_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/5e69e3822f7644645c28ed6dba0c81f6bab18b1a"
-        },
-        {
-          "name": "sinder",
-          "login": "sinder38",
-          "kind": "human",
-          "commits": 1,
-          "latest_date": "2026-06-21 16:20",
-          "latest_msg": "Add crazy mermaid diogram",
-          "latest_sha": "2577560",
-          "latest_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/25775609f4794d74ee9b5e78ba8e45a82188ede5"
         }
       ],
       "pr_history": {
@@ -561,11 +551,11 @@
       "repo": "juninho4/Team-3-Practical-A-CP3405",
       "prac": "A",
       "is_ultra": false,
-      "last_commit_sha": "d5c38bc",
-      "last_commit_msg": "added sprint goal for w28",
-      "last_commit_date": "2026-07-12 12:16",
-      "last_commit_author": "Juninho",
-      "last_commit_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/d5c38bc1866e572ec27fd33b7dad6a1396317fed",
+      "last_commit_sha": "7579863",
+      "last_commit_msg": "Update Prediction_2026_W28.md",
+      "last_commit_date": "2026-07-12 17:20",
+      "last_commit_author": "Vince-1206",
+      "last_commit_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/75798638e1ce6e172e13766ee882acca4106a1e7",
       "tags": [
         "vW25",
         "vW24",
@@ -574,24 +564,34 @@
         "W25"
       ],
       "sprint_tag_present": false,
-      "last_run_name": "Fetch Friday Market Closes",
+      "last_run_name": "R5 Technical Agent Pipeline",
       "last_run_conclusion": "success",
-      "last_run_date": "2026-07-10 16:13",
-      "last_run_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/actions/runs/29106617013",
+      "last_run_date": "2026-07-12 17:20",
+      "last_run_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/actions/runs/29201797246",
       "open_prs": 0,
       "pr_titles": [],
       "pr_links": [],
       "days_since_commit": 0,
       "contributors": [
         {
+          "name": "Vince-1206",
+          "login": "Vince-1206",
+          "kind": "human",
+          "commits": 24,
+          "latest_date": "2026-07-12 17:20",
+          "latest_msg": "Update Prediction_2026_W28.md",
+          "latest_sha": "7579863",
+          "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/75798638e1ce6e172e13766ee882acca4106a1e7"
+        },
+        {
           "name": "ZhangJiayu0201",
           "login": "ZhangJiayu0201",
           "kind": "human",
-          "commits": 6,
-          "latest_date": "2026-07-11 04:14",
-          "latest_msg": "Add files via upload",
-          "latest_sha": "7ce0aa3",
-          "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/7ce0aa3955aedf759a949a5b83ffd6b360cd2934"
+          "commits": 7,
+          "latest_date": "2026-07-12 16:14",
+          "latest_msg": "Delete vW28/123",
+          "latest_sha": "cb9b8ed",
+          "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/cb9b8ed2dbf6c91b06d47f8a0955c3301f3828ff"
         },
         {
           "name": "Chadric-JCU",
@@ -602,16 +602,6 @@
           "latest_msg": "Add files via upload",
           "latest_sha": "3f38ff9",
           "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/3f38ff972cf10a4f19698626537e17cd5c9a5ae9"
-        },
-        {
-          "name": "Vince-1206",
-          "login": "Vince-1206",
-          "kind": "human",
-          "commits": 5,
-          "latest_date": "2026-06-22 00:50",
-          "latest_msg": "Delete vW25/evidence/R5_W25 directory",
-          "latest_sha": "0f4773c",
-          "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/0f4773cad177c93d9f6a5826b62bbd766cb35b80"
         },
         {
           "name": "141242-l",
@@ -644,16 +634,6 @@
           "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/2452d3b0bae71d8ef28095904935be4379473f86"
         },
         {
-          "name": "souyashiinamahiru",
-          "login": "souyashiinamahiru",
-          "kind": "human",
-          "commits": 3,
-          "latest_date": "2026-06-21 17:05",
-          "latest_msg": "Add files via upload",
-          "latest_sha": "6310c9d",
-          "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/6310c9d0886b2cbbdc1e970c6edc6636c66bdf90"
-        },
-        {
           "name": "Juninho",
           "login": "juninho4",
           "kind": "human",
@@ -677,7 +657,7 @@
           "name": "Li-Haoyao",
           "login": "Li-Haoyao",
           "kind": "human",
-          "commits": 2,
+          "commits": 1,
           "latest_date": "2026-07-06 03:13",
           "latest_msg": "Add files via upload",
           "latest_sha": "985c5fd",
