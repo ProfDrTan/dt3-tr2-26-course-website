@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-12 17:28 UTC",
+  "updated": "2026-07-12 18:30 UTC",
   "sprint_tag": "vW28",
   "teams": [
     {
@@ -551,11 +551,11 @@
       "repo": "juninho4/Team-3-Practical-A-CP3405",
       "prac": "A",
       "is_ultra": false,
-      "last_commit_sha": "7579863",
-      "last_commit_msg": "Update Prediction_2026_W28.md",
-      "last_commit_date": "2026-07-12 17:20",
+      "last_commit_sha": "1e983b8",
+      "last_commit_msg": "Delete vW28/Technical Agent/image/charts/p",
+      "last_commit_date": "2026-07-12 17:37",
       "last_commit_author": "Vince-1206",
-      "last_commit_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/75798638e1ce6e172e13766ee882acca4106a1e7",
+      "last_commit_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/1e983b8730df061c7186d2ce8d6418ad84ae8fe6",
       "tags": [
         "vW25",
         "vW24",
@@ -566,8 +566,8 @@
       "sprint_tag_present": false,
       "last_run_name": "R5 Technical Agent Pipeline",
       "last_run_conclusion": "success",
-      "last_run_date": "2026-07-12 17:20",
-      "last_run_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/actions/runs/29201797246",
+      "last_run_date": "2026-07-12 17:37",
+      "last_run_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/actions/runs/29202338875",
       "open_prs": 0,
       "pr_titles": [],
       "pr_links": [],
@@ -577,11 +577,11 @@
           "name": "Vince-1206",
           "login": "Vince-1206",
           "kind": "human",
-          "commits": 24,
-          "latest_date": "2026-07-12 17:20",
-          "latest_msg": "Update Prediction_2026_W28.md",
-          "latest_sha": "7579863",
-          "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/75798638e1ce6e172e13766ee882acca4106a1e7"
+          "commits": 25,
+          "latest_date": "2026-07-12 17:37",
+          "latest_msg": "Delete vW28/Technical Agent/image/charts/p",
+          "latest_sha": "1e983b8",
+          "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/1e983b8730df061c7186d2ce8d6418ad84ae8fe6"
         },
         {
           "name": "ZhangJiayu0201",
@@ -932,7 +932,7 @@
       "open_prs": 0,
       "pr_titles": [],
       "pr_links": [],
-      "days_since_commit": 1,
+      "days_since_commit": 2,
       "contributors": [
         {
           "name": "ProfDrTan",
