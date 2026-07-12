@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-12 12:05 UTC",
+  "updated": "2026-07-12 13:57 UTC",
   "sprint_tag": "vW28",
   "teams": [
     {
@@ -159,16 +159,6 @@
           "latest_msg": "chore: pipeline artifacts 2026-06-21 (#63)",
           "latest_sha": "81da52f",
           "latest_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/81da52f7bd42c52bafd93647272780ce3aa0ec3e"
-        },
-        {
-          "name": "NaingPhonePyae",
-          "login": "NaingPhonePyae",
-          "kind": "human",
-          "commits": 1,
-          "latest_date": "2026-06-21 13:54",
-          "latest_msg": "Update Evidence agent (#59)",
-          "latest_sha": "fdf651f",
-          "latest_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/fdf651f8eb3ae2e39e0c76664f6c952f6ccab2b6"
         }
       ],
       "pr_history": {
@@ -357,23 +347,13 @@
       "sprint_tag_present": false,
       "last_run_name": "Automated R8 LLM Operator",
       "last_run_conclusion": "success",
-      "last_run_date": "2026-07-12 11:32",
-      "last_run_url": "https://github.com/LuJunwen212/CP3405-Project/actions/runs/29191019887",
+      "last_run_date": "2026-07-12 13:49",
+      "last_run_url": "https://github.com/LuJunwen212/CP3405-Project/actions/runs/29195095025",
       "open_prs": 0,
       "pr_titles": [],
       "pr_links": [],
       "days_since_commit": 0,
       "contributors": [
-        {
-          "name": "Hamzah \"Opal\" Nutt",
-          "login": "hamzah-opal-n",
-          "kind": "human",
-          "commits": 8,
-          "latest_date": "2026-06-21 14:26",
-          "latest_msg": "Merge pull request #15 from LuJunwen212/Week-05",
-          "latest_sha": "fed76fa",
-          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/fed76fadc9c4ee35740339a3f01b650e94533bac"
-        },
         {
           "name": "Team2 Data Automation Bot",
           "login": "",
@@ -383,6 +363,16 @@
           "latest_msg": "chore(data): automated market ledger alignment [skip ci]",
           "latest_sha": "1bba590",
           "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/1bba590a427b93ac1d0b7b8213306db672ccea0f"
+        },
+        {
+          "name": "Hamzah \"Opal\" Nutt",
+          "login": "hamzah-opal-n",
+          "kind": "human",
+          "commits": 5,
+          "latest_date": "2026-06-21 14:26",
+          "latest_msg": "Merge pull request #15 from LuJunwen212/Week-05",
+          "latest_sha": "fed76fa",
+          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/fed76fadc9c4ee35740339a3f01b650e94533bac"
         },
         {
           "name": "louis848",
@@ -592,11 +582,11 @@
       "repo": "juninho4/Team-3-Practical-A-CP3405",
       "prac": "A",
       "is_ultra": false,
-      "last_commit_sha": "3f38ff9",
-      "last_commit_msg": "Add files via upload",
-      "last_commit_date": "2026-07-12 07:14",
-      "last_commit_author": "Chadric-JCU",
-      "last_commit_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/3f38ff972cf10a4f19698626537e17cd5c9a5ae9",
+      "last_commit_sha": "d5c38bc",
+      "last_commit_msg": "added sprint goal for w28",
+      "last_commit_date": "2026-07-12 12:16",
+      "last_commit_author": "Juninho",
+      "last_commit_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/d5c38bc1866e572ec27fd33b7dad6a1396317fed",
       "tags": [
         "vW25",
         "vW24",
@@ -614,16 +604,6 @@
       "pr_links": [],
       "days_since_commit": 0,
       "contributors": [
-        {
-          "name": "Vince-1206",
-          "login": "Vince-1206",
-          "kind": "human",
-          "commits": 7,
-          "latest_date": "2026-06-22 00:50",
-          "latest_msg": "Delete vW25/evidence/R5_W25 directory",
-          "latest_sha": "0f4773c",
-          "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/0f4773cad177c93d9f6a5826b62bbd766cb35b80"
-        },
         {
           "name": "ZhangJiayu0201",
           "login": "ZhangJiayu0201",
@@ -645,14 +625,14 @@
           "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/3f38ff972cf10a4f19698626537e17cd5c9a5ae9"
         },
         {
-          "name": "Jiale Zhang",
-          "login": "ZHANGJIALELLLLL",
+          "name": "Vince-1206",
+          "login": "Vince-1206",
           "kind": "human",
-          "commits": 4,
-          "latest_date": "2026-07-09 14:29",
-          "latest_msg": "Create standup_w26.md",
-          "latest_sha": "2452d3b",
-          "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/2452d3b0bae71d8ef28095904935be4379473f86"
+          "commits": 5,
+          "latest_date": "2026-06-22 00:50",
+          "latest_msg": "Delete vW25/evidence/R5_W25 directory",
+          "latest_sha": "0f4773c",
+          "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/0f4773cad177c93d9f6a5826b62bbd766cb35b80"
         },
         {
           "name": "Li-Haoyao",
@@ -685,14 +665,14 @@
           "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/6a8a61ea53b4c4213d171a7d020627af1bf4d069"
         },
         {
-          "name": "Juninho",
-          "login": "juninho4",
+          "name": "Jiale Zhang",
+          "login": "ZHANGJIALELLLLL",
           "kind": "human",
           "commits": 3,
-          "latest_date": "2026-07-03 11:47",
-          "latest_msg": "added W25 ppt",
-          "latest_sha": "b0a4e86",
-          "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/b0a4e86dfb39f5c9f6b5a5c2654d6d79db11e339"
+          "latest_date": "2026-07-09 14:29",
+          "latest_msg": "Create standup_w26.md",
+          "latest_sha": "2452d3b",
+          "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/2452d3b0bae71d8ef28095904935be4379473f86"
         },
         {
           "name": "souyashiinamahiru",
@@ -703,6 +683,16 @@
           "latest_msg": "Add files via upload",
           "latest_sha": "6310c9d",
           "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/6310c9d0886b2cbbdc1e970c6edc6636c66bdf90"
+        },
+        {
+          "name": "Juninho",
+          "login": "juninho4",
+          "kind": "human",
+          "commits": 2,
+          "latest_date": "2026-07-12 12:16",
+          "latest_msg": "added sprint goal for w28",
+          "latest_sha": "d5c38bc",
+          "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/d5c38bc1866e572ec27fd33b7dad6a1396317fed"
         },
         {
           "name": "Jiawei990029",
@@ -829,16 +819,6 @@
           "latest_msg": "Add files via upload",
           "latest_sha": "ee14984",
           "latest_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/ee14984333a1b39e433f6f946c1a6e42a4844035"
-        },
-        {
-          "name": "AJIN-TheHuman",
-          "login": "AJIN-TheHuman",
-          "kind": "human",
-          "commits": 1,
-          "latest_date": "2026-06-21 12:13",
-          "latest_msg": "Add files via upload",
-          "latest_sha": "0c79e2e",
-          "latest_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/0c79e2ea625f8c96e12ce2459577a599c86bef48"
         }
       ],
       "pr_history": {
@@ -871,11 +851,11 @@
       "repo": "Gong-yinxuan/CP3405",
       "prac": "B",
       "is_ultra": false,
-      "last_commit_sha": "8153c61",
-      "last_commit_msg": "Revise technical analysis for Week 6",
-      "last_commit_date": "2026-07-12 09:46",
-      "last_commit_author": "EkaTiu",
-      "last_commit_url": "https://github.com/Gong-yinxuan/CP3405/commit/8153c61e1ee30b7f3a913562ac62e5dfb77478e1",
+      "last_commit_sha": "35f689f",
+      "last_commit_msg": "Merge branch 'main' of https://github.com/Gong-yinxuan/CP340",
+      "last_commit_date": "2026-07-12 13:25",
+      "last_commit_author": "ToHoangGia",
+      "last_commit_url": "https://github.com/Gong-yinxuan/CP3405/commit/35f689f80c3ecd0d2468313141dc1570d0598631",
       "tags": [
         "vW25",
         "vW24",
@@ -884,8 +864,8 @@
       "sprint_tag_present": false,
       "last_run_name": "Update Market Data",
       "last_run_conclusion": "success",
-      "last_run_date": "2026-07-12 11:51",
-      "last_run_url": "https://github.com/Gong-yinxuan/CP3405/actions/runs/29191571820",
+      "last_run_date": "2026-07-12 12:17",
+      "last_run_url": "https://github.com/Gong-yinxuan/CP3405/actions/runs/29192369701",
       "open_prs": 0,
       "pr_titles": [],
       "pr_links": [],
@@ -895,11 +875,11 @@
           "name": "ToHoangGia",
           "login": "ToHoangGia",
           "kind": "human",
-          "commits": 30,
-          "latest_date": "2026-07-11 08:12",
-          "latest_msg": "fix broken data",
-          "latest_sha": "0505fe8",
-          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/0505fe8eb016f2d3711f6273e02e091efd4f59a1"
+          "commits": 32,
+          "latest_date": "2026-07-12 13:25",
+          "latest_msg": "Merge branch 'main' of https://github.com/Gong-yinxuan/CP3405",
+          "latest_sha": "35f689f",
+          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/35f689f80c3ecd0d2468313141dc1570d0598631"
         },
         {
           "name": "Gong-yinxuan",
@@ -926,10 +906,10 @@
           "login": "HYH-design-bot",
           "kind": "bot",
           "commits": 6,
-          "latest_date": "2026-07-12 08:11",
-          "latest_msg": "Reverted accidental data change",
-          "latest_sha": "c17e825",
-          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/c17e825f984a68e961ec2504a8f6c8f57f5d3514"
+          "latest_date": "2026-07-12 12:25",
+          "latest_msg": "Update LLM synthesis ChatGPT portion",
+          "latest_sha": "dbaa1cc",
+          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/dbaa1cc03980d3b90447e22707a6aa7bc7f64207"
         },
         {
           "name": "wujinrui2004",
