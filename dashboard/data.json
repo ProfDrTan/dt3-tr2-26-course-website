@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-12 15:07 UTC",
+  "updated": "2026-07-12 16:12 UTC",
   "sprint_tag": "vW28",
   "teams": [
     {
@@ -21,10 +21,11 @@
       "sprint_tag_present": false,
       "last_run_name": "python-checks",
       "last_run_conclusion": "success",
-      "last_run_date": "2026-07-12 14:17",
-      "last_run_url": "https://github.com/sinder38/Team-1-Prac-A-Project/actions/runs/29195956731",
-      "open_prs": 8,
+      "last_run_date": "2026-07-12 15:13",
+      "last_run_url": "https://github.com/sinder38/Team-1-Prac-A-Project/actions/runs/29197780177",
+      "open_prs": 9,
       "pr_titles": [
+        "Scrum master week 5",
         "chore: pipeline artifacts 2026-07-10",
         "feature/macro-agent",
         "Evidence Images",
@@ -35,6 +36,12 @@
         "Implement regression tests for TechnicalAgent"
       ],
       "pr_links": [
+        {
+          "title": "Scrum master week 5",
+          "number": 73,
+          "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/73",
+          "author": "panhsumyat0179-pixel"
+        },
         {
           "title": "chore: pipeline artifacts 2026-07-10",
           "number": 72,
@@ -87,26 +94,6 @@
       "days_since_commit": 1,
       "contributors": [
         {
-          "name": "sinder",
-          "login": "sinder38",
-          "kind": "human",
-          "commits": 3,
-          "latest_date": "2026-06-21 16:20",
-          "latest_msg": "Add crazy mermaid diogram",
-          "latest_sha": "2577560",
-          "latest_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/25775609f4794d74ee9b5e78ba8e45a82188ede5"
-        },
-        {
-          "name": "Aeron03",
-          "login": "Aeron03",
-          "kind": "human",
-          "commits": 2,
-          "latest_date": "2026-06-21 15:54",
-          "latest_msg": "Create calibration_log_W24.md (#64)",
-          "latest_sha": "9da5dd0",
-          "latest_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/9da5dd0444b04fa6ee08bcd502a3c7598b6f3b0e"
-        },
-        {
           "name": "Oakkar Phyoe",
           "login": "oakkar-cm",
           "kind": "human",
@@ -117,45 +104,25 @@
           "latest_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/5e69e3822f7644645c28ed6dba0c81f6bab18b1a"
         },
         {
-          "name": "PanHsuMyat",
-          "login": "panhsumyat0179-pixel",
+          "name": "sinder",
+          "login": "sinder38",
           "kind": "human",
           "commits": 1,
-          "latest_date": "2026-06-21 16:12",
-          "latest_msg": "Scrum master w5 w25 (#67)",
-          "latest_sha": "cfb6ea1",
-          "latest_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/cfb6ea19610c558a9d1c5e943cfb91820694f187"
-        },
-        {
-          "name": "saikokokyaw",
-          "login": "saikokokyaw",
-          "kind": "human",
-          "commits": 1,
-          "latest_date": "2026-06-21 16:04",
-          "latest_msg": "Feature/human score analysis w25 (#66)",
-          "latest_sha": "2a15ae9",
-          "latest_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/2a15ae942e8f064a7de36737f131c20f32c26f34"
-        },
-        {
-          "name": "github-actions[bot]",
-          "login": "github-actions[bot]",
-          "kind": "bot",
-          "commits": 1,
-          "latest_date": "2026-06-21 15:53",
-          "latest_msg": "chore: pipeline artifacts 2026-06-21 (#63)",
-          "latest_sha": "81da52f",
-          "latest_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/81da52f7bd42c52bafd93647272780ce3aa0ec3e"
+          "latest_date": "2026-06-21 16:20",
+          "latest_msg": "Add crazy mermaid diogram",
+          "latest_sha": "2577560",
+          "latest_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/25775609f4794d74ee9b5e78ba8e45a82188ede5"
         }
       ],
       "pr_history": {
-        "total": 72,
+        "total": 73,
         "merged": 45,
-        "open": 8,
+        "open": 9,
         "abandoned": 19,
         "weekly": {
           "2026-07-06": {
             "merged": 1,
-            "open": 1,
+            "open": 2,
             "abandoned": 1
           },
           "2026-06-29": {
@@ -190,6 +157,14 @@
           }
         },
         "recent": [
+          {
+            "number": 73,
+            "title": "Scrum master week 5",
+            "status": "open",
+            "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/73",
+            "created_at": "2026-07-12",
+            "author": "panhsumyat0179-pixel"
+          },
           {
             "number": 72,
             "title": "chore: pipeline artifacts 2026-07-10",
@@ -301,14 +276,6 @@
             "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/59",
             "created_at": "2026-06-20",
             "author": "NaingPhonePyae"
-          },
-          {
-            "number": 58,
-            "title": "Feat/backend http server",
-            "status": "open",
-            "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/58",
-            "created_at": "2026-06-20",
-            "author": "sinder38"
           }
         ]
       },
@@ -319,84 +286,130 @@
       "repo": "LuJunwen212/CP3405-Project",
       "prac": "A",
       "is_ultra": false,
-      "last_commit_sha": "1bba590",
-      "last_commit_msg": "chore(data): automated market ledger alignment [skip ci]",
-      "last_commit_date": "2026-07-12 11:07",
-      "last_commit_author": "Team2 Data Automatio",
-      "last_commit_url": "https://github.com/LuJunwen212/CP3405-Project/commit/1bba590a427b93ac1d0b7b8213306db672ccea0f",
+      "last_commit_sha": "384ef8b",
+      "last_commit_msg": "Merge pull request #16 from LuJunwen212/Week-06",
+      "last_commit_date": "2026-07-12 15:56",
+      "last_commit_author": "LuJunwen212",
+      "last_commit_url": "https://github.com/LuJunwen212/CP3405-Project/commit/384ef8b4ae8e9ae4bc0cfba3e6407705308e3be0",
       "tags": [
+        "vW28",
         "vW25",
         "vW24",
         "vW23",
         "vW22"
       ],
-      "sprint_tag_present": false,
-      "last_run_name": "Automated R8 LLM Operator",
+      "sprint_tag_present": true,
+      "last_run_name": "Node.js CI",
       "last_run_conclusion": "failure",
-      "last_run_date": "2026-07-12 15:04",
-      "last_run_url": "https://github.com/LuJunwen212/CP3405-Project/actions/runs/29197458955",
+      "last_run_date": "2026-07-12 15:59",
+      "last_run_url": "https://github.com/LuJunwen212/CP3405-Project/actions/runs/29199246949",
       "open_prs": 0,
       "pr_titles": [],
       "pr_links": [],
       "days_since_commit": 0,
       "contributors": [
         {
+          "name": "linyuchu",
+          "login": "mihawk-cell",
+          "kind": "human",
+          "commits": 46,
+          "latest_date": "2026-07-12 14:40",
+          "latest_msg": "Add GitHub Actions workflow for production deployment",
+          "latest_sha": "38a6b67",
+          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/38a6b6705c115fad23f51e6ddfe79cbbafe12f98"
+        },
+        {
+          "name": "Guanyu Lu",
+          "login": "Guanyu-Lu",
+          "kind": "human",
+          "commits": 13,
+          "latest_date": "2026-07-12 08:57",
+          "latest_msg": "Update team members in README.md",
+          "latest_sha": "105a942",
+          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/105a942ef45f4c6d9e4e445a6971bb64b9673b63"
+        },
+        {
+          "name": "LuJunwen212",
+          "login": "LuJunwen212",
+          "kind": "human",
+          "commits": 10,
+          "latest_date": "2026-07-12 15:56",
+          "latest_msg": "Merge pull request #16 from LuJunwen212/Week-06",
+          "latest_sha": "384ef8b",
+          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/384ef8b4ae8e9ae4bc0cfba3e6407705308e3be0"
+        },
+        {
+          "name": "ZhengZaikun",
+          "login": "ZhengZaikun",
+          "kind": "human",
+          "commits": 10,
+          "latest_date": "2026-07-12 13:49",
+          "latest_msg": "Update r8_llm_job.yml",
+          "latest_sha": "72ba45b",
+          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/72ba45bbef1b74c84696eddd24d3918605cb730d"
+        },
+        {
+          "name": "louis848",
+          "login": "louis848",
+          "kind": "human",
+          "commits": 7,
+          "latest_date": "2026-07-12 10:43",
+          "latest_msg": "Update r6_data_pipeline.yml",
+          "latest_sha": "a9ab76a",
+          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/a9ab76a1afd63f3e810abcb17df43bccfef079e1"
+        },
+        {
+          "name": "Kyler017",
+          "login": "Kyler017",
+          "kind": "human",
+          "commits": 5,
+          "latest_date": "2026-07-12 13:58",
+          "latest_msg": "Update r8_llm_operator.py",
+          "latest_sha": "6f76930",
+          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/6f7693061ef1dd8b9c23f0c0926f4a6f2db79120"
+        },
+        {
           "name": "Team2 Data Automation Bot",
           "login": "",
           "kind": "bot",
-          "commits": 6,
+          "commits": 4,
           "latest_date": "2026-07-12 11:07",
           "latest_msg": "chore(data): automated market ledger alignment [skip ci]",
           "latest_sha": "1bba590",
           "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/1bba590a427b93ac1d0b7b8213306db672ccea0f"
         },
         {
-          "name": "louis848",
-          "login": "louis848",
-          "kind": "human",
-          "commits": 4,
-          "latest_date": "2026-07-12 08:09",
-          "latest_msg": "Update r5_technical_automation.py",
-          "latest_sha": "fa7fd9f",
-          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/fa7fd9fc2a1ce9ef1bb05799b905b1ea8562f567"
-        },
-        {
-          "name": "linyuchu",
-          "login": "mihawk-cell",
+          "name": "Team2 R8 LLM Operator",
+          "login": "",
           "kind": "human",
           "commits": 3,
-          "latest_date": "2026-07-12 08:34",
-          "latest_msg": "Rename chart_IWM_W26.png to evidence/screenshots/chart_IWM_W26.png",
-          "latest_sha": "0cefe68",
-          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/0cefe689101595b0faa66d5f28ef425194cf0f3b"
+          "latest_date": "2026-07-12 13:49",
+          "latest_msg": "docs(r8): multi-model comparison ledger updated via cloud free-tier [s",
+          "latest_sha": "8dc9edd",
+          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/8dc9eddae36bec7c41c46d0fd88c763c6a96bf0b"
         },
         {
-          "name": "Team2 Calibration Bot",
-          "login": "",
-          "kind": "bot",
-          "commits": 2,
-          "latest_date": "2026-07-04 08:13",
-          "latest_msg": "chore(r10): automate calibration for W23",
-          "latest_sha": "6602fe2",
-          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/6602fe2f748cb5752ab67e8ff70b743dc6e4c7f6"
-        },
-        {
-          "name": "The Bao Le",
-          "login": "The-Bao-Le",
+          "name": "swan002",
+          "login": "swan002",
           "kind": "human",
-          "commits": 1,
-          "latest_date": "2026-06-25 02:26",
-          "latest_msg": "Delete week24.md",
-          "latest_sha": "7022e85",
-          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/7022e85eb43f02e4b685151bedbde8d0a9103e22"
+          "commits": 2,
+          "latest_date": "2026-07-12 15:04",
+          "latest_msg": "Add prediction_2026-W28_team2.md",
+          "latest_sha": "d688c5f",
+          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/d688c5f5ec01f40073c32d2d37a375345b28fb1b"
         }
       ],
       "pr_history": {
-        "total": 15,
-        "merged": 13,
+        "total": 16,
+        "merged": 14,
         "open": 0,
         "abandoned": 2,
         "weekly": {
+          "2026-07-06": {
+            "merged": 1,
+            "open": 0,
+            "abandoned": 0
+          },
           "2026-06-15": {
             "merged": 5,
             "open": 0,
@@ -419,6 +432,14 @@
           }
         },
         "recent": [
+          {
+            "number": 16,
+            "title": "Week 06",
+            "status": "merged",
+            "url": "https://github.com/LuJunwen212/CP3405-Project/pull/16",
+            "created_at": "2026-07-12",
+            "author": "LuJunwen212"
+          },
           {
             "number": 15,
             "title": "Week 05 merge for the technical agent",
@@ -528,14 +549,6 @@
             "title": "Week 02",
             "status": "merged",
             "url": "https://github.com/LuJunwen212/CP3405-Project/pull/2",
-            "created_at": "2026-05-31",
-            "author": "The-Bao-Le"
-          },
-          {
-            "number": 1,
-            "title": "Week 02",
-            "status": "merged",
-            "url": "https://github.com/LuJunwen212/CP3405-Project/pull/1",
             "created_at": "2026-05-31",
             "author": "The-Bao-Le"
           }
@@ -686,22 +699,24 @@
       "repo": "wintwah-lwin/CP3405_Group_4",
       "prac": "B",
       "is_ultra": false,
-      "last_commit_sha": "920be9f",
-      "last_commit_msg": "Add files via upload",
-      "last_commit_date": "2026-07-12 11:24",
-      "last_commit_author": "Arisa",
-      "last_commit_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/920be9fc16afb2259fc60527cb5766dc1d6a84d0",
+      "last_commit_sha": "f976a28",
+      "last_commit_msg": "chore(pipeline): automated weekly file fetch & consolidation",
+      "last_commit_date": "2026-07-12 15:46",
+      "last_commit_author": "github-actions[bot]",
+      "last_commit_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/f976a2856b0e0f7078b9522b848c17b1ef4cfc28",
       "tags": [
         "v1.0.0",
+        "W28",
         "W25",
         "W24",
-        "W23"
+        "W23",
+        "W7"
       ],
       "sprint_tag_present": false,
-      "last_run_name": "Auto Prediction",
+      "last_run_name": "Weekly Team File Consolidation",
       "last_run_conclusion": "success",
-      "last_run_date": "2026-07-11 20:38",
-      "last_run_url": "https://github.com/wintwah-lwin/CP3405_Group_4/actions/runs/29167398965",
+      "last_run_date": "2026-07-12 15:46",
+      "last_run_url": "https://github.com/wintwah-lwin/CP3405_Group_4/actions/runs/29198837210",
       "open_prs": 1,
       "pr_titles": [
         "Macro update"
@@ -730,7 +745,7 @@
           "name": "louishan42",
           "login": "louishan42",
           "kind": "human",
-          "commits": 9,
+          "commits": 8,
           "latest_date": "2026-07-11 18:35",
           "latest_msg": "Update auto-prediction.yml",
           "latest_sha": "cae70cc",
@@ -741,10 +756,10 @@
           "login": "github-actions[bot]",
           "kind": "bot",
           "commits": 7,
-          "latest_date": "2026-07-11 20:39",
-          "latest_msg": "Auto-commit: Pipeline execution (Week 7)",
-          "latest_sha": "c607e12",
-          "latest_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/c607e120b106b2edcee5a0fdba3d283aa71cc119"
+          "latest_date": "2026-07-12 15:46",
+          "latest_msg": "chore(pipeline): automated weekly file fetch & consolidation (2026-07-",
+          "latest_sha": "f976a28",
+          "latest_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/f976a2856b0e0f7078b9522b848c17b1ef4cfc28"
         },
         {
           "name": "AmiePhyo",
@@ -775,16 +790,6 @@
           "latest_msg": "Rename finviz_1W_2026-W2_Sat.png to finviz_1W_2026-W22_Sat.png",
           "latest_sha": "8881b9e",
           "latest_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/8881b9e099e40628495620430d93f70c04d0cd50"
-        },
-        {
-          "name": "Mingyu-Cai",
-          "login": "Mingyu-Cai",
-          "kind": "human",
-          "commits": 1,
-          "latest_date": "2026-06-21 15:31",
-          "latest_msg": "Add files via upload",
-          "latest_sha": "ee14984",
-          "latest_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/ee14984333a1b39e433f6f946c1a6e42a4844035"
         }
       ],
       "pr_history": {
