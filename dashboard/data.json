@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-12 09:30 UTC",
+  "updated": "2026-07-12 10:32 UTC",
   "sprint_tag": "vW28",
   "teams": [
     {
@@ -355,10 +355,10 @@
         "vW22"
       ],
       "sprint_tag_present": false,
-      "last_run_name": "R3 Almanac Agent Multi-Week Automation P",
+      "last_run_name": "Automated Technical Agent",
       "last_run_conclusion": "success",
-      "last_run_date": "2026-07-11 06:00",
-      "last_run_url": "https://github.com/LuJunwen212/CP3405-Project/actions/runs/29142123250",
+      "last_run_date": "2026-07-12 10:31",
+      "last_run_url": "https://github.com/LuJunwen212/CP3405-Project/actions/runs/29189259747",
       "open_prs": 0,
       "pr_titles": [],
       "pr_links": [],
@@ -403,16 +403,6 @@
           "latest_msg": "Rename chart_IWM_W26.png to evidence/screenshots/chart_IWM_W26.png",
           "latest_sha": "0cefe68",
           "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/0cefe689101595b0faa66d5f28ef425194cf0f3b"
-        },
-        {
-          "name": "LuJunwen212",
-          "login": "LuJunwen212",
-          "kind": "human",
-          "commits": 3,
-          "latest_date": "2026-06-21 10:02",
-          "latest_msg": "Update llm_responses_2026-W25.md",
-          "latest_sha": "eacb237",
-          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/eacb237d61b02d87746ea159c760bc99c0f9dbfb"
         },
         {
           "name": "Team2 Calibration Bot",
@@ -750,11 +740,11 @@
       "repo": "wintwah-lwin/CP3405_Group_4",
       "prac": "B",
       "is_ultra": false,
-      "last_commit_sha": "c607e12",
-      "last_commit_msg": "Auto-commit: Pipeline execution (Week 7)",
-      "last_commit_date": "2026-07-11 20:39",
-      "last_commit_author": "github-actions[bot]",
-      "last_commit_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/c607e120b106b2edcee5a0fdba3d283aa71cc119",
+      "last_commit_sha": "c7e2312",
+      "last_commit_msg": "Human Score overide",
+      "last_commit_date": "2026-07-12 10:27",
+      "last_commit_author": "Arisa",
+      "last_commit_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/c7e2312c0a7f55b6bf5a6715610bb9d2b89ad9f8",
       "tags": [
         "v1.0.0",
         "W25",
@@ -784,11 +774,11 @@
           "name": "Arisa",
           "login": "wintwah-lwin",
           "kind": "human",
-          "commits": 23,
-          "latest_date": "2026-07-11 18:40",
-          "latest_msg": "Delete evidence/Week 28 directory",
-          "latest_sha": "9ae14dd",
-          "latest_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/9ae14ddb145c4af1c6de2c1ac9a88498efa6e61d"
+          "commits": 18,
+          "latest_date": "2026-07-12 10:27",
+          "latest_msg": "Human Score overide",
+          "latest_sha": "c7e2312",
+          "latest_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/c7e2312c0a7f55b6bf5a6715610bb9d2b89ad9f8"
         },
         {
           "name": "louishan42",
@@ -891,11 +881,11 @@
       "repo": "Gong-yinxuan/CP3405",
       "prac": "B",
       "is_ultra": false,
-      "last_commit_sha": "c17e825",
-      "last_commit_msg": "Reverted accidental data change",
-      "last_commit_date": "2026-07-12 08:11",
-      "last_commit_author": "HYH-design-bot",
-      "last_commit_url": "https://github.com/Gong-yinxuan/CP3405/commit/c17e825f984a68e961ec2504a8f6c8f57f5d3514",
+      "last_commit_sha": "8153c61",
+      "last_commit_msg": "Revise technical analysis for Week 6",
+      "last_commit_date": "2026-07-12 09:46",
+      "last_commit_author": "EkaTiu",
+      "last_commit_url": "https://github.com/Gong-yinxuan/CP3405/commit/8153c61e1ee30b7f3a913562ac62e5dfb77478e1",
       "tags": [
         "vW25",
         "vW24",
@@ -912,16 +902,6 @@
       "days_since_commit": 0,
       "contributors": [
         {
-          "name": "Gong-yinxuan",
-          "login": "Gong-yinxuan",
-          "kind": "human",
-          "commits": 36,
-          "latest_date": "2026-07-10 09:02",
-          "latest_msg": "Delete Week8 directory",
-          "latest_sha": "21c5819",
-          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/21c58190140a356b3078fbd9082f0c7b83030597"
-        },
-        {
           "name": "ToHoangGia",
           "login": "ToHoangGia",
           "kind": "human",
@@ -930,6 +910,16 @@
           "latest_msg": "fix broken data",
           "latest_sha": "0505fe8",
           "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/0505fe8eb016f2d3711f6273e02e091efd4f59a1"
+        },
+        {
+          "name": "Gong-yinxuan",
+          "login": "Gong-yinxuan",
+          "kind": "human",
+          "commits": 30,
+          "latest_date": "2026-07-10 09:02",
+          "latest_msg": "Delete Week8 directory",
+          "latest_sha": "21c5819",
+          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/21c58190140a356b3078fbd9082f0c7b83030597"
         },
         {
           "name": "github-actions[bot]",
@@ -945,7 +935,7 @@
           "name": "HYH-design-bot",
           "login": "HYH-design-bot",
           "kind": "bot",
-          "commits": 7,
+          "commits": 6,
           "latest_date": "2026-07-12 08:11",
           "latest_msg": "Reverted accidental data change",
           "latest_sha": "c17e825",
@@ -962,14 +952,14 @@
           "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/2734e3a5624a1f9278957862f177871f1ec880f4"
         },
         {
-          "name": "EkaTiuJCU",
+          "name": "EkaTiu",
           "login": "EkaTiuJCU",
           "kind": "human",
-          "commits": 2,
-          "latest_date": "2026-06-21 09:33",
-          "latest_msg": "some changes on raw response",
-          "latest_sha": "a3ead7e",
-          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/a3ead7e09ba43e8e7ab371654312abb09b600786"
+          "commits": 1,
+          "latest_date": "2026-07-12 09:46",
+          "latest_msg": "Revise technical analysis for Week 6",
+          "latest_sha": "8153c61",
+          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/8153c61e1ee30b7f3a913562ac62e5dfb77478e1"
         },
         {
           "name": "JiangJinsong",
