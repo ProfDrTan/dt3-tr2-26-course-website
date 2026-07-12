@@ -495,6 +495,8 @@ function render(data) {
         <div class="spark-wrap"><div class="spark-lbl">Days since last commit (resets on new activity)</div>${sparkline(t.name,'days_idle','var(--warn)',{suffix:' days'})}</div>
       </div>
       <a class="rlink" href="https://github.com/${t.repo}" target="_blank">Open on GitHub →</a>
+      <a class="rlink" href="https://github.com/${t.repo}/network" target="_blank" style="border-top:none;padding-top:0;">🕸️ Network graph (branches &amp; merges) →</a>
+      <a class="rlink" href="https://github.com/${t.repo}/branches" target="_blank" style="border-top:none;padding-top:0;">🌿 Live branch list (not cached) →</a>
     </div>`;
 
     if (!isUltra) {
