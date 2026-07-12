@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-12 21:33 UTC",
+  "updated": "2026-07-12 22:32 UTC",
   "sprint_tag": "vW28",
   "teams": [
     {
@@ -802,11 +802,11 @@
       "repo": "Gong-yinxuan/CP3405",
       "prac": "B",
       "is_ultra": false,
-      "last_commit_sha": "cc123f4",
-      "last_commit_msg": "Update human_score_W06.md",
-      "last_commit_date": "2026-07-12 14:14",
-      "last_commit_author": "darwin",
-      "last_commit_url": "https://github.com/Gong-yinxuan/CP3405/commit/cc123f44f333b4da515a2b826f6b1c55f85111d2",
+      "last_commit_sha": "e5b7bbe",
+      "last_commit_msg": "Delete Week6/R4_macro/macro_agent_W06.md",
+      "last_commit_date": "2026-07-12 21:56",
+      "last_commit_author": "wujinrui2004",
+      "last_commit_url": "https://github.com/Gong-yinxuan/CP3405/commit/e5b7bbed06e71dffdba89789b415e5a35a193e98",
       "tags": [
         "vW25",
         "vW24",
@@ -853,6 +853,16 @@
           "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/01d8704fdcfa8b3d15217eb34953e92cf35021b7"
         },
         {
+          "name": "wujinrui2004",
+          "login": "wujinrui2004",
+          "kind": "human",
+          "commits": 10,
+          "latest_date": "2026-07-12 21:56",
+          "latest_msg": "Delete Week6/R4_macro/macro_agent_W06.md",
+          "latest_sha": "e5b7bbe",
+          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/e5b7bbed06e71dffdba89789b415e5a35a193e98"
+        },
+        {
           "name": "HYH-design-bot",
           "login": "HYH-design-bot",
           "kind": "bot",
@@ -861,16 +871,6 @@
           "latest_msg": "Update LLM synthesis ChatGPT portion",
           "latest_sha": "dbaa1cc",
           "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/dbaa1cc03980d3b90447e22707a6aa7bc7f64207"
-        },
-        {
-          "name": "wujinrui2004",
-          "login": "wujinrui2004",
-          "kind": "human",
-          "commits": 4,
-          "latest_date": "2026-06-22 03:37",
-          "latest_msg": "Update learning log.md",
-          "latest_sha": "2734e3a",
-          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/2734e3a5624a1f9278957862f177871f1ec880f4"
         },
         {
           "name": "darwin",
