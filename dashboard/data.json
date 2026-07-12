@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-12 22:32 UTC",
+  "updated": "2026-07-12 23:04 UTC",
   "sprint_tag": "vW28",
   "teams": [
     {
@@ -7,11 +7,11 @@
       "repo": "sinder38/Team-1-Prac-A-Project",
       "prac": "A",
       "is_ultra": false,
-      "last_commit_sha": "5e69e38",
-      "last_commit_msg": "fix: weekly pipeline (#71)",
-      "last_commit_date": "2026-07-10 18:55",
-      "last_commit_author": "Oakkar Phyoe",
-      "last_commit_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/5e69e3822f7644645c28ed6dba0c81f6bab18b1a",
+      "last_commit_sha": "fe02bdf",
+      "last_commit_msg": "Add w28 (#74)",
+      "last_commit_date": "2026-07-12 22:40",
+      "last_commit_author": "sinder",
+      "last_commit_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/fe02bdf39b573eccda5bf5338cd4110303c9fd7e",
       "tags": [
         "vW25",
         "vW24",
@@ -91,8 +91,18 @@
           "author": "saikokokyaw"
         }
       ],
-      "days_since_commit": 2,
+      "days_since_commit": 0,
       "contributors": [
+        {
+          "name": "sinder",
+          "login": "sinder38",
+          "kind": "human",
+          "commits": 1,
+          "latest_date": "2026-07-12 22:40",
+          "latest_msg": "Add w28 (#74)",
+          "latest_sha": "fe02bdf",
+          "latest_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/fe02bdf39b573eccda5bf5338cd4110303c9fd7e"
+        },
         {
           "name": "Oakkar Phyoe",
           "login": "oakkar-cm",
@@ -105,13 +115,13 @@
         }
       ],
       "pr_history": {
-        "total": 73,
-        "merged": 45,
+        "total": 74,
+        "merged": 46,
         "open": 9,
         "abandoned": 19,
         "weekly": {
           "2026-07-06": {
-            "merged": 1,
+            "merged": 2,
             "open": 2,
             "abandoned": 1
           },
@@ -147,6 +157,14 @@
           }
         },
         "recent": [
+          {
+            "number": 74,
+            "title": "Add w28 Productio Owner report",
+            "status": "merged",
+            "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/74",
+            "created_at": "2026-07-12",
+            "author": "sinder38"
+          },
           {
             "number": 73,
             "title": "Scrum master week 5",
@@ -258,14 +276,6 @@
             "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/60",
             "created_at": "2026-06-20",
             "author": "JasonEran"
-          },
-          {
-            "number": 59,
-            "title": "Update Evidence agent",
-            "status": "merged",
-            "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/59",
-            "created_at": "2026-06-20",
-            "author": "NaingPhonePyae"
           }
         ]
       },
