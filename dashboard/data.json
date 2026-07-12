@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-12 13:57 UTC",
+  "updated": "2026-07-12 15:07 UTC",
   "sprint_tag": "vW28",
   "teams": [
     {
@@ -21,14 +21,12 @@
       "sprint_tag_present": false,
       "last_run_name": "python-checks",
       "last_run_conclusion": "success",
-      "last_run_date": "2026-07-12 11:02",
-      "last_run_url": "https://github.com/sinder38/Team-1-Prac-A-Project/actions/runs/29190157742",
-      "open_prs": 10,
+      "last_run_date": "2026-07-12 14:17",
+      "last_run_url": "https://github.com/sinder38/Team-1-Prac-A-Project/actions/runs/29195956731",
+      "open_prs": 8,
       "pr_titles": [
         "chore: pipeline artifacts 2026-07-10",
-        "chore: pipeline artifacts 2026-07-06",
         "feature/macro-agent",
-        "chore: pipeline artifacts 2026-06-26",
         "Evidence Images",
         "Add Week 5 delta engine draft",
         "Feat/backend http server",
@@ -44,22 +42,10 @@
           "author": "github-actions[bot]"
         },
         {
-          "title": "chore: pipeline artifacts 2026-07-06",
-          "number": 70,
-          "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/70",
-          "author": "github-actions[bot]"
-        },
-        {
           "title": "feature/macro-agent",
           "number": 69,
           "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/69",
           "author": "NaingPhonePyae"
-        },
-        {
-          "title": "chore: pipeline artifacts 2026-06-26",
-          "number": 68,
-          "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/68",
-          "author": "github-actions[bot]"
         },
         {
           "title": "Evidence Images",
@@ -164,13 +150,13 @@
       "pr_history": {
         "total": 72,
         "merged": 45,
-        "open": 10,
-        "abandoned": 17,
+        "open": 8,
+        "abandoned": 19,
         "weekly": {
           "2026-07-06": {
             "merged": 1,
-            "open": 2,
-            "abandoned": 0
+            "open": 1,
+            "abandoned": 1
           },
           "2026-06-29": {
             "merged": 0,
@@ -179,8 +165,8 @@
           },
           "2026-06-22": {
             "merged": 0,
-            "open": 1,
-            "abandoned": 0
+            "open": 0,
+            "abandoned": 1
           },
           "2026-06-15": {
             "merged": 8,
@@ -223,7 +209,7 @@
           {
             "number": 70,
             "title": "chore: pipeline artifacts 2026-07-06",
-            "status": "open",
+            "status": "abandoned",
             "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/70",
             "created_at": "2026-07-06",
             "author": "github-actions[bot]"
@@ -239,7 +225,7 @@
           {
             "number": 68,
             "title": "chore: pipeline artifacts 2026-06-26",
-            "status": "open",
+            "status": "abandoned",
             "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/68",
             "created_at": "2026-06-26",
             "author": "github-actions[bot]"
@@ -346,9 +332,9 @@
       ],
       "sprint_tag_present": false,
       "last_run_name": "Automated R8 LLM Operator",
-      "last_run_conclusion": "success",
-      "last_run_date": "2026-07-12 13:49",
-      "last_run_url": "https://github.com/LuJunwen212/CP3405-Project/actions/runs/29195095025",
+      "last_run_conclusion": "failure",
+      "last_run_date": "2026-07-12 15:04",
+      "last_run_url": "https://github.com/LuJunwen212/CP3405-Project/actions/runs/29197458955",
       "open_prs": 0,
       "pr_titles": [],
       "pr_links": [],
@@ -358,21 +344,11 @@
           "name": "Team2 Data Automation Bot",
           "login": "",
           "kind": "bot",
-          "commits": 7,
+          "commits": 6,
           "latest_date": "2026-07-12 11:07",
           "latest_msg": "chore(data): automated market ledger alignment [skip ci]",
           "latest_sha": "1bba590",
           "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/1bba590a427b93ac1d0b7b8213306db672ccea0f"
-        },
-        {
-          "name": "Hamzah \"Opal\" Nutt",
-          "login": "hamzah-opal-n",
-          "kind": "human",
-          "commits": 5,
-          "latest_date": "2026-06-21 14:26",
-          "latest_msg": "Merge pull request #15 from LuJunwen212/Week-05",
-          "latest_sha": "fed76fa",
-          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/fed76fadc9c4ee35740339a3f01b650e94533bac"
         },
         {
           "name": "louis848",
@@ -413,16 +389,6 @@
           "latest_msg": "Delete week24.md",
           "latest_sha": "7022e85",
           "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/7022e85eb43f02e4b685151bedbde8d0a9103e22"
-        },
-        {
-          "name": "Kyler017",
-          "login": "Kyler017",
-          "kind": "human",
-          "commits": 1,
-          "latest_date": "2026-06-21 14:47",
-          "latest_msg": "Add files via upload",
-          "latest_sha": "65e758a",
-          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/65e758aa5e17a3f365af4fb003f1712b6992c720"
         }
       ],
       "pr_history": {
@@ -635,16 +601,6 @@
           "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/0f4773cad177c93d9f6a5826b62bbd766cb35b80"
         },
         {
-          "name": "Li-Haoyao",
-          "login": "Li-Haoyao",
-          "kind": "human",
-          "commits": 4,
-          "latest_date": "2026-07-06 03:13",
-          "latest_msg": "Add files via upload",
-          "latest_sha": "985c5fd",
-          "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/985c5fd80072716f32a4a6597a1640f149b10f0f"
-        },
-        {
           "name": "141242-l",
           "login": "141242-l",
           "kind": "human",
@@ -703,6 +659,16 @@
           "latest_msg": "Add files via upload",
           "latest_sha": "59ddb45",
           "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/59ddb45c557c5d7e36a06c1bb949fab04f9b7c8f"
+        },
+        {
+          "name": "Li-Haoyao",
+          "login": "Li-Haoyao",
+          "kind": "human",
+          "commits": 2,
+          "latest_date": "2026-07-06 03:13",
+          "latest_msg": "Add files via upload",
+          "latest_sha": "985c5fd",
+          "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/985c5fd80072716f32a4a6597a1640f149b10f0f"
         }
       ],
       "pr_history": {
@@ -754,7 +720,7 @@
           "name": "Arisa",
           "login": "wintwah-lwin",
           "kind": "human",
-          "commits": 18,
+          "commits": 16,
           "latest_date": "2026-07-12 11:24",
           "latest_msg": "Add files via upload",
           "latest_sha": "920be9f",
@@ -851,11 +817,11 @@
       "repo": "Gong-yinxuan/CP3405",
       "prac": "B",
       "is_ultra": false,
-      "last_commit_sha": "35f689f",
-      "last_commit_msg": "Merge branch 'main' of https://github.com/Gong-yinxuan/CP340",
-      "last_commit_date": "2026-07-12 13:25",
-      "last_commit_author": "ToHoangGia",
-      "last_commit_url": "https://github.com/Gong-yinxuan/CP3405/commit/35f689f80c3ecd0d2468313141dc1570d0598631",
+      "last_commit_sha": "cc123f4",
+      "last_commit_msg": "Update human_score_W06.md",
+      "last_commit_date": "2026-07-12 14:14",
+      "last_commit_author": "darwin",
+      "last_commit_url": "https://github.com/Gong-yinxuan/CP3405/commit/cc123f44f333b4da515a2b826f6b1c55f85111d2",
       "tags": [
         "vW25",
         "vW24",
@@ -905,7 +871,7 @@
           "name": "HYH-design-bot",
           "login": "HYH-design-bot",
           "kind": "bot",
-          "commits": 6,
+          "commits": 5,
           "latest_date": "2026-07-12 12:25",
           "latest_msg": "Update LLM synthesis ChatGPT portion",
           "latest_sha": "dbaa1cc",
@@ -920,6 +886,16 @@
           "latest_msg": "Update learning log.md",
           "latest_sha": "2734e3a",
           "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/2734e3a5624a1f9278957862f177871f1ec880f4"
+        },
+        {
+          "name": "darwin",
+          "login": "DarwinJo05",
+          "kind": "human",
+          "commits": 1,
+          "latest_date": "2026-07-12 13:52",
+          "latest_msg": "Update human_score_W06.md",
+          "latest_sha": "cc123f4",
+          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/cc123f44f333b4da515a2b826f6b1c55f85111d2"
         },
         {
           "name": "EkaTiu",
