@@ -101,7 +101,7 @@ svg.spark{display:block;}
   <div class="sbar">
     <div class="sbar-l">Data as of: <span id="lu">loading...</span></div>
     <div class="sbar-r">
-      <span class="cd" id="cd">auto-checks in 2:00</span>
+      <span class="cd" id="cd">auto-checks in 3:00</span>
       <a class="rbtn" id="forcebtn" style="text-decoration:none;display:inline-block" href="https://github.com/ProfDrTan/dt3-monitor/actions/workflows/monitor.yml" target="_blank" onclick="onForceClick()">⚡ Refresh right now</a>
       <button class="xbtn" id="rbtn" onclick="doRefresh()" title="Re-checks for whatever data is currently published — does not trigger a new collection run">↻ Check for updates</button>
       <button class="xbtn" onclick="resetDelta()" title="Reset delta baseline to current values">Reset Δ baseline</button>
@@ -227,12 +227,29 @@ async function doRefresh() {
 
 function startTimer() {
   if(timer) clearInterval(timer);
-  secs = 120;
+  secs = 180;
   timer = setInterval(async () => {
     secs--;
     const m = Math.floor(secs/60), s = String(secs%60).padStart(2,'0');
-    document.getElementById('cd').textContent = `next refresh in ${m}:${s}`;
-    if (secs <= 0) { secs = 120; await doRefresh(); }
+    document.getElementById('cd').textContent = `next auto-check in ${m}:${s}`;
+    if (secs <= 0) {
+      secs = 180;
+      const prevUpdated = current ? current.updated : null;
+      await doRefresh();
+      const cd = document.getElementById('cd');
+      const nowStr = new Date().toLocaleTimeString('en-GB',{hour:'2-digit',minute:'2-digit'});
+      const gotNew = current && prevUpdated && current.updated !== prevUpdated;
+      const note = gotNew ? `✓ new data found at ${nowStr}` : `checked ${nowStr} — no new data yet (collector runs ~every 10 min)`;
+      cd.title = note;
+      const rem = document.getElementById('forcereminder');
+      if (rem && rem.style.display === 'none') {
+        rem.style.display = 'block';
+        rem.style.background = gotNew ? 'rgba(45,212,191,.08)' : 'rgba(143,163,191,.08)';
+        rem.style.color = gotNew ? 'var(--teal)' : 'var(--muted)';
+        rem.textContent = note;
+        setTimeout(() => { rem.style.display = 'none'; }, 6000);
+      }
+    }
     renderStaleness();
   }, 1000);
 }
