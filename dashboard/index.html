@@ -318,9 +318,12 @@ function prHistoryHtml(t) {
   if (!ph) return '';
   const canvasId = 'prchart_' + t.name.replace(/\s+/g,'_');
   if (ph.total === 0) {
+    const msg = t.is_ultra
+      ? `No pull requests, ever — this repo pushes directly to <code>main</code> too. Same pattern as Teams 3 and 5: no branch isolation, no self-review step. Worth fixing here before pointing at anyone else's workflow.`
+      : `No pull requests, ever — this team pushes directly to <code>main</code>, no branch/review workflow. Not automatically bad, but worth asking about in class: are they aware PRs are the expected pattern?`;
     return `<div class="row"><span class="rl">PR history (full term)</span></div>
       <div style="font-size:.75rem;color:var(--muted);background:rgba(240,165,0,.06);border:1px solid rgba(240,165,0,.2);border-radius:6px;padding:.5rem .6rem;">
-        No pull requests, ever — this team pushes directly to <code>main</code>, no branch/review workflow. Not automatically bad, but worth asking about in class: are they aware PRs are the expected pattern?
+        ${msg}
       </div>`;
   }
   const recentHtml = (ph.recent||[]).slice(0,5).map(r => {
@@ -545,7 +548,7 @@ function render(data) {
         <div class="spark-wrap"><div class="spark-lbl">Total commits this sprint window (momentum)</div>${sparkline(t.name,'total_commits','var(--success)',{suffix:' commits'})}</div>
         <div class="spark-wrap"><div class="spark-lbl">Days since last commit (resets on new activity)</div>${sparkline(t.name,'days_idle','var(--warn)',{suffix:' days'})}</div>
         <hr class="sep">
-        ${!isUltra ? prHistoryHtml(t) : ''}
+        ${prHistoryHtml(t)}
       </div>
       <a class="rlink" href="https://github.com/${t.repo}" target="_blank">Open on GitHub →</a>
       <a class="rlink" href="https://github.com/${t.repo}/network" target="_blank" style="border-top:none;padding-top:0;">🕸️ Network graph (branches &amp; merges) →</a>
