@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-12 03:51 UTC",
+  "updated": "2026-07-12 04:36 UTC",
   "sprint_tag": "vW28",
   "teams": [
     {
@@ -19,10 +19,10 @@
         "vW22"
       ],
       "sprint_tag_present": false,
-      "last_run_name": "Weekly Pipeline",
-      "last_run_conclusion": "success",
-      "last_run_date": "2026-07-10 18:59",
-      "last_run_url": "https://github.com/sinder38/Team-1-Prac-A-Project/actions/runs/29116479465",
+      "last_run_name": "python-checks",
+      "last_run_conclusion": "in_progress",
+      "last_run_date": "2026-07-12 04:35",
+      "last_run_url": "https://github.com/sinder38/Team-1-Prac-A-Project/actions/runs/29179939225",
       "open_prs": 10,
       "pr_titles": [
         "chore: pipeline artifacts 2026-07-10",
