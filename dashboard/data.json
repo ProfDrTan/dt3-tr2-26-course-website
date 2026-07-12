@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-12 06:52 UTC",
+  "updated": "2026-07-12 07:26 UTC",
   "sprint_tag": "vW28",
   "teams": [
     {
@@ -368,7 +368,7 @@
           "name": "Hamzah \"Opal\" Nutt",
           "login": "hamzah-opal-n",
           "kind": "human",
-          "commits": 9,
+          "commits": 8,
           "latest_date": "2026-06-21 14:26",
           "latest_msg": "Merge pull request #15 from LuJunwen212/Week-05",
           "latest_sha": "fed76fa",
@@ -602,11 +602,11 @@
       "repo": "juninho4/Team-3-Practical-A-CP3405",
       "prac": "A",
       "is_ultra": false,
-      "last_commit_sha": "59ddb45",
+      "last_commit_sha": "3f38ff9",
       "last_commit_msg": "Add files via upload",
-      "last_commit_date": "2026-07-12 01:30",
-      "last_commit_author": "Jiawei990029",
-      "last_commit_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/59ddb45c557c5d7e36a06c1bb949fab04f9b7c8f",
+      "last_commit_date": "2026-07-12 07:14",
+      "last_commit_author": "Chadric-JCU",
+      "last_commit_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/3f38ff972cf10a4f19698626537e17cd5c9a5ae9",
       "tags": [
         "vW25",
         "vW24",
@@ -653,6 +653,16 @@
           "latest_msg": "Add files via upload",
           "latest_sha": "7ce0aa3",
           "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/7ce0aa3955aedf759a949a5b83ffd6b360cd2934"
+        },
+        {
+          "name": "Chadric-JCU",
+          "login": "Chadric-JCU",
+          "kind": "human",
+          "commits": 5,
+          "latest_date": "2026-07-12 07:14",
+          "latest_msg": "Add files via upload",
+          "latest_sha": "3f38ff9",
+          "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/3f38ff972cf10a4f19698626537e17cd5c9a5ae9"
         },
         {
           "name": "Li-Haoyao",
@@ -884,8 +894,8 @@
       "sprint_tag_present": false,
       "last_run_name": "Update Market Data",
       "last_run_conclusion": "success",
-      "last_run_date": "2026-07-12 06:40",
-      "last_run_url": "https://github.com/Gong-yinxuan/CP3405/actions/runs/29183010700",
+      "last_run_date": "2026-07-12 07:22",
+      "last_run_url": "https://github.com/Gong-yinxuan/CP3405/actions/runs/29184142722",
       "open_prs": 0,
       "pr_titles": [],
       "pr_links": [],
