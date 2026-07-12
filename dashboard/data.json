@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-12 02:19 UTC",
+  "updated": "2026-07-12 03:48 UTC",
   "sprint_tag": "vW28",
   "teams": [
     {
@@ -223,7 +223,7 @@
           "name": "The Bao Le",
           "login": "The-Bao-Le",
           "kind": "human",
-          "commits": 5,
+          "commits": 4,
           "latest_date": "2026-06-25 02:26",
           "latest_msg": "Delete week24.md",
           "latest_sha": "7022e85",
@@ -278,16 +278,6 @@
           "latest_msg": "Add files via upload",
           "latest_sha": "65e758a",
           "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/65e758aa5e17a3f365af4fb003f1712b6992c720"
-        },
-        {
-          "name": "Guanyu Lu",
-          "login": "Guanyu-Lu",
-          "kind": "human",
-          "commits": 1,
-          "latest_date": "2026-06-21 02:55",
-          "latest_msg": "Refine section headings and formatting in macro_agent_2026-W25.md",
-          "latest_sha": "c9c7c0c",
-          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/c9c7c0c026c08f5ec680c1ee26588e3d7b39b8f9"
         }
       ],
       "repo_url": "https://github.com/LuJunwen212/CP3405-Project"
