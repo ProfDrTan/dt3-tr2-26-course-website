@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-12 04:36 UTC",
+  "updated": "2026-07-12 05:05 UTC",
   "sprint_tag": "vW28",
   "teams": [
     {
@@ -20,9 +20,9 @@
       ],
       "sprint_tag_present": false,
       "last_run_name": "python-checks",
-      "last_run_conclusion": "in_progress",
-      "last_run_date": "2026-07-12 04:35",
-      "last_run_url": "https://github.com/sinder38/Team-1-Prac-A-Project/actions/runs/29179939225",
+      "last_run_conclusion": "success",
+      "last_run_date": "2026-07-12 04:50",
+      "last_run_url": "https://github.com/sinder38/Team-1-Prac-A-Project/actions/runs/29180291489",
       "open_prs": 10,
       "pr_titles": [
         "chore: pipeline artifacts 2026-07-10",
@@ -385,26 +385,6 @@
           "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/7e21d1ea43ad71483742dc6d6567ae7eb059092e"
         },
         {
-          "name": "The Bao Le",
-          "login": "The-Bao-Le",
-          "kind": "human",
-          "commits": 4,
-          "latest_date": "2026-06-25 02:26",
-          "latest_msg": "Delete week24.md",
-          "latest_sha": "7022e85",
-          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/7022e85eb43f02e4b685151bedbde8d0a9103e22"
-        },
-        {
-          "name": "Team2 Calibration Bot",
-          "login": "",
-          "kind": "bot",
-          "commits": 3,
-          "latest_date": "2026-07-04 08:13",
-          "latest_msg": "chore(r10): automate calibration for W23",
-          "latest_sha": "6602fe2",
-          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/6602fe2f748cb5752ab67e8ff70b743dc6e4c7f6"
-        },
-        {
           "name": "LuJunwen212",
           "login": "LuJunwen212",
           "kind": "human",
@@ -413,6 +393,16 @@
           "latest_msg": "Update llm_responses_2026-W25.md",
           "latest_sha": "eacb237",
           "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/eacb237d61b02d87746ea159c760bc99c0f9dbfb"
+        },
+        {
+          "name": "Team2 Calibration Bot",
+          "login": "",
+          "kind": "bot",
+          "commits": 2,
+          "latest_date": "2026-07-04 08:13",
+          "latest_msg": "chore(r10): automate calibration for W23",
+          "latest_sha": "6602fe2",
+          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/6602fe2f748cb5752ab67e8ff70b743dc6e4c7f6"
         },
         {
           "name": "louis848",
@@ -433,6 +423,16 @@
           "latest_msg": "Add prediction_2026-W25_team2.md",
           "latest_sha": "6ba5837",
           "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/6ba5837542dbd3181cd43012adc62e6e9f9f11a6"
+        },
+        {
+          "name": "The Bao Le",
+          "login": "The-Bao-Le",
+          "kind": "human",
+          "commits": 1,
+          "latest_date": "2026-06-25 02:26",
+          "latest_msg": "Delete week24.md",
+          "latest_sha": "7022e85",
+          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/7022e85eb43f02e4b685151bedbde8d0a9103e22"
         },
         {
           "name": "Kyler017",
