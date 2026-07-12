@@ -1,5 +1,5 @@
 {
-  "generated": "Sunday 12 July 2026 14:51 SGT",
+  "generated": "Sunday 12 July 2026 15:25 SGT",
   "teams": {
     "Team 1": {
       "blockers": []
@@ -11,12 +11,6 @@
           "content": "\"**Progress:**\nThis week, I successfully automated the prediction validation process. The system now compares both Human Score and AI predictions with the actual TradingView closing prices automatical",
           "ts_str": "2026-07-10 08:08:29",
           "url": "https://discord.com/channels/1505861202444816455/1505883145466155079/1525051070253109298"
-        },
-        {
-          "author": "vileworx",
-          "content": "Also for R10 work, anyone know what's the status/what needs to be fixed? Since the guy who held that role last time can't access the server. Or can someone please help ask <@1283788299906846750>",
-          "ts_str": "2026-07-10 07:05:38",
-          "url": "https://discord.com/channels/1505861202444816455/1505883145466155079/1525035256481185812"
         }
       ]
     },
