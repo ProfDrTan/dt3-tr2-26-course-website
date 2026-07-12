@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-12 10:58 UTC",
+  "updated": "2026-07-12 12:05 UTC",
   "sprint_tag": "vW28",
   "teams": [
     {
@@ -21,8 +21,8 @@
       "sprint_tag_present": false,
       "last_run_name": "python-checks",
       "last_run_conclusion": "success",
-      "last_run_date": "2026-07-12 04:50",
-      "last_run_url": "https://github.com/sinder38/Team-1-Prac-A-Project/actions/runs/29180291489",
+      "last_run_date": "2026-07-12 11:02",
+      "last_run_url": "https://github.com/sinder38/Team-1-Prac-A-Project/actions/runs/29190157742",
       "open_prs": 10,
       "pr_titles": [
         "chore: pipeline artifacts 2026-07-10",
@@ -343,11 +343,11 @@
       "repo": "LuJunwen212/CP3405-Project",
       "prac": "A",
       "is_ultra": false,
-      "last_commit_sha": "0cefe68",
-      "last_commit_msg": "Rename chart_IWM_W26.png to evidence/screenshots/chart_IWM_W",
-      "last_commit_date": "2026-07-12 08:34",
-      "last_commit_author": "linyuchu",
-      "last_commit_url": "https://github.com/LuJunwen212/CP3405-Project/commit/0cefe689101595b0faa66d5f28ef425194cf0f3b",
+      "last_commit_sha": "1bba590",
+      "last_commit_msg": "chore(data): automated market ledger alignment [skip ci]",
+      "last_commit_date": "2026-07-12 11:07",
+      "last_commit_author": "Team2 Data Automatio",
+      "last_commit_url": "https://github.com/LuJunwen212/CP3405-Project/commit/1bba590a427b93ac1d0b7b8213306db672ccea0f",
       "tags": [
         "vW25",
         "vW24",
@@ -355,10 +355,10 @@
         "vW22"
       ],
       "sprint_tag_present": false,
-      "last_run_name": "R10 Calibration Automation",
+      "last_run_name": "Automated R8 LLM Operator",
       "last_run_conclusion": "success",
-      "last_run_date": "2026-07-12 10:42",
-      "last_run_url": "https://github.com/LuJunwen212/CP3405-Project/actions/runs/29189564779",
+      "last_run_date": "2026-07-12 11:32",
+      "last_run_url": "https://github.com/LuJunwen212/CP3405-Project/actions/runs/29191019887",
       "open_prs": 0,
       "pr_titles": [],
       "pr_links": [],
@@ -378,11 +378,11 @@
           "name": "Team2 Data Automation Bot",
           "login": "",
           "kind": "bot",
-          "commits": 6,
-          "latest_date": "2026-07-10 23:12",
+          "commits": 7,
+          "latest_date": "2026-07-12 11:07",
           "latest_msg": "chore(data): automated market ledger alignment [skip ci]",
-          "latest_sha": "7e21d1e",
-          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/7e21d1ea43ad71483742dc6d6567ae7eb059092e"
+          "latest_sha": "1bba590",
+          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/1bba590a427b93ac1d0b7b8213306db672ccea0f"
         },
         {
           "name": "louis848",
@@ -413,16 +413,6 @@
           "latest_msg": "chore(r10): automate calibration for W23",
           "latest_sha": "6602fe2",
           "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/6602fe2f748cb5752ab67e8ff70b743dc6e4c7f6"
-        },
-        {
-          "name": "swan002",
-          "login": "swan002",
-          "kind": "human",
-          "commits": 2,
-          "latest_date": "2026-06-21 11:36",
-          "latest_msg": "Add prediction_2026-W25_team2.md",
-          "latest_sha": "6ba5837",
-          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/6ba5837542dbd3181cd43012adc62e6e9f9f11a6"
         },
         {
           "name": "The Bao Le",
@@ -625,16 +615,6 @@
       "days_since_commit": 0,
       "contributors": [
         {
-          "name": "Jiale Zhang",
-          "login": "ZHANGJIALELLLLL",
-          "kind": "human",
-          "commits": 8,
-          "latest_date": "2026-07-09 14:29",
-          "latest_msg": "Create standup_w26.md",
-          "latest_sha": "2452d3b",
-          "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/2452d3b0bae71d8ef28095904935be4379473f86"
-        },
-        {
           "name": "Vince-1206",
           "login": "Vince-1206",
           "kind": "human",
@@ -663,6 +643,16 @@
           "latest_msg": "Add files via upload",
           "latest_sha": "3f38ff9",
           "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/3f38ff972cf10a4f19698626537e17cd5c9a5ae9"
+        },
+        {
+          "name": "Jiale Zhang",
+          "login": "ZHANGJIALELLLLL",
+          "kind": "human",
+          "commits": 4,
+          "latest_date": "2026-07-09 14:29",
+          "latest_msg": "Create standup_w26.md",
+          "latest_sha": "2452d3b",
+          "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/2452d3b0bae71d8ef28095904935be4379473f86"
         },
         {
           "name": "Li-Haoyao",
@@ -740,11 +730,11 @@
       "repo": "wintwah-lwin/CP3405_Group_4",
       "prac": "B",
       "is_ultra": false,
-      "last_commit_sha": "f6332ca",
-      "last_commit_msg": "Change cron schedule from Sunday to Saturday",
-      "last_commit_date": "2026-07-12 10:43",
+      "last_commit_sha": "920be9f",
+      "last_commit_msg": "Add files via upload",
+      "last_commit_date": "2026-07-12 11:24",
       "last_commit_author": "Arisa",
-      "last_commit_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/f6332caf7b52cd499ad8992e79187a136f3ed21d",
+      "last_commit_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/920be9fc16afb2259fc60527cb5766dc1d6a84d0",
       "tags": [
         "v1.0.0",
         "W25",
@@ -774,11 +764,11 @@
           "name": "Arisa",
           "login": "wintwah-lwin",
           "kind": "human",
-          "commits": 16,
-          "latest_date": "2026-07-12 10:43",
-          "latest_msg": "Change cron schedule from Sunday to Saturday",
-          "latest_sha": "f6332ca",
-          "latest_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/f6332caf7b52cd499ad8992e79187a136f3ed21d"
+          "commits": 18,
+          "latest_date": "2026-07-12 11:24",
+          "latest_msg": "Add files via upload",
+          "latest_sha": "920be9f",
+          "latest_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/920be9fc16afb2259fc60527cb5766dc1d6a84d0"
         },
         {
           "name": "louishan42",
@@ -894,8 +884,8 @@
       "sprint_tag_present": false,
       "last_run_name": "Update Market Data",
       "last_run_conclusion": "success",
-      "last_run_date": "2026-07-12 08:02",
-      "last_run_url": "https://github.com/Gong-yinxuan/CP3405/actions/runs/29185209597",
+      "last_run_date": "2026-07-12 11:51",
+      "last_run_url": "https://github.com/Gong-yinxuan/CP3405/actions/runs/29191571820",
       "open_prs": 0,
       "pr_titles": [],
       "pr_links": [],
