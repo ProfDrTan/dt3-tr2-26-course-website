@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-12 10:32 UTC",
+  "updated": "2026-07-12 10:58 UTC",
   "sprint_tag": "vW28",
   "teams": [
     {
@@ -355,10 +355,10 @@
         "vW22"
       ],
       "sprint_tag_present": false,
-      "last_run_name": "Automated Technical Agent",
+      "last_run_name": "R10 Calibration Automation",
       "last_run_conclusion": "success",
-      "last_run_date": "2026-07-12 10:31",
-      "last_run_url": "https://github.com/LuJunwen212/CP3405-Project/actions/runs/29189259747",
+      "last_run_date": "2026-07-12 10:42",
+      "last_run_url": "https://github.com/LuJunwen212/CP3405-Project/actions/runs/29189564779",
       "open_prs": 0,
       "pr_titles": [],
       "pr_links": [],
@@ -740,11 +740,11 @@
       "repo": "wintwah-lwin/CP3405_Group_4",
       "prac": "B",
       "is_ultra": false,
-      "last_commit_sha": "c7e2312",
-      "last_commit_msg": "Human Score overide",
-      "last_commit_date": "2026-07-12 10:27",
+      "last_commit_sha": "f6332ca",
+      "last_commit_msg": "Change cron schedule from Sunday to Saturday",
+      "last_commit_date": "2026-07-12 10:43",
       "last_commit_author": "Arisa",
-      "last_commit_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/c7e2312c0a7f55b6bf5a6715610bb9d2b89ad9f8",
+      "last_commit_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/f6332caf7b52cd499ad8992e79187a136f3ed21d",
       "tags": [
         "v1.0.0",
         "W25",
@@ -774,11 +774,11 @@
           "name": "Arisa",
           "login": "wintwah-lwin",
           "kind": "human",
-          "commits": 18,
-          "latest_date": "2026-07-12 10:27",
-          "latest_msg": "Human Score overide",
-          "latest_sha": "c7e2312",
-          "latest_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/c7e2312c0a7f55b6bf5a6715610bb9d2b89ad9f8"
+          "commits": 16,
+          "latest_date": "2026-07-12 10:43",
+          "latest_msg": "Change cron schedule from Sunday to Saturday",
+          "latest_sha": "f6332ca",
+          "latest_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/f6332caf7b52cd499ad8992e79187a136f3ed21d"
         },
         {
           "name": "louishan42",
@@ -794,7 +794,7 @@
           "name": "github-actions[bot]",
           "login": "github-actions[bot]",
           "kind": "bot",
-          "commits": 8,
+          "commits": 7,
           "latest_date": "2026-07-11 20:39",
           "latest_msg": "Auto-commit: Pipeline execution (Week 7)",
           "latest_sha": "c607e12",
