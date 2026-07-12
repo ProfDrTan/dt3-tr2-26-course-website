@@ -101,12 +101,14 @@ svg.spark{display:block;}
   <div class="sbar">
     <div class="sbar-l">Data as of: <span id="lu">loading...</span></div>
     <div class="sbar-r">
-      <span class="cd" id="cd">next refresh in 2:00</span>
-      <button class="rbtn" id="rbtn" onclick="doRefresh()">↻ Refresh Now</button>
-      <a class="xbtn" style="text-decoration:none;display:inline-block" href="https://github.com/ProfDrTan/dt3-monitor/actions/workflows/monitor.yml" target="_blank" title="Refresh Now only re-checks for new data — it can't force GitHub's own scheduler to run early. Use this to trigger a real fresh collection run yourself.">⚡ Force fresh collection</a>
+      <span class="cd" id="cd">auto-checks in 2:00</span>
+      <a class="rbtn" id="forcebtn" style="text-decoration:none;display:inline-block" href="https://github.com/ProfDrTan/dt3-monitor/actions/workflows/monitor.yml" target="_blank" onclick="onForceClick()">⚡ Refresh right now</a>
+      <button class="xbtn" id="rbtn" onclick="doRefresh()" title="Re-checks for whatever data is currently published — does not trigger a new collection run">↻ Check for updates</button>
       <button class="xbtn" onclick="resetDelta()" title="Reset delta baseline to current values">Reset Δ baseline</button>
     </div>
   </div>
+  <div style="font-size:11px;color:var(--muted);margin:-6px 0 10px;">⚡ Refresh right now opens GitHub's own trigger page — click the green "Run workflow" button there, then come back in about 45 seconds and hit "Check for updates" here. Everything on this page is read-only, so a live collection can only be started from GitHub directly, not from this dashboard itself.</div>
+  <div id="forcereminder" style="display:none;background:rgba(45,212,191,.08);border:1px solid rgba(45,212,191,.25);color:var(--teal);padding:8px 14px;border-radius:8px;margin-bottom:10px;font-size:12.5px;"></div>
   <div class="weekend-note" id="weekendnote" style="display:none;"></div>
   <div class="summary" id="summary"></div>
   <div id="stalewarn" style="display:none;background:#7a1f1f;color:#fff;padding:10px 16px;border-radius:8px;margin:10px 0;font-weight:700;font-size:.85rem"></div>
@@ -177,6 +179,27 @@ function renderStaleness() {
   } else {
     el.style.display = 'none';
   }
+}
+
+function onForceClick() {
+  const rem = document.getElementById('forcereminder');
+  if (!rem) return;
+  let secsLeft = 45;
+  rem.style.display = 'block';
+  rem.textContent = `Triggered on GitHub? Come back here — checking automatically in ${secsLeft}s...`;
+  const t = setInterval(() => {
+    secsLeft--;
+    if (secsLeft <= 0) {
+      clearInterval(t);
+      rem.textContent = 'Checking now for the fresh run...';
+      doRefresh().then(() => {
+        rem.textContent = '✓ Checked. If GitHub finished the run in time, you should see new data above. If not, wait another 30s and hit "Check for updates".';
+        setTimeout(() => { rem.style.display = 'none'; }, 8000);
+      });
+    } else {
+      rem.textContent = `Triggered on GitHub? Come back here — checking automatically in ${secsLeft}s...`;
+    }
+  }, 1000);
 }
 
 async function doRefresh() {
