@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-13 00:28 UTC",
+  "updated": "2026-07-13 00:32 UTC",
   "sprint_tag": "vW28",
   "teams": [
     {
@@ -20,9 +20,10 @@
       ],
       "sprint_tag_present": false,
       "last_run_name": "python-checks",
-      "last_run_conclusion": "success",
-      "last_run_date": "2026-07-12 16:52",
-      "last_run_url": "https://github.com/sinder38/Team-1-Prac-A-Project/actions/runs/29200945403",
+      "last_run_conclusion": "failure",
+      "last_run_date": "2026-07-13 00:32",
+      "last_run_url": "https://github.com/sinder38/Team-1-Prac-A-Project/actions/runs/29215536391",
+      "last_run_was_filtered": true,
       "open_prs": 9,
       "pr_titles": [
         "Scrum master week 5",
@@ -299,10 +300,11 @@
         "vW22"
       ],
       "sprint_tag_present": true,
-      "last_run_name": "Node.js CI",
+      "last_run_name": "Automated R8 LLM Operator",
       "last_run_conclusion": "failure",
-      "last_run_date": "2026-07-12 15:59",
-      "last_run_url": "https://github.com/LuJunwen212/CP3405-Project/actions/runs/29199246949",
+      "last_run_date": "2026-07-12 15:42",
+      "last_run_url": "https://github.com/LuJunwen212/CP3405-Project/actions/runs/29198711217",
+      "last_run_was_filtered": true,
       "open_prs": 0,
       "pr_titles": [],
       "pr_links": [],
@@ -578,6 +580,7 @@
       "last_run_conclusion": "success",
       "last_run_date": "2026-07-12 17:37",
       "last_run_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/actions/runs/29202338875",
+      "last_run_was_filtered": true,
       "open_prs": 0,
       "pr_titles": [],
       "pr_links": [],
@@ -707,6 +710,7 @@
       "last_run_conclusion": "success",
       "last_run_date": "2026-07-12 15:46",
       "last_run_url": "https://github.com/wintwah-lwin/CP3405_Group_4/actions/runs/29198837210",
+      "last_run_was_filtered": true,
       "open_prs": 1,
       "pr_titles": [
         "Macro update"
@@ -827,6 +831,7 @@
       "last_run_conclusion": "success",
       "last_run_date": "2026-07-12 12:17",
       "last_run_url": "https://github.com/Gong-yinxuan/CP3405/actions/runs/29192369701",
+      "last_run_was_filtered": true,
       "open_prs": 0,
       "pr_titles": [],
       "pr_links": [],
@@ -939,6 +944,7 @@
       "last_run_conclusion": "success",
       "last_run_date": "2026-07-09 16:41",
       "last_run_url": "https://github.com/ProfDrTan/market-prediction-engine/actions/runs/29034322658",
+      "last_run_was_filtered": true,
       "open_prs": 0,
       "pr_titles": [],
       "pr_links": [],
