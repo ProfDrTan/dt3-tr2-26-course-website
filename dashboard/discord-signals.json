@@ -1,5 +1,5 @@
 {
-  "generated": "Monday 13 July 2026 12:23 SGT",
+  "generated": "Monday 13 July 2026 12:52 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
@@ -49,7 +49,14 @@
       "blockers": []
     },
     "Team 4": {
-      "blockers": []
+      "blockers": [
+        {
+          "author": "louis24",
+          "content": "Guys , Wise cannot make it today\nHe is very sick",
+          "ts_str": "2026-07-13 04:42:28",
+          "url": "https://discord.com/channels/1505861202444816455/1505883243361206392/1526086387856707725"
+        }
+      ]
     },
     "Team 5": {
       "blockers": [
