@@ -1,6 +1,7 @@
 {
-  "updated": "2026-07-13 00:32 UTC",
+  "updated": "2026-07-13 01:14 UTC",
   "sprint_tag": "vW28",
+  "sprint_deadline_utc": "2026-07-12T15:59:00Z",
   "teams": [
     {
       "name": "Team 1",
@@ -20,9 +21,9 @@
       ],
       "sprint_tag_present": false,
       "last_run_name": "python-checks",
-      "last_run_conclusion": "failure",
-      "last_run_date": "2026-07-13 00:32",
-      "last_run_url": "https://github.com/sinder38/Team-1-Prac-A-Project/actions/runs/29215536391",
+      "last_run_conclusion": "success",
+      "last_run_date": "2026-07-13 00:57",
+      "last_run_url": "https://github.com/sinder38/Team-1-Prac-A-Project/actions/runs/29216400012",
       "last_run_was_filtered": true,
       "open_prs": 9,
       "pr_titles": [
@@ -563,11 +564,11 @@
       "repo": "juninho4/Team-3-Practical-A-CP3405",
       "prac": "A",
       "is_ultra": false,
-      "last_commit_sha": "1e983b8",
-      "last_commit_msg": "Delete vW28/Technical Agent/image/charts/p",
-      "last_commit_date": "2026-07-12 17:37",
-      "last_commit_author": "Vince-1206",
-      "last_commit_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/1e983b8730df061c7186d2ce8d6418ad84ae8fe6",
+      "last_commit_sha": "f275db1",
+      "last_commit_msg": "Rename scrum/standup_w28.md to vW28/scrum/standup_w28.md",
+      "last_commit_date": "2026-07-13 01:11",
+      "last_commit_author": "141242-l",
+      "last_commit_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/f275db1e6da0b7721487f2377aff998eaf20186a",
       "tags": [
         "vW25",
         "vW24",
@@ -590,11 +591,21 @@
           "name": "Vince-1206",
           "login": "Vince-1206",
           "kind": "human",
-          "commits": 25,
+          "commits": 20,
           "latest_date": "2026-07-12 17:37",
           "latest_msg": "Delete vW28/Technical Agent/image/charts/p",
           "latest_sha": "1e983b8",
           "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/1e983b8730df061c7186d2ce8d6418ad84ae8fe6"
+        },
+        {
+          "name": "141242-l",
+          "login": "141242-l",
+          "kind": "human",
+          "commits": 8,
+          "latest_date": "2026-07-13 01:11",
+          "latest_msg": "Rename scrum/standup_w28.md to vW28/scrum/standup_w28.md",
+          "latest_sha": "f275db1",
+          "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/f275db1e6da0b7721487f2377aff998eaf20186a"
         },
         {
           "name": "ZhangJiayu0201",
@@ -615,16 +626,6 @@
           "latest_msg": "Add files via upload",
           "latest_sha": "3f38ff9",
           "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/3f38ff972cf10a4f19698626537e17cd5c9a5ae9"
-        },
-        {
-          "name": "141242-l",
-          "login": "141242-l",
-          "kind": "human",
-          "commits": 4,
-          "latest_date": "2026-06-22 02:24",
-          "latest_msg": "Rename vW25/evidence/R3 Almanac System.ipynb to vW25/agents/almanac/R3",
-          "latest_sha": "7335aa4",
-          "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/7335aa40eeca6d78b31fe430a3592e0fbc86b11f"
         },
         {
           "name": "github-actions",
@@ -774,16 +775,6 @@
           "latest_msg": "Add GitHub Actions workflow for Macro Agent",
           "latest_sha": "dbdf3ee",
           "latest_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/dbdf3eea21864f538ae0c7ca38f11614a569ca59"
-        },
-        {
-          "name": "MojunZheng",
-          "login": "MojunZheng",
-          "kind": "human",
-          "commits": 1,
-          "latest_date": "2026-06-22 00:50",
-          "latest_msg": "Rename finviz_1W_2026-W2_Sat.png to finviz_1W_2026-W22_Sat.png",
-          "latest_sha": "8881b9e",
-          "latest_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/8881b9e099e40628495620430d93f70c04d0cd50"
         }
       ],
       "pr_history": {
