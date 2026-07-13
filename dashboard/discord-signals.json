@@ -1,5 +1,5 @@
 {
-  "generated": "Monday 13 July 2026 12:52 SGT",
+  "generated": "Monday 13 July 2026 16:17 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
@@ -14,34 +14,34 @@
     "Team 2": {
       "blockers": [
         {
-          "author": "vileworx",
-          "content": "And for everyone in general, please don't wait until the last minute if you have issues (e.g. can't understand/figure out the code). Stay contactable, speak up and ask for help",
-          "ts_str": "2026-07-13 03:05:43",
-          "url": "https://discord.com/channels/1505861202444816455/1505883145466155079/1526062042954469477"
+          "author": "lujunwen1_29056",
+          "content": "I have taken a screenshot and forwarded the branch question to R9. If there are no problems with this schedule, I will update this week\u2019s Sprint Goal to match the detailed timeline. This should make t",
+          "ts_str": "2026-07-13 07:41:41",
+          "url": "https://discord.com/channels/1505861202444816455/1505883145466155079/1526131492466720888"
         },
         {
           "author": "vileworx",
-          "content": "Reassign next week (not now), but it would be *really* helpful to set deadlines and establish the goals much earlier so that we'll have more time to work and issues won't surface at the last minute",
-          "ts_str": "2026-07-13 03:04:52",
-          "url": "https://discord.com/channels/1505861202444816455/1505883145466155079/1526061829191893073"
-        },
-        {
-          "author": "vileworx",
-          "content": "# FEEDBACK THIS WEEK:\nR1: ???\nR2: need to remove blockers, facilitate retrospectives, sound the alarm when things go very wrong\nR3: code didn't work this week?\nR4: ???\nR5: didn't change the autorun sc",
-          "ts_str": "2026-07-13 03:02:43",
-          "url": "https://discord.com/channels/1505861202444816455/1505883145466155079/1526061286289309797"
+          "content": "Because I'm considering making a separate branch for my R10 tasks so I can document the existing code, fix bugs and commit the changes over time before the final merge",
+          "ts_str": "2026-07-13 07:38:16",
+          "url": "https://discord.com/channels/1505861202444816455/1505883145466155079/1526130631774437377"
         },
         {
           "author": "lujunwen1_29056",
-          "content": "Okay, please finish it as soon as possible and tag me when you\u2019re done. I also need to help R9 create the tag because we haven\u2019t been able to contact him.\n<@541089955611541525><@269686289102667776>",
-          "ts_str": "2026-07-12 15:18:04",
-          "url": "https://discord.com/channels/1505861202444816455/1505883145466155079/1525883956850069505"
+          "content": "@everyone Sprint 7 \u00b7 W29 Task Completion Schedule\n\nTo make the workflow clearer and prevent delays between dependent roles, each role now has a specific completion deadline.\n\nPlease start your work be",
+          "ts_str": "2026-07-13 07:35:01",
+          "url": "https://discord.com/channels/1505861202444816455/1505883145466155079/1526129811268046989"
         },
         {
-          "author": "lujunwen1_29056",
-          "content": "Please work on the other parts first. There are some issues with the R8 section this week.",
-          "ts_str": "2026-07-12 14:43:06",
-          "url": "https://discord.com/channels/1505861202444816455/1505883145466155079/1525875154586960014"
+          "author": "noobydoo2507",
+          "content": "For this DoD, I expect the first 3 items to be done when I dm you on wednesday. If they're not done, this means you have blockers. Give me your reasons/blockers, so I help you resolve the issues. If I",
+          "ts_str": "2026-07-13 06:51:58",
+          "url": "https://discord.com/channels/1505861202444816455/1505883145466155079/1526118980207644672"
+        },
+        {
+          "author": "noobydoo2507",
+          "content": "For example:\n\nDefinition of Done - R6 Data Collector, Sprint 7\n\n- [ ] The data collection script includes the three required indices: SPX, NDX and IWM.\n- [ ] All 11 required S&P 500 sector ETFs are in",
+          "ts_str": "2026-07-13 06:45:34",
+          "url": "https://discord.com/channels/1505861202444816455/1505883145466155079/1526117367208476704"
         }
       ]
     },
