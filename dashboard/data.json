@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-13 04:52 UTC",
+  "updated": "2026-07-13 08:17 UTC",
   "sprint_tag": "vW28",
   "sprint_deadline_utc": "2026-07-12T15:59:00Z",
   "teams": [
@@ -8,11 +8,11 @@
       "repo": "sinder38/Team-1-Prac-A-Project",
       "prac": "A",
       "is_ultra": false,
-      "last_commit_sha": "3b0e234",
-      "last_commit_msg": "Add mixed as valid Weekly regime to LLM output checker",
-      "last_commit_date": "2026-07-13 02:52",
+      "last_commit_sha": "d2fe598",
+      "last_commit_msg": "Fix week number",
+      "last_commit_date": "2026-07-13 06:00",
       "last_commit_author": "sinder",
-      "last_commit_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/3b0e234e2de8c4579bcb41c95db603780936806c",
+      "last_commit_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/d2fe5984ad2471b47cf91718b104693caf29d356",
       "tags": [
         "vW28",
         "vW25",
@@ -21,14 +21,13 @@
         "vW22"
       ],
       "sprint_tag_present": true,
-      "last_run_name": "python-checks",
+      "last_run_name": "agent-checks",
       "last_run_conclusion": "success",
-      "last_run_date": "2026-07-13 02:58",
-      "last_run_url": "https://github.com/sinder38/Team-1-Prac-A-Project/actions/runs/29220634857",
+      "last_run_date": "2026-07-13 06:01",
+      "last_run_url": "https://github.com/sinder38/Team-1-Prac-A-Project/actions/runs/29227762238",
       "last_run_was_filtered": true,
-      "open_prs": 6,
+      "open_prs": 5,
       "pr_titles": [
-        "Add webpage example",
         "Scrum master week 5",
         "feature/macro-agent",
         "Add Week 5 delta engine draft",
@@ -36,12 +35,6 @@
         "Implement regression tests for TechnicalAgent"
       ],
       "pr_links": [
-        {
-          "title": "Add webpage example",
-          "number": 76,
-          "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/76",
-          "author": "oakkar-cm"
-        },
         {
           "title": "Scrum master week 5",
           "number": 73,
@@ -79,11 +72,21 @@
           "name": "sinder",
           "login": "sinder38",
           "kind": "human",
-          "commits": 4,
-          "latest_date": "2026-07-13 02:52",
-          "latest_msg": "Add mixed as valid Weekly regime to LLM output checker",
-          "latest_sha": "3b0e234",
-          "latest_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/3b0e234e2de8c4579bcb41c95db603780936806c"
+          "commits": 5,
+          "latest_date": "2026-07-13 05:58",
+          "latest_msg": "Fix week number",
+          "latest_sha": "d2fe598",
+          "latest_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/d2fe5984ad2471b47cf91718b104693caf29d356"
+        },
+        {
+          "name": "Oakkar Phyoe",
+          "login": "oakkar-cm",
+          "kind": "human",
+          "commits": 2,
+          "latest_date": "2026-07-13 05:59",
+          "latest_msg": "Add webpage example (#76)",
+          "latest_sha": "61ebce7",
+          "latest_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/61ebce721294761fb91710a696c5809d2cf035ef"
         },
         {
           "name": "github-actions[bot]",
@@ -114,27 +117,17 @@
           "latest_msg": "Evidence Images (#62)",
           "latest_sha": "1673bbd",
           "latest_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/1673bbd74441d7f2a775cb11cfc04310c7279d29"
-        },
-        {
-          "name": "Oakkar Phyoe",
-          "login": "oakkar-cm",
-          "kind": "human",
-          "commits": 1,
-          "latest_date": "2026-07-10 18:55",
-          "latest_msg": "fix: weekly pipeline (#71)",
-          "latest_sha": "5e69e38",
-          "latest_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/5e69e3822f7644645c28ed6dba0c81f6bab18b1a"
         }
       ],
       "pr_history": {
         "total": 76,
-        "merged": 50,
-        "open": 6,
+        "merged": 51,
+        "open": 5,
         "abandoned": 20,
         "weekly": {
           "2026-07-13": {
-            "merged": 1,
-            "open": 1,
+            "merged": 2,
+            "open": 0,
             "abandoned": 0
           },
           "2026-07-06": {
@@ -177,7 +170,7 @@
           {
             "number": 76,
             "title": "Add webpage example",
-            "status": "open",
+            "status": "merged",
             "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/76",
             "created_at": "2026-07-13",
             "author": "oakkar-cm"
@@ -708,11 +701,11 @@
       "repo": "wintwah-lwin/CP3405_Group_4",
       "prac": "B",
       "is_ultra": false,
-      "last_commit_sha": "660a4eb",
+      "last_commit_sha": "7cc9073",
       "last_commit_msg": "Auto-commit: Pipeline execution (Week 8)",
-      "last_commit_date": "2026-07-13 04:46",
+      "last_commit_date": "2026-07-13 06:18",
       "last_commit_author": "github-actions[bot]",
-      "last_commit_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/660a4eb2958c91edfd45ac1bbb31915e000c7a32",
+      "last_commit_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/7cc907351439c1ba8151c8a5ce0954bd3693f579",
       "tags": [
         "v1.0.0",
         "W28",
@@ -724,8 +717,8 @@
       "sprint_tag_present": false,
       "last_run_name": "Auto Prediction",
       "last_run_conclusion": "success",
-      "last_run_date": "2026-07-13 04:45",
-      "last_run_url": "https://github.com/wintwah-lwin/CP3405_Group_4/actions/runs/29224699022",
+      "last_run_date": "2026-07-13 06:16",
+      "last_run_url": "https://github.com/wintwah-lwin/CP3405_Group_4/actions/runs/29228496441",
       "last_run_was_filtered": true,
       "open_prs": 1,
       "pr_titles": [
@@ -745,21 +738,21 @@
           "name": "Arisa",
           "login": "wintwah-lwin",
           "kind": "human",
-          "commits": 16,
-          "latest_date": "2026-07-12 11:24",
-          "latest_msg": "Add files via upload",
-          "latest_sha": "920be9f",
-          "latest_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/920be9fc16afb2259fc60527cb5766dc1d6a84d0"
+          "commits": 21,
+          "latest_date": "2026-07-13 05:48",
+          "latest_msg": "Delete evidence/Week 8 directory",
+          "latest_sha": "3d2f21b",
+          "latest_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/3d2f21b8ff06a1104142d2d55a050c0ac35fb624"
         },
         {
           "name": "github-actions[bot]",
           "login": "github-actions[bot]",
           "kind": "bot",
-          "commits": 8,
-          "latest_date": "2026-07-13 04:46",
+          "commits": 10,
+          "latest_date": "2026-07-13 06:18",
           "latest_msg": "Auto-commit: Pipeline execution (Week 8)",
-          "latest_sha": "660a4eb",
-          "latest_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/660a4eb2958c91edfd45ac1bbb31915e000c7a32"
+          "latest_sha": "7cc9073",
+          "latest_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/7cc907351439c1ba8151c8a5ce0954bd3693f579"
         },
         {
           "name": "louishan42",
@@ -822,11 +815,11 @@
       "repo": "Gong-yinxuan/CP3405",
       "prac": "B",
       "is_ultra": false,
-      "last_commit_sha": "95441df",
-      "last_commit_msg": "chore: update Prism data 2026-07-13",
-      "last_commit_date": "2026-07-13 02:51",
-      "last_commit_author": "github-actions[bot]",
-      "last_commit_url": "https://github.com/Gong-yinxuan/CP3405/commit/95441dfe5097924b374a612b978211ddf0cded80",
+      "last_commit_sha": "770669c",
+      "last_commit_msg": "Merge branch 'main' of https://github.com/Gong-yinxuan/CP340",
+      "last_commit_date": "2026-07-13 06:11",
+      "last_commit_author": "ToHoangGia",
+      "last_commit_url": "https://github.com/Gong-yinxuan/CP3405/commit/770669cd61b194dcd747bce02a542a95432104f9",
       "tags": [
         "vW28",
         "vW25",
@@ -836,8 +829,8 @@
       "sprint_tag_present": true,
       "last_run_name": "Update Market Data",
       "last_run_conclusion": "success",
-      "last_run_date": "2026-07-13 02:50",
-      "last_run_url": "https://github.com/Gong-yinxuan/CP3405/actions/runs/29220341730",
+      "last_run_date": "2026-07-13 06:12",
+      "last_run_url": "https://github.com/Gong-yinxuan/CP3405/actions/runs/29228281634",
       "last_run_was_filtered": true,
       "open_prs": 0,
       "pr_titles": [],
@@ -848,11 +841,11 @@
           "name": "ToHoangGia",
           "login": "ToHoangGia",
           "kind": "human",
-          "commits": 30,
-          "latest_date": "2026-07-12 13:25",
+          "commits": 32,
+          "latest_date": "2026-07-13 06:11",
           "latest_msg": "Merge branch 'main' of https://github.com/Gong-yinxuan/CP3405",
-          "latest_sha": "35f689f",
-          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/35f689f80c3ecd0d2468313141dc1570d0598631"
+          "latest_sha": "770669c",
+          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/770669cd61b194dcd747bce02a542a95432104f9"
         },
         {
           "name": "Gong-yinxuan",
@@ -940,22 +933,22 @@
       "repo": "ProfDrTan/market-prediction-engine",
       "prac": "Instructor",
       "is_ultra": true,
-      "last_commit_sha": "0fe2178",
-      "last_commit_msg": "feat: front-end for enhanced Team 2 prediction feed (Weekly ",
-      "last_commit_date": "2026-07-10 18:02",
-      "last_commit_author": "ProfDrTan",
-      "last_commit_url": "https://github.com/ProfDrTan/market-prediction-engine/commit/0fe217852ef8edf1e0f38ec4d264a098e42cc698",
+      "last_commit_sha": "eff94fd",
+      "last_commit_msg": "Weekly calibration scoring: 2026-07-13",
+      "last_commit_date": "2026-07-13 08:09",
+      "last_commit_author": "market-prediction-en",
+      "last_commit_url": "https://github.com/ProfDrTan/market-prediction-engine/commit/eff94fdfc5fc23eaae371a7cc31a38d0e640af2a",
       "tags": [],
       "sprint_tag_present": false,
-      "last_run_name": "Weekly Prediction Pipeline",
+      "last_run_name": "Weekly Calibration Scoring",
       "last_run_conclusion": "success",
-      "last_run_date": "2026-07-09 16:41",
-      "last_run_url": "https://github.com/ProfDrTan/market-prediction-engine/actions/runs/29034322658",
+      "last_run_date": "2026-07-13 08:09",
+      "last_run_url": "https://github.com/ProfDrTan/market-prediction-engine/actions/runs/29234417662",
       "last_run_was_filtered": true,
       "open_prs": 0,
       "pr_titles": [],
       "pr_links": [],
-      "days_since_commit": 2,
+      "days_since_commit": 0,
       "contributors": [
         {
           "name": "ProfDrTan",
@@ -971,11 +964,11 @@
           "name": "market-prediction-engine-bot",
           "login": "actions",
           "kind": "bot",
-          "commits": 5,
-          "latest_date": "2026-07-09 16:45",
-          "latest_msg": "Weekly pipeline run: 2026-07-09",
-          "latest_sha": "11f1f0b",
-          "latest_url": "https://github.com/ProfDrTan/market-prediction-engine/commit/11f1f0ba845f4ec38bb6c6ba6f7db75a8889f5a1"
+          "commits": 6,
+          "latest_date": "2026-07-13 08:09",
+          "latest_msg": "Weekly calibration scoring: 2026-07-13",
+          "latest_sha": "eff94fd",
+          "latest_url": "https://github.com/ProfDrTan/market-prediction-engine/commit/eff94fdfc5fc23eaae371a7cc31a38d0e640af2a"
         }
       ],
       "pr_history": {
