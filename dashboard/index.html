@@ -453,27 +453,49 @@ function sparkline(teamName, field, color, opts) {
   opts = opts || {};
   const rows = history_.filter(h => h.team === teamName).slice(-60);
   const MIN_POINTS_FOR_TREND = 6;
+  const canvasId = 'trend_' + teamName.replace(/\s+/g,'_') + '_' + field;
   if (rows.length < 2) {
     return '<div style="font-size:.65rem;color:var(--muted)">No history yet — first data point just landed. Check back after a few more runs.</div>';
   }
-  const vals = rows.map(r => r[field] ?? 0);
-  const allSame = vals.every(v => v === vals[0]);
-  const max = Math.max(1, ...vals), min = Math.min(0, ...vals);
-  const w = 200, h = 34, pad = 3;
-  const pts = vals.map((v,i) => {
-    const x = pad + (vals.length===1 ? 0 : (i/(vals.length-1)) * (w-2*pad));
-    const y = h - pad - ((v-min)/((max-min)||1)) * (h-2*pad);
-    return `${x.toFixed(1)},${y.toFixed(1)}`;
-  }).join(' ');
-  const lastVal = vals[vals.length-1];
-  const lastPt = pts.split(' ').pop().split(',');
   const thinNote = rows.length < MIN_POINTS_FOR_TREND
-    ? `<div style="font-size:.62rem;color:var(--muted);margin-top:.1rem">only ${rows.length} data point${rows.length===1?'':'s'} so far — tracking started this session, real trend needs a day or two</div>`
-    : (allSame ? `<div style="font-size:.62rem;color:var(--muted);margin-top:.1rem">flat and genuinely unchanged across ${rows.length} checks — not a display bug</div>` : '');
-  return `<svg class="spark" width="${w}" height="${h}" viewBox="0 0 ${w} ${h}">
-    <polyline points="${pts}" fill="none" stroke="${color}" stroke-width="1.6"/>
-    <circle cx="${lastPt[0]}" cy="${lastPt[1]}" r="2.6" fill="${color}"/>
-  </svg><div style="font-size:.65rem;color:var(--muted);margin-top:.1rem">now: ${lastVal}${opts.suffix||''}</div>${thinNote}`;
+    ? `<div style="font-size:.62rem;color:var(--muted);margin-top:.2rem">only ${rows.length} data point${rows.length===1?'':'s'} so far — tracking started this session, real trend needs a day or two</div>`
+    : '';
+  return `<div style="position:relative;width:100%;height:70px;"><canvas id="${canvasId}"></canvas></div>${thinNote}`;
+}
+
+function renderTrendCharts(data) {
+  if (typeof Chart === 'undefined') return;
+  const fields = [
+    { key: 'total_commits', color: '#3dcc8a' },
+    { key: 'days_idle', color: '#f0a500' },
+  ];
+  (data.teams || []).forEach(t => {
+    fields.forEach(f => {
+      const rows = history_.filter(h => h.team === t.name).slice(-60);
+      if (rows.length < 2) return;
+      const canvasId = 'trend_' + t.name.replace(/\s+/g,'_') + '_' + f.key;
+      const el = document.getElementById(canvasId);
+      if (!el) return;
+      const labels = rows.map(r => {
+        const d = new Date(r.ts.replace(' UTC','Z').replace(' ','T'));
+        return (d.getUTCMonth()+1)+'/'+d.getUTCDate()+' '+String(d.getUTCHours()).padStart(2,'0')+':'+String(d.getUTCMinutes()).padStart(2,'0');
+      });
+      const vals = rows.map(r => r[f.key] ?? 0);
+      if (el._chart) el._chart.destroy();
+      el._chart = new Chart(el, {
+        type: 'line',
+        data: { labels, datasets: [{ data: vals, borderColor: f.color, backgroundColor: f.color+'22', fill: true, tension: 0.25, pointRadius: 2, borderWidth: 1.6 }] },
+        options: {
+          responsive: true, maintainAspectRatio: false,
+          plugins: { legend: { display: false } },
+          scales: {
+            x: { display: false },
+            y: { beginAtZero: true, grid: { color: 'rgba(255,255,255,.05)' }, ticks: { color: '#8fa3bf', font: { size: 9 }, precision: 0, maxTicksLimit: 4 } }
+          }
+        }
+      });
+    });
+  });
 }
 
 function render(data) {
@@ -572,7 +594,8 @@ function render(data) {
         ${!isUltra ? discordSignalHtml(t.name) : ''}
         <hr class="sep">
 
-        <div class="row"><span class="rl">Pipeline</span><a class="ev" href="${t.last_run_url}" target="_blank">${runIco(t.last_run_conclusion)}</a></div>
+        <div class="row"><span class="rl" title="Reflects this team's own automation health — separate from whether vW28 was tagged. A passing pipeline does not mean the sprint is done; a failing one does not mean it isn't.">Pipeline ⓘ</span><a class="ev" href="${t.last_run_url}" target="_blank">${runIco(t.last_run_conclusion)}</a></div>
+        ${t.last_run_was_filtered ? '<div style="font-size:.62rem;color:var(--muted);margin-top:-4px;">unrelated CI/deployment noise excluded — showing their actual automation</div>' : ''}
         <div class="row" style="font-size:.72rem"><span class="rl">Run</span><span style="color:var(--muted);text-align:right"><a class="ev" href="${t.last_run_url}" target="_blank">${t.last_run_name||'—'}</a> · ${toSGT(t.last_run_date,'short')}</span></div>
         <hr class="sep">
 
@@ -602,6 +625,7 @@ function render(data) {
   document.getElementById('grid').innerHTML = h;
   document.getElementById('monday').innerHTML = mondayHtml;
   renderPRCharts(data);
+  renderTrendCharts(data);
 }
 
 (async function(){
