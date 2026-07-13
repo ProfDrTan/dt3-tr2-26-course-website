@@ -44,7 +44,27 @@ footer{text-align:center;color:#64748b;padding:36px 22px;border-top:1px solid #d
 @media(max-width:900px){.main{padding:12px}.nav a{padding:12px 14px}}
 </style>
 </head>
-<body>
+<body><div id="g" style="display:none;position:fixed;top:0;left:0;width:100%;height:100%;background:#0a1628;z-index:9999;align-items:center;justify-content:center;">
+  <div style="background:#0d1f3c;border:1px solid rgba(201,168,76,.3);border-radius:16px;padding:2.5rem;text-align:center;max-width:340px;width:100%;">
+    <h2 style="color:#c9a84c;margin-bottom:1rem;">🔒 Instructor Only</h2>
+    <input type="password" id="gp" placeholder="PIN" style="background:#112244;border:1px solid rgba(255,255,255,.15);border-radius:8px;color:#f0f4fa;font-size:1.4rem;letter-spacing:.4em;padding:.75rem;text-align:center;width:100%;margin-bottom:1rem;outline:none;" onkeydown="if(event.key==='Enter')gcheck()">
+    <button onclick="gcheck()" style="background:#c9a84c;color:#071426;font-weight:900;padding:.75rem;border-radius:99px;border:none;cursor:pointer;width:100%;">Unlock</button>
+  </div>
+</div>
+<script>
+(function(){
+  const p=new URLSearchParams(location.search);
+  if(p.get('pin')==='3405'){document.getElementById('g').style.display='none';}
+  else{document.getElementById('g').style.display='flex';}
+})();
+function gcheck(){
+  if(document.getElementById('gp').value.trim()==='3405'){
+    document.getElementById('g').style.display='none';
+  } else {
+    document.getElementById('gp').value='';
+  }
+}
+</script>
 
 <header class="top">
   <div class="brand"><span class="badge">CP3405</span><span>DT3 · System Intelligence Platform</span></div>
