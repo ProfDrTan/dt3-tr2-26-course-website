@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-13 08:17 UTC",
+  "updated": "2026-07-13 11:34 UTC",
   "sprint_tag": "vW28",
   "sprint_deadline_utc": "2026-07-12T15:59:00Z",
   "teams": [
@@ -815,11 +815,11 @@
       "repo": "Gong-yinxuan/CP3405",
       "prac": "B",
       "is_ultra": false,
-      "last_commit_sha": "770669c",
-      "last_commit_msg": "Merge branch 'main' of https://github.com/Gong-yinxuan/CP340",
-      "last_commit_date": "2026-07-13 06:11",
-      "last_commit_author": "ToHoangGia",
-      "last_commit_url": "https://github.com/Gong-yinxuan/CP3405/commit/770669cd61b194dcd747bce02a542a95432104f9",
+      "last_commit_sha": "20d259a",
+      "last_commit_msg": "Create standup_midweek_W29.md",
+      "last_commit_date": "2026-07-13 10:49",
+      "last_commit_author": "HYH-design-bot",
+      "last_commit_url": "https://github.com/Gong-yinxuan/CP3405/commit/20d259a3a7305ef1687b58511ae37d30da5f04b0",
       "tags": [
         "vW28",
         "vW25",
@@ -829,8 +829,8 @@
       "sprint_tag_present": true,
       "last_run_name": "Update Market Data",
       "last_run_conclusion": "success",
-      "last_run_date": "2026-07-13 06:12",
-      "last_run_url": "https://github.com/Gong-yinxuan/CP3405/actions/runs/29228281634",
+      "last_run_date": "2026-07-13 10:33",
+      "last_run_url": "https://github.com/Gong-yinxuan/CP3405/actions/runs/29243177089",
       "last_run_was_filtered": true,
       "open_prs": 0,
       "pr_titles": [],
@@ -868,6 +868,16 @@
           "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/95441dfe5097924b374a612b978211ddf0cded80"
         },
         {
+          "name": "HYH-design-bot",
+          "login": "HYH-design-bot",
+          "kind": "bot",
+          "commits": 8,
+          "latest_date": "2026-07-13 10:49",
+          "latest_msg": "Create standup_midweek_W29.md",
+          "latest_sha": "20d259a",
+          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/20d259a3a7305ef1687b58511ae37d30da5f04b0"
+        },
+        {
           "name": "wujinrui2004",
           "login": "wujinrui2004",
           "kind": "human",
@@ -878,14 +888,14 @@
           "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/e5b7bbed06e71dffdba89789b415e5a35a193e98"
         },
         {
-          "name": "HYH-design-bot",
-          "login": "HYH-design-bot",
-          "kind": "bot",
+          "name": "Kherlenbayar Sukhbaatar",
+          "login": "kherlen31",
+          "kind": "human",
           "commits": 5,
-          "latest_date": "2026-07-12 12:25",
-          "latest_msg": "Update LLM synthesis ChatGPT portion",
-          "latest_sha": "dbaa1cc",
-          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/dbaa1cc03980d3b90447e22707a6aa7bc7f64207"
+          "latest_date": "2026-07-13 09:59",
+          "latest_msg": ".",
+          "latest_sha": "0311767",
+          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/031176737b4e93fb08b241968bd2c07e9ae3d420"
         },
         {
           "name": "darwin",
@@ -933,17 +943,17 @@
       "repo": "ProfDrTan/market-prediction-engine",
       "prac": "Instructor",
       "is_ultra": true,
-      "last_commit_sha": "eff94fd",
-      "last_commit_msg": "Weekly calibration scoring: 2026-07-13",
-      "last_commit_date": "2026-07-13 08:09",
+      "last_commit_sha": "41f6e5d",
+      "last_commit_msg": "Weekly pipeline run: 2026-07-13",
+      "last_commit_date": "2026-07-13 09:40",
       "last_commit_author": "market-prediction-en",
-      "last_commit_url": "https://github.com/ProfDrTan/market-prediction-engine/commit/eff94fdfc5fc23eaae371a7cc31a38d0e640af2a",
+      "last_commit_url": "https://github.com/ProfDrTan/market-prediction-engine/commit/41f6e5d657a3dfc29e7d7cde1eb903655e8e0e04",
       "tags": [],
       "sprint_tag_present": false,
-      "last_run_name": "Weekly Calibration Scoring",
+      "last_run_name": "Weekly Prediction Pipeline",
       "last_run_conclusion": "success",
-      "last_run_date": "2026-07-13 08:09",
-      "last_run_url": "https://github.com/ProfDrTan/market-prediction-engine/actions/runs/29234417662",
+      "last_run_date": "2026-07-13 09:37",
+      "last_run_url": "https://github.com/ProfDrTan/market-prediction-engine/actions/runs/29239823320",
       "last_run_was_filtered": true,
       "open_prs": 0,
       "pr_titles": [],
@@ -964,11 +974,11 @@
           "name": "market-prediction-engine-bot",
           "login": "actions",
           "kind": "bot",
-          "commits": 6,
-          "latest_date": "2026-07-13 08:09",
-          "latest_msg": "Weekly calibration scoring: 2026-07-13",
-          "latest_sha": "eff94fd",
-          "latest_url": "https://github.com/ProfDrTan/market-prediction-engine/commit/eff94fdfc5fc23eaae371a7cc31a38d0e640af2a"
+          "commits": 7,
+          "latest_date": "2026-07-13 09:40",
+          "latest_msg": "Weekly pipeline run: 2026-07-13",
+          "latest_sha": "41f6e5d",
+          "latest_url": "https://github.com/ProfDrTan/market-prediction-engine/commit/41f6e5d657a3dfc29e7d7cde1eb903655e8e0e04"
         }
       ],
       "pr_history": {
