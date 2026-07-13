@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-13 13:50 UTC",
+  "updated": "2026-07-13 16:24 UTC",
   "sprint_tag": "vW28",
   "sprint_deadline_utc": "2026-07-12T15:59:00Z",
   "teams": [
@@ -8,286 +8,26 @@
       "repo": "sinder38/Team-1-Prac-A-Project",
       "prac": "A",
       "is_ultra": false,
-      "last_commit_sha": "d2fe598",
-      "last_commit_msg": "Fix week number",
-      "last_commit_date": "2026-07-13 06:00",
-      "last_commit_author": "sinder",
-      "last_commit_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/d2fe5984ad2471b47cf91718b104693caf29d356",
-      "tags": [
-        "vW28",
-        "vW25",
-        "vW24",
-        "vW23",
-        "vW22"
-      ],
-      "sprint_tag_present": true,
-      "last_run_name": "agent-checks",
-      "last_run_conclusion": "success",
-      "last_run_date": "2026-07-13 06:01",
-      "last_run_url": "https://github.com/sinder38/Team-1-Prac-A-Project/actions/runs/29227762238",
-      "last_run_was_filtered": true,
-      "open_prs": 5,
-      "pr_titles": [
-        "Scrum master week 5",
-        "feature/macro-agent",
-        "Add Week 5 delta engine draft",
-        "adding test_almanac_agent py file",
-        "Implement regression tests for TechnicalAgent"
-      ],
-      "pr_links": [
-        {
-          "title": "Scrum master week 5",
-          "number": 73,
-          "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/73",
-          "author": "panhsumyat0179-pixel"
-        },
-        {
-          "title": "feature/macro-agent",
-          "number": 69,
-          "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/69",
-          "author": "NaingPhonePyae"
-        },
-        {
-          "title": "Add Week 5 delta engine draft",
-          "number": 60,
-          "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/60",
-          "author": "JasonEran"
-        },
-        {
-          "title": "adding test_almanac_agent py file",
-          "number": 57,
-          "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/57",
-          "author": "ZawLattNaung"
-        },
-        {
-          "title": "Implement regression tests for TechnicalAgent",
-          "number": 49,
-          "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/49",
-          "author": "saikokokyaw"
-        }
-      ],
-      "days_since_commit": 0,
-      "contributors": [
-        {
-          "name": "sinder",
-          "login": "sinder38",
-          "kind": "human",
-          "commits": 5,
-          "latest_date": "2026-07-13 05:58",
-          "latest_msg": "Fix week number",
-          "latest_sha": "d2fe598",
-          "latest_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/d2fe5984ad2471b47cf91718b104693caf29d356"
-        },
-        {
-          "name": "Oakkar Phyoe",
-          "login": "oakkar-cm",
-          "kind": "human",
-          "commits": 2,
-          "latest_date": "2026-07-13 05:59",
-          "latest_msg": "Add webpage example (#76)",
-          "latest_sha": "61ebce7",
-          "latest_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/61ebce721294761fb91710a696c5809d2cf035ef"
-        },
-        {
-          "name": "github-actions[bot]",
-          "login": "github-actions[bot]",
-          "kind": "bot",
-          "commits": 1,
-          "latest_date": "2026-07-13 02:37",
-          "latest_msg": "chore: pipeline artifacts 2026-07-10 (#72)",
-          "latest_sha": "65f496b",
-          "latest_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/65f496bac71aa4d4c4f7c09930feaf9a41f89eaa"
-        },
-        {
-          "name": "saikokokyaw",
-          "login": "saikokokyaw",
-          "kind": "human",
-          "commits": 1,
-          "latest_date": "2026-07-13 02:37",
-          "latest_msg": "Feature/human score w28.md (#75)",
-          "latest_sha": "16db407",
-          "latest_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/16db4072d9de0a2e288109338134d9299182796e"
-        },
-        {
-          "name": "NaingPhonePyae",
-          "login": "NaingPhonePyae",
-          "kind": "human",
-          "commits": 1,
-          "latest_date": "2026-07-13 01:33",
-          "latest_msg": "Evidence Images (#62)",
-          "latest_sha": "1673bbd",
-          "latest_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/1673bbd74441d7f2a775cb11cfc04310c7279d29"
-        }
-      ],
+      "last_commit_sha": "?",
+      "last_commit_url": "https://github.com/sinder38/Team-1-Prac-A-Project",
+      "tags": [],
+      "sprint_tag_present": false,
+      "last_run_name": "none",
+      "last_run_conclusion": "none",
+      "last_run_url": "https://github.com/sinder38/Team-1-Prac-A-Project/actions",
+      "last_run_was_filtered": false,
+      "open_prs": 0,
+      "pr_titles": [],
+      "pr_links": [],
+      "days_since_commit": "?",
+      "contributors": [],
       "pr_history": {
-        "total": 76,
-        "merged": 51,
-        "open": 5,
-        "abandoned": 20,
-        "weekly": {
-          "2026-07-13": {
-            "merged": 2,
-            "open": 0,
-            "abandoned": 0
-          },
-          "2026-07-06": {
-            "merged": 3,
-            "open": 1,
-            "abandoned": 1
-          },
-          "2026-06-29": {
-            "merged": 0,
-            "open": 1,
-            "abandoned": 0
-          },
-          "2026-06-22": {
-            "merged": 0,
-            "open": 0,
-            "abandoned": 1
-          },
-          "2026-06-15": {
-            "merged": 10,
-            "open": 2,
-            "abandoned": 1
-          },
-          "2026-06-08": {
-            "merged": 12,
-            "open": 1,
-            "abandoned": 12
-          },
-          "2026-06-01": {
-            "merged": 13,
-            "open": 0,
-            "abandoned": 0
-          },
-          "2026-05-25": {
-            "merged": 11,
-            "open": 0,
-            "abandoned": 5
-          }
-        },
-        "recent": [
-          {
-            "number": 76,
-            "title": "Add webpage example",
-            "status": "merged",
-            "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/76",
-            "created_at": "2026-07-13",
-            "author": "oakkar-cm"
-          },
-          {
-            "number": 75,
-            "title": "Feature/human score w28.md",
-            "status": "merged",
-            "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/75",
-            "created_at": "2026-07-13",
-            "author": "saikokokyaw"
-          },
-          {
-            "number": 74,
-            "title": "Add w28 Productio Owner report",
-            "status": "merged",
-            "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/74",
-            "created_at": "2026-07-12",
-            "author": "sinder38"
-          },
-          {
-            "number": 73,
-            "title": "Scrum master week 5",
-            "status": "open",
-            "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/73",
-            "created_at": "2026-07-12",
-            "author": "panhsumyat0179-pixel"
-          },
-          {
-            "number": 72,
-            "title": "chore: pipeline artifacts 2026-07-10",
-            "status": "merged",
-            "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/72",
-            "created_at": "2026-07-10",
-            "author": "github-actions[bot]"
-          },
-          {
-            "number": 71,
-            "title": "fix: prevent LLM stage from crashing the weekly pipeline",
-            "status": "merged",
-            "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/71",
-            "created_at": "2026-07-06",
-            "author": "oakkar-cm"
-          },
-          {
-            "number": 70,
-            "title": "chore: pipeline artifacts 2026-07-06",
-            "status": "abandoned",
-            "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/70",
-            "created_at": "2026-07-06",
-            "author": "github-actions[bot]"
-          },
-          {
-            "number": 69,
-            "title": "feature/macro-agent",
-            "status": "open",
-            "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/69",
-            "created_at": "2026-07-03",
-            "author": "NaingPhonePyae"
-          },
-          {
-            "number": 68,
-            "title": "chore: pipeline artifacts 2026-06-26",
-            "status": "abandoned",
-            "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/68",
-            "created_at": "2026-06-26",
-            "author": "github-actions[bot]"
-          },
-          {
-            "number": 67,
-            "title": "Scrum master w5 w25",
-            "status": "merged",
-            "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/67",
-            "created_at": "2026-06-21",
-            "author": "panhsumyat0179-pixel"
-          },
-          {
-            "number": 66,
-            "title": "Feature/human score analysis w25",
-            "status": "merged",
-            "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/66",
-            "created_at": "2026-06-21",
-            "author": "saikokokyaw"
-          },
-          {
-            "number": 65,
-            "title": "Create learning_log_W24.md",
-            "status": "merged",
-            "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/65",
-            "created_at": "2026-06-21",
-            "author": "Aeron03"
-          },
-          {
-            "number": 64,
-            "title": "Create calibration_log_W24.md",
-            "status": "merged",
-            "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/64",
-            "created_at": "2026-06-21",
-            "author": "Aeron03"
-          },
-          {
-            "number": 63,
-            "title": "chore: pipeline artifacts 2026-06-21",
-            "status": "merged",
-            "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/63",
-            "created_at": "2026-06-21",
-            "author": "github-actions[bot]"
-          },
-          {
-            "number": 62,
-            "title": "Evidence Images",
-            "status": "merged",
-            "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/62",
-            "created_at": "2026-06-21",
-            "author": "NaingPhonePyae"
-          }
-        ]
+        "total": 0,
+        "merged": 0,
+        "open": 0,
+        "abandoned": 0,
+        "weekly": {},
+        "recent": []
       },
       "repo_url": "https://github.com/sinder38/Team-1-Prac-A-Project"
     },
@@ -296,274 +36,26 @@
       "repo": "LuJunwen212/CP3405-Project",
       "prac": "A",
       "is_ultra": false,
-      "last_commit_sha": "384ef8b",
-      "last_commit_msg": "Merge pull request #16 from LuJunwen212/Week-06",
-      "last_commit_date": "2026-07-12 15:56",
-      "last_commit_author": "LuJunwen212",
-      "last_commit_url": "https://github.com/LuJunwen212/CP3405-Project/commit/384ef8b4ae8e9ae4bc0cfba3e6407705308e3be0",
-      "tags": [
-        "vW28",
-        "vW25",
-        "vW24",
-        "vW23",
-        "vW22"
-      ],
-      "sprint_tag_present": true,
-      "last_run_name": "Automated R8 LLM Operator",
-      "last_run_conclusion": "failure",
-      "last_run_date": "2026-07-12 15:42",
-      "last_run_url": "https://github.com/LuJunwen212/CP3405-Project/actions/runs/29198711217",
-      "last_run_was_filtered": true,
+      "last_commit_sha": "?",
+      "last_commit_url": "https://github.com/LuJunwen212/CP3405-Project",
+      "tags": [],
+      "sprint_tag_present": false,
+      "last_run_name": "none",
+      "last_run_conclusion": "none",
+      "last_run_url": "https://github.com/LuJunwen212/CP3405-Project/actions",
+      "last_run_was_filtered": false,
       "open_prs": 0,
       "pr_titles": [],
       "pr_links": [],
-      "days_since_commit": 0,
-      "contributors": [
-        {
-          "name": "linyuchu",
-          "login": "mihawk-cell",
-          "kind": "human",
-          "commits": 46,
-          "latest_date": "2026-07-12 14:40",
-          "latest_msg": "Add GitHub Actions workflow for production deployment",
-          "latest_sha": "38a6b67",
-          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/38a6b6705c115fad23f51e6ddfe79cbbafe12f98"
-        },
-        {
-          "name": "Guanyu Lu",
-          "login": "Guanyu-Lu",
-          "kind": "human",
-          "commits": 13,
-          "latest_date": "2026-07-12 08:57",
-          "latest_msg": "Update team members in README.md",
-          "latest_sha": "105a942",
-          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/105a942ef45f4c6d9e4e445a6971bb64b9673b63"
-        },
-        {
-          "name": "LuJunwen212",
-          "login": "LuJunwen212",
-          "kind": "human",
-          "commits": 10,
-          "latest_date": "2026-07-12 15:56",
-          "latest_msg": "Merge pull request #16 from LuJunwen212/Week-06",
-          "latest_sha": "384ef8b",
-          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/384ef8b4ae8e9ae4bc0cfba3e6407705308e3be0"
-        },
-        {
-          "name": "ZhengZaikun",
-          "login": "ZhengZaikun",
-          "kind": "human",
-          "commits": 10,
-          "latest_date": "2026-07-12 13:49",
-          "latest_msg": "Update r8_llm_job.yml",
-          "latest_sha": "72ba45b",
-          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/72ba45bbef1b74c84696eddd24d3918605cb730d"
-        },
-        {
-          "name": "louis848",
-          "login": "louis848",
-          "kind": "human",
-          "commits": 7,
-          "latest_date": "2026-07-12 10:43",
-          "latest_msg": "Update r6_data_pipeline.yml",
-          "latest_sha": "a9ab76a",
-          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/a9ab76a1afd63f3e810abcb17df43bccfef079e1"
-        },
-        {
-          "name": "Kyler017",
-          "login": "Kyler017",
-          "kind": "human",
-          "commits": 5,
-          "latest_date": "2026-07-12 13:58",
-          "latest_msg": "Update r8_llm_operator.py",
-          "latest_sha": "6f76930",
-          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/6f7693061ef1dd8b9c23f0c0926f4a6f2db79120"
-        },
-        {
-          "name": "Team2 Data Automation Bot",
-          "login": "",
-          "kind": "bot",
-          "commits": 4,
-          "latest_date": "2026-07-12 11:07",
-          "latest_msg": "chore(data): automated market ledger alignment [skip ci]",
-          "latest_sha": "1bba590",
-          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/1bba590a427b93ac1d0b7b8213306db672ccea0f"
-        },
-        {
-          "name": "Team2 R8 LLM Operator",
-          "login": "",
-          "kind": "human",
-          "commits": 3,
-          "latest_date": "2026-07-12 13:49",
-          "latest_msg": "docs(r8): multi-model comparison ledger updated via cloud free-tier [s",
-          "latest_sha": "8dc9edd",
-          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/8dc9eddae36bec7c41c46d0fd88c763c6a96bf0b"
-        },
-        {
-          "name": "swan002",
-          "login": "swan002",
-          "kind": "human",
-          "commits": 2,
-          "latest_date": "2026-07-12 15:04",
-          "latest_msg": "Add prediction_2026-W28_team2.md",
-          "latest_sha": "d688c5f",
-          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/d688c5f5ec01f40073c32d2d37a375345b28fb1b"
-        }
-      ],
+      "days_since_commit": "?",
+      "contributors": [],
       "pr_history": {
-        "total": 16,
-        "merged": 14,
+        "total": 0,
+        "merged": 0,
         "open": 0,
-        "abandoned": 2,
-        "weekly": {
-          "2026-07-06": {
-            "merged": 1,
-            "open": 0,
-            "abandoned": 0
-          },
-          "2026-06-15": {
-            "merged": 5,
-            "open": 0,
-            "abandoned": 1
-          },
-          "2026-06-08": {
-            "merged": 4,
-            "open": 0,
-            "abandoned": 0
-          },
-          "2026-06-01": {
-            "merged": 2,
-            "open": 0,
-            "abandoned": 1
-          },
-          "2026-05-25": {
-            "merged": 2,
-            "open": 0,
-            "abandoned": 0
-          }
-        },
-        "recent": [
-          {
-            "number": 16,
-            "title": "Week 06",
-            "status": "merged",
-            "url": "https://github.com/LuJunwen212/CP3405-Project/pull/16",
-            "created_at": "2026-07-12",
-            "author": "LuJunwen212"
-          },
-          {
-            "number": 15,
-            "title": "Week 05 merge for the technical agent",
-            "status": "merged",
-            "url": "https://github.com/LuJunwen212/CP3405-Project/pull/15",
-            "created_at": "2026-06-21",
-            "author": "hamzah-opal-n"
-          },
-          {
-            "number": 14,
-            "title": "Week 05",
-            "status": "merged",
-            "url": "https://github.com/LuJunwen212/CP3405-Project/pull/14",
-            "created_at": "2026-06-21",
-            "author": "The-Bao-Le"
-          },
-          {
-            "number": 13,
-            "title": "Update files from main",
-            "status": "abandoned",
-            "url": "https://github.com/LuJunwen212/CP3405-Project/pull/13",
-            "created_at": "2026-06-20",
-            "author": "The-Bao-Le"
-          },
-          {
-            "number": 12,
-            "title": "Update actuals",
-            "status": "merged",
-            "url": "https://github.com/LuJunwen212/CP3405-Project/pull/12",
-            "created_at": "2026-06-20",
-            "author": "The-Bao-Le"
-          },
-          {
-            "number": 11,
-            "title": "chore(data): automated market ledger alignment [skip ci]",
-            "status": "merged",
-            "url": "https://github.com/LuJunwen212/CP3405-Project/pull/11",
-            "created_at": "2026-06-20",
-            "author": "The-Bao-Le"
-          },
-          {
-            "number": 10,
-            "title": "chore(data): automated market ledger alignment [skip ci]",
-            "status": "merged",
-            "url": "https://github.com/LuJunwen212/CP3405-Project/pull/10",
-            "created_at": "2026-06-20",
-            "author": "The-Bao-Le"
-          },
-          {
-            "number": 9,
-            "title": "Add files via upload",
-            "status": "merged",
-            "url": "https://github.com/LuJunwen212/CP3405-Project/pull/9",
-            "created_at": "2026-06-14",
-            "author": "The-Bao-Le"
-          },
-          {
-            "number": 8,
-            "title": "Week 04",
-            "status": "merged",
-            "url": "https://github.com/LuJunwen212/CP3405-Project/pull/8",
-            "created_at": "2026-06-14",
-            "author": "The-Bao-Le"
-          },
-          {
-            "number": 7,
-            "title": "Update week 4 branch",
-            "status": "merged",
-            "url": "https://github.com/LuJunwen212/CP3405-Project/pull/7",
-            "created_at": "2026-06-13",
-            "author": "The-Bao-Le"
-          },
-          {
-            "number": 6,
-            "title": "Week 04 - Saturday",
-            "status": "merged",
-            "url": "https://github.com/LuJunwen212/CP3405-Project/pull/6",
-            "created_at": "2026-06-13",
-            "author": "The-Bao-Le"
-          },
-          {
-            "number": 5,
-            "title": "Week 03",
-            "status": "merged",
-            "url": "https://github.com/LuJunwen212/CP3405-Project/pull/5",
-            "created_at": "2026-06-07",
-            "author": "MannimMond811"
-          },
-          {
-            "number": 4,
-            "title": "Update Week 22 Actuals and Sectors",
-            "status": "merged",
-            "url": "https://github.com/LuJunwen212/CP3405-Project/pull/4",
-            "created_at": "2026-06-07",
-            "author": "Kyler017"
-          },
-          {
-            "number": 3,
-            "title": "Update actuals_2026-W22.md",
-            "status": "abandoned",
-            "url": "https://github.com/LuJunwen212/CP3405-Project/pull/3",
-            "created_at": "2026-06-07",
-            "author": "Kyler017"
-          },
-          {
-            "number": 2,
-            "title": "Week 02",
-            "status": "merged",
-            "url": "https://github.com/LuJunwen212/CP3405-Project/pull/2",
-            "created_at": "2026-05-31",
-            "author": "The-Bao-Le"
-          }
-        ]
+        "abandoned": 0,
+        "weekly": {},
+        "recent": []
       },
       "repo_url": "https://github.com/LuJunwen212/CP3405-Project"
     },
@@ -572,120 +64,19 @@
       "repo": "juninho4/Team-3-Practical-A-CP3405",
       "prac": "A",
       "is_ultra": false,
-      "last_commit_sha": "7f5ccb1",
-      "last_commit_msg": "Add files via upload",
-      "last_commit_date": "2026-07-13 03:17",
-      "last_commit_author": "Li-Haoyao",
-      "last_commit_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/7f5ccb161cd343a8a4b9bc626a2d665fa44e3283",
-      "tags": [
-        "vW25",
-        "vW24",
-        "vW23",
-        "vW22",
-        "W25"
-      ],
+      "last_commit_sha": "?",
+      "last_commit_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405",
+      "tags": [],
       "sprint_tag_present": false,
-      "last_run_name": "R5 Technical Agent Pipeline",
-      "last_run_conclusion": "success",
-      "last_run_date": "2026-07-12 17:37",
-      "last_run_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/actions/runs/29202338875",
-      "last_run_was_filtered": true,
+      "last_run_name": "none",
+      "last_run_conclusion": "none",
+      "last_run_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/actions",
+      "last_run_was_filtered": false,
       "open_prs": 0,
       "pr_titles": [],
       "pr_links": [],
-      "days_since_commit": 0,
-      "contributors": [
-        {
-          "name": "Vince-1206",
-          "login": "Vince-1206",
-          "kind": "human",
-          "commits": 20,
-          "latest_date": "2026-07-12 17:37",
-          "latest_msg": "Delete vW28/Technical Agent/image/charts/p",
-          "latest_sha": "1e983b8",
-          "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/1e983b8730df061c7186d2ce8d6418ad84ae8fe6"
-        },
-        {
-          "name": "ZhangJiayu0201",
-          "login": "ZhangJiayu0201",
-          "kind": "human",
-          "commits": 5,
-          "latest_date": "2026-07-12 16:14",
-          "latest_msg": "Delete vW28/123",
-          "latest_sha": "cb9b8ed",
-          "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/cb9b8ed2dbf6c91b06d47f8a0955c3301f3828ff"
-        },
-        {
-          "name": "Chadric-JCU",
-          "login": "Chadric-JCU",
-          "kind": "human",
-          "commits": 5,
-          "latest_date": "2026-07-12 07:14",
-          "latest_msg": "Add files via upload",
-          "latest_sha": "3f38ff9",
-          "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/3f38ff972cf10a4f19698626537e17cd5c9a5ae9"
-        },
-        {
-          "name": "Jiale Zhang",
-          "login": "ZHANGJIALELLLLL",
-          "kind": "human",
-          "commits": 4,
-          "latest_date": "2026-07-13 02:05",
-          "latest_msg": "Update standup_w28.md",
-          "latest_sha": "21bfacb",
-          "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/21bfacbed06a37456e557438fa7c66a0866a39ea"
-        },
-        {
-          "name": "141242-l",
-          "login": "141242-l",
-          "kind": "human",
-          "commits": 4,
-          "latest_date": "2026-07-13 01:11",
-          "latest_msg": "Rename scrum/standup_w28.md to vW28/scrum/standup_w28.md",
-          "latest_sha": "f275db1",
-          "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/f275db1e6da0b7721487f2377aff998eaf20186a"
-        },
-        {
-          "name": "github-actions",
-          "login": "invalid-email-address",
-          "kind": "bot",
-          "commits": 3,
-          "latest_date": "2026-07-10 16:14",
-          "latest_msg": "Add Friday market close data",
-          "latest_sha": "6a8a61e",
-          "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/6a8a61ea53b4c4213d171a7d020627af1bf4d069"
-        },
-        {
-          "name": "Li-Haoyao",
-          "login": "Li-Haoyao",
-          "kind": "human",
-          "commits": 2,
-          "latest_date": "2026-07-13 03:17",
-          "latest_msg": "Add files via upload",
-          "latest_sha": "7f5ccb1",
-          "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/7f5ccb161cd343a8a4b9bc626a2d665fa44e3283"
-        },
-        {
-          "name": "Juninho",
-          "login": "juninho4",
-          "kind": "human",
-          "commits": 2,
-          "latest_date": "2026-07-12 12:16",
-          "latest_msg": "added sprint goal for w28",
-          "latest_sha": "d5c38bc",
-          "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/d5c38bc1866e572ec27fd33b7dad6a1396317fed"
-        },
-        {
-          "name": "Jiawei990029",
-          "login": "Jiawei990029",
-          "kind": "human",
-          "commits": 2,
-          "latest_date": "2026-07-12 01:30",
-          "latest_msg": "Add files via upload",
-          "latest_sha": "59ddb45",
-          "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/59ddb45c557c5d7e36a06c1bb949fab04f9b7c8f"
-        }
-      ],
+      "days_since_commit": "?",
+      "contributors": [],
       "pr_history": {
         "total": 0,
         "merged": 0,
@@ -701,112 +92,26 @@
       "repo": "wintwah-lwin/CP3405_Group_4",
       "prac": "B",
       "is_ultra": false,
-      "last_commit_sha": "7cc9073",
-      "last_commit_msg": "Auto-commit: Pipeline execution (Week 8)",
-      "last_commit_date": "2026-07-13 06:18",
-      "last_commit_author": "github-actions[bot]",
-      "last_commit_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/7cc907351439c1ba8151c8a5ce0954bd3693f579",
-      "tags": [
-        "v1.0.0",
-        "W28",
-        "W25",
-        "W24",
-        "W23",
-        "W7"
-      ],
+      "last_commit_sha": "?",
+      "last_commit_url": "https://github.com/wintwah-lwin/CP3405_Group_4",
+      "tags": [],
       "sprint_tag_present": false,
-      "last_run_name": "Auto Prediction",
-      "last_run_conclusion": "success",
-      "last_run_date": "2026-07-13 06:16",
-      "last_run_url": "https://github.com/wintwah-lwin/CP3405_Group_4/actions/runs/29228496441",
-      "last_run_was_filtered": true,
-      "open_prs": 1,
-      "pr_titles": [
-        "Macro update"
-      ],
-      "pr_links": [
-        {
-          "title": "Macro update",
-          "number": 1,
-          "url": "https://github.com/wintwah-lwin/CP3405_Group_4/pull/1",
-          "author": "wintwah-lwin"
-        }
-      ],
-      "days_since_commit": 0,
-      "contributors": [
-        {
-          "name": "Arisa",
-          "login": "wintwah-lwin",
-          "kind": "human",
-          "commits": 21,
-          "latest_date": "2026-07-13 05:48",
-          "latest_msg": "Delete evidence/Week 8 directory",
-          "latest_sha": "3d2f21b",
-          "latest_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/3d2f21b8ff06a1104142d2d55a050c0ac35fb624"
-        },
-        {
-          "name": "github-actions[bot]",
-          "login": "github-actions[bot]",
-          "kind": "bot",
-          "commits": 10,
-          "latest_date": "2026-07-13 06:18",
-          "latest_msg": "Auto-commit: Pipeline execution (Week 8)",
-          "latest_sha": "7cc9073",
-          "latest_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/7cc907351439c1ba8151c8a5ce0954bd3693f579"
-        },
-        {
-          "name": "louishan42",
-          "login": "louishan42",
-          "kind": "human",
-          "commits": 7,
-          "latest_date": "2026-07-11 18:35",
-          "latest_msg": "Update auto-prediction.yml",
-          "latest_sha": "cae70cc",
-          "latest_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/cae70ccfcbd0a993a1b502c52073ce21afa9d445"
-        },
-        {
-          "name": "AmiePhyo",
-          "login": "AmiePhyo",
-          "kind": "human",
-          "commits": 5,
-          "latest_date": "2026-07-06 15:22",
-          "latest_msg": "Fix final prediction parser and human score detection",
-          "latest_sha": "332462f",
-          "latest_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/332462f16f9d3236af5113e3b4e3731417fd188a"
-        },
-        {
-          "name": "Arisa",
-          "login": "arisa-exe",
-          "kind": "human",
-          "commits": 1,
-          "latest_date": "2026-07-06 04:50",
-          "latest_msg": "Add GitHub Actions workflow for Macro Agent",
-          "latest_sha": "dbdf3ee",
-          "latest_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/dbdf3eea21864f538ae0c7ca38f11614a569ca59"
-        }
-      ],
+      "last_run_name": "none",
+      "last_run_conclusion": "none",
+      "last_run_url": "https://github.com/wintwah-lwin/CP3405_Group_4/actions",
+      "last_run_was_filtered": false,
+      "open_prs": 0,
+      "pr_titles": [],
+      "pr_links": [],
+      "days_since_commit": "?",
+      "contributors": [],
       "pr_history": {
-        "total": 1,
+        "total": 0,
         "merged": 0,
-        "open": 1,
+        "open": 0,
         "abandoned": 0,
-        "weekly": {
-          "2026-07-06": {
-            "merged": 0,
-            "open": 1,
-            "abandoned": 0
-          }
-        },
-        "recent": [
-          {
-            "number": 1,
-            "title": "Macro update",
-            "status": "open",
-            "url": "https://github.com/wintwah-lwin/CP3405_Group_4/pull/1",
-            "created_at": "2026-07-06",
-            "author": "wintwah-lwin"
-          }
-        ]
+        "weekly": {},
+        "recent": []
       },
       "repo_url": "https://github.com/wintwah-lwin/CP3405_Group_4"
     },
@@ -815,119 +120,19 @@
       "repo": "Gong-yinxuan/CP3405",
       "prac": "B",
       "is_ultra": false,
-      "last_commit_sha": "20d259a",
-      "last_commit_msg": "Create standup_midweek_W29.md",
-      "last_commit_date": "2026-07-13 10:49",
-      "last_commit_author": "HYH-design-bot",
-      "last_commit_url": "https://github.com/Gong-yinxuan/CP3405/commit/20d259a3a7305ef1687b58511ae37d30da5f04b0",
-      "tags": [
-        "vW28",
-        "vW25",
-        "vW24",
-        "W23"
-      ],
-      "sprint_tag_present": true,
-      "last_run_name": "Update Market Data",
-      "last_run_conclusion": "success",
-      "last_run_date": "2026-07-13 10:33",
-      "last_run_url": "https://github.com/Gong-yinxuan/CP3405/actions/runs/29243177089",
-      "last_run_was_filtered": true,
+      "last_commit_sha": "?",
+      "last_commit_url": "https://github.com/Gong-yinxuan/CP3405",
+      "tags": [],
+      "sprint_tag_present": false,
+      "last_run_name": "none",
+      "last_run_conclusion": "none",
+      "last_run_url": "https://github.com/Gong-yinxuan/CP3405/actions",
+      "last_run_was_filtered": false,
       "open_prs": 0,
       "pr_titles": [],
       "pr_links": [],
-      "days_since_commit": 0,
-      "contributors": [
-        {
-          "name": "ToHoangGia",
-          "login": "ToHoangGia",
-          "kind": "human",
-          "commits": 32,
-          "latest_date": "2026-07-13 06:11",
-          "latest_msg": "Merge branch 'main' of https://github.com/Gong-yinxuan/CP3405",
-          "latest_sha": "770669c",
-          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/770669cd61b194dcd747bce02a542a95432104f9"
-        },
-        {
-          "name": "Gong-yinxuan",
-          "login": "Gong-yinxuan",
-          "kind": "human",
-          "commits": 29,
-          "latest_date": "2026-07-10 09:02",
-          "latest_msg": "Delete Week8 directory",
-          "latest_sha": "21c5819",
-          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/21c58190140a356b3078fbd9082f0c7b83030597"
-        },
-        {
-          "name": "github-actions[bot]",
-          "login": "github-actions[bot]",
-          "kind": "bot",
-          "commits": 16,
-          "latest_date": "2026-07-13 02:51",
-          "latest_msg": "chore: update Prism data 2026-07-13",
-          "latest_sha": "95441df",
-          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/95441dfe5097924b374a612b978211ddf0cded80"
-        },
-        {
-          "name": "HYH-design-bot",
-          "login": "HYH-design-bot",
-          "kind": "bot",
-          "commits": 8,
-          "latest_date": "2026-07-13 10:49",
-          "latest_msg": "Create standup_midweek_W29.md",
-          "latest_sha": "20d259a",
-          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/20d259a3a7305ef1687b58511ae37d30da5f04b0"
-        },
-        {
-          "name": "wujinrui2004",
-          "login": "wujinrui2004",
-          "kind": "human",
-          "commits": 6,
-          "latest_date": "2026-07-12 21:56",
-          "latest_msg": "Delete Week6/R4_macro/macro_agent_W06.md",
-          "latest_sha": "e5b7bbe",
-          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/e5b7bbed06e71dffdba89789b415e5a35a193e98"
-        },
-        {
-          "name": "Kherlenbayar Sukhbaatar",
-          "login": "kherlen31",
-          "kind": "human",
-          "commits": 5,
-          "latest_date": "2026-07-13 09:59",
-          "latest_msg": ".",
-          "latest_sha": "0311767",
-          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/031176737b4e93fb08b241968bd2c07e9ae3d420"
-        },
-        {
-          "name": "darwin",
-          "login": "DarwinJo05",
-          "kind": "human",
-          "commits": 1,
-          "latest_date": "2026-07-12 13:52",
-          "latest_msg": "Update human_score_W06.md",
-          "latest_sha": "cc123f4",
-          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/cc123f44f333b4da515a2b826f6b1c55f85111d2"
-        },
-        {
-          "name": "EkaTiu",
-          "login": "EkaTiuJCU",
-          "kind": "human",
-          "commits": 1,
-          "latest_date": "2026-07-12 09:46",
-          "latest_msg": "Revise technical analysis for Week 6",
-          "latest_sha": "8153c61",
-          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/8153c61e1ee30b7f3a913562ac62e5dfb77478e1"
-        },
-        {
-          "name": "JiangJinsong",
-          "login": "JiangJinsong",
-          "kind": "human",
-          "commits": 1,
-          "latest_date": "2026-07-11 08:51",
-          "latest_msg": "Add files via upload",
-          "latest_sha": "ef09a7c",
-          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/ef09a7ce3ee20f0e4dd30351fcc8b11ba847ca39"
-        }
-      ],
+      "days_since_commit": "?",
+      "contributors": [],
       "pr_history": {
         "total": 0,
         "merged": 0,
@@ -943,44 +148,19 @@
       "repo": "ProfDrTan/market-prediction-engine",
       "prac": "Instructor",
       "is_ultra": true,
-      "last_commit_sha": "41f6e5d",
-      "last_commit_msg": "Weekly pipeline run: 2026-07-13",
-      "last_commit_date": "2026-07-13 09:40",
-      "last_commit_author": "market-prediction-en",
-      "last_commit_url": "https://github.com/ProfDrTan/market-prediction-engine/commit/41f6e5d657a3dfc29e7d7cde1eb903655e8e0e04",
+      "last_commit_sha": "?",
+      "last_commit_url": "https://github.com/ProfDrTan/market-prediction-engine",
       "tags": [],
       "sprint_tag_present": false,
-      "last_run_name": "Weekly Prediction Pipeline",
-      "last_run_conclusion": "success",
-      "last_run_date": "2026-07-13 09:37",
-      "last_run_url": "https://github.com/ProfDrTan/market-prediction-engine/actions/runs/29239823320",
-      "last_run_was_filtered": true,
+      "last_run_name": "none",
+      "last_run_conclusion": "none",
+      "last_run_url": "https://github.com/ProfDrTan/market-prediction-engine/actions",
+      "last_run_was_filtered": false,
       "open_prs": 0,
       "pr_titles": [],
       "pr_links": [],
-      "days_since_commit": 0,
-      "contributors": [
-        {
-          "name": "ProfDrTan",
-          "login": "ProfDrTan",
-          "kind": "human",
-          "commits": 20,
-          "latest_date": "2026-07-10 18:02",
-          "latest_msg": "feat: front-end for enhanced Team 2 prediction feed (Weekly Almanac)",
-          "latest_sha": "0fe2178",
-          "latest_url": "https://github.com/ProfDrTan/market-prediction-engine/commit/0fe217852ef8edf1e0f38ec4d264a098e42cc698"
-        },
-        {
-          "name": "market-prediction-engine-bot",
-          "login": "actions",
-          "kind": "bot",
-          "commits": 7,
-          "latest_date": "2026-07-13 09:40",
-          "latest_msg": "Weekly pipeline run: 2026-07-13",
-          "latest_sha": "41f6e5d",
-          "latest_url": "https://github.com/ProfDrTan/market-prediction-engine/commit/41f6e5d657a3dfc29e7d7cde1eb903655e8e0e04"
-        }
-      ],
+      "days_since_commit": "?",
+      "contributors": [],
       "pr_history": {
         "total": 0,
         "merged": 0,
