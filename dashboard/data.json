@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-14 11:52 UTC",
+  "updated": "2026-07-14 13:42 UTC",
   "sprint_tag": "vW29",
   "sprint_deadline_utc": "2026-07-19T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W29",
@@ -303,11 +303,11 @@
       "repo": "LuJunwen212/CP3405-Project",
       "prac": "A",
       "is_ultra": false,
-      "last_commit_sha": "384ef8b",
-      "last_commit_msg": "Merge pull request #16 from LuJunwen212/Week-06",
-      "last_commit_date": "2026-07-12 15:56",
-      "last_commit_author": "LuJunwen212",
-      "last_commit_url": "https://github.com/LuJunwen212/CP3405-Project/commit/384ef8b4ae8e9ae4bc0cfba3e6407705308e3be0",
+      "last_commit_sha": "e7b0afb",
+      "last_commit_msg": "chore(data): automated market ledger alignment [skip ci]",
+      "last_commit_date": "2026-07-14 12:55",
+      "last_commit_author": "Team2 Data Automatio",
+      "last_commit_url": "https://github.com/LuJunwen212/CP3405-Project/commit/e7b0afb8dbcbbfda09b156edf5d553e0324ab908",
       "tags": [
         "vW28",
         "vW25",
@@ -316,15 +316,15 @@
         "vW22"
       ],
       "sprint_tag_present": false,
-      "last_run_name": "R10 Calibration Automation",
+      "last_run_name": "Automated Technical Agent",
       "last_run_conclusion": "success",
-      "last_run_date": "2026-07-14 11:28",
-      "last_run_url": "https://github.com/LuJunwen212/CP3405-Project/actions/runs/29329030294",
+      "last_run_date": "2026-07-14 12:55",
+      "last_run_url": "https://github.com/LuJunwen212/CP3405-Project/actions/runs/29334377430",
       "last_run_was_filtered": true,
       "open_prs": 0,
       "pr_titles": [],
       "pr_links": [],
-      "days_since_commit": 1,
+      "days_since_commit": 0,
       "contributors": [
         {
           "name": "linyuchu",
@@ -360,7 +360,7 @@
           "name": "ZhengZaikun",
           "login": "ZhengZaikun",
           "kind": "human",
-          "commits": 10,
+          "commits": 9,
           "latest_date": "2026-07-12 13:49",
           "latest_msg": "Update r8_llm_job.yml",
           "latest_sha": "72ba45b",
@@ -377,6 +377,16 @@
           "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/a9ab76a1afd63f3e810abcb17df43bccfef079e1"
         },
         {
+          "name": "Team2 Data Automation Bot",
+          "login": "",
+          "kind": "bot",
+          "commits": 5,
+          "latest_date": "2026-07-14 12:55",
+          "latest_msg": "chore(data): automated market ledger alignment [skip ci]",
+          "latest_sha": "e7b0afb",
+          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/e7b0afb8dbcbbfda09b156edf5d553e0324ab908"
+        },
+        {
           "name": "Kyler017",
           "login": "Kyler017",
           "kind": "human",
@@ -385,16 +395,6 @@
           "latest_msg": "Update r8_llm_operator.py",
           "latest_sha": "6f76930",
           "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/6f7693061ef1dd8b9c23f0c0926f4a6f2db79120"
-        },
-        {
-          "name": "Team2 Data Automation Bot",
-          "login": "",
-          "kind": "bot",
-          "commits": 4,
-          "latest_date": "2026-07-12 11:07",
-          "latest_msg": "chore(data): automated market ledger alignment [skip ci]",
-          "latest_sha": "1bba590",
-          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/1bba590a427b93ac1d0b7b8213306db672ccea0f"
         },
         {
           "name": "Team2 R8 LLM Operator",
