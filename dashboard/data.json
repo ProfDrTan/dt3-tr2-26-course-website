@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-14 08:31 UTC",
+  "updated": "2026-07-14 08:33 UTC",
   "sprint_tag": "vW29",
   "sprint_deadline_utc": "2026-07-19T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W29",
@@ -975,8 +975,8 @@
       },
       "midweek_artefact": {
         "present": true,
-        "path": "Week7/R1_Product_Owner/sprint_goal_W29.md",
-        "url": "https://github.com/Gong-yinxuan/CP3405/blob/aa1d77d28419653e3dfa683f4817ba457abce0d8/Week7/R1_Product_Owner/sprint_goal_W29.md"
+        "path": "Week7/R2_Scrum_Master/standup_midweek_W29.md",
+        "url": "https://github.com/Gong-yinxuan/CP3405/blob/aa1d77d28419653e3dfa683f4817ba457abce0d8/Week7/R2_Scrum_Master/standup_midweek_W29.md"
       },
       "repo_url": "https://github.com/Gong-yinxuan/CP3405"
     },
