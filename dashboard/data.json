@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-14 00:12 UTC",
+  "updated": "2026-07-14 03:40 UTC",
   "sprint_tag": "vW28",
   "sprint_deadline_utc": "2026-07-12T15:59:00Z",
   "teams": [
@@ -593,7 +593,7 @@
       "open_prs": 0,
       "pr_titles": [],
       "pr_links": [],
-      "days_since_commit": 0,
+      "days_since_commit": 1,
       "contributors": [
         {
           "name": "Vince-1206",
@@ -832,9 +832,18 @@
       "last_run_date": "2026-07-13 10:33",
       "last_run_url": "https://github.com/Gong-yinxuan/CP3405/actions/runs/29243177089",
       "last_run_was_filtered": true,
-      "open_prs": 0,
-      "pr_titles": [],
-      "pr_links": [],
+      "open_prs": 1,
+      "pr_titles": [
+        "R4 Work_ Week8"
+      ],
+      "pr_links": [
+        {
+          "title": "R4 Work_ Week8",
+          "number": 1,
+          "url": "https://github.com/Gong-yinxuan/CP3405/pull/1",
+          "author": "ToHoangGia"
+        }
+      ],
       "days_since_commit": 0,
       "contributors": [
         {
@@ -929,12 +938,27 @@
         }
       ],
       "pr_history": {
-        "total": 0,
+        "total": 1,
         "merged": 0,
-        "open": 0,
+        "open": 1,
         "abandoned": 0,
-        "weekly": {},
-        "recent": []
+        "weekly": {
+          "2026-07-13": {
+            "merged": 0,
+            "open": 1,
+            "abandoned": 0
+          }
+        },
+        "recent": [
+          {
+            "number": 1,
+            "title": "R4 Work_ Week8",
+            "status": "open",
+            "url": "https://github.com/Gong-yinxuan/CP3405/pull/1",
+            "created_at": "2026-07-14",
+            "author": "ToHoangGia"
+          }
+        ]
       },
       "repo_url": "https://github.com/Gong-yinxuan/CP3405"
     },
