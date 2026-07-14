@@ -1,15 +1,8 @@
 {
-  "generated": "Tuesday 14 July 2026 16:32 SGT",
+  "generated": "Tuesday 14 July 2026 18:20 SGT",
   "teams": {
     "Team 1": {
-      "blockers": [
-        {
-          "author": "whitley_90776",
-          "content": "Hi everyone, could you please answer these questions?\n\nWhat have you completed or contributed so far?\nDid you face any blockers or challenges?\nWhat went well during this sprint?\nIs there anything we c",
-          "ts_str": "2026-07-12 10:18:54",
-          "url": "https://discord.com/channels/1505861202444816455/1505883026771677366/1525808666924814346"
-        }
-      ]
+      "blockers": []
     },
     "Team 2": {
       "blockers": [
