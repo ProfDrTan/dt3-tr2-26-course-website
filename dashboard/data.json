@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-14 05:58 UTC",
+  "updated": "2026-07-14 08:24 UTC",
   "sprint_tag": "vW28",
   "sprint_deadline_utc": "2026-07-12T15:59:00Z",
   "teams": [
@@ -66,7 +66,7 @@
           "author": "saikokokyaw"
         }
       ],
-      "days_since_commit": 0,
+      "days_since_commit": 1,
       "contributors": [
         {
           "name": "sinder",
@@ -309,10 +309,10 @@
         "vW22"
       ],
       "sprint_tag_present": true,
-      "last_run_name": "R3 Almanac Agent Multi-Week Automation P",
+      "last_run_name": "Automated Technical Agent",
       "last_run_conclusion": "success",
-      "last_run_date": "2026-07-14 05:17",
-      "last_run_url": "https://github.com/LuJunwen212/CP3405-Project/actions/runs/29308125132",
+      "last_run_date": "2026-07-14 07:04",
+      "last_run_url": "https://github.com/LuJunwen212/CP3405-Project/actions/runs/29313365422",
       "last_run_was_filtered": true,
       "open_prs": 0,
       "pr_titles": [],
@@ -572,11 +572,11 @@
       "repo": "juninho4/Team-3-Practical-A-CP3405",
       "prac": "A",
       "is_ultra": false,
-      "last_commit_sha": "7f5ccb1",
-      "last_commit_msg": "Add files via upload",
-      "last_commit_date": "2026-07-13 03:17",
-      "last_commit_author": "Li-Haoyao",
-      "last_commit_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/7f5ccb161cd343a8a4b9bc626a2d665fa44e3283",
+      "last_commit_sha": "b0c68f7",
+      "last_commit_msg": "Add automated git operations in run_output.bat",
+      "last_commit_date": "2026-07-14 06:48",
+      "last_commit_author": "141242-l",
+      "last_commit_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/b0c68f7e1b9d74290efa737ccf1bdd1777fe6b51",
       "tags": [
         "vW25",
         "vW24",
@@ -593,7 +593,7 @@
       "open_prs": 0,
       "pr_titles": [],
       "pr_links": [],
-      "days_since_commit": 1,
+      "days_since_commit": 0,
       "contributors": [
         {
           "name": "Vince-1206",
@@ -604,6 +604,16 @@
           "latest_msg": "Delete vW28/Technical Agent/image/charts/p",
           "latest_sha": "1e983b8",
           "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/1e983b8730df061c7186d2ce8d6418ad84ae8fe6"
+        },
+        {
+          "name": "141242-l",
+          "login": "141242-l",
+          "kind": "human",
+          "commits": 6,
+          "latest_date": "2026-07-14 06:48",
+          "latest_msg": "Add automated git operations in run_output.bat",
+          "latest_sha": "b0c68f7",
+          "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/b0c68f7e1b9d74290efa737ccf1bdd1777fe6b51"
         },
         {
           "name": "ZhangJiayu0201",
@@ -634,16 +644,6 @@
           "latest_msg": "Update standup_w28.md",
           "latest_sha": "21bfacb",
           "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/21bfacbed06a37456e557438fa7c66a0866a39ea"
-        },
-        {
-          "name": "141242-l",
-          "login": "141242-l",
-          "kind": "human",
-          "commits": 4,
-          "latest_date": "2026-07-13 01:11",
-          "latest_msg": "Rename scrum/standup_w28.md to vW28/scrum/standup_w28.md",
-          "latest_sha": "f275db1",
-          "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/f275db1e6da0b7721487f2377aff998eaf20186a"
         },
         {
           "name": "github-actions",
@@ -732,7 +732,7 @@
           "author": "wintwah-lwin"
         }
       ],
-      "days_since_commit": 0,
+      "days_since_commit": 1,
       "contributors": [
         {
           "name": "Arisa",
