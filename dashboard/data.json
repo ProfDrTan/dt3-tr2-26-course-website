@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-14 23:36 UTC",
+  "updated": "2026-07-15 01:01 UTC",
   "sprint_tag": "vW29",
   "sprint_deadline_utc": "2026-07-19T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W29",
@@ -718,11 +718,11 @@
       "repo": "wintwah-lwin/CP3405_Group_4",
       "prac": "B",
       "is_ultra": false,
-      "last_commit_sha": "7cc9073",
-      "last_commit_msg": "Auto-commit: Pipeline execution (Week 8)",
-      "last_commit_date": "2026-07-13 06:18",
-      "last_commit_author": "github-actions[bot]",
-      "last_commit_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/7cc907351439c1ba8151c8a5ce0954bd3693f579",
+      "last_commit_sha": "3fa8de0",
+      "last_commit_msg": "Revise R3 Almanac Agent report with manual updates",
+      "last_commit_date": "2026-07-15 00:57",
+      "last_commit_author": "MojunZheng",
+      "last_commit_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/3fa8de0b449213ffacc798dc84f7b4462174465b",
       "tags": [
         "v1.0.0",
         "W28",
@@ -749,7 +749,7 @@
           "author": "wintwah-lwin"
         }
       ],
-      "days_since_commit": 1,
+      "days_since_commit": 0,
       "contributors": [
         {
           "name": "Arisa",
@@ -790,6 +790,16 @@
           "latest_msg": "Fix final prediction parser and human score detection",
           "latest_sha": "332462f",
           "latest_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/332462f16f9d3236af5113e3b4e3731417fd188a"
+        },
+        {
+          "name": "MojunZheng",
+          "login": "MojunZheng",
+          "kind": "human",
+          "commits": 1,
+          "latest_date": "2026-07-15 00:57",
+          "latest_msg": "Revise R3 Almanac Agent report with manual updates",
+          "latest_sha": "3fa8de0",
+          "latest_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/3fa8de0b449213ffacc798dc84f7b4462174465b"
         },
         {
           "name": "Arisa",
@@ -837,11 +847,11 @@
       "repo": "Gong-yinxuan/CP3405",
       "prac": "B",
       "is_ultra": false,
-      "last_commit_sha": "aa1d77d",
-      "last_commit_msg": "Merge pull request #1 from Gong-yinxuan/adding_feature_macro",
-      "last_commit_date": "2026-07-14 05:57",
-      "last_commit_author": "To Hoang Gia",
-      "last_commit_url": "https://github.com/Gong-yinxuan/CP3405/commit/aa1d77d28419653e3dfa683f4817ba457abce0d8",
+      "last_commit_sha": "f6c0204",
+      "last_commit_msg": "Revise technical analysis report with manual updates",
+      "last_commit_date": "2026-07-15 00:59",
+      "last_commit_author": "Gong-yinxuan",
+      "last_commit_url": "https://github.com/Gong-yinxuan/CP3405/commit/f6c02048f8f45a5ce5bd2aaf533da0a60726b4ec",
       "tags": [
         "vW28",
         "vW25",
@@ -873,17 +883,17 @@
           "name": "Gong-yinxuan",
           "login": "Gong-yinxuan",
           "kind": "human",
-          "commits": 29,
-          "latest_date": "2026-07-10 09:02",
-          "latest_msg": "Delete Week8 directory",
-          "latest_sha": "21c5819",
-          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/21c58190140a356b3078fbd9082f0c7b83030597"
+          "commits": 31,
+          "latest_date": "2026-07-15 00:59",
+          "latest_msg": "Revise technical analysis report with manual updates",
+          "latest_sha": "f6c0204",
+          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/f6c02048f8f45a5ce5bd2aaf533da0a60726b4ec"
         },
         {
           "name": "github-actions[bot]",
           "login": "github-actions[bot]",
           "kind": "bot",
-          "commits": 12,
+          "commits": 10,
           "latest_date": "2026-07-13 02:51",
           "latest_msg": "chore: update Prism data 2026-07-13",
           "latest_sha": "95441df",
@@ -976,7 +986,7 @@
       "midweek_artefact": {
         "present": true,
         "path": "Week7/R2_Scrum_Master/standup_midweek_W29.md",
-        "url": "https://github.com/Gong-yinxuan/CP3405/blob/aa1d77d28419653e3dfa683f4817ba457abce0d8/Week7/R2_Scrum_Master/standup_midweek_W29.md"
+        "url": "https://github.com/Gong-yinxuan/CP3405/blob/577f3a39f0006aa48ba8dabfbb02706e0c913e8f/Week7/R2_Scrum_Master/standup_midweek_W29.md"
       },
       "repo_url": "https://github.com/Gong-yinxuan/CP3405"
     },
