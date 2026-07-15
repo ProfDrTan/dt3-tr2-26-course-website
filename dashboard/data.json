@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-15 11:00 UTC",
+  "updated": "2026-07-15 12:23 UTC",
   "sprint_tag": "vW29",
   "sprint_deadline_utc": "2026-07-19T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W29",
@@ -728,11 +728,11 @@
       "repo": "wintwah-lwin/CP3405_Group_4",
       "prac": "B",
       "is_ultra": false,
-      "last_commit_sha": "3fa8de0",
-      "last_commit_msg": "Revise R3 Almanac Agent report with manual updates",
-      "last_commit_date": "2026-07-15 00:57",
-      "last_commit_author": "MojunZheng",
-      "last_commit_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/3fa8de0b449213ffacc798dc84f7b4462174465b",
+      "last_commit_sha": "726cee0",
+      "last_commit_msg": "Add files via upload",
+      "last_commit_date": "2026-07-15 11:14",
+      "last_commit_author": "Arisa",
+      "last_commit_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/726cee048693da9f805ba5a4a3a17e1f4f0e3d06",
       "tags": [
         "v1.0.0",
         "W28",
@@ -765,11 +765,11 @@
           "name": "Arisa",
           "login": "wintwah-lwin",
           "kind": "human",
-          "commits": 21,
-          "latest_date": "2026-07-13 05:48",
-          "latest_msg": "Delete evidence/Week 8 directory",
-          "latest_sha": "3d2f21b",
-          "latest_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/3d2f21b8ff06a1104142d2d55a050c0ac35fb624"
+          "commits": 23,
+          "latest_date": "2026-07-15 11:14",
+          "latest_msg": "Add files via upload",
+          "latest_sha": "726cee0",
+          "latest_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/726cee048693da9f805ba5a4a3a17e1f4f0e3d06"
         },
         {
           "name": "github-actions[bot]",
