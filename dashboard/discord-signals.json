@@ -1,5 +1,5 @@
 {
-  "generated": "Wednesday 15 July 2026 22:23 SGT",
+  "generated": "Thursday 16 July 2026 00:06 SGT",
   "teams": {
     "Team 1": {
       "blockers": []
@@ -11,18 +11,6 @@
           "content": "I ran into an issue with triggers in GitHub Actions. According to GitHub\u2019s documentation, scheduled workflows can be delayed when the platform is under heavy load, especially around the top of each ho",
           "ts_str": "2026-07-15 02:24:38",
           "url": "https://discord.com/channels/1505861202444816455/1505883145466155079/1526776478619009296"
-        },
-        {
-          "author": "vileworx",
-          "content": "Definition of Done - R10 Calibration Lead (Sprint 7 / Week 29)\n[ ]  - Document the script code and add comments where necessary\n[ ] - Fix bugs and issues that prevent the code from running correctly\n[",
-          "ts_str": "2026-07-13 15:58:18",
-          "url": "https://discord.com/channels/1505861202444816455/1505883145466155079/1526256468536590337"
-        },
-        {
-          "author": "louis1123990",
-          "content": "Definition of Done \u2013 R5 Technical Agent, Sprint 7\n The technical analysis script successfully runs using the latest market data provided by R6. \n The analysis includes all required market indices and ",
-          "ts_str": "2026-07-13 14:29:43",
-          "url": "https://discord.com/channels/1505861202444816455/1505883145466155079/1526234177429569668"
         }
       ]
     },
