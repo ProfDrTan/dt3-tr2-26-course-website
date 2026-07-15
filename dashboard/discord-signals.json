@@ -1,5 +1,5 @@
 {
-  "generated": "Wednesday 15 July 2026 14:34 SGT",
+  "generated": "Wednesday 15 July 2026 17:00 SGT",
   "teams": {
     "Team 1": {
       "blockers": []
@@ -29,12 +29,6 @@
           "content": "Midweek Progress and Technical Checkpoints\n\n**Tuesday \u2014 Progress Check**\n\nR2: DM R3, R4 and R5 individually to check:\n\nCurrent progress\nEvidence of work started\nBlockers or support needed\nWhether Wedn",
           "ts_str": "2026-07-13 13:38:52",
           "url": "https://discord.com/channels/1505861202444816455/1505883145466155079/1526221377378713722"
-        },
-        {
-          "author": "lujunwen1_29056",
-          "content": "I have taken a screenshot and forwarded the branch question to R9. If there are no problems with this schedule, I will update this week\u2019s Sprint Goal to match the detailed timeline. This should make t",
-          "ts_str": "2026-07-13 07:41:41",
-          "url": "https://discord.com/channels/1505861202444816455/1505883145466155079/1526131492466720888"
         }
       ]
     },
