@@ -1,5 +1,5 @@
 {
-  "generated": "Wednesday 15 July 2026 20:23 SGT",
+  "generated": "Wednesday 15 July 2026 22:23 SGT",
   "teams": {
     "Team 1": {
       "blockers": []
@@ -23,12 +23,6 @@
           "content": "Definition of Done \u2013 R5 Technical Agent, Sprint 7\n The technical analysis script successfully runs using the latest market data provided by R6. \n The analysis includes all required market indices and ",
           "ts_str": "2026-07-13 14:29:43",
           "url": "https://discord.com/channels/1505861202444816455/1505883145466155079/1526234177429569668"
-        },
-        {
-          "author": "noobydoo2507",
-          "content": "Midweek Progress and Technical Checkpoints\n\n**Tuesday \u2014 Progress Check**\n\nR2: DM R3, R4 and R5 individually to check:\n\nCurrent progress\nEvidence of work started\nBlockers or support needed\nWhether Wedn",
-          "ts_str": "2026-07-13 13:38:52",
-          "url": "https://discord.com/channels/1505861202444816455/1505883145466155079/1526221377378713722"
         }
       ]
     },
