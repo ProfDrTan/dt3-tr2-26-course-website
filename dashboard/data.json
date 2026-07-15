@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-15 12:23 UTC",
+  "updated": "2026-07-15 14:24 UTC",
   "sprint_tag": "vW29",
   "sprint_deadline_utc": "2026-07-19T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W29",
@@ -857,11 +857,11 @@
       "repo": "Gong-yinxuan/CP3405",
       "prac": "B",
       "is_ultra": false,
-      "last_commit_sha": "f6c0204",
-      "last_commit_msg": "Revise technical analysis report with manual updates",
-      "last_commit_date": "2026-07-15 00:59",
-      "last_commit_author": "Gong-yinxuan",
-      "last_commit_url": "https://github.com/Gong-yinxuan/CP3405/commit/f6c02048f8f45a5ce5bd2aaf533da0a60726b4ec",
+      "last_commit_sha": "185568a",
+      "last_commit_msg": "Update standup_midweek_W29",
+      "last_commit_date": "2026-07-15 12:43",
+      "last_commit_author": "HYH-design-bot",
+      "last_commit_url": "https://github.com/Gong-yinxuan/CP3405/commit/185568ad9bf951000e6f60dc77bc92a781d67106",
       "tags": [
         "vW28",
         "vW25",
@@ -900,24 +900,24 @@
           "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/f6c02048f8f45a5ce5bd2aaf533da0a60726b4ec"
         },
         {
+          "name": "HYH-design-bot",
+          "login": "HYH-design-bot",
+          "kind": "bot",
+          "commits": 9,
+          "latest_date": "2026-07-15 12:43",
+          "latest_msg": "Update standup_midweek_W29",
+          "latest_sha": "185568a",
+          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/185568ad9bf951000e6f60dc77bc92a781d67106"
+        },
+        {
           "name": "github-actions[bot]",
           "login": "github-actions[bot]",
           "kind": "bot",
-          "commits": 10,
+          "commits": 9,
           "latest_date": "2026-07-13 02:51",
           "latest_msg": "chore: update Prism data 2026-07-13",
           "latest_sha": "95441df",
           "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/95441dfe5097924b374a612b978211ddf0cded80"
-        },
-        {
-          "name": "HYH-design-bot",
-          "login": "HYH-design-bot",
-          "kind": "bot",
-          "commits": 8,
-          "latest_date": "2026-07-13 10:49",
-          "latest_msg": "Create standup_midweek_W29.md",
-          "latest_sha": "20d259a",
-          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/20d259a3a7305ef1687b58511ae37d30da5f04b0"
         },
         {
           "name": "wujinrui2004",
@@ -996,7 +996,7 @@
       "midweek_artefact": {
         "present": true,
         "path": "Week7/R2_Scrum_Master/standup_midweek_W29.md",
-        "url": "https://github.com/Gong-yinxuan/CP3405/blob/f6c02048f8f45a5ce5bd2aaf533da0a60726b4ec/Week7/R2_Scrum_Master/standup_midweek_W29.md"
+        "url": "https://github.com/Gong-yinxuan/CP3405/blob/185568ad9bf951000e6f60dc77bc92a781d67106/Week7/R2_Scrum_Master/standup_midweek_W29.md"
       },
       "repo_url": "https://github.com/Gong-yinxuan/CP3405"
     },
