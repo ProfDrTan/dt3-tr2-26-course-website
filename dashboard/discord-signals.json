@@ -1,11 +1,17 @@
 {
-  "generated": "Wednesday 15 July 2026 09:01 SGT",
+  "generated": "Wednesday 15 July 2026 12:15 SGT",
   "teams": {
     "Team 1": {
       "blockers": []
     },
     "Team 2": {
       "blockers": [
+        {
+          "author": "wenhanhu14796631_51955",
+          "content": "I ran into an issue with triggers in GitHub Actions. According to GitHub\u2019s documentation, scheduled workflows can be delayed when the platform is under heavy load, especially around the top of each ho",
+          "ts_str": "2026-07-15 02:24:38",
+          "url": "https://discord.com/channels/1505861202444816455/1505883145466155079/1526776478619009296"
+        },
         {
           "author": "vileworx",
           "content": "Definition of Done - R10 Calibration Lead (Sprint 7 / Week 29)\n[ ]  - Document the script code and add comments where necessary\n[ ] - Fix bugs and issues that prevent the code from running correctly\n[",
@@ -29,12 +35,6 @@
           "content": "I have taken a screenshot and forwarded the branch question to R9. If there are no problems with this schedule, I will update this week\u2019s Sprint Goal to match the detailed timeline. This should make t",
           "ts_str": "2026-07-13 07:41:41",
           "url": "https://discord.com/channels/1505861202444816455/1505883145466155079/1526131492466720888"
-        },
-        {
-          "author": "vileworx",
-          "content": "Because I'm considering making a separate branch for my R10 tasks so I can document the existing code, fix bugs and commit the changes over time before the final merge",
-          "ts_str": "2026-07-13 07:38:16",
-          "url": "https://discord.com/channels/1505861202444816455/1505883145466155079/1526130631774437377"
         }
       ]
     },
