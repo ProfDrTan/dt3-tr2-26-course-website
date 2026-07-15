@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-15 01:01 UTC",
+  "updated": "2026-07-15 04:15 UTC",
   "sprint_tag": "vW29",
   "sprint_deadline_utc": "2026-07-19T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W29",
@@ -303,11 +303,11 @@
       "repo": "LuJunwen212/CP3405-Project",
       "prac": "A",
       "is_ultra": false,
-      "last_commit_sha": "e7b0afb",
-      "last_commit_msg": "chore(data): automated market ledger alignment [skip ci]",
-      "last_commit_date": "2026-07-14 12:55",
-      "last_commit_author": "Team2 Data Automatio",
-      "last_commit_url": "https://github.com/LuJunwen212/CP3405-Project/commit/e7b0afb8dbcbbfda09b156edf5d553e0324ab908",
+      "last_commit_sha": "666a7c5",
+      "last_commit_msg": "chore(r4): weekly macro report [skip ci]",
+      "last_commit_date": "2026-07-15 03:12",
+      "last_commit_author": "Team2 R4 Automation ",
+      "last_commit_url": "https://github.com/LuJunwen212/CP3405-Project/commit/666a7c55d23a23e6556c30a2edbf7fb43a60292f",
       "tags": [
         "vW28",
         "vW25",
@@ -317,9 +317,9 @@
       ],
       "sprint_tag_present": false,
       "last_run_name": "Automated Technical Agent",
-      "last_run_conclusion": "success",
-      "last_run_date": "2026-07-14 12:55",
-      "last_run_url": "https://github.com/LuJunwen212/CP3405-Project/actions/runs/29334377430",
+      "last_run_conclusion": "failure",
+      "last_run_date": "2026-07-15 04:14",
+      "last_run_url": "https://github.com/LuJunwen212/CP3405-Project/actions/runs/29388507711",
       "last_run_was_filtered": true,
       "open_prs": 0,
       "pr_titles": [],
@@ -340,7 +340,7 @@
           "name": "Guanyu Lu",
           "login": "Guanyu-Lu",
           "kind": "human",
-          "commits": 13,
+          "commits": 11,
           "latest_date": "2026-07-12 08:57",
           "latest_msg": "Update team members in README.md",
           "latest_sha": "105a942",
@@ -357,14 +357,14 @@
           "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/384ef8b4ae8e9ae4bc0cfba3e6407705308e3be0"
         },
         {
-          "name": "ZhengZaikun",
-          "login": "ZhengZaikun",
+          "name": "hao-wang7",
+          "login": "hao-wang7",
           "kind": "human",
-          "commits": 9,
-          "latest_date": "2026-07-12 13:49",
-          "latest_msg": "Update r8_llm_job.yml",
-          "latest_sha": "72ba45b",
-          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/72ba45bbef1b74c84696eddd24d3918605cb730d"
+          "commits": 7,
+          "latest_date": "2026-07-15 03:11",
+          "latest_msg": "update r4_macro_automation.py",
+          "latest_sha": "7f638d9",
+          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/7f638d97c6bea263e99c8ff9d16675ab7b859b73"
         },
         {
           "name": "louis848",
@@ -377,16 +377,6 @@
           "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/a9ab76a1afd63f3e810abcb17df43bccfef079e1"
         },
         {
-          "name": "Team2 Data Automation Bot",
-          "login": "",
-          "kind": "bot",
-          "commits": 5,
-          "latest_date": "2026-07-14 12:55",
-          "latest_msg": "chore(data): automated market ledger alignment [skip ci]",
-          "latest_sha": "e7b0afb",
-          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/e7b0afb8dbcbbfda09b156edf5d553e0324ab908"
-        },
-        {
           "name": "Kyler017",
           "login": "Kyler017",
           "kind": "human",
@@ -395,6 +385,16 @@
           "latest_msg": "Update r8_llm_operator.py",
           "latest_sha": "6f76930",
           "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/6f7693061ef1dd8b9c23f0c0926f4a6f2db79120"
+        },
+        {
+          "name": "Team2 Data Automation Bot",
+          "login": "",
+          "kind": "bot",
+          "commits": 4,
+          "latest_date": "2026-07-14 12:55",
+          "latest_msg": "chore(data): automated market ledger alignment [skip ci]",
+          "latest_sha": "e7b0afb",
+          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/e7b0afb8dbcbbfda09b156edf5d553e0324ab908"
         },
         {
           "name": "Team2 R8 LLM Operator",
@@ -407,14 +407,24 @@
           "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/8dc9eddae36bec7c41c46d0fd88c763c6a96bf0b"
         },
         {
-          "name": "swan002",
-          "login": "swan002",
+          "name": "ZhengZaikun",
+          "login": "ZhengZaikun",
           "kind": "human",
+          "commits": 3,
+          "latest_date": "2026-07-12 13:49",
+          "latest_msg": "Update r8_llm_job.yml",
+          "latest_sha": "72ba45b",
+          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/72ba45bbef1b74c84696eddd24d3918605cb730d"
+        },
+        {
+          "name": "Team2 R4 Automation Bot",
+          "login": "github-actions[bot]",
+          "kind": "bot",
           "commits": 2,
-          "latest_date": "2026-07-12 15:04",
-          "latest_msg": "Add prediction_2026-W28_team2.md",
-          "latest_sha": "d688c5f",
-          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/d688c5f5ec01f40073c32d2d37a375345b28fb1b"
+          "latest_date": "2026-07-15 03:12",
+          "latest_msg": "chore(r4): weekly macro report [skip ci]",
+          "latest_sha": "666a7c5",
+          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/666a7c55d23a23e6556c30a2edbf7fb43a60292f"
         }
       ],
       "pr_history": {
@@ -986,7 +996,7 @@
       "midweek_artefact": {
         "present": true,
         "path": "Week7/R2_Scrum_Master/standup_midweek_W29.md",
-        "url": "https://github.com/Gong-yinxuan/CP3405/blob/577f3a39f0006aa48ba8dabfbb02706e0c913e8f/Week7/R2_Scrum_Master/standup_midweek_W29.md"
+        "url": "https://github.com/Gong-yinxuan/CP3405/blob/f6c02048f8f45a5ce5bd2aaf533da0a60726b4ec/Week7/R2_Scrum_Master/standup_midweek_W29.md"
       },
       "repo_url": "https://github.com/Gong-yinxuan/CP3405"
     },
