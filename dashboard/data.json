@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-16 12:53 UTC",
+  "updated": "2026-07-16 15:10 UTC",
   "sprint_tag": "vW29",
   "sprint_deadline_utc": "2026-07-19T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W29",
@@ -319,10 +319,10 @@
         "vW22"
       ],
       "sprint_tag_present": false,
-      "last_run_name": "Automated Technical Agent",
+      "last_run_name": "Automated R8 LLM Operator",
       "last_run_conclusion": "success",
-      "last_run_date": "2026-07-16 09:37",
-      "last_run_url": "https://github.com/LuJunwen212/CP3405-Project/actions/runs/29487799503",
+      "last_run_date": "2026-07-16 14:48",
+      "last_run_url": "https://github.com/LuJunwen212/CP3405-Project/actions/runs/29508256502",
       "last_run_was_filtered": true,
       "open_prs": 0,
       "pr_titles": [],
@@ -431,11 +431,16 @@
         }
       ],
       "pr_history": {
-        "total": 16,
-        "merged": 14,
+        "total": 17,
+        "merged": 15,
         "open": 0,
         "abandoned": 2,
         "weekly": {
+          "2026-07-13": {
+            "merged": 1,
+            "open": 0,
+            "abandoned": 0
+          },
           "2026-07-06": {
             "merged": 1,
             "open": 0,
@@ -463,6 +468,14 @@
           }
         },
         "recent": [
+          {
+            "number": 17,
+            "title": "Week 07",
+            "status": "merged",
+            "url": "https://github.com/LuJunwen212/CP3405-Project/pull/17",
+            "created_at": "2026-07-16",
+            "author": "The-Bao-Le"
+          },
           {
             "number": 16,
             "title": "Week 06",
@@ -574,14 +587,6 @@
             "url": "https://github.com/LuJunwen212/CP3405-Project/pull/3",
             "created_at": "2026-06-07",
             "author": "Kyler017"
-          },
-          {
-            "number": 2,
-            "title": "Week 02",
-            "status": "merged",
-            "url": "https://github.com/LuJunwen212/CP3405-Project/pull/2",
-            "created_at": "2026-05-31",
-            "author": "The-Bao-Le"
           }
         ]
       },
@@ -860,11 +865,11 @@
       "repo": "Gong-yinxuan/CP3405",
       "prac": "B",
       "is_ultra": false,
-      "last_commit_sha": "185568a",
-      "last_commit_msg": "Update standup_midweek_W29",
-      "last_commit_date": "2026-07-15 12:43",
+      "last_commit_sha": "faf986d",
+      "last_commit_msg": "Replace llm txt files with Json files and updated data",
+      "last_commit_date": "2026-07-16 13:10",
       "last_commit_author": "HYH-design-bot",
-      "last_commit_url": "https://github.com/Gong-yinxuan/CP3405/commit/185568ad9bf951000e6f60dc77bc92a781d67106",
+      "last_commit_url": "https://github.com/Gong-yinxuan/CP3405/commit/faf986d84bf4d2897f82fcc7e7159902419d9e2d",
       "tags": [
         "vW28",
         "vW25",
@@ -880,13 +885,13 @@
       "open_prs": 0,
       "pr_titles": [],
       "pr_links": [],
-      "days_since_commit": 1,
+      "days_since_commit": 0,
       "contributors": [
         {
           "name": "To Hoang Gia",
           "login": "ToHoangGia",
           "kind": "human",
-          "commits": 37,
+          "commits": 36,
           "latest_date": "2026-07-14 05:57",
           "latest_msg": "Merge pull request #1 from Gong-yinxuan/adding_feature_macro",
           "latest_sha": "aa1d77d",
@@ -906,11 +911,11 @@
           "name": "HYH-design-bot",
           "login": "HYH-design-bot",
           "kind": "bot",
-          "commits": 9,
-          "latest_date": "2026-07-15 12:43",
-          "latest_msg": "Update standup_midweek_W29",
-          "latest_sha": "185568a",
-          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/185568ad9bf951000e6f60dc77bc92a781d67106"
+          "commits": 10,
+          "latest_date": "2026-07-16 13:10",
+          "latest_msg": "Replace llm txt files with Json files and updated data",
+          "latest_sha": "faf986d",
+          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/faf986d84bf4d2897f82fcc7e7159902419d9e2d"
         },
         {
           "name": "github-actions[bot]",
@@ -999,7 +1004,7 @@
       "midweek_artefact": {
         "present": true,
         "path": "Week7/R2_Scrum_Master/standup_midweek_W29.md",
-        "url": "https://github.com/Gong-yinxuan/CP3405/blob/185568ad9bf951000e6f60dc77bc92a781d67106/Week7/R2_Scrum_Master/standup_midweek_W29.md"
+        "url": "https://github.com/Gong-yinxuan/CP3405/blob/faf986d84bf4d2897f82fcc7e7159902419d9e2d/Week7/R2_Scrum_Master/standup_midweek_W29.md"
       },
       "repo_url": "https://github.com/Gong-yinxuan/CP3405"
     },
