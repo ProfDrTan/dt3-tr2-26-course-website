@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-16 04:22 UTC",
+  "updated": "2026-07-16 06:42 UTC",
   "sprint_tag": "vW29",
   "sprint_deadline_utc": "2026-07-19T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W29",
@@ -68,7 +68,7 @@
           "author": "saikokokyaw"
         }
       ],
-      "days_since_commit": 2,
+      "days_since_commit": 3,
       "contributors": [
         {
           "name": "sinder",
@@ -324,7 +324,7 @@
       "open_prs": 0,
       "pr_titles": [],
       "pr_links": [],
-      "days_since_commit": 0,
+      "days_since_commit": 1,
       "contributors": [
         {
           "name": "linyuchu",
@@ -594,11 +594,11 @@
       "repo": "juninho4/Team-3-Practical-A-CP3405",
       "prac": "A",
       "is_ultra": false,
-      "last_commit_sha": "32db975",
-      "last_commit_msg": "Update automated agent outputs",
-      "last_commit_date": "2026-07-16 04:10",
+      "last_commit_sha": "74002a5",
+      "last_commit_msg": "Update vW29 files",
+      "last_commit_date": "2026-07-16 06:23",
       "last_commit_author": "141242-l",
-      "last_commit_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/32db975461e1542d1f2aba4f7b005d70497d7ffb",
+      "last_commit_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/74002a5418c2a1e6530ffbc94e850df176a383df",
       "tags": [
         "vW25",
         "vW24",
@@ -631,11 +631,11 @@
           "name": "141242-l",
           "login": "141242-l",
           "kind": "human",
-          "commits": 10,
-          "latest_date": "2026-07-16 04:10",
-          "latest_msg": "Update automated agent outputs",
-          "latest_sha": "32db975",
-          "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/32db975461e1542d1f2aba4f7b005d70497d7ffb"
+          "commits": 17,
+          "latest_date": "2026-07-16 06:23",
+          "latest_msg": "Update vW29 files",
+          "latest_sha": "74002a5",
+          "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/74002a5418c2a1e6530ffbc94e850df176a383df"
         },
         {
           "name": "ZhangJiayu0201",
