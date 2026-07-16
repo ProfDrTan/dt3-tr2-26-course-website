@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-16 11:13 UTC",
+  "updated": "2026-07-16 12:53 UTC",
   "sprint_tag": "vW29",
   "sprint_deadline_utc": "2026-07-19T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W29",
@@ -10,11 +10,11 @@
       "repo": "sinder38/Team-1-Prac-A-Project",
       "prac": "A",
       "is_ultra": false,
-      "last_commit_sha": "d2fe598",
-      "last_commit_msg": "Fix week number",
-      "last_commit_date": "2026-07-13 06:00",
-      "last_commit_author": "sinder",
-      "last_commit_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/d2fe5984ad2471b47cf91718b104693caf29d356",
+      "last_commit_sha": "fe9760d",
+      "last_commit_msg": "Create standup_midweek_W29.md (#77)",
+      "last_commit_date": "2026-07-16 12:00",
+      "last_commit_author": "PanHsuMyat",
+      "last_commit_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/fe9760d56b4bf3739318bbfbb6e74e810ee80802",
       "tags": [
         "vW28",
         "vW25",
@@ -28,21 +28,14 @@
       "last_run_date": "2026-07-13 06:01",
       "last_run_url": "https://github.com/sinder38/Team-1-Prac-A-Project/actions/runs/29227762238",
       "last_run_was_filtered": true,
-      "open_prs": 5,
+      "open_prs": 4,
       "pr_titles": [
-        "Scrum master week 5",
         "feature/macro-agent",
         "Add Week 5 delta engine draft",
         "adding test_almanac_agent py file",
         "Implement regression tests for TechnicalAgent"
       ],
       "pr_links": [
-        {
-          "title": "Scrum master week 5",
-          "number": 73,
-          "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/73",
-          "author": "panhsumyat0179-pixel"
-        },
         {
           "title": "feature/macro-agent",
           "number": 69,
@@ -68,7 +61,7 @@
           "author": "saikokokyaw"
         }
       ],
-      "days_since_commit": 3,
+      "days_since_commit": 0,
       "contributors": [
         {
           "name": "sinder",
@@ -79,6 +72,16 @@
           "latest_msg": "Fix week number",
           "latest_sha": "d2fe598",
           "latest_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/d2fe5984ad2471b47cf91718b104693caf29d356"
+        },
+        {
+          "name": "PanHsuMyat",
+          "login": "panhsumyat0179-pixel",
+          "kind": "human",
+          "commits": 2,
+          "latest_date": "2026-07-16 12:00",
+          "latest_msg": "Create standup_midweek_W29.md (#77)",
+          "latest_sha": "fe9760d",
+          "latest_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/fe9760d56b4bf3739318bbfbb6e74e810ee80802"
         },
         {
           "name": "Oakkar Phyoe",
@@ -122,19 +125,19 @@
         }
       ],
       "pr_history": {
-        "total": 76,
-        "merged": 51,
-        "open": 5,
+        "total": 77,
+        "merged": 53,
+        "open": 4,
         "abandoned": 20,
         "weekly": {
           "2026-07-13": {
-            "merged": 2,
+            "merged": 3,
             "open": 0,
             "abandoned": 0
           },
           "2026-07-06": {
-            "merged": 3,
-            "open": 1,
+            "merged": 4,
+            "open": 0,
             "abandoned": 1
           },
           "2026-06-29": {
@@ -170,6 +173,14 @@
         },
         "recent": [
           {
+            "number": 77,
+            "title": "Create standup_midweek_W29.md",
+            "status": "merged",
+            "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/77",
+            "created_at": "2026-07-16",
+            "author": "panhsumyat0179-pixel"
+          },
+          {
             "number": 76,
             "title": "Add webpage example",
             "status": "merged",
@@ -196,7 +207,7 @@
           {
             "number": 73,
             "title": "Scrum master week 5",
-            "status": "open",
+            "status": "merged",
             "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/73",
             "created_at": "2026-07-12",
             "author": "panhsumyat0179-pixel"
@@ -280,21 +291,13 @@
             "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/63",
             "created_at": "2026-06-21",
             "author": "github-actions[bot]"
-          },
-          {
-            "number": 62,
-            "title": "Evidence Images",
-            "status": "merged",
-            "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/62",
-            "created_at": "2026-06-21",
-            "author": "NaingPhonePyae"
           }
         ]
       },
       "midweek_artefact": {
-        "present": false,
-        "path": null,
-        "url": null
+        "present": true,
+        "path": "sprints/standup_midweek_W29.md",
+        "url": "https://github.com/sinder38/Team-1-Prac-A-Project/blob/fe9760d56b4bf3739318bbfbb6e74e810ee80802/sprints/standup_midweek_W29.md"
       },
       "repo_url": "https://github.com/sinder38/Team-1-Prac-A-Project"
     },
@@ -759,7 +762,7 @@
           "author": "wintwah-lwin"
         }
       ],
-      "days_since_commit": 0,
+      "days_since_commit": 1,
       "contributors": [
         {
           "name": "Arisa",
@@ -877,7 +880,7 @@
       "open_prs": 0,
       "pr_titles": [],
       "pr_links": [],
-      "days_since_commit": 0,
+      "days_since_commit": 1,
       "contributors": [
         {
           "name": "To Hoang Gia",
