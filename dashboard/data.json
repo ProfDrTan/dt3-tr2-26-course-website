@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-16 16:43 UTC",
+  "updated": "2026-07-16 17:58 UTC",
   "sprint_tag": "vW29",
   "sprint_deadline_utc": "2026-07-19T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W29",
@@ -736,11 +736,11 @@
       "repo": "wintwah-lwin/CP3405_Group_4",
       "prac": "B",
       "is_ultra": false,
-      "last_commit_sha": "726cee0",
-      "last_commit_msg": "Add files via upload",
-      "last_commit_date": "2026-07-15 11:14",
-      "last_commit_author": "Arisa",
-      "last_commit_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/726cee048693da9f805ba5a4a3a17e1f4f0e3d06",
+      "last_commit_sha": "fb69b33",
+      "last_commit_msg": "Revise macro agent data for Week 8",
+      "last_commit_date": "2026-07-16 17:15",
+      "last_commit_author": "AmiePhyo",
+      "last_commit_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/fb69b337fb71312118560b3686609357516284d7",
       "tags": [
         "v1.0.0",
         "W28",
@@ -767,7 +767,7 @@
           "author": "wintwah-lwin"
         }
       ],
-      "days_since_commit": 1,
+      "days_since_commit": 0,
       "contributors": [
         {
           "name": "Arisa",
@@ -803,11 +803,11 @@
           "name": "AmiePhyo",
           "login": "AmiePhyo",
           "kind": "human",
-          "commits": 5,
-          "latest_date": "2026-07-06 15:22",
-          "latest_msg": "Fix final prediction parser and human score detection",
-          "latest_sha": "332462f",
-          "latest_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/332462f16f9d3236af5113e3b4e3731417fd188a"
+          "commits": 6,
+          "latest_date": "2026-07-16 17:15",
+          "latest_msg": "Revise macro agent data for Week 8",
+          "latest_sha": "fb69b33",
+          "latest_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/fb69b337fb71312118560b3686609357516284d7"
         },
         {
           "name": "MojunZheng",
