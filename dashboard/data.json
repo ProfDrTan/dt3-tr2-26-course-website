@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-17 14:10 UTC",
+  "updated": "2026-07-17 15:44 UTC",
   "sprint_tag": "vW29",
   "sprint_deadline_utc": "2026-07-19T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W29",
@@ -23,13 +23,14 @@
         "vW22"
       ],
       "sprint_tag_present": false,
-      "last_run_name": "python-checks",
-      "last_run_conclusion": "success",
-      "last_run_date": "2026-07-17 11:27",
-      "last_run_url": "https://github.com/sinder38/Team-1-Prac-A-Project/actions/runs/29576899977",
+      "last_run_name": "Weekly Pipeline",
+      "last_run_conclusion": "failure",
+      "last_run_date": "2026-07-17 15:11",
+      "last_run_url": "https://github.com/sinder38/Team-1-Prac-A-Project/actions/runs/29591100976",
       "last_run_was_filtered": true,
-      "open_prs": 8,
+      "open_prs": 9,
       "pr_titles": [
+        "chore: pipeline artifacts 2026-07-17",
         "Integrate Delta Engine with pipeline, backend and frontend",
         "Allama local testing and sever configuration",
         "Add market API, archive weeks, and frontend integration.",
@@ -40,6 +41,12 @@
         "Implement regression tests for TechnicalAgent"
       ],
       "pr_links": [
+        {
+          "title": "chore: pipeline artifacts 2026-07-17",
+          "number": 82,
+          "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/82",
+          "author": "github-actions[bot]"
+        },
         {
           "title": "Integrate Delta Engine with pipeline, backend and frontend",
           "number": 81,
@@ -153,14 +160,14 @@
         }
       ],
       "pr_history": {
-        "total": 81,
+        "total": 82,
         "merged": 53,
-        "open": 8,
+        "open": 9,
         "abandoned": 20,
         "weekly": {
           "2026-07-13": {
             "merged": 3,
-            "open": 4,
+            "open": 5,
             "abandoned": 0
           },
           "2026-07-06": {
@@ -200,6 +207,14 @@
           }
         },
         "recent": [
+          {
+            "number": 82,
+            "title": "chore: pipeline artifacts 2026-07-17",
+            "status": "open",
+            "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/82",
+            "created_at": "2026-07-17",
+            "author": "github-actions[bot]"
+          },
           {
             "number": 81,
             "title": "Integrate Delta Engine with pipeline, backend and frontend",
@@ -311,14 +326,6 @@
             "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/68",
             "created_at": "2026-06-26",
             "author": "github-actions[bot]"
-          },
-          {
-            "number": 67,
-            "title": "Scrum master w5 w25",
-            "status": "merged",
-            "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/67",
-            "created_at": "2026-06-21",
-            "author": "panhsumyat0179-pixel"
           }
         ]
       },
@@ -630,11 +637,11 @@
       "repo": "juninho4/Team-3-Practical-A-CP3405",
       "prac": "A",
       "is_ultra": false,
-      "last_commit_sha": "74002a5",
-      "last_commit_msg": "Update vW29 files",
-      "last_commit_date": "2026-07-16 06:23",
-      "last_commit_author": "141242-l",
-      "last_commit_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/74002a5418c2a1e6530ffbc94e850df176a383df",
+      "last_commit_sha": "c401b26",
+      "last_commit_msg": "Add Friday market close data",
+      "last_commit_date": "2026-07-17 15:04",
+      "last_commit_author": "github-actions",
+      "last_commit_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/c401b267679e67822f97b0b62804de69d724598d",
       "tags": [
         "vW25",
         "vW24",
@@ -643,15 +650,15 @@
         "W25"
       ],
       "sprint_tag_present": false,
-      "last_run_name": "R5 Technical Agent Pipeline",
+      "last_run_name": "Fetch Friday Market Closes",
       "last_run_conclusion": "success",
-      "last_run_date": "2026-07-12 17:37",
-      "last_run_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/actions/runs/29202338875",
+      "last_run_date": "2026-07-17 15:04",
+      "last_run_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/actions/runs/29590607769",
       "last_run_was_filtered": true,
       "open_prs": 0,
       "pr_titles": [],
       "pr_links": [],
-      "days_since_commit": 1,
+      "days_since_commit": 0,
       "contributors": [
         {
           "name": "Vince-1206",
@@ -694,6 +701,16 @@
           "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/3f38ff972cf10a4f19698626537e17cd5c9a5ae9"
         },
         {
+          "name": "github-actions",
+          "login": "invalid-email-address",
+          "kind": "bot",
+          "commits": 4,
+          "latest_date": "2026-07-17 15:04",
+          "latest_msg": "Add Friday market close data",
+          "latest_sha": "c401b26",
+          "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/c401b267679e67822f97b0b62804de69d724598d"
+        },
+        {
           "name": "Jiale Zhang",
           "login": "ZHANGJIALELLLLL",
           "kind": "human",
@@ -702,16 +719,6 @@
           "latest_msg": "Update standup_w28.md",
           "latest_sha": "21bfacb",
           "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/21bfacbed06a37456e557438fa7c66a0866a39ea"
-        },
-        {
-          "name": "github-actions",
-          "login": "invalid-email-address",
-          "kind": "bot",
-          "commits": 3,
-          "latest_date": "2026-07-10 16:14",
-          "latest_msg": "Add Friday market close data",
-          "latest_sha": "6a8a61e",
-          "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/6a8a61ea53b4c4213d171a7d020627af1bf4d069"
         },
         {
           "name": "Li-Haoyao",
