@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-17 22:32 UTC",
+  "updated": "2026-07-17 23:31 UTC",
   "sprint_tag": "vW29",
   "sprint_deadline_utc": "2026-07-19T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W29",
@@ -341,11 +341,11 @@
       "repo": "LuJunwen212/CP3405-Project",
       "prac": "A",
       "is_ultra": false,
-      "last_commit_sha": "fbdea90",
-      "last_commit_msg": "Merge pull request #20 from LuJunwen212/Week-07",
-      "last_commit_date": "2026-07-17 14:03",
-      "last_commit_author": "The Bao Le",
-      "last_commit_url": "https://github.com/LuJunwen212/CP3405-Project/commit/fbdea9034d16a689b118d9f52402a438e7577868",
+      "last_commit_sha": "a13dffe",
+      "last_commit_msg": "chore(data): automated market ledger alignment [skip ci]",
+      "last_commit_date": "2026-07-17 23:07",
+      "last_commit_author": "Team2 Data Automatio",
+      "last_commit_url": "https://github.com/LuJunwen212/CP3405-Project/commit/a13dffe0616d23a2215360e15bc099bc78a134c7",
       "tags": [
         "vW28",
         "vW25",
@@ -354,10 +354,10 @@
         "vW22"
       ],
       "sprint_tag_present": false,
-      "last_run_name": "Automated R8 LLM Operator",
+      "last_run_name": "R10 Calibration Automation",
       "last_run_conclusion": "success",
-      "last_run_date": "2026-07-17 12:05",
-      "last_run_url": "https://github.com/LuJunwen212/CP3405-Project/actions/runs/29579058877",
+      "last_run_date": "2026-07-17 23:07",
+      "last_run_url": "https://github.com/LuJunwen212/CP3405-Project/actions/runs/29619824341",
       "last_run_was_filtered": true,
       "open_prs": 0,
       "pr_titles": [],
@@ -369,10 +369,10 @@
           "login": "",
           "kind": "bot",
           "commits": 26,
-          "latest_date": "2026-07-17 10:40",
+          "latest_date": "2026-07-17 23:07",
           "latest_msg": "chore(data): automated market ledger alignment [skip ci]",
-          "latest_sha": "4d9d14e",
-          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/4d9d14e2804753c1c757f1356321a18588547c85"
+          "latest_sha": "a13dffe",
+          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/a13dffe0616d23a2215360e15bc099bc78a134c7"
         },
         {
           "name": "The Bao Le",
@@ -628,7 +628,7 @@
       "midweek_artefact": {
         "present": true,
         "path": "evidence/progress_logs/standup_midweek_W29.md",
-        "url": "https://github.com/LuJunwen212/CP3405-Project/blob/fbdea9034d16a689b118d9f52402a438e7577868/evidence/progress_logs/standup_midweek_W29.md"
+        "url": "https://github.com/LuJunwen212/CP3405-Project/blob/a13dffe0616d23a2215360e15bc099bc78a134c7/evidence/progress_logs/standup_midweek_W29.md"
       },
       "repo_url": "https://github.com/LuJunwen212/CP3405-Project"
     },
@@ -900,11 +900,11 @@
       "repo": "Gong-yinxuan/CP3405",
       "prac": "B",
       "is_ultra": false,
-      "last_commit_sha": "faf986d",
-      "last_commit_msg": "Replace llm txt files with Json files and updated data",
-      "last_commit_date": "2026-07-16 13:10",
-      "last_commit_author": "HYH-design-bot",
-      "last_commit_url": "https://github.com/Gong-yinxuan/CP3405/commit/faf986d84bf4d2897f82fcc7e7159902419d9e2d",
+      "last_commit_sha": "d0b393e",
+      "last_commit_msg": "chore: update Prism data 2026-07-17",
+      "last_commit_date": "2026-07-17 22:43",
+      "last_commit_author": "github-actions[bot]",
+      "last_commit_url": "https://github.com/Gong-yinxuan/CP3405/commit/d0b393e750aa56dcf77027a6e7eaaf7ec803fe3e",
       "tags": [
         "vW28",
         "vW25",
@@ -914,19 +914,19 @@
       "sprint_tag_present": false,
       "last_run_name": "Update Market Data",
       "last_run_conclusion": "success",
-      "last_run_date": "2026-07-16 01:01",
-      "last_run_url": "https://github.com/Gong-yinxuan/CP3405/actions/runs/29463068294",
+      "last_run_date": "2026-07-17 22:42",
+      "last_run_url": "https://github.com/Gong-yinxuan/CP3405/actions/runs/29618672719",
       "last_run_was_filtered": true,
       "open_prs": 0,
       "pr_titles": [],
       "pr_links": [],
-      "days_since_commit": 1,
+      "days_since_commit": 0,
       "contributors": [
         {
           "name": "To Hoang Gia",
           "login": "ToHoangGia",
           "kind": "human",
-          "commits": 36,
+          "commits": 35,
           "latest_date": "2026-07-14 05:57",
           "latest_msg": "Merge pull request #1 from Gong-yinxuan/adding_feature_macro",
           "latest_sha": "aa1d77d",
@@ -943,6 +943,16 @@
           "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/f6c02048f8f45a5ce5bd2aaf533da0a60726b4ec"
         },
         {
+          "name": "github-actions[bot]",
+          "login": "github-actions[bot]",
+          "kind": "bot",
+          "commits": 10,
+          "latest_date": "2026-07-17 22:43",
+          "latest_msg": "chore: update Prism data 2026-07-17",
+          "latest_sha": "d0b393e",
+          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/d0b393e750aa56dcf77027a6e7eaaf7ec803fe3e"
+        },
+        {
           "name": "HYH-design-bot",
           "login": "HYH-design-bot",
           "kind": "bot",
@@ -951,16 +961,6 @@
           "latest_msg": "Replace llm txt files with Json files and updated data",
           "latest_sha": "faf986d",
           "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/faf986d84bf4d2897f82fcc7e7159902419d9e2d"
-        },
-        {
-          "name": "github-actions[bot]",
-          "login": "github-actions[bot]",
-          "kind": "bot",
-          "commits": 9,
-          "latest_date": "2026-07-13 02:51",
-          "latest_msg": "chore: update Prism data 2026-07-13",
-          "latest_sha": "95441df",
-          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/95441dfe5097924b374a612b978211ddf0cded80"
         },
         {
           "name": "wujinrui2004",
@@ -1039,7 +1039,7 @@
       "midweek_artefact": {
         "present": true,
         "path": "Week7/R2_Scrum_Master/standup_midweek_W29.md",
-        "url": "https://github.com/Gong-yinxuan/CP3405/blob/faf986d84bf4d2897f82fcc7e7159902419d9e2d/Week7/R2_Scrum_Master/standup_midweek_W29.md"
+        "url": "https://github.com/Gong-yinxuan/CP3405/blob/d0b393e750aa56dcf77027a6e7eaaf7ec803fe3e/Week7/R2_Scrum_Master/standup_midweek_W29.md"
       },
       "repo_url": "https://github.com/Gong-yinxuan/CP3405"
     },
