@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-17 09:19 UTC",
+  "updated": "2026-07-17 11:02 UTC",
   "sprint_tag": "vW29",
   "sprint_deadline_utc": "2026-07-19T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W29",
@@ -25,11 +25,12 @@
       "sprint_tag_present": false,
       "last_run_name": "python-checks",
       "last_run_conclusion": "success",
-      "last_run_date": "2026-07-17 08:08",
-      "last_run_url": "https://github.com/sinder38/Team-1-Prac-A-Project/actions/runs/29565378387",
+      "last_run_date": "2026-07-17 10:11",
+      "last_run_url": "https://github.com/sinder38/Team-1-Prac-A-Project/actions/runs/29572608320",
       "last_run_was_filtered": true,
-      "open_prs": 6,
+      "open_prs": 7,
       "pr_titles": [
+        "Allama local testing and sever configuration",
         "Add market API, archive weeks, and frontend integration.",
         "Goal and criteria W29",
         "feature/macro-agent",
@@ -38,6 +39,12 @@
         "Implement regression tests for TechnicalAgent"
       ],
       "pr_links": [
+        {
+          "title": "Allama local testing and sever configuration",
+          "number": 80,
+          "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/80",
+          "author": "sinder38"
+        },
         {
           "title": "Add market API, archive weeks, and frontend integration.",
           "number": 79,
@@ -139,14 +146,14 @@
         }
       ],
       "pr_history": {
-        "total": 79,
+        "total": 80,
         "merged": 53,
-        "open": 6,
+        "open": 7,
         "abandoned": 20,
         "weekly": {
           "2026-07-13": {
             "merged": 3,
-            "open": 2,
+            "open": 3,
             "abandoned": 0
           },
           "2026-07-06": {
@@ -186,6 +193,14 @@
           }
         },
         "recent": [
+          {
+            "number": 80,
+            "title": "Allama local testing and sever configuration",
+            "status": "open",
+            "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/80",
+            "created_at": "2026-07-17",
+            "author": "sinder38"
+          },
           {
             "number": 79,
             "title": "Add market API, archive weeks, and frontend integration.",
@@ -297,14 +312,6 @@
             "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/66",
             "created_at": "2026-06-21",
             "author": "saikokokyaw"
-          },
-          {
-            "number": 65,
-            "title": "Create learning_log_W24.md",
-            "status": "merged",
-            "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/65",
-            "created_at": "2026-06-21",
-            "author": "Aeron03"
           }
         ]
       },
@@ -333,10 +340,10 @@
         "vW22"
       ],
       "sprint_tag_present": false,
-      "last_run_name": "Automated R8 LLM Operator",
+      "last_run_name": "Automated Technical Agent",
       "last_run_conclusion": "success",
-      "last_run_date": "2026-07-16 14:48",
-      "last_run_url": "https://github.com/LuJunwen212/CP3405-Project/actions/runs/29508256502",
+      "last_run_date": "2026-07-17 10:39",
+      "last_run_url": "https://github.com/LuJunwen212/CP3405-Project/actions/runs/29574206652",
       "last_run_was_filtered": true,
       "open_prs": 0,
       "pr_titles": [],
@@ -445,15 +452,15 @@
         }
       ],
       "pr_history": {
-        "total": 17,
+        "total": 18,
         "merged": 15,
         "open": 0,
-        "abandoned": 2,
+        "abandoned": 3,
         "weekly": {
           "2026-07-13": {
             "merged": 1,
             "open": 0,
-            "abandoned": 0
+            "abandoned": 1
           },
           "2026-07-06": {
             "merged": 1,
@@ -482,6 +489,14 @@
           }
         },
         "recent": [
+          {
+            "number": 18,
+            "title": "Merge to update macro",
+            "status": "abandoned",
+            "url": "https://github.com/LuJunwen212/CP3405-Project/pull/18",
+            "created_at": "2026-07-17",
+            "author": "The-Bao-Le"
+          },
           {
             "number": 17,
             "title": "Week 07",
@@ -591,14 +606,6 @@
             "title": "Update Week 22 Actuals and Sectors",
             "status": "merged",
             "url": "https://github.com/LuJunwen212/CP3405-Project/pull/4",
-            "created_at": "2026-06-07",
-            "author": "Kyler017"
-          },
-          {
-            "number": 3,
-            "title": "Update actuals_2026-W22.md",
-            "status": "abandoned",
-            "url": "https://github.com/LuJunwen212/CP3405-Project/pull/3",
             "created_at": "2026-06-07",
             "author": "Kyler017"
           }
@@ -1042,7 +1049,7 @@
       "open_prs": 0,
       "pr_titles": [],
       "pr_links": [],
-      "days_since_commit": 3,
+      "days_since_commit": 4,
       "contributors": [
         {
           "name": "ProfDrTan",
