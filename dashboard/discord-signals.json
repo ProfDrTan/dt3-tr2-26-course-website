@@ -1,5 +1,5 @@
 {
-  "generated": "Friday 17 July 2026 09:14 SGT",
+  "generated": "Friday 17 July 2026 12:32 SGT",
   "teams": {
     "Team 1": {
       "blockers": []
@@ -29,12 +29,6 @@
           "content": "Okay the actuals parser was failing because it was trying to read the weekly close price as the weekly change",
           "ts_str": "2026-07-16 08:52:54",
           "url": "https://discord.com/channels/1505861202444816455/1505883145466155079/1527236576302596248"
-        },
-        {
-          "author": "wenhanhu14796631_51955",
-          "content": "I ran into an issue with triggers in GitHub Actions. According to GitHub\u2019s documentation, scheduled workflows can be delayed when the platform is under heavy load, especially around the top of each ho",
-          "ts_str": "2026-07-15 02:24:38",
-          "url": "https://discord.com/channels/1505861202444816455/1505883145466155079/1526776478619009296"
         }
       ]
     },
