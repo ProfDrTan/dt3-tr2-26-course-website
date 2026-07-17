@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-17 20:34 UTC",
+  "updated": "2026-07-17 21:34 UTC",
   "sprint_tag": "vW29",
   "sprint_deadline_utc": "2026-07-19T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W29",
@@ -771,11 +771,11 @@
       "repo": "wintwah-lwin/CP3405_Group_4",
       "prac": "B",
       "is_ultra": false,
-      "last_commit_sha": "fb69b33",
-      "last_commit_msg": "Revise macro agent data for Week 8",
-      "last_commit_date": "2026-07-16 17:15",
-      "last_commit_author": "AmiePhyo",
-      "last_commit_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/fb69b337fb71312118560b3686609357516284d7",
+      "last_commit_sha": "8c8d751",
+      "last_commit_msg": "Auto-commit: Pipeline execution (Week 8)",
+      "last_commit_date": "2026-07-17 20:51",
+      "last_commit_author": "github-actions[bot]",
+      "last_commit_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/8c8d751a10f32281b14c334f591a3d0248f9042f",
       "tags": [
         "v1.0.0",
         "W28",
@@ -787,8 +787,8 @@
       "sprint_tag_present": false,
       "last_run_name": "Auto Prediction",
       "last_run_conclusion": "success",
-      "last_run_date": "2026-07-13 06:16",
-      "last_run_url": "https://github.com/wintwah-lwin/CP3405_Group_4/actions/runs/29228496441",
+      "last_run_date": "2026-07-17 20:49",
+      "last_run_url": "https://github.com/wintwah-lwin/CP3405_Group_4/actions/runs/29612617436",
       "last_run_was_filtered": true,
       "open_prs": 1,
       "pr_titles": [
@@ -802,7 +802,7 @@
           "author": "wintwah-lwin"
         }
       ],
-      "days_since_commit": 1,
+      "days_since_commit": 0,
       "contributors": [
         {
           "name": "Arisa",
@@ -818,11 +818,11 @@
           "name": "github-actions[bot]",
           "login": "github-actions[bot]",
           "kind": "bot",
-          "commits": 10,
-          "latest_date": "2026-07-13 06:18",
+          "commits": 11,
+          "latest_date": "2026-07-17 20:51",
           "latest_msg": "Auto-commit: Pipeline execution (Week 8)",
-          "latest_sha": "7cc9073",
-          "latest_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/7cc907351439c1ba8151c8a5ce0954bd3693f579"
+          "latest_sha": "8c8d751",
+          "latest_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/8c8d751a10f32281b14c334f591a3d0248f9042f"
         },
         {
           "name": "louishan42",
