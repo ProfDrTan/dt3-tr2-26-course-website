@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-17 07:01 UTC",
+  "updated": "2026-07-17 09:19 UTC",
   "sprint_tag": "vW29",
   "sprint_deadline_utc": "2026-07-19T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W29",
@@ -23,13 +23,14 @@
         "vW22"
       ],
       "sprint_tag_present": false,
-      "last_run_name": "agent-checks",
+      "last_run_name": "python-checks",
       "last_run_conclusion": "success",
-      "last_run_date": "2026-07-13 06:01",
-      "last_run_url": "https://github.com/sinder38/Team-1-Prac-A-Project/actions/runs/29227762238",
+      "last_run_date": "2026-07-17 08:08",
+      "last_run_url": "https://github.com/sinder38/Team-1-Prac-A-Project/actions/runs/29565378387",
       "last_run_was_filtered": true,
-      "open_prs": 5,
+      "open_prs": 6,
       "pr_titles": [
+        "Add market API, archive weeks, and frontend integration.",
         "Goal and criteria W29",
         "feature/macro-agent",
         "Add Week 5 delta engine draft",
@@ -37,6 +38,12 @@
         "Implement regression tests for TechnicalAgent"
       ],
       "pr_links": [
+        {
+          "title": "Add market API, archive weeks, and frontend integration.",
+          "number": 79,
+          "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/79",
+          "author": "oakkar-cm"
+        },
         {
           "title": "Goal and criteria W29",
           "number": 78,
@@ -132,14 +139,14 @@
         }
       ],
       "pr_history": {
-        "total": 78,
+        "total": 79,
         "merged": 53,
-        "open": 5,
+        "open": 6,
         "abandoned": 20,
         "weekly": {
           "2026-07-13": {
             "merged": 3,
-            "open": 1,
+            "open": 2,
             "abandoned": 0
           },
           "2026-07-06": {
@@ -179,6 +186,14 @@
           }
         },
         "recent": [
+          {
+            "number": 79,
+            "title": "Add market API, archive weeks, and frontend integration.",
+            "status": "open",
+            "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/79",
+            "created_at": "2026-07-17",
+            "author": "oakkar-cm"
+          },
           {
             "number": 78,
             "title": "Goal and criteria W29",
@@ -288,14 +303,6 @@
             "title": "Create learning_log_W24.md",
             "status": "merged",
             "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/65",
-            "created_at": "2026-06-21",
-            "author": "Aeron03"
-          },
-          {
-            "number": 64,
-            "title": "Create calibration_log_W24.md",
-            "status": "merged",
-            "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/64",
             "created_at": "2026-06-21",
             "author": "Aeron03"
           }
