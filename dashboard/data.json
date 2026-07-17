@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-17 15:44 UTC",
+  "updated": "2026-07-17 16:57 UTC",
   "sprint_tag": "vW29",
   "sprint_deadline_utc": "2026-07-19T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W29",
@@ -701,16 +701,6 @@
           "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/3f38ff972cf10a4f19698626537e17cd5c9a5ae9"
         },
         {
-          "name": "github-actions",
-          "login": "invalid-email-address",
-          "kind": "bot",
-          "commits": 4,
-          "latest_date": "2026-07-17 15:04",
-          "latest_msg": "Add Friday market close data",
-          "latest_sha": "c401b26",
-          "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/c401b267679e67822f97b0b62804de69d724598d"
-        },
-        {
           "name": "Jiale Zhang",
           "login": "ZHANGJIALELLLLL",
           "kind": "human",
@@ -719,6 +709,16 @@
           "latest_msg": "Update standup_w28.md",
           "latest_sha": "21bfacb",
           "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/21bfacbed06a37456e557438fa7c66a0866a39ea"
+        },
+        {
+          "name": "github-actions",
+          "login": "invalid-email-address",
+          "kind": "bot",
+          "commits": 3,
+          "latest_date": "2026-07-17 15:04",
+          "latest_msg": "Add Friday market close data",
+          "latest_sha": "c401b26",
+          "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/c401b267679e67822f97b0b62804de69d724598d"
         },
         {
           "name": "Li-Haoyao",
