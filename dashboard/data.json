@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-17 12:19 UTC",
+  "updated": "2026-07-17 14:10 UTC",
   "sprint_tag": "vW29",
   "sprint_deadline_utc": "2026-07-19T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W29",
@@ -334,11 +334,11 @@
       "repo": "LuJunwen212/CP3405-Project",
       "prac": "A",
       "is_ultra": false,
-      "last_commit_sha": "f280b56",
-      "last_commit_msg": "chore(data): automated market ledger alignment [skip ci]",
-      "last_commit_date": "2026-07-15 05:27",
-      "last_commit_author": "Team2 Data Automatio",
-      "last_commit_url": "https://github.com/LuJunwen212/CP3405-Project/commit/f280b5624b43d87cc13e0d9939f102eb746fbdcc",
+      "last_commit_sha": "fbdea90",
+      "last_commit_msg": "Merge pull request #20 from LuJunwen212/Week-07",
+      "last_commit_date": "2026-07-17 14:03",
+      "last_commit_author": "The Bao Le",
+      "last_commit_url": "https://github.com/LuJunwen212/CP3405-Project/commit/fbdea9034d16a689b118d9f52402a438e7577868",
       "tags": [
         "vW28",
         "vW25",
@@ -355,37 +355,67 @@
       "open_prs": 0,
       "pr_titles": [],
       "pr_links": [],
-      "days_since_commit": 2,
+      "days_since_commit": 0,
       "contributors": [
         {
-          "name": "linyuchu",
-          "login": "mihawk-cell",
-          "kind": "human",
-          "commits": 46,
-          "latest_date": "2026-07-12 14:40",
-          "latest_msg": "Add GitHub Actions workflow for production deployment",
-          "latest_sha": "38a6b67",
-          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/38a6b6705c115fad23f51e6ddfe79cbbafe12f98"
+          "name": "Team2 Data Automation Bot",
+          "login": "",
+          "kind": "bot",
+          "commits": 26,
+          "latest_date": "2026-07-17 10:40",
+          "latest_msg": "chore(data): automated market ledger alignment [skip ci]",
+          "latest_sha": "4d9d14e",
+          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/4d9d14e2804753c1c757f1356321a18588547c85"
         },
         {
-          "name": "LuJunwen212",
-          "login": "LuJunwen212",
+          "name": "The Bao Le",
+          "login": "The-Bao-Le",
           "kind": "human",
-          "commits": 10,
-          "latest_date": "2026-07-12 15:56",
-          "latest_msg": "Merge pull request #16 from LuJunwen212/Week-06",
-          "latest_sha": "384ef8b",
-          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/384ef8b4ae8e9ae4bc0cfba3e6407705308e3be0"
+          "commits": 15,
+          "latest_date": "2026-07-17 14:03",
+          "latest_msg": "Merge pull request #20 from LuJunwen212/Week-07",
+          "latest_sha": "fbdea90",
+          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/fbdea9034d16a689b118d9f52402a438e7577868"
         },
         {
-          "name": "Guanyu Lu",
-          "login": "Guanyu-Lu",
+          "name": "ZhengZaikun",
+          "login": "ZhengZaikun",
           "kind": "human",
-          "commits": 10,
-          "latest_date": "2026-07-12 08:57",
-          "latest_msg": "Update team members in README.md",
-          "latest_sha": "105a942",
-          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/105a942ef45f4c6d9e4e445a6971bb64b9673b63"
+          "commits": 12,
+          "latest_date": "2026-07-15 04:55",
+          "latest_msg": "Update r5_technical_automation.py",
+          "latest_sha": "07fe4b4",
+          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/07fe4b4519ecca0f02726c85493bebd909a4929a"
+        },
+        {
+          "name": "Team2 R8 LLM Operator",
+          "login": "",
+          "kind": "human",
+          "commits": 9,
+          "latest_date": "2026-07-17 12:06",
+          "latest_msg": "docs(r8): updated free open-source multi-model matrix [skip ci]",
+          "latest_sha": "5b0fe66",
+          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/5b0fe661eed4556bde975f94a34afd6f530dd841"
+        },
+        {
+          "name": "louis848",
+          "login": "louis848",
+          "kind": "human",
+          "commits": 9,
+          "latest_date": "2026-07-15 08:33",
+          "latest_msg": "Update r5_technical_automation.py",
+          "latest_sha": "f699977",
+          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/f69997708d06c98405e0eda395486e5d642a0f41"
+        },
+        {
+          "name": "Kyler017",
+          "login": "Kyler017",
+          "kind": "human",
+          "commits": 8,
+          "latest_date": "2026-07-17 12:05",
+          "latest_msg": "Update r8_llm_operator.py",
+          "latest_sha": "17483c4",
+          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/17483c40be70bc397384f25c926829c165d06274"
         },
         {
           "name": "hao-wang7",
@@ -398,54 +428,24 @@
           "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/7f638d97c6bea263e99c8ff9d16675ab7b859b73"
         },
         {
-          "name": "louis848",
-          "login": "louis848",
-          "kind": "human",
-          "commits": 7,
-          "latest_date": "2026-07-12 10:43",
-          "latest_msg": "Update r6_data_pipeline.yml",
-          "latest_sha": "a9ab76a",
-          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/a9ab76a1afd63f3e810abcb17df43bccfef079e1"
-        },
-        {
-          "name": "Team2 Data Automation Bot",
-          "login": "",
-          "kind": "bot",
-          "commits": 5,
-          "latest_date": "2026-07-15 05:27",
-          "latest_msg": "chore(data): automated market ledger alignment [skip ci]",
-          "latest_sha": "f280b56",
-          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/f280b5624b43d87cc13e0d9939f102eb746fbdcc"
-        },
-        {
-          "name": "Kyler017",
-          "login": "Kyler017",
+          "name": "linyuchu",
+          "login": "mihawk-cell",
           "kind": "human",
           "commits": 5,
-          "latest_date": "2026-07-12 13:58",
-          "latest_msg": "Update r8_llm_operator.py",
-          "latest_sha": "6f76930",
-          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/6f7693061ef1dd8b9c23f0c0926f4a6f2db79120"
+          "latest_date": "2026-07-15 10:00",
+          "latest_msg": "Delete .github/workflows/fetch_market_data.yml",
+          "latest_sha": "8c1217a",
+          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/8c1217a56d2a3422c49ef5eab74d8eeac4010d65"
         },
         {
-          "name": "Team2 R8 LLM Operator",
-          "login": "",
+          "name": "swan002",
+          "login": "swan002",
           "kind": "human",
           "commits": 3,
-          "latest_date": "2026-07-12 13:49",
-          "latest_msg": "docs(r8): multi-model comparison ledger updated via cloud free-tier [s",
-          "latest_sha": "8dc9edd",
-          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/8dc9eddae36bec7c41c46d0fd88c763c6a96bf0b"
-        },
-        {
-          "name": "ZhengZaikun",
-          "login": "ZhengZaikun",
-          "kind": "human",
-          "commits": 3,
-          "latest_date": "2026-07-12 13:49",
-          "latest_msg": "Update r8_llm_job.yml",
-          "latest_sha": "72ba45b",
-          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/72ba45bbef1b74c84696eddd24d3918605cb730d"
+          "latest_date": "2026-07-16 09:15",
+          "latest_msg": "Update prediction_2026-W28_team2.md",
+          "latest_sha": "a194c3b",
+          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/a194c3ba6d3bc0389b0d94aef280b891e14f4842"
         },
         {
           "name": "Team2 R4 Automation Bot",
@@ -459,15 +459,15 @@
         }
       ],
       "pr_history": {
-        "total": 18,
-        "merged": 15,
+        "total": 21,
+        "merged": 17,
         "open": 0,
-        "abandoned": 3,
+        "abandoned": 4,
         "weekly": {
           "2026-07-13": {
-            "merged": 1,
+            "merged": 3,
             "open": 0,
-            "abandoned": 1
+            "abandoned": 2
           },
           "2026-07-06": {
             "merged": 1,
@@ -496,6 +496,30 @@
           }
         },
         "recent": [
+          {
+            "number": 21,
+            "title": "Update Week 07 branch",
+            "status": "merged",
+            "url": "https://github.com/LuJunwen212/CP3405-Project/pull/21",
+            "created_at": "2026-07-17",
+            "author": "The-Bao-Le"
+          },
+          {
+            "number": 20,
+            "title": "Week 07",
+            "status": "merged",
+            "url": "https://github.com/LuJunwen212/CP3405-Project/pull/20",
+            "created_at": "2026-07-17",
+            "author": "The-Bao-Le"
+          },
+          {
+            "number": 19,
+            "title": "Week 07",
+            "status": "abandoned",
+            "url": "https://github.com/LuJunwen212/CP3405-Project/pull/19",
+            "created_at": "2026-07-17",
+            "author": "The-Bao-Le"
+          },
           {
             "number": 18,
             "title": "Merge to update macro",
@@ -591,37 +615,13 @@
             "url": "https://github.com/LuJunwen212/CP3405-Project/pull/7",
             "created_at": "2026-06-13",
             "author": "The-Bao-Le"
-          },
-          {
-            "number": 6,
-            "title": "Week 04 - Saturday",
-            "status": "merged",
-            "url": "https://github.com/LuJunwen212/CP3405-Project/pull/6",
-            "created_at": "2026-06-13",
-            "author": "The-Bao-Le"
-          },
-          {
-            "number": 5,
-            "title": "Week 03",
-            "status": "merged",
-            "url": "https://github.com/LuJunwen212/CP3405-Project/pull/5",
-            "created_at": "2026-06-07",
-            "author": "MannimMond811"
-          },
-          {
-            "number": 4,
-            "title": "Update Week 22 Actuals and Sectors",
-            "status": "merged",
-            "url": "https://github.com/LuJunwen212/CP3405-Project/pull/4",
-            "created_at": "2026-06-07",
-            "author": "Kyler017"
           }
         ]
       },
       "midweek_artefact": {
-        "present": false,
-        "path": null,
-        "url": null
+        "present": true,
+        "path": "evidence/progress_logs/standup_midweek_W29.md",
+        "url": "https://github.com/LuJunwen212/CP3405-Project/blob/fbdea9034d16a689b118d9f52402a438e7577868/evidence/progress_logs/standup_midweek_W29.md"
       },
       "repo_url": "https://github.com/LuJunwen212/CP3405-Project"
     },
@@ -913,7 +913,7 @@
       "open_prs": 0,
       "pr_titles": [],
       "pr_links": [],
-      "days_since_commit": 0,
+      "days_since_commit": 1,
       "contributors": [
         {
           "name": "To Hoang Gia",
