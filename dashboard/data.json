@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-17 18:13 UTC",
+  "updated": "2026-07-17 19:38 UTC",
   "sprint_tag": "vW29",
   "sprint_deadline_utc": "2026-07-19T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W29",
@@ -637,11 +637,11 @@
       "repo": "juninho4/Team-3-Practical-A-CP3405",
       "prac": "A",
       "is_ultra": false,
-      "last_commit_sha": "c401b26",
-      "last_commit_msg": "Add Friday market close data",
-      "last_commit_date": "2026-07-17 15:04",
-      "last_commit_author": "github-actions",
-      "last_commit_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/c401b267679e67822f97b0b62804de69d724598d",
+      "last_commit_sha": "63ced11",
+      "last_commit_msg": "Add W29 Technical Agent report and predictions",
+      "last_commit_date": "2026-07-17 18:37",
+      "last_commit_author": "Vince-1206",
+      "last_commit_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/63ced11f8fe525f37be9e93d1fb44b3ead17bdac",
       "tags": [
         "vW25",
         "vW24",
@@ -664,11 +664,11 @@
           "name": "Vince-1206",
           "login": "Vince-1206",
           "kind": "human",
-          "commits": 20,
-          "latest_date": "2026-07-12 17:37",
-          "latest_msg": "Delete vW28/Technical Agent/image/charts/p",
-          "latest_sha": "1e983b8",
-          "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/1e983b8730df061c7186d2ce8d6418ad84ae8fe6"
+          "commits": 27,
+          "latest_date": "2026-07-17 18:37",
+          "latest_msg": "Add W29 Technical Agent report and predictions",
+          "latest_sha": "63ced11",
+          "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/63ced11f8fe525f37be9e93d1fb44b3ead17bdac"
         },
         {
           "name": "141242-l",
