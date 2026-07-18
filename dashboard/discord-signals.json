@@ -1,36 +1,11 @@
 {
-  "generated": "Saturday 18 July 2026 16:20 SGT",
+  "generated": "Saturday 18 July 2026 17:53 SGT",
   "teams": {
     "Team 1": {
       "blockers": []
     },
     "Team 2": {
-      "blockers": [
-        {
-          "author": "noobydoo2507",
-          "content": "I'm contacting R7 rn and will get back to you ASAP.",
-          "ts_str": "2026-07-16 09:05:07",
-          "url": "https://discord.com/channels/1505861202444816455/1505883145466155079/1527239648877875201"
-        },
-        {
-          "author": "vileworx",
-          "content": "<@313176756796522497> blocker because I don't know if the format of the predictions file is going to change again or something. What's it supposed to be?",
-          "ts_str": "2026-07-16 09:02:06",
-          "url": "https://discord.com/channels/1505861202444816455/1505883145466155079/1527238891109748848"
-        },
-        {
-          "author": "vileworx",
-          "content": "The predictions file however is a total mess. I'm using `prediction_2026-W28_team2.md` and it seems the formatting of that file has been completely broken so the parser can't recognise it. Who made th",
-          "ts_str": "2026-07-16 08:59:13",
-          "url": "https://discord.com/channels/1505861202444816455/1505883145466155079/1527238165960593409"
-        },
-        {
-          "author": "vileworx",
-          "content": "Okay the actuals parser was failing because it was trying to read the weekly close price as the weekly change",
-          "ts_str": "2026-07-16 08:52:54",
-          "url": "https://discord.com/channels/1505861202444816455/1505883145466155079/1527236576302596248"
-        }
-      ]
+      "blockers": []
     },
     "Team 3": {
       "blockers": []
