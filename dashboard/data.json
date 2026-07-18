@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-18 13:51 UTC",
+  "updated": "2026-07-18 14:49 UTC",
   "sprint_tag": "vW29",
   "sprint_deadline_utc": "2026-07-19T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W29",
@@ -10,11 +10,11 @@
       "repo": "sinder38/Team-1-Prac-A-Project",
       "prac": "A",
       "is_ultra": false,
-      "last_commit_sha": "fe9760d",
-      "last_commit_msg": "Create standup_midweek_W29.md (#77)",
-      "last_commit_date": "2026-07-16 12:00",
-      "last_commit_author": "PanHsuMyat",
-      "last_commit_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/fe9760d56b4bf3739318bbfbb6e74e810ee80802",
+      "last_commit_sha": "a318ecc",
+      "last_commit_msg": "Allama local testing and sever configuration (#80)",
+      "last_commit_date": "2026-07-18 14:47",
+      "last_commit_author": "sinder",
+      "last_commit_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/a318eccbe79ce6e5d6717c81150cedef7350fe96",
       "tags": [
         "vW28",
         "vW25",
@@ -25,21 +25,20 @@
       "sprint_tag_present": false,
       "last_run_name": "python-checks",
       "last_run_conclusion": "success",
-      "last_run_date": "2026-07-18 11:58",
-      "last_run_url": "https://github.com/sinder38/Team-1-Prac-A-Project/actions/runs/29643485814",
+      "last_run_date": "2026-07-18 14:47",
+      "last_run_url": "https://github.com/sinder38/Team-1-Prac-A-Project/actions/runs/29648710721",
       "last_run_was_filtered": true,
-      "open_prs": 10,
+      "open_prs": 9,
       "pr_titles": [
         "Refactor: centralize repository paths",
         "Save JSON files in database",
         "chore: pipeline artifacts 2026-07-17",
         "Integrate Delta Engine with pipeline, backend and frontend",
-        "Allama local testing and sever configuration",
         "Add market API, archive weeks, and frontend integration.",
         "Goal and criteria W29",
         "feature/macro-agent",
-        "Add Week 5 delta engine draft",
-        "adding test_almanac_agent py file"
+        "adding test_almanac_agent py file",
+        "Implement regression tests for TechnicalAgent"
       ],
       "pr_links": [
         {
@@ -67,12 +66,6 @@
           "author": "JasonEran"
         },
         {
-          "title": "Allama local testing and sever configuration",
-          "number": 80,
-          "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/80",
-          "author": "sinder38"
-        },
-        {
           "title": "Add market API, archive weeks, and frontend integration.",
           "number": 79,
           "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/79",
@@ -91,29 +84,29 @@
           "author": "NaingPhonePyae"
         },
         {
-          "title": "Add Week 5 delta engine draft",
-          "number": 60,
-          "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/60",
-          "author": "JasonEran"
-        },
-        {
           "title": "adding test_almanac_agent py file",
           "number": 57,
           "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/57",
           "author": "ZawLattNaung"
+        },
+        {
+          "title": "Implement regression tests for TechnicalAgent",
+          "number": 49,
+          "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/49",
+          "author": "saikokokyaw"
         }
       ],
-      "days_since_commit": 2,
+      "days_since_commit": 0,
       "contributors": [
         {
           "name": "sinder",
           "login": "sinder38",
           "kind": "human",
-          "commits": 5,
-          "latest_date": "2026-07-13 05:58",
-          "latest_msg": "Fix week number",
-          "latest_sha": "d2fe598",
-          "latest_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/d2fe5984ad2471b47cf91718b104693caf29d356"
+          "commits": 6,
+          "latest_date": "2026-07-18 14:47",
+          "latest_msg": "Allama local testing and sever configuration (#80)",
+          "latest_sha": "a318ecc",
+          "latest_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/a318eccbe79ce6e5d6717c81150cedef7350fe96"
         },
         {
           "name": "PanHsuMyat",
@@ -168,13 +161,13 @@
       ],
       "pr_history": {
         "total": 84,
-        "merged": 53,
-        "open": 11,
-        "abandoned": 20,
+        "merged": 54,
+        "open": 9,
+        "abandoned": 21,
         "weekly": {
           "2026-07-13": {
-            "merged": 3,
-            "open": 7,
+            "merged": 4,
+            "open": 6,
             "abandoned": 0
           },
           "2026-07-06": {
@@ -194,8 +187,8 @@
           },
           "2026-06-15": {
             "merged": 10,
-            "open": 2,
-            "abandoned": 1
+            "open": 1,
+            "abandoned": 2
           },
           "2026-06-08": {
             "merged": 12,
@@ -249,7 +242,7 @@
           {
             "number": 80,
             "title": "Allama local testing and sever configuration",
-            "status": "open",
+            "status": "merged",
             "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/80",
             "created_at": "2026-07-17",
             "author": "sinder38"
@@ -923,12 +916,13 @@
       "last_commit_author": "wujinrui2004",
       "last_commit_url": "https://github.com/Gong-yinxuan/CP3405/commit/19bc1fbb699f304550ea39505234f53e33d68715",
       "tags": [
+        "vW29",
         "vW28",
         "vW25",
         "vW24",
         "W23"
       ],
-      "sprint_tag_present": false,
+      "sprint_tag_present": true,
       "last_run_name": "Update Market Data",
       "last_run_conclusion": "success",
       "last_run_date": "2026-07-17 22:42",
@@ -1064,7 +1058,7 @@
       "midweek_artefact": {
         "present": true,
         "path": "Week7/R2_Scrum_Master/standup_midweek_W29.md",
-        "url": "https://github.com/Gong-yinxuan/CP3405/blob/d0b393e750aa56dcf77027a6e7eaaf7ec803fe3e/Week7/R2_Scrum_Master/standup_midweek_W29.md"
+        "url": "https://github.com/Gong-yinxuan/CP3405/blob/19bc1fbb699f304550ea39505234f53e33d68715/Week7/R2_Scrum_Master/standup_midweek_W29.md"
       },
       "repo_url": "https://github.com/Gong-yinxuan/CP3405"
     },
