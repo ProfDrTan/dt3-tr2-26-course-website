@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-18 12:09 UTC",
+  "updated": "2026-07-18 13:51 UTC",
   "sprint_tag": "vW29",
   "sprint_deadline_utc": "2026-07-19T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W29",
@@ -644,11 +644,11 @@
       "repo": "juninho4/Team-3-Practical-A-CP3405",
       "prac": "A",
       "is_ultra": false,
-      "last_commit_sha": "f9e7cd4",
+      "last_commit_sha": "eb23504",
       "last_commit_msg": "Add files via upload",
-      "last_commit_date": "2026-07-18 08:36",
-      "last_commit_author": "ZhangJiayu0201",
-      "last_commit_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/f9e7cd420df50dd690f6d24f47bc91a881cf568d",
+      "last_commit_date": "2026-07-18 13:09",
+      "last_commit_author": "Jiawei990029",
+      "last_commit_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/eb235040d6cfa4727f9dfbcf8bb511386c893f4c",
       "tags": [
         "vW25",
         "vW24",
@@ -718,6 +718,16 @@
           "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/21bfacbed06a37456e557438fa7c66a0866a39ea"
         },
         {
+          "name": "Jiawei990029",
+          "login": "Jiawei990029",
+          "kind": "human",
+          "commits": 3,
+          "latest_date": "2026-07-18 13:09",
+          "latest_msg": "Add files via upload",
+          "latest_sha": "eb23504",
+          "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/eb235040d6cfa4727f9dfbcf8bb511386c893f4c"
+        },
+        {
           "name": "github-actions",
           "login": "invalid-email-address",
           "kind": "bot",
@@ -726,6 +736,16 @@
           "latest_msg": "Add Friday market close data",
           "latest_sha": "c401b26",
           "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/c401b267679e67822f97b0b62804de69d724598d"
+        },
+        {
+          "name": "vandarkray",
+          "login": "vandarkray",
+          "kind": "human",
+          "commits": 2,
+          "latest_date": "2026-07-18 12:55",
+          "latest_msg": "Create Week 25 LLM Horserace Report",
+          "latest_sha": "e262b46",
+          "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/e262b46cca2c43a8540aa127fb9dfe7889820672"
         },
         {
           "name": "Li-Haoyao",
@@ -746,16 +766,6 @@
           "latest_msg": "added sprint goal for w28",
           "latest_sha": "d5c38bc",
           "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/d5c38bc1866e572ec27fd33b7dad6a1396317fed"
-        },
-        {
-          "name": "Jiawei990029",
-          "login": "Jiawei990029",
-          "kind": "human",
-          "commits": 2,
-          "latest_date": "2026-07-12 01:30",
-          "latest_msg": "Add files via upload",
-          "latest_sha": "59ddb45",
-          "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/59ddb45c557c5d7e36a06c1bb949fab04f9b7c8f"
         }
       ],
       "pr_history": {
@@ -907,11 +917,11 @@
       "repo": "Gong-yinxuan/CP3405",
       "prac": "B",
       "is_ultra": false,
-      "last_commit_sha": "d0b393e",
-      "last_commit_msg": "chore: update Prism data 2026-07-17",
-      "last_commit_date": "2026-07-17 22:43",
-      "last_commit_author": "github-actions[bot]",
-      "last_commit_url": "https://github.com/Gong-yinxuan/CP3405/commit/d0b393e750aa56dcf77027a6e7eaaf7ec803fe3e",
+      "last_commit_sha": "19bc1fb",
+      "last_commit_msg": "Merge pull request #2 from Gong-yinxuan/hyh",
+      "last_commit_date": "2026-07-18 13:50",
+      "last_commit_author": "wujinrui2004",
+      "last_commit_url": "https://github.com/Gong-yinxuan/CP3405/commit/19bc1fbb699f304550ea39505234f53e33d68715",
       "tags": [
         "vW28",
         "vW25",
@@ -930,54 +940,44 @@
       "days_since_commit": 0,
       "contributors": [
         {
-          "name": "To Hoang Gia",
-          "login": "ToHoangGia",
-          "kind": "human",
-          "commits": 35,
-          "latest_date": "2026-07-14 05:57",
-          "latest_msg": "Merge pull request #1 from Gong-yinxuan/adding_feature_macro",
-          "latest_sha": "aa1d77d",
-          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/aa1d77d28419653e3dfa683f4817ba457abce0d8"
-        },
-        {
-          "name": "Gong-yinxuan",
-          "login": "Gong-yinxuan",
-          "kind": "human",
-          "commits": 31,
-          "latest_date": "2026-07-15 00:59",
-          "latest_msg": "Revise technical analysis report with manual updates",
-          "latest_sha": "f6c0204",
-          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/f6c02048f8f45a5ce5bd2aaf533da0a60726b4ec"
-        },
-        {
-          "name": "github-actions[bot]",
-          "login": "github-actions[bot]",
-          "kind": "bot",
-          "commits": 10,
-          "latest_date": "2026-07-17 22:43",
-          "latest_msg": "chore: update Prism data 2026-07-17",
-          "latest_sha": "d0b393e",
-          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/d0b393e750aa56dcf77027a6e7eaaf7ec803fe3e"
-        },
-        {
           "name": "HYH-design-bot",
           "login": "HYH-design-bot",
           "kind": "bot",
-          "commits": 10,
+          "commits": 36,
           "latest_date": "2026-07-16 13:10",
           "latest_msg": "Replace llm txt files with Json files and updated data",
           "latest_sha": "faf986d",
           "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/faf986d84bf4d2897f82fcc7e7159902419d9e2d"
         },
         {
+          "name": "To Hoang Gia",
+          "login": "ToHoangGia",
+          "kind": "human",
+          "commits": 28,
+          "latest_date": "2026-07-14 05:57",
+          "latest_msg": "Merge pull request #1 from Gong-yinxuan/adding_feature_macro",
+          "latest_sha": "aa1d77d",
+          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/aa1d77d28419653e3dfa683f4817ba457abce0d8"
+        },
+        {
+          "name": "github-actions[bot]",
+          "login": "github-actions[bot]",
+          "kind": "bot",
+          "commits": 17,
+          "latest_date": "2026-07-17 22:43",
+          "latest_msg": "chore: update Prism data 2026-07-17",
+          "latest_sha": "d0b393e",
+          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/d0b393e750aa56dcf77027a6e7eaaf7ec803fe3e"
+        },
+        {
           "name": "wujinrui2004",
           "login": "wujinrui2004",
           "kind": "human",
-          "commits": 6,
-          "latest_date": "2026-07-12 21:56",
-          "latest_msg": "Delete Week6/R4_macro/macro_agent_W06.md",
-          "latest_sha": "e5b7bbe",
-          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/e5b7bbed06e71dffdba89789b415e5a35a193e98"
+          "commits": 8,
+          "latest_date": "2026-07-18 13:50",
+          "latest_msg": "Merge pull request #2 from Gong-yinxuan/hyh",
+          "latest_sha": "19bc1fb",
+          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/19bc1fbb699f304550ea39505234f53e33d68715"
         },
         {
           "name": "Kherlenbayar Sukhbaatar",
@@ -988,6 +988,16 @@
           "latest_msg": ".",
           "latest_sha": "0311767",
           "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/031176737b4e93fb08b241968bd2c07e9ae3d420"
+        },
+        {
+          "name": "Gong-yinxuan",
+          "login": "Gong-yinxuan",
+          "kind": "human",
+          "commits": 3,
+          "latest_date": "2026-07-15 00:59",
+          "latest_msg": "Revise technical analysis report with manual updates",
+          "latest_sha": "f6c0204",
+          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/f6c02048f8f45a5ce5bd2aaf533da0a60726b4ec"
         },
         {
           "name": "darwin",
@@ -1021,18 +1031,26 @@
         }
       ],
       "pr_history": {
-        "total": 1,
-        "merged": 1,
+        "total": 2,
+        "merged": 2,
         "open": 0,
         "abandoned": 0,
         "weekly": {
           "2026-07-13": {
-            "merged": 1,
+            "merged": 2,
             "open": 0,
             "abandoned": 0
           }
         },
         "recent": [
+          {
+            "number": 2,
+            "title": "Merge hyh into main for Sprint 13",
+            "status": "merged",
+            "url": "https://github.com/Gong-yinxuan/CP3405/pull/2",
+            "created_at": "2026-07-18",
+            "author": "wujinrui2004"
+          },
           {
             "number": 1,
             "title": "R4 Work_ Week8",
