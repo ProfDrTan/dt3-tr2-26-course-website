@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-18 09:53 UTC",
+  "updated": "2026-07-18 11:14 UTC",
   "sprint_tag": "vW29",
   "sprint_deadline_utc": "2026-07-19T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W29",
@@ -25,11 +25,12 @@
       "sprint_tag_present": false,
       "last_run_name": "python-checks",
       "last_run_conclusion": "success",
-      "last_run_date": "2026-07-18 09:44",
-      "last_run_url": "https://github.com/sinder38/Team-1-Prac-A-Project/actions/runs/29639675817",
+      "last_run_date": "2026-07-18 10:53",
+      "last_run_url": "https://github.com/sinder38/Team-1-Prac-A-Project/actions/runs/29641626127",
       "last_run_was_filtered": true,
       "open_prs": 10,
       "pr_titles": [
+        "Refactor: centralize repository paths",
         "Save JSON files in database",
         "chore: pipeline artifacts 2026-07-17",
         "Integrate Delta Engine with pipeline, backend and frontend",
@@ -38,10 +39,15 @@
         "Goal and criteria W29",
         "feature/macro-agent",
         "Add Week 5 delta engine draft",
-        "adding test_almanac_agent py file",
-        "Implement regression tests for TechnicalAgent"
+        "adding test_almanac_agent py file"
       ],
       "pr_links": [
+        {
+          "title": "Refactor: centralize repository paths",
+          "number": 84,
+          "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/84",
+          "author": "saikokokyaw"
+        },
         {
           "title": "Save JSON files in database",
           "number": 83,
@@ -95,12 +101,6 @@
           "number": 57,
           "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/57",
           "author": "ZawLattNaung"
-        },
-        {
-          "title": "Implement regression tests for TechnicalAgent",
-          "number": 49,
-          "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/49",
-          "author": "saikokokyaw"
         }
       ],
       "days_since_commit": 1,
@@ -167,14 +167,14 @@
         }
       ],
       "pr_history": {
-        "total": 83,
+        "total": 84,
         "merged": 53,
-        "open": 10,
+        "open": 11,
         "abandoned": 20,
         "weekly": {
           "2026-07-13": {
             "merged": 3,
-            "open": 6,
+            "open": 7,
             "abandoned": 0
           },
           "2026-07-06": {
@@ -214,6 +214,14 @@
           }
         },
         "recent": [
+          {
+            "number": 84,
+            "title": "Refactor: centralize repository paths",
+            "status": "open",
+            "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/84",
+            "created_at": "2026-07-18",
+            "author": "saikokokyaw"
+          },
           {
             "number": 83,
             "title": "Save JSON files in database",
@@ -325,21 +333,13 @@
             "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/70",
             "created_at": "2026-07-06",
             "author": "github-actions[bot]"
-          },
-          {
-            "number": 69,
-            "title": "feature/macro-agent",
-            "status": "open",
-            "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/69",
-            "created_at": "2026-07-03",
-            "author": "NaingPhonePyae"
           }
         ]
       },
       "midweek_artefact": {
-        "present": false,
-        "path": null,
-        "url": null
+        "present": true,
+        "path": "sprints/standup_midweek_W29.md",
+        "url": "https://github.com/sinder38/Team-1-Prac-A-Project/blob/fe9760d56b4bf3739318bbfbb6e74e810ee80802/sprints/standup_midweek_W29.md"
       },
       "repo_url": "https://github.com/sinder38/Team-1-Prac-A-Project"
     },
