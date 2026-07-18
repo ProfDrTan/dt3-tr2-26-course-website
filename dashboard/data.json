@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-18 04:12 UTC",
+  "updated": "2026-07-18 06:23 UTC",
   "sprint_tag": "vW29",
   "sprint_deadline_utc": "2026-07-19T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W29",
@@ -341,11 +341,11 @@
       "repo": "LuJunwen212/CP3405-Project",
       "prac": "A",
       "is_ultra": false,
-      "last_commit_sha": "2cadd8b",
+      "last_commit_sha": "6cdf54c",
       "last_commit_msg": "chore(r10): automate calibration for W28",
-      "last_commit_date": "2026-07-18 02:05",
+      "last_commit_date": "2026-07-18 05:18",
       "last_commit_author": "Team2 Calibration Bo",
-      "last_commit_url": "https://github.com/LuJunwen212/CP3405-Project/commit/2cadd8bdadae409386147d67134242592053523c",
+      "last_commit_url": "https://github.com/LuJunwen212/CP3405-Project/commit/6cdf54c3af851fcc8712b32b46d2edb5e7780179",
       "tags": [
         "vW28",
         "vW25",
@@ -356,8 +356,8 @@
       "sprint_tag_present": false,
       "last_run_name": "R10 Calibration Automation",
       "last_run_conclusion": "success",
-      "last_run_date": "2026-07-18 02:05",
-      "last_run_url": "https://github.com/LuJunwen212/CP3405-Project/actions/runs/29626423327",
+      "last_run_date": "2026-07-18 05:18",
+      "last_run_url": "https://github.com/LuJunwen212/CP3405-Project/actions/runs/29632025789",
       "last_run_was_filtered": true,
       "open_prs": 0,
       "pr_titles": [],
@@ -365,10 +365,20 @@
       "days_since_commit": 0,
       "contributors": [
         {
+          "name": "Hamzah \"Opal\" Nutt",
+          "login": "hamzah-opal-n",
+          "kind": "human",
+          "commits": 27,
+          "latest_date": "2026-07-18 05:14",
+          "latest_msg": "Update r10_calibration.yml",
+          "latest_sha": "d952470",
+          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/d952470cafae9d7459db68fcae5bf43c24206ce4"
+        },
+        {
           "name": "Team2 Data Automation Bot",
           "login": "",
           "kind": "bot",
-          "commits": 27,
+          "commits": 26,
           "latest_date": "2026-07-18 01:15",
           "latest_msg": "chore(data): automated R3 next-week forecast execution matrix [skip ci",
           "latest_sha": "42fb739",
@@ -378,61 +388,31 @@
           "name": "The Bao Le",
           "login": "The-Bao-Le",
           "kind": "human",
-          "commits": 17,
+          "commits": 16,
           "latest_date": "2026-07-18 02:05",
           "latest_msg": "Delete docs/r10/calibration_result_W28.json",
           "latest_sha": "54f1501",
           "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/54f15019b7c90648500dfb2c8ddda076e5ee5dbd"
         },
         {
-          "name": "ZhengZaikun",
-          "login": "ZhengZaikun",
-          "kind": "human",
-          "commits": 12,
-          "latest_date": "2026-07-15 04:55",
-          "latest_msg": "Update r5_technical_automation.py",
-          "latest_sha": "07fe4b4",
-          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/07fe4b4519ecca0f02726c85493bebd909a4929a"
-        },
-        {
           "name": "Team2 R8 LLM Operator",
           "login": "",
           "kind": "human",
-          "commits": 9,
+          "commits": 7,
           "latest_date": "2026-07-17 12:06",
           "latest_msg": "docs(r8): updated free open-source multi-model matrix [skip ci]",
           "latest_sha": "5b0fe66",
           "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/5b0fe661eed4556bde975f94a34afd6f530dd841"
         },
         {
-          "name": "louis848",
-          "login": "louis848",
-          "kind": "human",
-          "commits": 8,
-          "latest_date": "2026-07-15 08:33",
-          "latest_msg": "Update r5_technical_automation.py",
-          "latest_sha": "f699977",
-          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/f69997708d06c98405e0eda395486e5d642a0f41"
-        },
-        {
-          "name": "Kyler017",
-          "login": "Kyler017",
-          "kind": "human",
-          "commits": 7,
-          "latest_date": "2026-07-17 12:05",
-          "latest_msg": "Update r8_llm_operator.py",
-          "latest_sha": "17483c4",
-          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/17483c40be70bc397384f25c926829c165d06274"
-        },
-        {
-          "name": "hao-wang7",
-          "login": "hao-wang7",
-          "kind": "human",
-          "commits": 7,
-          "latest_date": "2026-07-15 03:11",
-          "latest_msg": "update r4_macro_automation.py",
-          "latest_sha": "7f638d9",
-          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/7f638d97c6bea263e99c8ff9d16675ab7b859b73"
+          "name": "Team2 Calibration Bot",
+          "login": "",
+          "kind": "bot",
+          "commits": 5,
+          "latest_date": "2026-07-18 05:18",
+          "latest_msg": "chore(r10): automate calibration for W28",
+          "latest_sha": "6cdf54c",
+          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/6cdf54c3af851fcc8712b32b46d2edb5e7780179"
         },
         {
           "name": "linyuchu",
@@ -445,6 +425,26 @@
           "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/8c1217a56d2a3422c49ef5eab74d8eeac4010d65"
         },
         {
+          "name": "ZhengZaikun",
+          "login": "ZhengZaikun",
+          "kind": "human",
+          "commits": 5,
+          "latest_date": "2026-07-15 04:55",
+          "latest_msg": "Update r5_technical_automation.py",
+          "latest_sha": "07fe4b4",
+          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/07fe4b4519ecca0f02726c85493bebd909a4929a"
+        },
+        {
+          "name": "Kyler017",
+          "login": "Kyler017",
+          "kind": "human",
+          "commits": 3,
+          "latest_date": "2026-07-17 12:05",
+          "latest_msg": "Update r8_llm_operator.py",
+          "latest_sha": "17483c4",
+          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/17483c40be70bc397384f25c926829c165d06274"
+        },
+        {
           "name": "swan002",
           "login": "swan002",
           "kind": "human",
@@ -455,14 +455,14 @@
           "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/a194c3ba6d3bc0389b0d94aef280b891e14f4842"
         },
         {
-          "name": "Team2 R4 Automation Bot",
-          "login": "github-actions[bot]",
-          "kind": "bot",
-          "commits": 2,
-          "latest_date": "2026-07-15 03:12",
-          "latest_msg": "chore(r4): weekly macro report [skip ci]",
-          "latest_sha": "666a7c5",
-          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/666a7c55d23a23e6556c30a2edbf7fb43a60292f"
+          "name": "louis848",
+          "login": "louis848",
+          "kind": "human",
+          "commits": 3,
+          "latest_date": "2026-07-15 08:33",
+          "latest_msg": "Update r5_technical_automation.py",
+          "latest_sha": "f699977",
+          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/f69997708d06c98405e0eda395486e5d642a0f41"
         }
       ],
       "pr_history": {
@@ -628,7 +628,7 @@
       "midweek_artefact": {
         "present": true,
         "path": "evidence/progress_logs/standup_midweek_W29.md",
-        "url": "https://github.com/LuJunwen212/CP3405-Project/blob/2cadd8bdadae409386147d67134242592053523c/evidence/progress_logs/standup_midweek_W29.md"
+        "url": "https://github.com/LuJunwen212/CP3405-Project/blob/6cdf54c3af851fcc8712b32b46d2edb5e7780179/evidence/progress_logs/standup_midweek_W29.md"
       },
       "repo_url": "https://github.com/LuJunwen212/CP3405-Project"
     },
@@ -650,10 +650,10 @@
         "W25"
       ],
       "sprint_tag_present": false,
-      "last_run_name": "Fetch Friday Market Closes",
+      "last_run_name": "R5 Technical Agent Pipeline",
       "last_run_conclusion": "success",
-      "last_run_date": "2026-07-17 15:04",
-      "last_run_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/actions/runs/29590607769",
+      "last_run_date": "2026-07-18 04:34",
+      "last_run_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/actions/runs/29630763881",
       "last_run_was_filtered": true,
       "open_prs": 0,
       "pr_titles": [],
