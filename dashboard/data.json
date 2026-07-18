@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-18 11:14 UTC",
+  "updated": "2026-07-18 12:09 UTC",
   "sprint_tag": "vW29",
   "sprint_deadline_utc": "2026-07-19T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W29",
@@ -25,8 +25,8 @@
       "sprint_tag_present": false,
       "last_run_name": "python-checks",
       "last_run_conclusion": "success",
-      "last_run_date": "2026-07-18 10:53",
-      "last_run_url": "https://github.com/sinder38/Team-1-Prac-A-Project/actions/runs/29641626127",
+      "last_run_date": "2026-07-18 11:58",
+      "last_run_url": "https://github.com/sinder38/Team-1-Prac-A-Project/actions/runs/29643485814",
       "last_run_was_filtered": true,
       "open_prs": 10,
       "pr_titles": [
@@ -103,7 +103,7 @@
           "author": "ZawLattNaung"
         }
       ],
-      "days_since_commit": 1,
+      "days_since_commit": 2,
       "contributors": [
         {
           "name": "sinder",
