@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-18 08:20 UTC",
+  "updated": "2026-07-18 09:53 UTC",
   "sprint_tag": "vW29",
   "sprint_deadline_utc": "2026-07-19T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W29",
@@ -25,8 +25,8 @@
       "sprint_tag_present": false,
       "last_run_name": "python-checks",
       "last_run_conclusion": "success",
-      "last_run_date": "2026-07-18 07:59",
-      "last_run_url": "https://github.com/sinder38/Team-1-Prac-A-Project/actions/runs/29636680981",
+      "last_run_date": "2026-07-18 09:44",
+      "last_run_url": "https://github.com/sinder38/Team-1-Prac-A-Project/actions/runs/29639675817",
       "last_run_was_filtered": true,
       "open_prs": 10,
       "pr_titles": [
@@ -337,9 +337,9 @@
         ]
       },
       "midweek_artefact": {
-        "present": true,
-        "path": "sprints/standup_midweek_W29.md",
-        "url": "https://github.com/sinder38/Team-1-Prac-A-Project/blob/fe9760d56b4bf3739318bbfbb6e74e810ee80802/sprints/standup_midweek_W29.md"
+        "present": false,
+        "path": null,
+        "url": null
       },
       "repo_url": "https://github.com/sinder38/Team-1-Prac-A-Project"
     },
@@ -348,11 +348,11 @@
       "repo": "LuJunwen212/CP3405-Project",
       "prac": "A",
       "is_ultra": false,
-      "last_commit_sha": "e390d63",
-      "last_commit_msg": "chore(r4): weekly macro report [skip ci]",
-      "last_commit_date": "2026-07-18 07:43",
-      "last_commit_author": "Team2 R4 Automation ",
-      "last_commit_url": "https://github.com/LuJunwen212/CP3405-Project/commit/e390d6390f20a2e40e2141789646f48cfe96999e",
+      "last_commit_sha": "c340e06",
+      "last_commit_msg": "docs(r8): updated free open-source multi-model matrix [skip ",
+      "last_commit_date": "2026-07-18 09:23",
+      "last_commit_author": "Team2 R8 LLM Operato",
+      "last_commit_url": "https://github.com/LuJunwen212/CP3405-Project/commit/c340e0690a7258c27e44d4d4fde2e5b85cf900ae",
       "tags": [
         "vW28",
         "vW25",
@@ -361,10 +361,10 @@
         "vW22"
       ],
       "sprint_tag_present": false,
-      "last_run_name": "R4 Weekly Macro Agent",
+      "last_run_name": "Automated R8 LLM Operator",
       "last_run_conclusion": "success",
-      "last_run_date": "2026-07-18 07:43",
-      "last_run_url": "https://github.com/LuJunwen212/CP3405-Project/actions/runs/29636229276",
+      "last_run_date": "2026-07-18 09:20",
+      "last_run_url": "https://github.com/LuJunwen212/CP3405-Project/actions/runs/29638991576",
       "last_run_was_filtered": true,
       "open_prs": 0,
       "pr_titles": [],
@@ -405,11 +405,11 @@
           "name": "Team2 R8 LLM Operator",
           "login": "",
           "kind": "human",
-          "commits": 7,
-          "latest_date": "2026-07-17 12:06",
+          "commits": 8,
+          "latest_date": "2026-07-18 09:23",
           "latest_msg": "docs(r8): updated free open-source multi-model matrix [skip ci]",
-          "latest_sha": "5b0fe66",
-          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/5b0fe661eed4556bde975f94a34afd6f530dd841"
+          "latest_sha": "c340e06",
+          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/c340e0690a7258c27e44d4d4fde2e5b85cf900ae"
         },
         {
           "name": "Team2 Calibration Bot",
@@ -430,16 +430,6 @@
           "latest_msg": "Delete .github/workflows/fetch_market_data.yml",
           "latest_sha": "8c1217a",
           "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/8c1217a56d2a3422c49ef5eab74d8eeac4010d65"
-        },
-        {
-          "name": "ZhengZaikun",
-          "login": "ZhengZaikun",
-          "kind": "human",
-          "commits": 4,
-          "latest_date": "2026-07-15 04:55",
-          "latest_msg": "Update r5_technical_automation.py",
-          "latest_sha": "07fe4b4",
-          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/07fe4b4519ecca0f02726c85493bebd909a4929a"
         },
         {
           "name": "Kyler017",
@@ -470,6 +460,16 @@
           "latest_msg": "Update r5_technical_automation.py",
           "latest_sha": "f699977",
           "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/f69997708d06c98405e0eda395486e5d642a0f41"
+        },
+        {
+          "name": "ZhengZaikun",
+          "login": "ZhengZaikun",
+          "kind": "human",
+          "commits": 3,
+          "latest_date": "2026-07-15 04:55",
+          "latest_msg": "Update r5_technical_automation.py",
+          "latest_sha": "07fe4b4",
+          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/07fe4b4519ecca0f02726c85493bebd909a4929a"
         }
       ],
       "pr_history": {
@@ -635,7 +635,7 @@
       "midweek_artefact": {
         "present": true,
         "path": "evidence/progress_logs/standup_midweek_W29.md",
-        "url": "https://github.com/LuJunwen212/CP3405-Project/blob/e390d6390f20a2e40e2141789646f48cfe96999e/evidence/progress_logs/standup_midweek_W29.md"
+        "url": "https://github.com/LuJunwen212/CP3405-Project/blob/c340e0690a7258c27e44d4d4fde2e5b85cf900ae/evidence/progress_logs/standup_midweek_W29.md"
       },
       "repo_url": "https://github.com/LuJunwen212/CP3405-Project"
     },
@@ -644,11 +644,11 @@
       "repo": "juninho4/Team-3-Practical-A-CP3405",
       "prac": "A",
       "is_ultra": false,
-      "last_commit_sha": "63ced11",
-      "last_commit_msg": "Add W29 Technical Agent report and predictions",
-      "last_commit_date": "2026-07-17 18:37",
-      "last_commit_author": "Vince-1206",
-      "last_commit_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/63ced11f8fe525f37be9e93d1fb44b3ead17bdac",
+      "last_commit_sha": "f9e7cd4",
+      "last_commit_msg": "Add files via upload",
+      "last_commit_date": "2026-07-18 08:36",
+      "last_commit_author": "ZhangJiayu0201",
+      "last_commit_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/f9e7cd420df50dd690f6d24f47bc91a881cf568d",
       "tags": [
         "vW25",
         "vW24",
@@ -691,11 +691,11 @@
           "name": "ZhangJiayu0201",
           "login": "ZhangJiayu0201",
           "kind": "human",
-          "commits": 5,
-          "latest_date": "2026-07-12 16:14",
-          "latest_msg": "Delete vW28/123",
-          "latest_sha": "cb9b8ed",
-          "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/cb9b8ed2dbf6c91b06d47f8a0955c3301f3828ff"
+          "commits": 7,
+          "latest_date": "2026-07-18 08:36",
+          "latest_msg": "Add files via upload",
+          "latest_sha": "f9e7cd4",
+          "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/f9e7cd420df50dd690f6d24f47bc91a881cf568d"
         },
         {
           "name": "Chadric-JCU",
@@ -1070,7 +1070,7 @@
       "open_prs": 0,
       "pr_titles": [],
       "pr_links": [],
-      "days_since_commit": 4,
+      "days_since_commit": 5,
       "contributors": [
         {
           "name": "ProfDrTan",
