@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-18 14:49 UTC",
+  "updated": "2026-07-18 15:47 UTC",
   "sprint_tag": "vW29",
   "sprint_deadline_utc": "2026-07-19T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W29",
@@ -25,8 +25,8 @@
       "sprint_tag_present": false,
       "last_run_name": "python-checks",
       "last_run_conclusion": "success",
-      "last_run_date": "2026-07-18 14:47",
-      "last_run_url": "https://github.com/sinder38/Team-1-Prac-A-Project/actions/runs/29648710721",
+      "last_run_date": "2026-07-18 15:41",
+      "last_run_url": "https://github.com/sinder38/Team-1-Prac-A-Project/actions/runs/29650467440",
       "last_run_was_filtered": true,
       "open_prs": 9,
       "pr_titles": [
@@ -160,15 +160,15 @@
         }
       ],
       "pr_history": {
-        "total": 84,
+        "total": 85,
         "merged": 54,
         "open": 9,
-        "abandoned": 21,
+        "abandoned": 22,
         "weekly": {
           "2026-07-13": {
             "merged": 4,
             "open": 6,
-            "abandoned": 0
+            "abandoned": 1
           },
           "2026-07-06": {
             "merged": 4,
@@ -207,6 +207,14 @@
           }
         },
         "recent": [
+          {
+            "number": 85,
+            "title": "chore: pipeline artifacts 2026-07-18",
+            "status": "abandoned",
+            "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/85",
+            "created_at": "2026-07-18",
+            "author": "github-actions[bot]"
+          },
           {
             "number": 84,
             "title": "Refactor: centralize repository paths",
@@ -318,21 +326,13 @@
             "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/71",
             "created_at": "2026-07-06",
             "author": "oakkar-cm"
-          },
-          {
-            "number": 70,
-            "title": "chore: pipeline artifacts 2026-07-06",
-            "status": "abandoned",
-            "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/70",
-            "created_at": "2026-07-06",
-            "author": "github-actions[bot]"
           }
         ]
       },
       "midweek_artefact": {
         "present": true,
         "path": "sprints/standup_midweek_W29.md",
-        "url": "https://github.com/sinder38/Team-1-Prac-A-Project/blob/fe9760d56b4bf3739318bbfbb6e74e810ee80802/sprints/standup_midweek_W29.md"
+        "url": "https://github.com/sinder38/Team-1-Prac-A-Project/blob/a318eccbe79ce6e5d6717c81150cedef7350fe96/sprints/standup_midweek_W29.md"
       },
       "repo_url": "https://github.com/sinder38/Team-1-Prac-A-Project"
     },
@@ -835,16 +835,6 @@
           "latest_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/8c8d751a10f32281b14c334f591a3d0248f9042f"
         },
         {
-          "name": "louishan42",
-          "login": "louishan42",
-          "kind": "human",
-          "commits": 7,
-          "latest_date": "2026-07-11 18:35",
-          "latest_msg": "Update auto-prediction.yml",
-          "latest_sha": "cae70cc",
-          "latest_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/cae70ccfcbd0a993a1b502c52073ce21afa9d445"
-        },
-        {
           "name": "AmiePhyo",
           "login": "AmiePhyo",
           "kind": "human",
@@ -853,6 +843,16 @@
           "latest_msg": "Revise macro agent data for Week 8",
           "latest_sha": "fb69b33",
           "latest_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/fb69b337fb71312118560b3686609357516284d7"
+        },
+        {
+          "name": "louishan42",
+          "login": "louishan42",
+          "kind": "human",
+          "commits": 5,
+          "latest_date": "2026-07-11 18:35",
+          "latest_msg": "Update auto-prediction.yml",
+          "latest_sha": "cae70cc",
+          "latest_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/cae70ccfcbd0a993a1b502c52073ce21afa9d445"
         },
         {
           "name": "MojunZheng",
