@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-18 01:03 UTC",
+  "updated": "2026-07-18 04:12 UTC",
   "sprint_tag": "vW29",
   "sprint_deadline_utc": "2026-07-19T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W29",
@@ -341,11 +341,11 @@
       "repo": "LuJunwen212/CP3405-Project",
       "prac": "A",
       "is_ultra": false,
-      "last_commit_sha": "1b19cac",
-      "last_commit_msg": "chore(data): automated market ledger alignment [skip ci]",
-      "last_commit_date": "2026-07-17 23:54",
-      "last_commit_author": "Team2 Data Automatio",
-      "last_commit_url": "https://github.com/LuJunwen212/CP3405-Project/commit/1b19cacdd05281bd6e3490617931139038cfb2b4",
+      "last_commit_sha": "2cadd8b",
+      "last_commit_msg": "chore(r10): automate calibration for W28",
+      "last_commit_date": "2026-07-18 02:05",
+      "last_commit_author": "Team2 Calibration Bo",
+      "last_commit_url": "https://github.com/LuJunwen212/CP3405-Project/commit/2cadd8bdadae409386147d67134242592053523c",
       "tags": [
         "vW28",
         "vW25",
@@ -354,10 +354,10 @@
         "vW22"
       ],
       "sprint_tag_present": false,
-      "last_run_name": "Automated Technical Agent",
+      "last_run_name": "R10 Calibration Automation",
       "last_run_conclusion": "success",
-      "last_run_date": "2026-07-17 23:53",
-      "last_run_url": "https://github.com/LuJunwen212/CP3405-Project/actions/runs/29621831784",
+      "last_run_date": "2026-07-18 02:05",
+      "last_run_url": "https://github.com/LuJunwen212/CP3405-Project/actions/runs/29626423327",
       "last_run_was_filtered": true,
       "open_prs": 0,
       "pr_titles": [],
@@ -369,20 +369,20 @@
           "login": "",
           "kind": "bot",
           "commits": 27,
-          "latest_date": "2026-07-17 23:54",
-          "latest_msg": "chore(data): automated market ledger alignment [skip ci]",
-          "latest_sha": "1b19cac",
-          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/1b19cacdd05281bd6e3490617931139038cfb2b4"
+          "latest_date": "2026-07-18 01:15",
+          "latest_msg": "chore(data): automated R3 next-week forecast execution matrix [skip ci",
+          "latest_sha": "42fb739",
+          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/42fb7397de6bb8cbf9e340771e9efde9160d1b00"
         },
         {
           "name": "The Bao Le",
           "login": "The-Bao-Le",
           "kind": "human",
-          "commits": 15,
-          "latest_date": "2026-07-17 14:03",
-          "latest_msg": "Merge pull request #20 from LuJunwen212/Week-07",
-          "latest_sha": "fbdea90",
-          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/fbdea9034d16a689b118d9f52402a438e7577868"
+          "commits": 17,
+          "latest_date": "2026-07-18 02:05",
+          "latest_msg": "Delete docs/r10/calibration_result_W28.json",
+          "latest_sha": "54f1501",
+          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/54f15019b7c90648500dfb2c8ddda076e5ee5dbd"
         },
         {
           "name": "ZhengZaikun",
@@ -405,16 +405,6 @@
           "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/5b0fe661eed4556bde975f94a34afd6f530dd841"
         },
         {
-          "name": "Kyler017",
-          "login": "Kyler017",
-          "kind": "human",
-          "commits": 8,
-          "latest_date": "2026-07-17 12:05",
-          "latest_msg": "Update r8_llm_operator.py",
-          "latest_sha": "17483c4",
-          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/17483c40be70bc397384f25c926829c165d06274"
-        },
-        {
           "name": "louis848",
           "login": "louis848",
           "kind": "human",
@@ -423,6 +413,16 @@
           "latest_msg": "Update r5_technical_automation.py",
           "latest_sha": "f699977",
           "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/f69997708d06c98405e0eda395486e5d642a0f41"
+        },
+        {
+          "name": "Kyler017",
+          "login": "Kyler017",
+          "kind": "human",
+          "commits": 7,
+          "latest_date": "2026-07-17 12:05",
+          "latest_msg": "Update r8_llm_operator.py",
+          "latest_sha": "17483c4",
+          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/17483c40be70bc397384f25c926829c165d06274"
         },
         {
           "name": "hao-wang7",
@@ -628,7 +628,7 @@
       "midweek_artefact": {
         "present": true,
         "path": "evidence/progress_logs/standup_midweek_W29.md",
-        "url": "https://github.com/LuJunwen212/CP3405-Project/blob/1b19cacdd05281bd6e3490617931139038cfb2b4/evidence/progress_logs/standup_midweek_W29.md"
+        "url": "https://github.com/LuJunwen212/CP3405-Project/blob/2cadd8bdadae409386147d67134242592053523c/evidence/progress_logs/standup_midweek_W29.md"
       },
       "repo_url": "https://github.com/LuJunwen212/CP3405-Project"
     },
