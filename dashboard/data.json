@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-19 15:06 UTC",
+  "updated": "2026-07-19 16:10 UTC",
   "sprint_tag": "vW29",
   "sprint_deadline_utc": "2026-07-19T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W29",
@@ -25,11 +25,12 @@
       "sprint_tag_present": false,
       "last_run_name": "python-checks",
       "last_run_conclusion": "success",
-      "last_run_date": "2026-07-19 14:23",
-      "last_run_url": "https://github.com/sinder38/Team-1-Prac-A-Project/actions/runs/29690745887",
+      "last_run_date": "2026-07-19 16:04",
+      "last_run_url": "https://github.com/sinder38/Team-1-Prac-A-Project/actions/runs/29694117177",
       "last_run_was_filtered": true,
-      "open_prs": 6,
+      "open_prs": 7,
       "pr_titles": [
+        "Feat/fix frontend",
         "Create retrospective_W29.md",
         "Update README.md",
         "chore: pipeline artifacts 2026-07-19",
@@ -38,6 +39,12 @@
         "Implement regression tests for TechnicalAgent"
       ],
       "pr_links": [
+        {
+          "title": "Feat/fix frontend",
+          "number": 90,
+          "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/90",
+          "author": "oakkar-cm"
+        },
         {
           "title": "Create retrospective_W29.md",
           "number": 88,
@@ -149,14 +156,14 @@
         }
       ],
       "pr_history": {
-        "total": 89,
+        "total": 90,
         "merged": 59,
-        "open": 6,
+        "open": 7,
         "abandoned": 24,
         "weekly": {
           "2026-07-13": {
             "merged": 8,
-            "open": 4,
+            "open": 5,
             "abandoned": 3
           },
           "2026-07-06": {
@@ -196,6 +203,14 @@
           }
         },
         "recent": [
+          {
+            "number": 90,
+            "title": "Feat/fix frontend",
+            "status": "open",
+            "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/90",
+            "created_at": "2026-07-19",
+            "author": "oakkar-cm"
+          },
           {
             "number": 89,
             "title": "Path cleanup main",
@@ -307,14 +322,6 @@
             "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/76",
             "created_at": "2026-07-13",
             "author": "oakkar-cm"
-          },
-          {
-            "number": 75,
-            "title": "Feature/human score w28.md",
-            "status": "merged",
-            "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/75",
-            "created_at": "2026-07-13",
-            "author": "saikokokyaw"
           }
         ]
       },
@@ -627,11 +634,11 @@
       "repo": "juninho4/Team-3-Practical-A-CP3405",
       "prac": "A",
       "is_ultra": false,
-      "last_commit_sha": "fe17710",
-      "last_commit_msg": "chore: update weekly market output [skip ci]",
-      "last_commit_date": "2026-07-19 14:44",
-      "last_commit_author": "github-actions[bot]",
-      "last_commit_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/fe1771030550e8b37a2fb5e2f1d11de892e8efff",
+      "last_commit_sha": "61f0510",
+      "last_commit_msg": "added sprint goal for W29",
+      "last_commit_date": "2026-07-19 15:44",
+      "last_commit_author": "Juninho",
+      "last_commit_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/61f051068e90356ef20e670cc2087955bb1a8602",
       "tags": [
         "vW25",
         "vW24",
@@ -721,6 +728,16 @@
           "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/21bfacbed06a37456e557438fa7c66a0866a39ea"
         },
         {
+          "name": "Juninho",
+          "login": "juninho4",
+          "kind": "human",
+          "commits": 3,
+          "latest_date": "2026-07-19 15:44",
+          "latest_msg": "added sprint goal for W29",
+          "latest_sha": "61f0510",
+          "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/61f051068e90356ef20e670cc2087955bb1a8602"
+        },
+        {
           "name": "Jiawei990029",
           "login": "Jiawei990029",
           "kind": "human",
@@ -739,16 +756,6 @@
           "latest_msg": "Add Friday market close data",
           "latest_sha": "c401b26",
           "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/c401b267679e67822f97b0b62804de69d724598d"
-        },
-        {
-          "name": "Juninho",
-          "login": "juninho4",
-          "kind": "human",
-          "commits": 2,
-          "latest_date": "2026-07-12 12:16",
-          "latest_msg": "added sprint goal for w28",
-          "latest_sha": "d5c38bc",
-          "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/d5c38bc1866e572ec27fd33b7dad6a1396317fed"
         }
       ],
       "pr_history": {
