@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-19 13:54 UTC",
+  "updated": "2026-07-19 15:06 UTC",
   "sprint_tag": "vW29",
   "sprint_deadline_utc": "2026-07-19T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W29",
@@ -10,11 +10,11 @@
       "repo": "sinder38/Team-1-Prac-A-Project",
       "prac": "A",
       "is_ultra": false,
-      "last_commit_sha": "5fe33e8",
-      "last_commit_msg": "Add goal and criteria (#78)",
-      "last_commit_date": "2026-07-19 13:24",
-      "last_commit_author": "sinder",
-      "last_commit_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/5fe33e82f2b9ee01b1826ce1bec559e6a9691646",
+      "last_commit_sha": "088157d",
+      "last_commit_msg": "feature/macro-agent (#69)",
+      "last_commit_date": "2026-07-19 14:23",
+      "last_commit_author": "NaingPhonePyae",
+      "last_commit_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/088157dc6bcd0eb7ba134a0e2f3deea525f845d7",
       "tags": [
         "vW28",
         "vW25",
@@ -25,16 +25,15 @@
       "sprint_tag_present": false,
       "last_run_name": "python-checks",
       "last_run_conclusion": "success",
-      "last_run_date": "2026-07-19 13:41",
-      "last_run_url": "https://github.com/sinder38/Team-1-Prac-A-Project/actions/runs/29689366941",
+      "last_run_date": "2026-07-19 14:23",
+      "last_run_url": "https://github.com/sinder38/Team-1-Prac-A-Project/actions/runs/29690745887",
       "last_run_was_filtered": true,
-      "open_prs": 7,
+      "open_prs": 6,
       "pr_titles": [
         "Create retrospective_W29.md",
         "Update README.md",
         "chore: pipeline artifacts 2026-07-19",
         "Save JSON files in database",
-        "feature/macro-agent",
         "adding test_almanac_agent py file",
         "Implement regression tests for TechnicalAgent"
       ],
@@ -61,12 +60,6 @@
           "title": "Save JSON files in database",
           "number": 83,
           "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/83",
-          "author": "NaingPhonePyae"
-        },
-        {
-          "title": "feature/macro-agent",
-          "number": 69,
-          "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/69",
           "author": "NaingPhonePyae"
         },
         {
@@ -103,6 +96,16 @@
           "latest_msg": "Add market API, archive weeks, and frontend integration. (#79)",
           "latest_sha": "c672810",
           "latest_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/c672810e008381fbdb86bb26c46a50142144fe90"
+        },
+        {
+          "name": "NaingPhonePyae",
+          "login": "NaingPhonePyae",
+          "kind": "human",
+          "commits": 2,
+          "latest_date": "2026-07-19 14:23",
+          "latest_msg": "feature/macro-agent (#69)",
+          "latest_sha": "088157d",
+          "latest_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/088157dc6bcd0eb7ba134a0e2f3deea525f845d7"
         },
         {
           "name": "saikokokyaw",
@@ -143,22 +146,12 @@
           "latest_msg": "chore: pipeline artifacts 2026-07-10 (#72)",
           "latest_sha": "65f496b",
           "latest_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/65f496bac71aa4d4c4f7c09930feaf9a41f89eaa"
-        },
-        {
-          "name": "NaingPhonePyae",
-          "login": "NaingPhonePyae",
-          "kind": "human",
-          "commits": 1,
-          "latest_date": "2026-07-13 01:33",
-          "latest_msg": "Evidence Images (#62)",
-          "latest_sha": "1673bbd",
-          "latest_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/1673bbd74441d7f2a775cb11cfc04310c7279d29"
         }
       ],
       "pr_history": {
         "total": 89,
-        "merged": 58,
-        "open": 7,
+        "merged": 59,
+        "open": 6,
         "abandoned": 24,
         "weekly": {
           "2026-07-13": {
@@ -172,8 +165,8 @@
             "abandoned": 1
           },
           "2026-06-29": {
-            "merged": 0,
-            "open": 1,
+            "merged": 1,
+            "open": 0,
             "abandoned": 0
           },
           "2026-06-22": {
@@ -328,7 +321,7 @@
       "midweek_artefact": {
         "present": true,
         "path": "sprints/standup_midweek_W29.md",
-        "url": "https://github.com/sinder38/Team-1-Prac-A-Project/blob/5fe33e82f2b9ee01b1826ce1bec559e6a9691646/sprints/standup_midweek_W29.md"
+        "url": "https://github.com/sinder38/Team-1-Prac-A-Project/blob/088157dc6bcd0eb7ba134a0e2f3deea525f845d7/sprints/standup_midweek_W29.md"
       },
       "repo_url": "https://github.com/sinder38/Team-1-Prac-A-Project"
     },
@@ -634,11 +627,11 @@
       "repo": "juninho4/Team-3-Practical-A-CP3405",
       "prac": "A",
       "is_ultra": false,
-      "last_commit_sha": "08ddf91",
-      "last_commit_msg": "Add Week 29 LLM Horserace Report for 2026",
-      "last_commit_date": "2026-07-19 07:07",
-      "last_commit_author": "vandarkray",
-      "last_commit_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/08ddf9178108f886957256bd971b23136a2272e3",
+      "last_commit_sha": "fe17710",
+      "last_commit_msg": "chore: update weekly market output [skip ci]",
+      "last_commit_date": "2026-07-19 14:44",
+      "last_commit_author": "github-actions[bot]",
+      "last_commit_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/fe1771030550e8b37a2fb5e2f1d11de892e8efff",
       "tags": [
         "vW25",
         "vW24",
@@ -647,10 +640,10 @@
         "W25"
       ],
       "sprint_tag_present": false,
-      "last_run_name": "R5 Technical Agent Pipeline",
+      "last_run_name": "Run Market Intelligence",
       "last_run_conclusion": "success",
-      "last_run_date": "2026-07-18 04:34",
-      "last_run_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/actions/runs/29630763881",
+      "last_run_date": "2026-07-19 14:38",
+      "last_run_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/actions/runs/29691226360",
       "last_run_was_filtered": true,
       "open_prs": 0,
       "pr_titles": [],
@@ -708,6 +701,16 @@
           "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/3f38ff972cf10a4f19698626537e17cd5c9a5ae9"
         },
         {
+          "name": "Li-Haoyao",
+          "login": "Li-Haoyao",
+          "kind": "human",
+          "commits": 4,
+          "latest_date": "2026-07-19 14:30",
+          "latest_msg": "Add files via upload",
+          "latest_sha": "fbeaa35",
+          "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/fbeaa350bff221b7c1dddf76cea4e733b1ee2b0b"
+        },
+        {
           "name": "Jiale Zhang",
           "login": "ZHANGJIALELLLLL",
           "kind": "human",
@@ -736,16 +739,6 @@
           "latest_msg": "Add Friday market close data",
           "latest_sha": "c401b26",
           "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/c401b267679e67822f97b0b62804de69d724598d"
-        },
-        {
-          "name": "Li-Haoyao",
-          "login": "Li-Haoyao",
-          "kind": "human",
-          "commits": 2,
-          "latest_date": "2026-07-13 03:17",
-          "latest_msg": "Add files via upload",
-          "latest_sha": "7f5ccb1",
-          "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/7f5ccb161cd343a8a4b9bc626a2d665fa44e3283"
         },
         {
           "name": "Juninho",
