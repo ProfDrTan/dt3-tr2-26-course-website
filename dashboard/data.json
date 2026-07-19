@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-19 09:23 UTC",
+  "updated": "2026-07-19 10:56 UTC",
   "sprint_tag": "vW29",
   "sprint_deadline_utc": "2026-07-19T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W29",
@@ -348,19 +348,20 @@
       "repo": "LuJunwen212/CP3405-Project",
       "prac": "A",
       "is_ultra": false,
-      "last_commit_sha": "758ab6a",
-      "last_commit_msg": "Add files via upload",
-      "last_commit_date": "2026-07-19 09:21",
-      "last_commit_author": "The Bao Le",
-      "last_commit_url": "https://github.com/LuJunwen212/CP3405-Project/commit/758ab6a109592fd410ce8fe29707f31d8a4533a6",
+      "last_commit_sha": "8942981",
+      "last_commit_msg": "Rename Week 07 (1).pptx to presentation_2026-W29_Group2.pptx",
+      "last_commit_date": "2026-07-19 09:56",
+      "last_commit_author": "linyuchu",
+      "last_commit_url": "https://github.com/LuJunwen212/CP3405-Project/commit/89429814d69c7f0752c54e70ae4b10c371cbbdd9",
       "tags": [
+        "vW29",
         "vW28",
         "vW25",
         "vW24",
         "vW23",
         "vW22"
       ],
-      "sprint_tag_present": false,
+      "sprint_tag_present": true,
       "last_run_name": "Automated Technical Agent",
       "last_run_conclusion": "success",
       "last_run_date": "2026-07-19 07:18",
@@ -385,17 +386,17 @@
           "name": "The Bao Le",
           "login": "The-Bao-Le",
           "kind": "human",
-          "commits": 22,
-          "latest_date": "2026-07-19 09:21",
-          "latest_msg": "Add files via upload",
-          "latest_sha": "758ab6a",
-          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/758ab6a109592fd410ce8fe29707f31d8a4533a6"
+          "commits": 23,
+          "latest_date": "2026-07-19 09:35",
+          "latest_msg": "Merge pull request #23 from LuJunwen212/Week-07",
+          "latest_sha": "058f6b1",
+          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/058f6b1e351a75e2397a968f815b6de58bcb5fce"
         },
         {
           "name": "Team2 Data Automation Bot",
           "login": "",
           "kind": "bot",
-          "commits": 18,
+          "commits": 16,
           "latest_date": "2026-07-19 07:18",
           "latest_msg": "chore(r5): update technical outputs 2026-W29 [skip ci]",
           "latest_sha": "d6206cb",
@@ -442,14 +443,14 @@
           "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/6cdf54c3af851fcc8712b32b46d2edb5e7780179"
         },
         {
-          "name": "linyuchu",
-          "login": "mihawk-cell",
+          "name": "LuJunwen212",
+          "login": "LuJunwen212",
           "kind": "human",
-          "commits": 4,
-          "latest_date": "2026-07-15 10:00",
-          "latest_msg": "Delete .github/workflows/fetch_market_data.yml",
-          "latest_sha": "8c1217a",
-          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/8c1217a56d2a3422c49ef5eab74d8eeac4010d65"
+          "commits": 3,
+          "latest_date": "2026-07-19 09:54",
+          "latest_msg": "Add files via upload",
+          "latest_sha": "65b9eee",
+          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/65b9eee4ae2aad6e6f881c93acdb25efe7d0d19e"
         },
         {
           "name": "Kyler017",
@@ -462,24 +463,24 @@
           "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/17483c40be70bc397384f25c926829c165d06274"
         },
         {
-          "name": "Team2 R4 Automation Bot",
-          "login": "github-actions[bot]",
-          "kind": "bot",
-          "commits": 1,
-          "latest_date": "2026-07-18 07:43",
-          "latest_msg": "chore(r4): weekly macro report [skip ci]",
-          "latest_sha": "e390d63",
-          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/e390d6390f20a2e40e2141789646f48cfe96999e"
+          "name": "linyuchu",
+          "login": "mihawk-cell",
+          "kind": "human",
+          "commits": 2,
+          "latest_date": "2026-07-19 09:56",
+          "latest_msg": "Rename Week 07 (1).pptx to presentation_2026-W29_Group2.pptx",
+          "latest_sha": "8942981",
+          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/89429814d69c7f0752c54e70ae4b10c371cbbdd9"
         }
       ],
       "pr_history": {
-        "total": 22,
-        "merged": 18,
+        "total": 23,
+        "merged": 19,
         "open": 0,
         "abandoned": 4,
         "weekly": {
           "2026-07-13": {
-            "merged": 4,
+            "merged": 5,
             "open": 0,
             "abandoned": 2
           },
@@ -510,6 +511,14 @@
           }
         },
         "recent": [
+          {
+            "number": 23,
+            "title": "Week 07",
+            "status": "merged",
+            "url": "https://github.com/LuJunwen212/CP3405-Project/pull/23",
+            "created_at": "2026-07-19",
+            "author": "The-Bao-Le"
+          },
           {
             "number": 22,
             "title": "Week 07",
@@ -621,21 +630,13 @@
             "url": "https://github.com/LuJunwen212/CP3405-Project/pull/9",
             "created_at": "2026-06-14",
             "author": "The-Bao-Le"
-          },
-          {
-            "number": 8,
-            "title": "Week 04",
-            "status": "merged",
-            "url": "https://github.com/LuJunwen212/CP3405-Project/pull/8",
-            "created_at": "2026-06-14",
-            "author": "The-Bao-Le"
           }
         ]
       },
       "midweek_artefact": {
         "present": true,
         "path": "evidence/progress_logs/standup_midweek_W29.md",
-        "url": "https://github.com/LuJunwen212/CP3405-Project/blob/66ca2834ce5f9c16d3493960a5df147cf121f2c4/evidence/progress_logs/standup_midweek_W29.md"
+        "url": "https://github.com/LuJunwen212/CP3405-Project/blob/89429814d69c7f0752c54e70ae4b10c371cbbdd9/evidence/progress_logs/standup_midweek_W29.md"
       },
       "repo_url": "https://github.com/LuJunwen212/CP3405-Project"
     },
@@ -1110,7 +1111,7 @@
       "open_prs": 0,
       "pr_titles": [],
       "pr_links": [],
-      "days_since_commit": 5,
+      "days_since_commit": 6,
       "contributors": [
         {
           "name": "ProfDrTan",
