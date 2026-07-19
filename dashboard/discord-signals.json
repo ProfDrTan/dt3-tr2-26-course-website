@@ -1,5 +1,5 @@
 {
-  "generated": "Sunday 19 July 2026 12:42 SGT",
+  "generated": "Sunday 19 July 2026 15:15 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
@@ -18,7 +18,26 @@
       ]
     },
     "Team 2": {
-      "blockers": []
+      "blockers": [
+        {
+          "author": "noobydoo2507",
+          "content": "I see the issue here",
+          "ts_str": "2026-07-19 06:38:51",
+          "url": "https://discord.com/channels/1505861202444816455/1505883145466155079/1528290006148317336"
+        },
+        {
+          "author": "louis1123990",
+          "content": "<@269686289102667776> What's wrong with my r5?",
+          "ts_str": "2026-07-19 06:31:11",
+          "url": "https://discord.com/channels/1505861202444816455/1505883145466155079/1528288076676464670"
+        },
+        {
+          "author": "viralthephilosopher",
+          "content": "Also just reminder, technical file have issues. The closing price is giving back as NaN so I can't predict correctly",
+          "ts_str": "2026-07-19 06:17:39",
+          "url": "https://discord.com/channels/1505861202444816455/1505883145466155079/1528284671383834696"
+        }
+      ]
     },
     "Team 3": {
       "blockers": []
