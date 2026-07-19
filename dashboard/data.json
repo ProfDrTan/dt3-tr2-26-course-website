@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-19 12:04 UTC",
+  "updated": "2026-07-19 13:54 UTC",
   "sprint_tag": "vW29",
   "sprint_deadline_utc": "2026-07-19T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W29",
@@ -10,11 +10,11 @@
       "repo": "sinder38/Team-1-Prac-A-Project",
       "prac": "A",
       "is_ultra": false,
-      "last_commit_sha": "ffa75d8",
-      "last_commit_msg": "Change gemma to non-rate limited one",
-      "last_commit_date": "2026-07-19 01:46",
+      "last_commit_sha": "5fe33e8",
+      "last_commit_msg": "Add goal and criteria (#78)",
+      "last_commit_date": "2026-07-19 13:24",
       "last_commit_author": "sinder",
-      "last_commit_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/ffa75d8e325803086ad7fa06403dddf97438483a",
+      "last_commit_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/5fe33e82f2b9ee01b1826ce1bec559e6a9691646",
       "tags": [
         "vW28",
         "vW25",
@@ -24,30 +24,21 @@
       ],
       "sprint_tag_present": false,
       "last_run_name": "python-checks",
-      "last_run_conclusion": "failure",
-      "last_run_date": "2026-07-19 11:44",
-      "last_run_url": "https://github.com/sinder38/Team-1-Prac-A-Project/actions/runs/29685692580",
+      "last_run_conclusion": "success",
+      "last_run_date": "2026-07-19 13:41",
+      "last_run_url": "https://github.com/sinder38/Team-1-Prac-A-Project/actions/runs/29689366941",
       "last_run_was_filtered": true,
-      "open_prs": 10,
+      "open_prs": 7,
       "pr_titles": [
-        "Path cleanup main",
         "Create retrospective_W29.md",
         "Update README.md",
         "chore: pipeline artifacts 2026-07-19",
-        "Refactor: centralize repository paths",
         "Save JSON files in database",
-        "Integrate Delta Engine with pipeline, backend and frontend",
-        "Goal and criteria W29",
         "feature/macro-agent",
-        "adding test_almanac_agent py file"
+        "adding test_almanac_agent py file",
+        "Implement regression tests for TechnicalAgent"
       ],
       "pr_links": [
-        {
-          "title": "Path cleanup main",
-          "number": 89,
-          "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/89",
-          "author": "saikokokyaw"
-        },
         {
           "title": "Create retrospective_W29.md",
           "number": 88,
@@ -67,28 +58,10 @@
           "author": "github-actions[bot]"
         },
         {
-          "title": "Refactor: centralize repository paths",
-          "number": 84,
-          "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/84",
-          "author": "saikokokyaw"
-        },
-        {
           "title": "Save JSON files in database",
           "number": 83,
           "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/83",
           "author": "NaingPhonePyae"
-        },
-        {
-          "title": "Integrate Delta Engine with pipeline, backend and frontend",
-          "number": 81,
-          "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/81",
-          "author": "JasonEran"
-        },
-        {
-          "title": "Goal and criteria W29",
-          "number": 78,
-          "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/78",
-          "author": "sinder38"
         },
         {
           "title": "feature/macro-agent",
@@ -101,6 +74,12 @@
           "number": 57,
           "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/57",
           "author": "ZawLattNaung"
+        },
+        {
+          "title": "Implement regression tests for TechnicalAgent",
+          "number": 49,
+          "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/49",
+          "author": "saikokokyaw"
         }
       ],
       "days_since_commit": 0,
@@ -109,11 +88,11 @@
           "name": "sinder",
           "login": "sinder38",
           "kind": "human",
-          "commits": 7,
-          "latest_date": "2026-07-19 01:46",
-          "latest_msg": "Change gemma to non-rate limited one",
-          "latest_sha": "ffa75d8",
-          "latest_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/ffa75d8e325803086ad7fa06403dddf97438483a"
+          "commits": 8,
+          "latest_date": "2026-07-19 13:24",
+          "latest_msg": "Add goal and criteria (#78)",
+          "latest_sha": "5fe33e8",
+          "latest_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/5fe33e82f2b9ee01b1826ce1bec559e6a9691646"
         },
         {
           "name": "Oakkar Phyoe",
@@ -126,6 +105,16 @@
           "latest_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/c672810e008381fbdb86bb26c46a50142144fe90"
         },
         {
+          "name": "saikokokyaw",
+          "login": "saikokokyaw",
+          "kind": "human",
+          "commits": 2,
+          "latest_date": "2026-07-19 12:54",
+          "latest_msg": "Path cleanup main (#89)",
+          "latest_sha": "0dadc41",
+          "latest_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/0dadc41b92f1fab949107f9760c653cb5de8011e"
+        },
+        {
           "name": "PanHsuMyat",
           "login": "panhsumyat0179-pixel",
           "kind": "human",
@@ -136,6 +125,16 @@
           "latest_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/fe9760d56b4bf3739318bbfbb6e74e810ee80802"
         },
         {
+          "name": "JasonEran",
+          "login": "JasonEran",
+          "kind": "human",
+          "commits": 1,
+          "latest_date": "2026-07-19 13:17",
+          "latest_msg": "Integrate Delta Engine with pipeline, backend and frontend (#81)",
+          "latest_sha": "5a8d7d8",
+          "latest_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/5a8d7d800239df52011682b7e92e0b80bdb562bc"
+        },
+        {
           "name": "github-actions[bot]",
           "login": "github-actions[bot]",
           "kind": "bot",
@@ -144,16 +143,6 @@
           "latest_msg": "chore: pipeline artifacts 2026-07-10 (#72)",
           "latest_sha": "65f496b",
           "latest_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/65f496bac71aa4d4c4f7c09930feaf9a41f89eaa"
-        },
-        {
-          "name": "saikokokyaw",
-          "login": "saikokokyaw",
-          "kind": "human",
-          "commits": 1,
-          "latest_date": "2026-07-13 02:37",
-          "latest_msg": "Feature/human score w28.md (#75)",
-          "latest_sha": "16db407",
-          "latest_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/16db4072d9de0a2e288109338134d9299182796e"
         },
         {
           "name": "NaingPhonePyae",
@@ -168,14 +157,14 @@
       ],
       "pr_history": {
         "total": 89,
-        "merged": 55,
-        "open": 11,
-        "abandoned": 23,
+        "merged": 58,
+        "open": 7,
+        "abandoned": 24,
         "weekly": {
           "2026-07-13": {
-            "merged": 5,
-            "open": 8,
-            "abandoned": 2
+            "merged": 8,
+            "open": 4,
+            "abandoned": 3
           },
           "2026-07-06": {
             "merged": 4,
@@ -217,7 +206,7 @@
           {
             "number": 89,
             "title": "Path cleanup main",
-            "status": "open",
+            "status": "merged",
             "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/89",
             "created_at": "2026-07-19",
             "author": "saikokokyaw"
@@ -257,7 +246,7 @@
           {
             "number": 84,
             "title": "Refactor: centralize repository paths",
-            "status": "open",
+            "status": "abandoned",
             "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/84",
             "created_at": "2026-07-18",
             "author": "saikokokyaw"
@@ -281,7 +270,7 @@
           {
             "number": 81,
             "title": "Integrate Delta Engine with pipeline, backend and frontend",
-            "status": "open",
+            "status": "merged",
             "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/81",
             "created_at": "2026-07-17",
             "author": "JasonEran"
@@ -305,7 +294,7 @@
           {
             "number": 78,
             "title": "Goal and criteria W29",
-            "status": "open",
+            "status": "merged",
             "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/78",
             "created_at": "2026-07-17",
             "author": "sinder38"
@@ -339,7 +328,7 @@
       "midweek_artefact": {
         "present": true,
         "path": "sprints/standup_midweek_W29.md",
-        "url": "https://github.com/sinder38/Team-1-Prac-A-Project/blob/ffa75d8e325803086ad7fa06403dddf97438483a/sprints/standup_midweek_W29.md"
+        "url": "https://github.com/sinder38/Team-1-Prac-A-Project/blob/5fe33e82f2b9ee01b1826ce1bec559e6a9691646/sprints/standup_midweek_W29.md"
       },
       "repo_url": "https://github.com/sinder38/Team-1-Prac-A-Project"
     },
@@ -789,13 +778,14 @@
       "repo": "wintwah-lwin/CP3405_Group_4",
       "prac": "B",
       "is_ultra": false,
-      "last_commit_sha": "cdd2f90",
-      "last_commit_msg": "Delete incoming directory",
-      "last_commit_date": "2026-07-19 08:35",
+      "last_commit_sha": "5d37f5e",
+      "last_commit_msg": "Add retrospectives W29",
+      "last_commit_date": "2026-07-19 13:54",
       "last_commit_author": "Arisa",
-      "last_commit_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/cdd2f902af777a5205e0183ac81c7b506dc3c7b2",
+      "last_commit_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/5d37f5e693e5f8f693b4b64633ccaea9c6b5a1eb",
       "tags": [
         "v1.0.0",
+        "W29",
         "W28",
         "W25",
         "W24",
@@ -826,11 +816,11 @@
           "name": "Arisa",
           "login": "wintwah-lwin",
           "kind": "human",
-          "commits": 26,
-          "latest_date": "2026-07-19 08:35",
-          "latest_msg": "Delete incoming directory",
-          "latest_sha": "cdd2f90",
-          "latest_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/cdd2f902af777a5205e0183ac81c7b506dc3c7b2"
+          "commits": 27,
+          "latest_date": "2026-07-19 13:54",
+          "latest_msg": "Add retrospectives W29",
+          "latest_sha": "5d37f5e",
+          "latest_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/5d37f5e693e5f8f693b4b64633ccaea9c6b5a1eb"
         },
         {
           "name": "github-actions[bot]",
@@ -939,11 +929,11 @@
       "repo": "Gong-yinxuan/CP3405",
       "prac": "B",
       "is_ultra": false,
-      "last_commit_sha": "2b863a9",
-      "last_commit_msg": "Revise prediction submission details and market inputs",
-      "last_commit_date": "2026-07-19 07:03",
-      "last_commit_author": "EkaTiu",
-      "last_commit_url": "https://github.com/Gong-yinxuan/CP3405/commit/2b863a9b3a83fb2b0c996ba37c5beb52201f6e39",
+      "last_commit_sha": "c3ab676",
+      "last_commit_msg": "Add files via upload",
+      "last_commit_date": "2026-07-19 13:31",
+      "last_commit_author": "JiangJinsong",
+      "last_commit_url": "https://github.com/Gong-yinxuan/CP3405/commit/c3ab6762a38fc42565f8f0c4f94357cfcbe60e82",
       "tags": [
         "vW29",
         "vW28",
@@ -996,7 +986,7 @@
           "name": "github-actions[bot]",
           "login": "github-actions[bot]",
           "kind": "bot",
-          "commits": 14,
+          "commits": 13,
           "latest_date": "2026-07-17 22:43",
           "latest_msg": "chore: update Prism data 2026-07-17",
           "latest_sha": "d0b393e",
@@ -1023,6 +1013,16 @@
           "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/031176737b4e93fb08b241968bd2c07e9ae3d420"
         },
         {
+          "name": "JiangJinsong",
+          "login": "JiangJinsong",
+          "kind": "human",
+          "commits": 2,
+          "latest_date": "2026-07-19 13:31",
+          "latest_msg": "Add files via upload",
+          "latest_sha": "c3ab676",
+          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/c3ab6762a38fc42565f8f0c4f94357cfcbe60e82"
+        },
+        {
           "name": "Gong-yinxuan",
           "login": "Gong-yinxuan",
           "kind": "human",
@@ -1041,16 +1041,6 @@
           "latest_msg": "Update human_score_W06.md",
           "latest_sha": "cc123f4",
           "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/cc123f44f333b4da515a2b826f6b1c55f85111d2"
-        },
-        {
-          "name": "JiangJinsong",
-          "login": "JiangJinsong",
-          "kind": "human",
-          "commits": 1,
-          "latest_date": "2026-07-11 08:51",
-          "latest_msg": "Add files via upload",
-          "latest_sha": "ef09a7c",
-          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/ef09a7ce3ee20f0e4dd30351fcc8b11ba847ca39"
         }
       ],
       "pr_history": {
@@ -1087,7 +1077,7 @@
       "midweek_artefact": {
         "present": true,
         "path": "Week7/R2_Scrum_Master/standup_midweek_W29.md",
-        "url": "https://github.com/Gong-yinxuan/CP3405/blob/2b863a9b3a83fb2b0c996ba37c5beb52201f6e39/Week7/R2_Scrum_Master/standup_midweek_W29.md"
+        "url": "https://github.com/Gong-yinxuan/CP3405/blob/c3ab6762a38fc42565f8f0c4f94357cfcbe60e82/Week7/R2_Scrum_Master/standup_midweek_W29.md"
       },
       "repo_url": "https://github.com/Gong-yinxuan/CP3405"
     },
