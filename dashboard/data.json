@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-19 17:18 UTC",
+  "updated": "2026-07-19 18:13 UTC",
   "sprint_tag": "vW29",
   "sprint_deadline_utc": "2026-07-19T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W29",
@@ -634,11 +634,11 @@
       "repo": "juninho4/Team-3-Practical-A-CP3405",
       "prac": "A",
       "is_ultra": false,
-      "last_commit_sha": "d3adb8b",
-      "last_commit_msg": "Create standup_w29.md",
-      "last_commit_date": "2026-07-19 17:09",
-      "last_commit_author": "Jiale Zhang",
-      "last_commit_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/d3adb8bfb1d80f2424bac7435cfb61da27bf33ed",
+      "last_commit_sha": "2f9936c",
+      "last_commit_msg": "Add files via upload",
+      "last_commit_date": "2026-07-19 17:41",
+      "last_commit_author": "Juninho",
+      "last_commit_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/2f9936c86368d017d5549dc12ac9afcd8f827552",
       "tags": [
         "vW25",
         "vW24",
@@ -718,6 +718,16 @@
           "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/3f38ff972cf10a4f19698626537e17cd5c9a5ae9"
         },
         {
+          "name": "Juninho",
+          "login": "juninho4",
+          "kind": "human",
+          "commits": 4,
+          "latest_date": "2026-07-19 17:41",
+          "latest_msg": "Add files via upload",
+          "latest_sha": "2f9936c",
+          "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/2f9936c86368d017d5549dc12ac9afcd8f827552"
+        },
+        {
           "name": "Li-Haoyao",
           "login": "Li-Haoyao",
           "kind": "human",
@@ -726,16 +736,6 @@
           "latest_msg": "Add files via upload",
           "latest_sha": "fbeaa35",
           "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/fbeaa350bff221b7c1dddf76cea4e733b1ee2b0b"
-        },
-        {
-          "name": "Juninho",
-          "login": "juninho4",
-          "kind": "human",
-          "commits": 3,
-          "latest_date": "2026-07-19 15:44",
-          "latest_msg": "added sprint goal for W29",
-          "latest_sha": "61f0510",
-          "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/61f051068e90356ef20e670cc2087955bb1a8602"
         },
         {
           "name": "Jiawei990029",
