@@ -1,8 +1,14 @@
 {
-  "generated": "Sunday 19 July 2026 20:04 SGT",
+  "generated": "Sunday 19 July 2026 21:54 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
+        {
+          "author": "whitley_90776",
+          "content": "Hi everyone, could you please answer these questions?\n\n\nWhat have you completed or contributed so far?\n\nDid you face any blockers or challenges?\n\nWhat went well during this sprint?\n\nIs there anything ",
+          "ts_str": "2026-07-19 13:17:20",
+          "url": "https://discord.com/channels/1505861202444816455/1505883026771677366/1528390287146221589"
+        },
         {
           "author": "sinder38",
           "content": "You just help him if he struggles or there is a bug in the workflow.  he should complete this task on hiso own ideally",
