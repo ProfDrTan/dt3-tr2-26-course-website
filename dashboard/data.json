@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-19 20:29 UTC",
+  "updated": "2026-07-19 21:29 UTC",
   "sprint_tag": "vW29",
   "sprint_deadline_utc": "2026-07-19T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W29",
@@ -10,11 +10,11 @@
       "repo": "sinder38/Team-1-Prac-A-Project",
       "prac": "A",
       "is_ultra": false,
-      "last_commit_sha": "088157d",
-      "last_commit_msg": "feature/macro-agent (#69)",
-      "last_commit_date": "2026-07-19 14:23",
-      "last_commit_author": "NaingPhonePyae",
-      "last_commit_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/088157dc6bcd0eb7ba134a0e2f3deea525f845d7",
+      "last_commit_sha": "112360b",
+      "last_commit_msg": "Create retrospective_W29.md (#88)",
+      "last_commit_date": "2026-07-19 20:50",
+      "last_commit_author": "PanHsuMyat",
+      "last_commit_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/112360b2c03010d311674c66c39fafe2dfb3ef80",
       "tags": [
         "vW28",
         "vW25",
@@ -28,10 +28,9 @@
       "last_run_date": "2026-07-19 19:22",
       "last_run_url": "https://github.com/sinder38/Team-1-Prac-A-Project/actions/runs/29700447276",
       "last_run_was_filtered": true,
-      "open_prs": 7,
+      "open_prs": 6,
       "pr_titles": [
         "Feat/fix frontend",
-        "Create retrospective_W29.md",
         "Update README.md",
         "chore: pipeline artifacts 2026-07-19",
         "Save JSON files in database",
@@ -44,12 +43,6 @@
           "number": 90,
           "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/90",
           "author": "oakkar-cm"
-        },
-        {
-          "title": "Create retrospective_W29.md",
-          "number": 88,
-          "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/88",
-          "author": "panhsumyat0179-pixel"
         },
         {
           "title": "Update README.md",
@@ -95,6 +88,16 @@
           "latest_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/5fe33e82f2b9ee01b1826ce1bec559e6a9691646"
         },
         {
+          "name": "PanHsuMyat",
+          "login": "panhsumyat0179-pixel",
+          "kind": "human",
+          "commits": 3,
+          "latest_date": "2026-07-19 20:50",
+          "latest_msg": "Create retrospective_W29.md (#88)",
+          "latest_sha": "112360b",
+          "latest_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/112360b2c03010d311674c66c39fafe2dfb3ef80"
+        },
+        {
           "name": "Oakkar Phyoe",
           "login": "oakkar-cm",
           "kind": "human",
@@ -125,16 +128,6 @@
           "latest_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/0dadc41b92f1fab949107f9760c653cb5de8011e"
         },
         {
-          "name": "PanHsuMyat",
-          "login": "panhsumyat0179-pixel",
-          "kind": "human",
-          "commits": 2,
-          "latest_date": "2026-07-16 12:00",
-          "latest_msg": "Create standup_midweek_W29.md (#77)",
-          "latest_sha": "fe9760d",
-          "latest_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/fe9760d56b4bf3739318bbfbb6e74e810ee80802"
-        },
-        {
           "name": "JasonEran",
           "login": "JasonEran",
           "kind": "human",
@@ -157,13 +150,13 @@
       ],
       "pr_history": {
         "total": 90,
-        "merged": 59,
-        "open": 7,
+        "merged": 60,
+        "open": 6,
         "abandoned": 24,
         "weekly": {
           "2026-07-13": {
-            "merged": 8,
-            "open": 5,
+            "merged": 9,
+            "open": 4,
             "abandoned": 3
           },
           "2026-07-06": {
@@ -222,7 +215,7 @@
           {
             "number": 88,
             "title": "Create retrospective_W29.md",
-            "status": "open",
+            "status": "merged",
             "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/88",
             "created_at": "2026-07-19",
             "author": "panhsumyat0179-pixel"
@@ -328,7 +321,7 @@
       "midweek_artefact": {
         "present": true,
         "path": "sprints/standup_midweek_W29.md",
-        "url": "https://github.com/sinder38/Team-1-Prac-A-Project/blob/088157dc6bcd0eb7ba134a0e2f3deea525f845d7/sprints/standup_midweek_W29.md"
+        "url": "https://github.com/sinder38/Team-1-Prac-A-Project/blob/112360b2c03010d311674c66c39fafe2dfb3ef80/sprints/standup_midweek_W29.md"
       },
       "repo_url": "https://github.com/sinder38/Team-1-Prac-A-Project"
     },
