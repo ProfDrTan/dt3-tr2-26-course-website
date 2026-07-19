@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-19 01:11 UTC",
+  "updated": "2026-07-19 04:38 UTC",
   "sprint_tag": "vW29",
   "sprint_deadline_utc": "2026-07-19T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W29",
@@ -10,11 +10,11 @@
       "repo": "sinder38/Team-1-Prac-A-Project",
       "prac": "A",
       "is_ultra": false,
-      "last_commit_sha": "a318ecc",
-      "last_commit_msg": "Allama local testing and sever configuration (#80)",
-      "last_commit_date": "2026-07-18 14:47",
+      "last_commit_sha": "ffa75d8",
+      "last_commit_msg": "Change gemma to non-rate limited one",
+      "last_commit_date": "2026-07-19 01:46",
       "last_commit_author": "sinder",
-      "last_commit_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/a318eccbe79ce6e5d6717c81150cedef7350fe96",
+      "last_commit_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/ffa75d8e325803086ad7fa06403dddf97438483a",
       "tags": [
         "vW28",
         "vW25",
@@ -25,22 +25,27 @@
       "sprint_tag_present": false,
       "last_run_name": "python-checks",
       "last_run_conclusion": "success",
-      "last_run_date": "2026-07-18 17:58",
-      "last_run_url": "https://github.com/sinder38/Team-1-Prac-A-Project/actions/runs/29654961627",
+      "last_run_date": "2026-07-19 03:55",
+      "last_run_url": "https://github.com/sinder38/Team-1-Prac-A-Project/actions/runs/29672496085",
       "last_run_was_filtered": true,
-      "open_prs": 9,
+      "open_prs": 8,
       "pr_titles": [
+        "chore: pipeline artifacts 2026-07-19",
         "Refactor: centralize repository paths",
         "Save JSON files in database",
-        "chore: pipeline artifacts 2026-07-17",
         "Integrate Delta Engine with pipeline, backend and frontend",
-        "Add market API, archive weeks, and frontend integration.",
         "Goal and criteria W29",
         "feature/macro-agent",
         "adding test_almanac_agent py file",
         "Implement regression tests for TechnicalAgent"
       ],
       "pr_links": [
+        {
+          "title": "chore: pipeline artifacts 2026-07-19",
+          "number": 86,
+          "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/86",
+          "author": "github-actions[bot]"
+        },
         {
           "title": "Refactor: centralize repository paths",
           "number": 84,
@@ -54,22 +59,10 @@
           "author": "NaingPhonePyae"
         },
         {
-          "title": "chore: pipeline artifacts 2026-07-17",
-          "number": 82,
-          "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/82",
-          "author": "github-actions[bot]"
-        },
-        {
           "title": "Integrate Delta Engine with pipeline, backend and frontend",
           "number": 81,
           "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/81",
           "author": "JasonEran"
-        },
-        {
-          "title": "Add market API, archive weeks, and frontend integration.",
-          "number": 79,
-          "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/79",
-          "author": "oakkar-cm"
         },
         {
           "title": "Goal and criteria W29",
@@ -102,11 +95,21 @@
           "name": "sinder",
           "login": "sinder38",
           "kind": "human",
-          "commits": 6,
-          "latest_date": "2026-07-18 14:47",
-          "latest_msg": "Allama local testing and sever configuration (#80)",
-          "latest_sha": "a318ecc",
-          "latest_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/a318eccbe79ce6e5d6717c81150cedef7350fe96"
+          "commits": 7,
+          "latest_date": "2026-07-19 01:46",
+          "latest_msg": "Change gemma to non-rate limited one",
+          "latest_sha": "ffa75d8",
+          "latest_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/ffa75d8e325803086ad7fa06403dddf97438483a"
+        },
+        {
+          "name": "Oakkar Phyoe",
+          "login": "oakkar-cm",
+          "kind": "human",
+          "commits": 3,
+          "latest_date": "2026-07-19 01:39",
+          "latest_msg": "Add market API, archive weeks, and frontend integration. (#79)",
+          "latest_sha": "c672810",
+          "latest_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/c672810e008381fbdb86bb26c46a50142144fe90"
         },
         {
           "name": "PanHsuMyat",
@@ -117,16 +120,6 @@
           "latest_msg": "Create standup_midweek_W29.md (#77)",
           "latest_sha": "fe9760d",
           "latest_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/fe9760d56b4bf3739318bbfbb6e74e810ee80802"
-        },
-        {
-          "name": "Oakkar Phyoe",
-          "login": "oakkar-cm",
-          "kind": "human",
-          "commits": 2,
-          "latest_date": "2026-07-13 05:59",
-          "latest_msg": "Add webpage example (#76)",
-          "latest_sha": "61ebce7",
-          "latest_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/61ebce721294761fb91710a696c5809d2cf035ef"
         },
         {
           "name": "github-actions[bot]",
@@ -160,15 +153,15 @@
         }
       ],
       "pr_history": {
-        "total": 85,
-        "merged": 54,
-        "open": 9,
-        "abandoned": 22,
+        "total": 86,
+        "merged": 55,
+        "open": 8,
+        "abandoned": 23,
         "weekly": {
           "2026-07-13": {
-            "merged": 4,
-            "open": 6,
-            "abandoned": 1
+            "merged": 5,
+            "open": 5,
+            "abandoned": 2
           },
           "2026-07-06": {
             "merged": 4,
@@ -208,6 +201,14 @@
         },
         "recent": [
           {
+            "number": 86,
+            "title": "chore: pipeline artifacts 2026-07-19",
+            "status": "open",
+            "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/86",
+            "created_at": "2026-07-19",
+            "author": "github-actions[bot]"
+          },
+          {
             "number": 85,
             "title": "chore: pipeline artifacts 2026-07-18",
             "status": "abandoned",
@@ -234,7 +235,7 @@
           {
             "number": 82,
             "title": "chore: pipeline artifacts 2026-07-17",
-            "status": "open",
+            "status": "abandoned",
             "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/82",
             "created_at": "2026-07-17",
             "author": "github-actions[bot]"
@@ -258,7 +259,7 @@
           {
             "number": 79,
             "title": "Add market API, archive weeks, and frontend integration.",
-            "status": "open",
+            "status": "merged",
             "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/79",
             "created_at": "2026-07-17",
             "author": "oakkar-cm"
@@ -318,21 +319,13 @@
             "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/72",
             "created_at": "2026-07-10",
             "author": "github-actions[bot]"
-          },
-          {
-            "number": 71,
-            "title": "fix: prevent LLM stage from crashing the weekly pipeline",
-            "status": "merged",
-            "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/71",
-            "created_at": "2026-07-06",
-            "author": "oakkar-cm"
           }
         ]
       },
       "midweek_artefact": {
         "present": true,
         "path": "sprints/standup_midweek_W29.md",
-        "url": "https://github.com/sinder38/Team-1-Prac-A-Project/blob/a318eccbe79ce6e5d6717c81150cedef7350fe96/sprints/standup_midweek_W29.md"
+        "url": "https://github.com/sinder38/Team-1-Prac-A-Project/blob/ffa75d8e325803086ad7fa06403dddf97438483a/sprints/standup_midweek_W29.md"
       },
       "repo_url": "https://github.com/sinder38/Team-1-Prac-A-Project"
     },
@@ -910,11 +903,11 @@
       "repo": "Gong-yinxuan/CP3405",
       "prac": "B",
       "is_ultra": false,
-      "last_commit_sha": "19bc1fb",
-      "last_commit_msg": "Merge pull request #2 from Gong-yinxuan/hyh",
-      "last_commit_date": "2026-07-18 13:50",
-      "last_commit_author": "wujinrui2004",
-      "last_commit_url": "https://github.com/Gong-yinxuan/CP3405/commit/19bc1fbb699f304550ea39505234f53e33d68715",
+      "last_commit_sha": "6d86ff9",
+      "last_commit_msg": "Add Retrospective_W29.md, Refined standup_midweek_W29.md",
+      "last_commit_date": "2026-07-19 02:31",
+      "last_commit_author": "HYH-design-bot",
+      "last_commit_url": "https://github.com/Gong-yinxuan/CP3405/commit/6d86ff9c924ac6714dbb0fc3b335e5c3733f70fc",
       "tags": [
         "vW29",
         "vW28",
@@ -937,11 +930,11 @@
           "name": "HYH-design-bot",
           "login": "HYH-design-bot",
           "kind": "bot",
-          "commits": 36,
-          "latest_date": "2026-07-16 13:10",
-          "latest_msg": "Replace llm txt files with Json files and updated data",
-          "latest_sha": "faf986d",
-          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/faf986d84bf4d2897f82fcc7e7159902419d9e2d"
+          "commits": 37,
+          "latest_date": "2026-07-19 02:31",
+          "latest_msg": "Add Retrospective_W29.md, Refined standup_midweek_W29.md",
+          "latest_sha": "6d86ff9",
+          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/6d86ff9c924ac6714dbb0fc3b335e5c3733f70fc"
         },
         {
           "name": "To Hoang Gia",
@@ -987,7 +980,7 @@
           "name": "Gong-yinxuan",
           "login": "Gong-yinxuan",
           "kind": "human",
-          "commits": 3,
+          "commits": 2,
           "latest_date": "2026-07-15 00:59",
           "latest_msg": "Revise technical analysis report with manual updates",
           "latest_sha": "f6c0204",
@@ -1058,7 +1051,7 @@
       "midweek_artefact": {
         "present": true,
         "path": "Week7/R2_Scrum_Master/standup_midweek_W29.md",
-        "url": "https://github.com/Gong-yinxuan/CP3405/blob/19bc1fbb699f304550ea39505234f53e33d68715/Week7/R2_Scrum_Master/standup_midweek_W29.md"
+        "url": "https://github.com/Gong-yinxuan/CP3405/blob/6d86ff9c924ac6714dbb0fc3b335e5c3733f70fc/Week7/R2_Scrum_Master/standup_midweek_W29.md"
       },
       "repo_url": "https://github.com/Gong-yinxuan/CP3405"
     },
