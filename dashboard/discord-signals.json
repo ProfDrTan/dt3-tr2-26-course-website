@@ -1,5 +1,5 @@
 {
-  "generated": "Sunday 19 July 2026 15:15 SGT",
+  "generated": "Sunday 19 July 2026 17:23 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
@@ -19,6 +19,12 @@
     },
     "Team 2": {
       "blockers": [
+        {
+          "author": "viralthephilosopher",
+          "content": "For this week, your script run but there is issues in closing price fetching",
+          "ts_str": "2026-07-19 07:22:22",
+          "url": "https://discord.com/channels/1505861202444816455/1505883145466155079/1528300956964356228"
+        },
         {
           "author": "noobydoo2507",
           "content": "I see the issue here",
