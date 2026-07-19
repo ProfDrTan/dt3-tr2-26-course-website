@@ -1,8 +1,21 @@
 {
-  "generated": "Sunday 19 July 2026 09:10 SGT",
+  "generated": "Sunday 19 July 2026 12:38 SGT",
   "teams": {
     "Team 1": {
-      "blockers": []
+      "blockers": [
+        {
+          "author": "sinder38",
+          "content": "You just help him if he struggles or there is a bug in the workflow.  he should complete this task on hiso own ideally",
+          "ts_str": "2026-07-19 04:37:09",
+          "url": "https://discord.com/channels/1505861202444816455/1505883026771677366/1528259378057052180"
+        },
+        {
+          "author": "sinder38",
+          "content": "<@690946964820328479>, can you please help <@1447623068917960824> complete his human score review if he is having problems.\nI merged you feature branch into main, so he can work directly with it.\n\nAer",
+          "ts_str": "2026-07-19 01:52:21",
+          "url": "https://discord.com/channels/1505861202444816455/1505883026771677366/1528217904061878363"
+        }
+      ]
     },
     "Team 2": {
       "blockers": []
@@ -14,7 +27,14 @@
       "blockers": []
     },
     "Team 5": {
-      "blockers": []
+      "blockers": [
+        {
+          "author": "yh03472",
+          "content": "if there are any issues please ask",
+          "ts_str": "2026-07-19 02:38:21",
+          "url": "https://discord.com/channels/1505861202444816455/1505883282993315890/1528229482714894346"
+        }
+      ]
     }
   }
 }
