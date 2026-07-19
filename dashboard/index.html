@@ -132,6 +132,37 @@ svg.spark{display:block;}
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.js"></script>
 <script>
+// ── PIN GATE ─────────────────────────────────────────────────────────────────
+const CORRECT_PIN = '3405';
+
+function checkPin() {
+  const val = document.getElementById('pin-input').value.trim();
+  if (val === CORRECT_PIN) {
+    unlock();
+  } else {
+    const err = document.getElementById('pin-error');
+    if (err) err.style.display = 'block';
+    const inp = document.getElementById('pin-input');
+    if (inp) { inp.value = ''; inp.focus(); }
+  }
+}
+
+function unlock() {
+  const gate = document.getElementById('pin-gate');
+  const main = document.getElementById('main-content');
+  if (gate) gate.style.display = 'none';
+  if (main) main.style.display = 'block';
+}
+
+// Auto-unlock if ?pin=3405 is in the URL
+(function() {
+  const params = new URLSearchParams(window.location.search);
+  if (params.get('pin') === CORRECT_PIN) {
+    document.addEventListener('DOMContentLoaded', unlock);
+  }
+})();
+// ── END PIN GATE ─────────────────────────────────────────────────────────────
+
 let SPRINT = 'vW28'; // fallback only — overwritten by data.sprint_tag once live data loads
 let SPRINT_DEADLINE_UTC = '2026-07-12T15:59:00Z'; // fallback only — overwritten by data.sprint_deadline_utc
 const BL_KEY = 'dt3bl';
