@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-19 16:10 UTC",
+  "updated": "2026-07-19 17:18 UTC",
   "sprint_tag": "vW29",
   "sprint_deadline_utc": "2026-07-19T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W29",
@@ -634,11 +634,11 @@
       "repo": "juninho4/Team-3-Practical-A-CP3405",
       "prac": "A",
       "is_ultra": false,
-      "last_commit_sha": "61f0510",
-      "last_commit_msg": "added sprint goal for W29",
-      "last_commit_date": "2026-07-19 15:44",
-      "last_commit_author": "Juninho",
-      "last_commit_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/61f051068e90356ef20e670cc2087955bb1a8602",
+      "last_commit_sha": "d3adb8b",
+      "last_commit_msg": "Create standup_w29.md",
+      "last_commit_date": "2026-07-19 17:09",
+      "last_commit_author": "Jiale Zhang",
+      "last_commit_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/d3adb8bfb1d80f2424bac7435cfb61da27bf33ed",
       "tags": [
         "vW25",
         "vW24",
@@ -676,6 +676,16 @@
           "latest_msg": "Update vW29 files",
           "latest_sha": "74002a5",
           "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/74002a5418c2a1e6530ffbc94e850df176a383df"
+        },
+        {
+          "name": "Jiale Zhang",
+          "login": "ZHANGJIALELLLLL",
+          "kind": "human",
+          "commits": 10,
+          "latest_date": "2026-07-19 17:09",
+          "latest_msg": "Create standup_w29.md",
+          "latest_sha": "d3adb8b",
+          "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/d3adb8bfb1d80f2424bac7435cfb61da27bf33ed"
         },
         {
           "name": "ZhangJiayu0201",
@@ -716,16 +726,6 @@
           "latest_msg": "Add files via upload",
           "latest_sha": "fbeaa35",
           "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/fbeaa350bff221b7c1dddf76cea4e733b1ee2b0b"
-        },
-        {
-          "name": "Jiale Zhang",
-          "login": "ZHANGJIALELLLLL",
-          "kind": "human",
-          "commits": 4,
-          "latest_date": "2026-07-13 02:05",
-          "latest_msg": "Update standup_w28.md",
-          "latest_sha": "21bfacb",
-          "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/21bfacbed06a37456e557438fa7c66a0866a39ea"
         },
         {
           "name": "Juninho",
