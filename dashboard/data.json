@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-19 10:56 UTC",
+  "updated": "2026-07-19 12:04 UTC",
   "sprint_tag": "vW29",
   "sprint_deadline_utc": "2026-07-19T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W29",
@@ -24,12 +24,13 @@
       ],
       "sprint_tag_present": false,
       "last_run_name": "python-checks",
-      "last_run_conclusion": "success",
-      "last_run_date": "2026-07-19 06:06",
-      "last_run_url": "https://github.com/sinder38/Team-1-Prac-A-Project/actions/runs/29675912934",
+      "last_run_conclusion": "failure",
+      "last_run_date": "2026-07-19 11:44",
+      "last_run_url": "https://github.com/sinder38/Team-1-Prac-A-Project/actions/runs/29685692580",
       "last_run_was_filtered": true,
       "open_prs": 10,
       "pr_titles": [
+        "Path cleanup main",
         "Create retrospective_W29.md",
         "Update README.md",
         "chore: pipeline artifacts 2026-07-19",
@@ -38,10 +39,15 @@
         "Integrate Delta Engine with pipeline, backend and frontend",
         "Goal and criteria W29",
         "feature/macro-agent",
-        "adding test_almanac_agent py file",
-        "Implement regression tests for TechnicalAgent"
+        "adding test_almanac_agent py file"
       ],
       "pr_links": [
+        {
+          "title": "Path cleanup main",
+          "number": 89,
+          "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/89",
+          "author": "saikokokyaw"
+        },
         {
           "title": "Create retrospective_W29.md",
           "number": 88,
@@ -95,12 +101,6 @@
           "number": 57,
           "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/57",
           "author": "ZawLattNaung"
-        },
-        {
-          "title": "Implement regression tests for TechnicalAgent",
-          "number": 49,
-          "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/49",
-          "author": "saikokokyaw"
         }
       ],
       "days_since_commit": 0,
@@ -167,14 +167,14 @@
         }
       ],
       "pr_history": {
-        "total": 88,
+        "total": 89,
         "merged": 55,
-        "open": 10,
+        "open": 11,
         "abandoned": 23,
         "weekly": {
           "2026-07-13": {
             "merged": 5,
-            "open": 7,
+            "open": 8,
             "abandoned": 2
           },
           "2026-07-06": {
@@ -214,6 +214,14 @@
           }
         },
         "recent": [
+          {
+            "number": 89,
+            "title": "Path cleanup main",
+            "status": "open",
+            "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/89",
+            "created_at": "2026-07-19",
+            "author": "saikokokyaw"
+          },
           {
             "number": 88,
             "title": "Create retrospective_W29.md",
@@ -325,14 +333,6 @@
             "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/75",
             "created_at": "2026-07-13",
             "author": "saikokokyaw"
-          },
-          {
-            "number": 74,
-            "title": "Add w28 Productio Owner report",
-            "status": "merged",
-            "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/74",
-            "created_at": "2026-07-12",
-            "author": "sinder38"
           }
         ]
       },
