@@ -1,5 +1,5 @@
 {
-  "generated": "Monday 20 July 2026 23:28 SGT",
+  "generated": "Tuesday 21 July 2026 01:04 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
@@ -26,6 +26,12 @@
     "Team 2": {
       "blockers": [
         {
+          "author": "vileworx",
+          "content": "DoD for R6, W30:\n[] ensure that code continues to work as expected\n[] document code functionality\n[] fix any potential minor issues and refactor code for efficiency\n[] ensure that outputs are present ",
+          "ts_str": "2026-07-20 16:34:22",
+          "url": "https://discord.com/channels/1505861202444816455/1505883145466155079/1528802258693918901"
+        },
+        {
           "author": "guanyulu_88237",
           "content": "I think no issue",
           "ts_str": "2026-07-20 12:19:43",
@@ -48,12 +54,6 @@
           "content": "**R3 DoD \u2014 Sprint 8 / W30**\n\n* [ ] Update R3 outputs to the shared folder: `outputs/R3/`.\n* [ ] Generate `almanac_agent_W30.json`, `.csv`, and `.md`.\n* [ ] Use forecast range `2026-07-27 to 2026-07-31",
           "ts_str": "2026-07-20 08:29:58",
           "url": "https://discord.com/channels/1505861202444816455/1505883145466155079/1528680354892873799"
-        },
-        {
-          "author": "zhengzaikun_84219",
-          "content": "# Sprint 8 Goal \u2014 W30\n\nDeliver a reliable, clean, and properly synchronized W30 forecasting pipeline covering SPX, NDX, IWM, and all 11 S&P 500 sector ETFs.\n\nBuilding on Sprint 7 lessons, the team wil",
-          "ts_str": "2026-07-20 07:51:39",
-          "url": "https://discord.com/channels/1505861202444816455/1505883145466155079/1528670712099901562"
         }
       ]
     },
