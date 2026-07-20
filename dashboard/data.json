@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-19 23:34 UTC",
+  "updated": "2026-07-20 00:33 UTC",
   "sprint_tag": "vW29",
   "sprint_deadline_utc": "2026-07-19T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W29",
@@ -319,9 +319,9 @@
         ]
       },
       "midweek_artefact": {
-        "present": true,
-        "path": "sprints/standup_midweek_W29.md",
-        "url": "https://github.com/sinder38/Team-1-Prac-A-Project/blob/112360b2c03010d311674c66c39fafe2dfb3ef80/sprints/standup_midweek_W29.md"
+        "present": false,
+        "path": null,
+        "url": null
       },
       "repo_url": "https://github.com/sinder38/Team-1-Prac-A-Project"
     },
@@ -616,9 +616,9 @@
         ]
       },
       "midweek_artefact": {
-        "present": true,
-        "path": "evidence/progress_logs/standup_midweek_W29.md",
-        "url": "https://github.com/LuJunwen212/CP3405-Project/blob/89429814d69c7f0752c54e70ae4b10c371cbbdd9/evidence/progress_logs/standup_midweek_W29.md"
+        "present": false,
+        "path": null,
+        "url": null
       },
       "repo_url": "https://github.com/LuJunwen212/CP3405-Project"
     },
