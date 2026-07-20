@@ -1,5 +1,5 @@
 {
-  "generated": "Monday 20 July 2026 12:57 SGT",
+  "generated": "Monday 20 July 2026 16:14 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
@@ -26,6 +26,18 @@
     "Team 2": {
       "blockers": [
         {
+          "author": "zhengzaikun_84219",
+          "content": "# Sprint 8 Goal \u2014 W30\n\nDeliver a reliable, clean, and properly synchronized W30 forecasting pipeline covering SPX, NDX, IWM, and all 11 S&P 500 sector ETFs.\n\nBuilding on Sprint 7 lessons, the team wil",
+          "ts_str": "2026-07-20 07:51:39",
+          "url": "https://discord.com/channels/1505861202444816455/1505883145466155079/1528670712099901562"
+        },
+        {
+          "author": "guanyulu_88237",
+          "content": "Team, for your DoD, you can break down your work for W30 into a list of tasks that can be tick off. Please finish it by today. Thank you.\nFor example:\n\nDefinition of Done - R6 Data Collector, Sprint 8",
+          "ts_str": "2026-07-20 06:54:06",
+          "url": "https://discord.com/channels/1505861202444816455/1505883145466155079/1528656231055495269"
+        },
+        {
           "author": "viralthephilosopher",
           "content": "For this week, your script run but there is issues in closing price fetching",
           "ts_str": "2026-07-19 07:22:22",
@@ -42,12 +54,6 @@
           "content": "<@269686289102667776> What's wrong with my r5?",
           "ts_str": "2026-07-19 06:31:11",
           "url": "https://discord.com/channels/1505861202444816455/1505883145466155079/1528288076676464670"
-        },
-        {
-          "author": "viralthephilosopher",
-          "content": "Also just reminder, technical file have issues. The closing price is giving back as NaN so I can't predict correctly",
-          "ts_str": "2026-07-19 06:17:39",
-          "url": "https://discord.com/channels/1505861202444816455/1505883145466155079/1528284671383834696"
         }
       ]
     },
@@ -55,7 +61,14 @@
       "blockers": []
     },
     "Team 4": {
-      "blockers": []
+      "blockers": [
+        {
+          "author": "ajin4334",
+          "content": "Sprint goal:\nTo optimize TradeKyaMal for human score (r7) & calibration log (r10)\n\nDoD:\n-Update calibration log to reflect learning log and llm horserace\n-Keep an update of past accuracy logs\n-Fix err",
+          "ts_str": "2026-07-20 06:47:14",
+          "url": "https://discord.com/channels/1505861202444816455/1505883243361206392/1528654502394331196"
+        }
+      ]
     },
     "Team 5": {
       "blockers": [
