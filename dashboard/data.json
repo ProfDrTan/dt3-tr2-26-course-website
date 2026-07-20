@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-20 08:14 UTC",
+  "updated": "2026-07-20 11:18 UTC",
   "sprint_tag": "vW29",
   "sprint_deadline_utc": "2026-07-19T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W29",
@@ -26,8 +26,8 @@
       "sprint_tag_present": true,
       "last_run_name": "python-checks",
       "last_run_conclusion": "success",
-      "last_run_date": "2026-07-20 08:12",
-      "last_run_url": "https://github.com/sinder38/Team-1-Prac-A-Project/actions/runs/29727100977",
+      "last_run_date": "2026-07-20 09:31",
+      "last_run_url": "https://github.com/sinder38/Team-1-Prac-A-Project/actions/runs/29731790357",
       "last_run_was_filtered": true,
       "open_prs": 5,
       "pr_titles": [
@@ -338,15 +338,15 @@
         "vW22"
       ],
       "sprint_tag_present": true,
-      "last_run_name": "Automated Technical Agent",
+      "last_run_name": "R3 Almanac Agent Multi-Week Automation P",
       "last_run_conclusion": "success",
-      "last_run_date": "2026-07-19 07:18",
-      "last_run_url": "https://github.com/LuJunwen212/CP3405-Project/actions/runs/29677880255",
+      "last_run_date": "2026-07-20 10:05",
+      "last_run_url": "https://github.com/LuJunwen212/CP3405-Project/actions/runs/29733820692",
       "last_run_was_filtered": true,
       "open_prs": 0,
       "pr_titles": [],
       "pr_links": [],
-      "days_since_commit": 0,
+      "days_since_commit": 1,
       "contributors": [
         {
           "name": "Hamzah \"Opal\" Nutt",
@@ -917,11 +917,11 @@
       "repo": "Gong-yinxuan/CP3405",
       "prac": "B",
       "is_ultra": false,
-      "last_commit_sha": "3ebd18f",
-      "last_commit_msg": "fix",
-      "last_commit_date": "2026-07-20 06:06",
-      "last_commit_author": "ToHoangGia",
-      "last_commit_url": "https://github.com/Gong-yinxuan/CP3405/commit/3ebd18faf12a6d852b05444d9e6028972cf04051",
+      "last_commit_sha": "ff11591",
+      "last_commit_msg": "Refined sprint_goal_W30.md",
+      "last_commit_date": "2026-07-20 09:28",
+      "last_commit_author": "HYH-design-bot",
+      "last_commit_url": "https://github.com/Gong-yinxuan/CP3405/commit/ff11591cb93fb4564d7a49f6dba1cb947a313602",
       "tags": [
         "vW29",
         "vW28",
@@ -944,11 +944,11 @@
           "name": "HYH-design-bot",
           "login": "HYH-design-bot",
           "kind": "bot",
-          "commits": 30,
-          "latest_date": "2026-07-20 01:16",
-          "latest_msg": "Update retrospective_W29.md",
-          "latest_sha": "64d8929",
-          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/64d8929156740b80c985ab6a1870aff0c3479bff"
+          "commits": 31,
+          "latest_date": "2026-07-20 09:28",
+          "latest_msg": "Refined sprint_goal_W30.md",
+          "latest_sha": "ff11591",
+          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/ff11591cb93fb4564d7a49f6dba1cb947a313602"
         },
         {
           "name": "ToHoangGia",
@@ -974,7 +974,7 @@
           "name": "github-actions[bot]",
           "login": "github-actions[bot]",
           "kind": "bot",
-          "commits": 12,
+          "commits": 11,
           "latest_date": "2026-07-20 03:48",
           "latest_msg": "chore: update Prism data 2026-07-20",
           "latest_sha": "1e96586",
@@ -1094,7 +1094,7 @@
       "midweek_artefact": {
         "present": true,
         "path": "Week7/R2_Scrum_Master/standup_midweek_W29.md",
-        "url": "https://github.com/Gong-yinxuan/CP3405/blob/3ebd18faf12a6d852b05444d9e6028972cf04051/Week7/R2_Scrum_Master/standup_midweek_W29.md"
+        "url": "https://github.com/Gong-yinxuan/CP3405/blob/ff11591cb93fb4564d7a49f6dba1cb947a313602/Week7/R2_Scrum_Master/standup_midweek_W29.md"
       },
       "repo_url": "https://github.com/Gong-yinxuan/CP3405"
     },
@@ -1103,17 +1103,17 @@
       "repo": "ProfDrTan/market-prediction-engine",
       "prac": "Instructor",
       "is_ultra": true,
-      "last_commit_sha": "c2c1eb0",
-      "last_commit_msg": "Weekly calibration scoring: 2026-07-20",
-      "last_commit_date": "2026-07-20 07:51",
+      "last_commit_sha": "421e415",
+      "last_commit_msg": "Weekly pipeline run: 2026-07-20",
+      "last_commit_date": "2026-07-20 09:28",
       "last_commit_author": "market-prediction-en",
-      "last_commit_url": "https://github.com/ProfDrTan/market-prediction-engine/commit/c2c1eb0126c3c097258bb104cd1ef459adfe8d89",
+      "last_commit_url": "https://github.com/ProfDrTan/market-prediction-engine/commit/421e41575a0c5f27356114012cd0155a6aea0e31",
       "tags": [],
       "sprint_tag_present": false,
-      "last_run_name": "Weekly Calibration Scoring",
+      "last_run_name": "Weekly Prediction Pipeline",
       "last_run_conclusion": "success",
-      "last_run_date": "2026-07-20 07:51",
-      "last_run_url": "https://github.com/ProfDrTan/market-prediction-engine/actions/runs/29725918749",
+      "last_run_date": "2026-07-20 09:25",
+      "last_run_url": "https://github.com/ProfDrTan/market-prediction-engine/actions/runs/29731357097",
       "last_run_was_filtered": true,
       "open_prs": 0,
       "pr_titles": [],
@@ -1134,11 +1134,11 @@
           "name": "market-prediction-engine-bot",
           "login": "actions",
           "kind": "bot",
-          "commits": 8,
-          "latest_date": "2026-07-20 07:51",
-          "latest_msg": "Weekly calibration scoring: 2026-07-20",
-          "latest_sha": "c2c1eb0",
-          "latest_url": "https://github.com/ProfDrTan/market-prediction-engine/commit/c2c1eb0126c3c097258bb104cd1ef459adfe8d89"
+          "commits": 9,
+          "latest_date": "2026-07-20 09:28",
+          "latest_msg": "Weekly pipeline run: 2026-07-20",
+          "latest_sha": "421e415",
+          "latest_url": "https://github.com/ProfDrTan/market-prediction-engine/commit/421e41575a0c5f27356114012cd0155a6aea0e31"
         }
       ],
       "pr_history": {
