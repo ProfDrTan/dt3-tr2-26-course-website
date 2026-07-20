@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-20 15:28 UTC",
+  "updated": "2026-07-20 17:04 UTC",
   "sprint_tag": "vW29",
   "sprint_deadline_utc": "2026-07-19T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W29",
@@ -765,11 +765,11 @@
       "repo": "wintwah-lwin/CP3405_Group_4",
       "prac": "B",
       "is_ultra": false,
-      "last_commit_sha": "6dcd76a",
-      "last_commit_msg": "Auto-commit: Pipeline execution (Week 9)",
-      "last_commit_date": "2026-07-20 06:22",
-      "last_commit_author": "github-actions[bot]",
-      "last_commit_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/6dcd76a344949df326aec7c7eeabd89120653ec7",
+      "last_commit_sha": "69afdc9",
+      "last_commit_msg": "Add files via upload",
+      "last_commit_date": "2026-07-20 15:47",
+      "last_commit_author": "AJIN-TheHuman",
+      "last_commit_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/69afdc93849fbad111ac864f4bed571c7fc9b676",
       "tags": [
         "vW29",
         "v1.0.0",
@@ -839,6 +839,16 @@
           "latest_msg": "Update auto-prediction.yml",
           "latest_sha": "cae70cc",
           "latest_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/cae70ccfcbd0a993a1b502c52073ce21afa9d445"
+        },
+        {
+          "name": "AJIN-TheHuman",
+          "login": "AJIN-TheHuman",
+          "kind": "human",
+          "commits": 1,
+          "latest_date": "2026-07-20 15:47",
+          "latest_msg": "Add files via upload",
+          "latest_sha": "69afdc9",
+          "latest_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/69afdc93849fbad111ac864f4bed571c7fc9b676"
         },
         {
           "name": "MojunZheng",
