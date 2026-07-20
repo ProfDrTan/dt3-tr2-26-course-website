@@ -251,35 +251,35 @@
 
   <div class="obligation-list">
     <div class="ob">
-      <div class="ob-day">Mon 20</div>
+      <div class="ob-day">Day 1 (Mon)</div>
       <div class="ob-text">
         <strong>Sprint Planning facilitated.</strong> Sprint goal written by R1 and committed. All roles confirmed. DoD checklist agreed. Pipeline dependency order reviewed with the team — every role knows who depends on them and by when.
         <div class="evidence-box"><strong>Evidence:</strong> <code>sprint_goal_W30.md</code> committed before end of Monday. Discord sprint goal post timestamped.</div>
       </div>
     </div>
     <div class="ob critical">
-      <div class="ob-day">Wed 22 ⚠️</div>
+      <div class="ob-day">Day 3 (Wed) ⚠️</div>
       <div class="ob-text">
         <strong>Mid-week check-in — the new mandatory artefact.</strong> R2 contacts every role member individually (Discord DM or standup note). Confirms: started / not started / blocked. Any blocker escalated same day. Result committed as <code>standup_midweek_W30.md</code>.
         <div class="evidence-box"><strong>Evidence:</strong> <code>standup_midweek_W30.md</code> committed by Wednesday 23:59 SGT. Must name every role and their status. Blockers must include R2's response action — not just acknowledgement.</div>
       </div>
     </div>
     <div class="ob">
-      <div class="ob-day">Thu 23</div>
+      <div class="ob-day">Day 4 (Thu)</div>
       <div class="ob-text">
         <strong>Agent outputs confirmed committed.</strong> R2 verifies R3, R4, R5 have all committed their outputs before R8 begins LLM synthesis. If any agent is missing, R2 acts immediately — escalates, reassigns, or negotiates scope reduction. Does not wait.
         <div class="evidence-box"><strong>Evidence:</strong> Commit timestamps on agent files. If any were late, R2's <code>standup_midweek_W30.md</code> should have flagged it Wednesday.</div>
       </div>
     </div>
     <div class="ob">
-      <div class="ob-day">Sat 25</div>
+      <div class="ob-day">Day 6 (Sat)</div>
       <div class="ob-text">
         <strong>All branches merged.</strong> R2 confirms R9 has merged all branches before end of Saturday. Merge conflicts discovered Sunday cannot be resolved in time.
         <div class="evidence-box"><strong>Evidence:</strong> GitHub branch merge timestamps visible on pull request history.</div>
       </div>
     </div>
     <div class="ob critical">
-      <div class="ob-day">Mon 20 ⚠️</div>
+      <div class="ob-day">Day 8 (Mon) ⚠️</div>
       <div class="ob-text">
         <strong>Sprint 8 retrospective presented.</strong> R2 leads the retrospective section of the Monday presentation. Must answer specifically: when did blockers surface this sprint? How many days earlier than Sprint 7? What one process change made the difference?
         <div class="evidence-box"><strong>Evidence:</strong> <code>retrospective_W30.md</code> committed before Sunday midnight. Must reference the mid-week check-in and whether it caught anything.</div>
@@ -297,17 +297,17 @@
     </thead>
     <tbody>
       <tr>
-        <td class="day">Mon 20</td>
+        <td class="day">Day 1 (Mon)</td>
         <td><span class="scrum-tag">SPRINT PLANNING</span><br>Sprint goal, roles, DoD, dependency order reviewed.</td>
         <td>Facilitate. Ensure every role knows who depends on them. Commit sprint goal today.</td>
       </tr>
       <tr>
         <td class="day">Tue–Wed</td>
         <td><span class="scrum-tag">EXECUTION + CHECK-IN</span><br>R3–R5 agent work. R8 wires API calls. R6 confirms Friday fetch scheduled.</td>
-        <td><strong>Contact every role individually by Wednesday.</strong> Not a group message. Each person, each role status. Commit <code>standup_midweek_W30.md</code> by Wed 23:59.</td>
+        <td><strong>Contact every role individually by Wednesday.</strong> Not a group message. Each person, each role status. Commit <code>standup_midweek_W30.md</code> by Day 3 (Wed):59.</td>
       </tr>
       <tr class="hl">
-        <td class="day">Thu 23</td>
+        <td class="day">Day 4 (Thu)</td>
         <td><span class="scrum-tag">SYNTHESIS GATE</span><br>R8 cannot run LLMs until R3, R4, R5 have all committed. This is the dependency gate.</td>
         <td>Confirm all agent outputs are committed before R8 starts. If not — escalate immediately, not tomorrow.</td>
       </tr>
@@ -317,12 +317,12 @@
         <td>Monitor that the fetch ran. If it failed — R2 surfaces it to R9 immediately.</td>
       </tr>
       <tr>
-        <td class="day">Sat 25</td>
+        <td class="day">Day 6 (Sat)</td>
         <td><span class="scrum-tag">HUMAN REVIEW</span><br>R7 Wild Card. R9 merges all branches. R10 delta scoring begins.</td>
         <td>Confirm all branches merged by end of Saturday. Chase R10 if delta scoring hasn't started.</td>
       </tr>
       <tr class="hl">
-        <td class="day">Sun 26 · 23:59</td>
+        <td class="day">Day 7 (Sun) · 23:59</td>
         <td><span class="scrum-tag">SPRINT SEALED</span><br><code>vW30</code> tag cut. Discord submission posted. Retrospective committed.</td>
         <td>Confirm all DoD items checked. R2 signs off before R9 cuts the tag.</td>
       </tr>
