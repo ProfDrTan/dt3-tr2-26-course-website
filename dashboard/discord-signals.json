@@ -1,5 +1,5 @@
 {
-  "generated": "Monday 20 July 2026 16:14 SGT",
+  "generated": "Monday 20 July 2026 19:18 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
@@ -26,6 +26,12 @@
     "Team 2": {
       "blockers": [
         {
+          "author": "noobydoo2507",
+          "content": "**R3 DoD \u2014 Sprint 8 / W30**\n\n* [ ] Update R3 outputs to the shared folder: `outputs/R3/`.\n* [ ] Generate `almanac_agent_W30.json`, `.csv`, and `.md`.\n* [ ] Use forecast range `2026-07-27 to 2026-07-31",
+          "ts_str": "2026-07-20 08:29:58",
+          "url": "https://discord.com/channels/1505861202444816455/1505883145466155079/1528680354892873799"
+        },
+        {
           "author": "zhengzaikun_84219",
           "content": "# Sprint 8 Goal \u2014 W30\n\nDeliver a reliable, clean, and properly synchronized W30 forecasting pipeline covering SPX, NDX, IWM, and all 11 S&P 500 sector ETFs.\n\nBuilding on Sprint 7 lessons, the team wil",
           "ts_str": "2026-07-20 07:51:39",
@@ -48,12 +54,6 @@
           "content": "I see the issue here",
           "ts_str": "2026-07-19 06:38:51",
           "url": "https://discord.com/channels/1505861202444816455/1505883145466155079/1528290006148317336"
-        },
-        {
-          "author": "louis1123990",
-          "content": "<@269686289102667776> What's wrong with my r5?",
-          "ts_str": "2026-07-19 06:31:11",
-          "url": "https://discord.com/channels/1505861202444816455/1505883145466155079/1528288076676464670"
         }
       ]
     },
