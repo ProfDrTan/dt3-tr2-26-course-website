@@ -1,5 +1,5 @@
 {
-  "generated": "Monday 20 July 2026 19:18 SGT",
+  "generated": "Monday 20 July 2026 21:22 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
@@ -26,6 +26,24 @@
     "Team 2": {
       "blockers": [
         {
+          "author": "guanyulu_88237",
+          "content": "I think no issue",
+          "ts_str": "2026-07-20 12:19:43",
+          "url": "https://discord.com/channels/1505861202444816455/1505883145466155079/1528738174979936296"
+        },
+        {
+          "author": "vileworx",
+          "content": "Before I decide on my R6 DoD, are there any major issues/missing features that need to be addressed for this sprint?",
+          "ts_str": "2026-07-20 12:18:41",
+          "url": "https://discord.com/channels/1505861202444816455/1505883145466155079/1528737914325041232"
+        },
+        {
+          "author": "lujunwen1_29056",
+          "content": "Definition of Done - R9 GitHub Administrator \u2014 Sprint 8 / W30 \n [] If the automated data fetch fails early Saturday morning, R9 must diagnose the problem and fix it.\n []Verify that all output files ha",
+          "ts_str": "2026-07-20 11:47:39",
+          "url": "https://discord.com/channels/1505861202444816455/1505883145466155079/1528730104073683077"
+        },
+        {
           "author": "noobydoo2507",
           "content": "**R3 DoD \u2014 Sprint 8 / W30**\n\n* [ ] Update R3 outputs to the shared folder: `outputs/R3/`.\n* [ ] Generate `almanac_agent_W30.json`, `.csv`, and `.md`.\n* [ ] Use forecast range `2026-07-27 to 2026-07-31",
           "ts_str": "2026-07-20 08:29:58",
@@ -36,24 +54,6 @@
           "content": "# Sprint 8 Goal \u2014 W30\n\nDeliver a reliable, clean, and properly synchronized W30 forecasting pipeline covering SPX, NDX, IWM, and all 11 S&P 500 sector ETFs.\n\nBuilding on Sprint 7 lessons, the team wil",
           "ts_str": "2026-07-20 07:51:39",
           "url": "https://discord.com/channels/1505861202444816455/1505883145466155079/1528670712099901562"
-        },
-        {
-          "author": "guanyulu_88237",
-          "content": "Team, for your DoD, you can break down your work for W30 into a list of tasks that can be tick off. Please finish it by today. Thank you.\nFor example:\n\nDefinition of Done - R6 Data Collector, Sprint 8",
-          "ts_str": "2026-07-20 06:54:06",
-          "url": "https://discord.com/channels/1505861202444816455/1505883145466155079/1528656231055495269"
-        },
-        {
-          "author": "viralthephilosopher",
-          "content": "For this week, your script run but there is issues in closing price fetching",
-          "ts_str": "2026-07-19 07:22:22",
-          "url": "https://discord.com/channels/1505861202444816455/1505883145466155079/1528300956964356228"
-        },
-        {
-          "author": "noobydoo2507",
-          "content": "I see the issue here",
-          "ts_str": "2026-07-19 06:38:51",
-          "url": "https://discord.com/channels/1505861202444816455/1505883145466155079/1528290006148317336"
         }
       ]
     },
