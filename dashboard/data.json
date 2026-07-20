@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-20 01:14 UTC",
+  "updated": "2026-07-20 04:18 UTC",
   "sprint_tag": "vW29",
   "sprint_deadline_utc": "2026-07-19T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W29",
@@ -10,29 +10,29 @@
       "repo": "sinder38/Team-1-Prac-A-Project",
       "prac": "A",
       "is_ultra": false,
-      "last_commit_sha": "112360b",
-      "last_commit_msg": "Create retrospective_W29.md (#88)",
-      "last_commit_date": "2026-07-19 20:50",
-      "last_commit_author": "PanHsuMyat",
-      "last_commit_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/112360b2c03010d311674c66c39fafe2dfb3ef80",
+      "last_commit_sha": "bd69f28",
+      "last_commit_msg": "chore: pipeline artifacts 2026-07-19 (#86)",
+      "last_commit_date": "2026-07-20 02:22",
+      "last_commit_author": "github-actions[bot]",
+      "last_commit_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/bd69f28f6769ce43f6e4852859ace49a886c64e0",
       "tags": [
+        "vW29",
         "vW28",
         "vW25",
         "vW24",
         "vW23",
         "vW22"
       ],
-      "sprint_tag_present": false,
-      "last_run_name": "python-checks",
+      "sprint_tag_present": true,
+      "last_run_name": "agent-checks",
       "last_run_conclusion": "success",
-      "last_run_date": "2026-07-19 19:22",
-      "last_run_url": "https://github.com/sinder38/Team-1-Prac-A-Project/actions/runs/29700447276",
+      "last_run_date": "2026-07-20 02:32",
+      "last_run_url": "https://github.com/sinder38/Team-1-Prac-A-Project/actions/runs/29712769970",
       "last_run_was_filtered": true,
-      "open_prs": 6,
+      "open_prs": 5,
       "pr_titles": [
         "Feat/fix frontend",
         "Update README.md",
-        "chore: pipeline artifacts 2026-07-19",
         "Save JSON files in database",
         "adding test_almanac_agent py file",
         "Implement regression tests for TechnicalAgent"
@@ -49,12 +49,6 @@
           "number": 87,
           "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/87",
           "author": "Tobias778"
-        },
-        {
-          "title": "chore: pipeline artifacts 2026-07-19",
-          "number": 86,
-          "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/86",
-          "author": "github-actions[bot]"
         },
         {
           "title": "Save JSON files in database",
@@ -108,6 +102,16 @@
           "latest_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/c672810e008381fbdb86bb26c46a50142144fe90"
         },
         {
+          "name": "github-actions[bot]",
+          "login": "github-actions[bot]",
+          "kind": "bot",
+          "commits": 2,
+          "latest_date": "2026-07-20 02:22",
+          "latest_msg": "chore: pipeline artifacts 2026-07-19 (#86)",
+          "latest_sha": "bd69f28",
+          "latest_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/bd69f28f6769ce43f6e4852859ace49a886c64e0"
+        },
+        {
           "name": "NaingPhonePyae",
           "login": "NaingPhonePyae",
           "kind": "human",
@@ -136,27 +140,17 @@
           "latest_msg": "Integrate Delta Engine with pipeline, backend and frontend (#81)",
           "latest_sha": "5a8d7d8",
           "latest_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/5a8d7d800239df52011682b7e92e0b80bdb562bc"
-        },
-        {
-          "name": "github-actions[bot]",
-          "login": "github-actions[bot]",
-          "kind": "bot",
-          "commits": 1,
-          "latest_date": "2026-07-13 02:37",
-          "latest_msg": "chore: pipeline artifacts 2026-07-10 (#72)",
-          "latest_sha": "65f496b",
-          "latest_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/65f496bac71aa4d4c4f7c09930feaf9a41f89eaa"
         }
       ],
       "pr_history": {
         "total": 90,
-        "merged": 60,
-        "open": 6,
+        "merged": 61,
+        "open": 5,
         "abandoned": 24,
         "weekly": {
           "2026-07-13": {
-            "merged": 9,
-            "open": 4,
+            "merged": 10,
+            "open": 3,
             "abandoned": 3
           },
           "2026-07-06": {
@@ -231,7 +225,7 @@
           {
             "number": 86,
             "title": "chore: pipeline artifacts 2026-07-19",
-            "status": "open",
+            "status": "merged",
             "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/86",
             "created_at": "2026-07-19",
             "author": "github-actions[bot]"
@@ -321,7 +315,7 @@
       "midweek_artefact": {
         "present": true,
         "path": "sprints/standup_midweek_W29.md",
-        "url": "https://github.com/sinder38/Team-1-Prac-A-Project/blob/112360b2c03010d311674c66c39fafe2dfb3ef80/sprints/standup_midweek_W29.md"
+        "url": "https://github.com/sinder38/Team-1-Prac-A-Project/blob/bd69f28f6769ce43f6e4852859ace49a886c64e0/sprints/standup_midweek_W29.md"
       },
       "repo_url": "https://github.com/sinder38/Team-1-Prac-A-Project"
     },
@@ -627,11 +621,11 @@
       "repo": "juninho4/Team-3-Practical-A-CP3405",
       "prac": "A",
       "is_ultra": false,
-      "last_commit_sha": "2f9936c",
-      "last_commit_msg": "Add files via upload",
-      "last_commit_date": "2026-07-19 17:41",
-      "last_commit_author": "Juninho",
-      "last_commit_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/2f9936c86368d017d5549dc12ac9afcd8f827552",
+      "last_commit_sha": "cc1a3b4",
+      "last_commit_msg": "Create standup_midweek_W29.md",
+      "last_commit_date": "2026-07-20 02:29",
+      "last_commit_author": "Jiale Zhang",
+      "last_commit_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/cc1a3b4d9c8c018ca96cf4daf24d6d0cd2887f55",
       "tags": [
         "vW25",
         "vW24",
@@ -674,11 +668,11 @@
           "name": "Jiale Zhang",
           "login": "ZHANGJIALELLLLL",
           "kind": "human",
-          "commits": 10,
-          "latest_date": "2026-07-19 17:09",
-          "latest_msg": "Create standup_w29.md",
-          "latest_sha": "d3adb8b",
-          "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/d3adb8bfb1d80f2424bac7435cfb61da27bf33ed"
+          "commits": 11,
+          "latest_date": "2026-07-20 02:29",
+          "latest_msg": "Create standup_midweek_W29.md",
+          "latest_sha": "cc1a3b4",
+          "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/cc1a3b4d9c8c018ca96cf4daf24d6d0cd2887f55"
         },
         {
           "name": "ZhangJiayu0201",
@@ -760,9 +754,9 @@
         "recent": []
       },
       "midweek_artefact": {
-        "present": false,
-        "path": null,
-        "url": null
+        "present": true,
+        "path": "vW29/standup_midweek_W29.md",
+        "url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/blob/cc1a3b4d9c8c018ca96cf4daf24d6d0cd2887f55/vW29/standup_midweek_W29.md"
       },
       "repo_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405"
     },
@@ -922,11 +916,11 @@
       "repo": "Gong-yinxuan/CP3405",
       "prac": "B",
       "is_ultra": false,
-      "last_commit_sha": "c3ab676",
-      "last_commit_msg": "Add files via upload",
-      "last_commit_date": "2026-07-19 13:31",
-      "last_commit_author": "JiangJinsong",
-      "last_commit_url": "https://github.com/Gong-yinxuan/CP3405/commit/c3ab6762a38fc42565f8f0c4f94357cfcbe60e82",
+      "last_commit_sha": "1e96586",
+      "last_commit_msg": "chore: update Prism data 2026-07-20",
+      "last_commit_date": "2026-07-20 03:48",
+      "last_commit_author": "github-actions[bot]",
+      "last_commit_url": "https://github.com/Gong-yinxuan/CP3405/commit/1e965866d625eb684dc5750781f7e3ce3e9605bf",
       "tags": [
         "vW29",
         "vW28",
@@ -937,8 +931,8 @@
       "sprint_tag_present": true,
       "last_run_name": "Update Market Data",
       "last_run_conclusion": "success",
-      "last_run_date": "2026-07-17 22:42",
-      "last_run_url": "https://github.com/Gong-yinxuan/CP3405/actions/runs/29618672719",
+      "last_run_date": "2026-07-20 03:14",
+      "last_run_url": "https://github.com/Gong-yinxuan/CP3405/actions/runs/29714247167",
       "last_run_was_filtered": true,
       "open_prs": 0,
       "pr_titles": [],
@@ -949,11 +943,21 @@
           "name": "HYH-design-bot",
           "login": "HYH-design-bot",
           "kind": "bot",
-          "commits": 37,
-          "latest_date": "2026-07-19 02:31",
-          "latest_msg": "Add Retrospective_W29.md, Refined standup_midweek_W29.md",
-          "latest_sha": "6d86ff9",
-          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/6d86ff9c924ac6714dbb0fc3b335e5c3733f70fc"
+          "commits": 33,
+          "latest_date": "2026-07-20 01:16",
+          "latest_msg": "Update retrospective_W29.md",
+          "latest_sha": "64d8929",
+          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/64d8929156740b80c985ab6a1870aff0c3479bff"
+        },
+        {
+          "name": "To Hoang Gia",
+          "login": "ToHoangGia",
+          "kind": "human",
+          "commits": 17,
+          "latest_date": "2026-07-20 02:17",
+          "latest_msg": "Merge pull request #5 from Gong-yinxuan/improve_macro_collector",
+          "latest_sha": "23c48f8",
+          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/23c48f896c70b9756e8da0d25526d8cf2762ba52"
         },
         {
           "name": "EkaTiu",
@@ -966,54 +970,34 @@
           "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/2b863a9b3a83fb2b0c996ba37c5beb52201f6e39"
         },
         {
-          "name": "To Hoang Gia",
-          "login": "ToHoangGia",
-          "kind": "human",
-          "commits": 15,
-          "latest_date": "2026-07-14 05:57",
-          "latest_msg": "Merge pull request #1 from Gong-yinxuan/adding_feature_macro",
-          "latest_sha": "aa1d77d",
-          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/aa1d77d28419653e3dfa683f4817ba457abce0d8"
-        },
-        {
           "name": "github-actions[bot]",
           "login": "github-actions[bot]",
           "kind": "bot",
           "commits": 13,
-          "latest_date": "2026-07-17 22:43",
-          "latest_msg": "chore: update Prism data 2026-07-17",
-          "latest_sha": "d0b393e",
-          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/d0b393e750aa56dcf77027a6e7eaaf7ec803fe3e"
+          "latest_date": "2026-07-20 03:48",
+          "latest_msg": "chore: update Prism data 2026-07-20",
+          "latest_sha": "1e96586",
+          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/1e965866d625eb684dc5750781f7e3ce3e9605bf"
         },
         {
           "name": "wujinrui2004",
           "login": "wujinrui2004",
           "kind": "human",
-          "commits": 8,
-          "latest_date": "2026-07-18 13:50",
-          "latest_msg": "Merge pull request #2 from Gong-yinxuan/hyh",
-          "latest_sha": "19bc1fb",
-          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/19bc1fbb699f304550ea39505234f53e33d68715"
+          "commits": 10,
+          "latest_date": "2026-07-20 01:29",
+          "latest_msg": "Update README.md",
+          "latest_sha": "be3ded2",
+          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/be3ded2dac37ddcf68704a1fdc3641b0862a7b2a"
         },
         {
           "name": "Kherlenbayar Sukhbaatar",
           "login": "kherlen31",
           "kind": "human",
-          "commits": 5,
-          "latest_date": "2026-07-13 09:59",
-          "latest_msg": ".",
-          "latest_sha": "0311767",
-          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/031176737b4e93fb08b241968bd2c07e9ae3d420"
-        },
-        {
-          "name": "JiangJinsong",
-          "login": "JiangJinsong",
-          "kind": "human",
-          "commits": 2,
-          "latest_date": "2026-07-19 13:31",
-          "latest_msg": "Add files via upload",
-          "latest_sha": "c3ab676",
-          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/c3ab6762a38fc42565f8f0c4f94357cfcbe60e82"
+          "commits": 6,
+          "latest_date": "2026-07-20 02:22",
+          "latest_msg": "Update sprint_goal_W29.md",
+          "latest_sha": "05a01d1",
+          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/05a01d1baf7c3593e0bc7384134b595aaed02246"
         },
         {
           "name": "Gong-yinxuan",
@@ -1024,6 +1008,16 @@
           "latest_msg": "Revise technical analysis report with manual updates",
           "latest_sha": "f6c0204",
           "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/f6c02048f8f45a5ce5bd2aaf533da0a60726b4ec"
+        },
+        {
+          "name": "JiangJinsong",
+          "login": "JiangJinsong",
+          "kind": "human",
+          "commits": 1,
+          "latest_date": "2026-07-19 13:31",
+          "latest_msg": "Add files via upload",
+          "latest_sha": "c3ab676",
+          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/c3ab6762a38fc42565f8f0c4f94357cfcbe60e82"
         },
         {
           "name": "darwin",
@@ -1037,11 +1031,16 @@
         }
       ],
       "pr_history": {
-        "total": 2,
-        "merged": 2,
+        "total": 5,
+        "merged": 3,
         "open": 0,
-        "abandoned": 0,
+        "abandoned": 2,
         "weekly": {
+          "2026-07-20": {
+            "merged": 1,
+            "open": 0,
+            "abandoned": 2
+          },
           "2026-07-13": {
             "merged": 2,
             "open": 0,
@@ -1049,6 +1048,30 @@
           }
         },
         "recent": [
+          {
+            "number": 5,
+            "title": "Improve macro collector",
+            "status": "merged",
+            "url": "https://github.com/Gong-yinxuan/CP3405/pull/5",
+            "created_at": "2026-07-20",
+            "author": "ToHoangGia"
+          },
+          {
+            "number": 4,
+            "title": "Improve macro collector 2",
+            "status": "abandoned",
+            "url": "https://github.com/Gong-yinxuan/CP3405/pull/4",
+            "created_at": "2026-07-20",
+            "author": "ToHoangGia"
+          },
+          {
+            "number": 3,
+            "title": "Improve macro collector",
+            "status": "abandoned",
+            "url": "https://github.com/Gong-yinxuan/CP3405/pull/3",
+            "created_at": "2026-07-20",
+            "author": "ToHoangGia"
+          },
           {
             "number": 2,
             "title": "Merge hyh into main for Sprint 13",
@@ -1070,7 +1093,7 @@
       "midweek_artefact": {
         "present": true,
         "path": "Week7/R2_Scrum_Master/standup_midweek_W29.md",
-        "url": "https://github.com/Gong-yinxuan/CP3405/blob/c3ab6762a38fc42565f8f0c4f94357cfcbe60e82/Week7/R2_Scrum_Master/standup_midweek_W29.md"
+        "url": "https://github.com/Gong-yinxuan/CP3405/blob/1e965866d625eb684dc5750781f7e3ce3e9605bf/Week7/R2_Scrum_Master/standup_midweek_W29.md"
       },
       "repo_url": "https://github.com/Gong-yinxuan/CP3405"
     },
