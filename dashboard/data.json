@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-21 17:59 UTC",
+  "updated": "2026-07-21 19:46 UTC",
   "sprint_tag": "vW30",
   "sprint_deadline_utc": "2026-07-26T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W30",
@@ -624,11 +624,11 @@
       "repo": "juninho4/Team-3-Practical-A-CP3405",
       "prac": "A",
       "is_ultra": false,
-      "last_commit_sha": "0163b40",
-      "last_commit_msg": "Rename project/output/technical agent/technical_agent_output",
-      "last_commit_date": "2026-07-21 08:58",
+      "last_commit_sha": "a2cfbad",
+      "last_commit_msg": "Delete run_output.bat",
+      "last_commit_date": "2026-07-21 18:33",
       "last_commit_author": "141242-l",
-      "last_commit_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/0163b4093032469049eb869a01d256dc63bc916c",
+      "last_commit_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/a2cfbad85b4a0534e97e8c440833e82352a32c25",
       "tags": [
         "vW25",
         "vW24",
@@ -651,21 +651,11 @@
           "name": "141242-l",
           "login": "141242-l",
           "kind": "human",
-          "commits": 57,
-          "latest_date": "2026-07-21 08:58",
-          "latest_msg": "Rename project/output/technical agent/technical_agent_output_W28.json ",
-          "latest_sha": "0163b40",
-          "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/0163b4093032469049eb869a01d256dc63bc916c"
-        },
-        {
-          "name": "Vince-1206",
-          "login": "Vince-1206",
-          "kind": "human",
-          "commits": 14,
-          "latest_date": "2026-07-17 18:37",
-          "latest_msg": "Add W29 Technical Agent report and predictions",
-          "latest_sha": "63ced11",
-          "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/63ced11f8fe525f37be9e93d1fb44b3ead17bdac"
+          "commits": 61,
+          "latest_date": "2026-07-21 18:33",
+          "latest_msg": "Delete run_output.bat",
+          "latest_sha": "a2cfbad",
+          "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/a2cfbad85b4a0534e97e8c440833e82352a32c25"
         },
         {
           "name": "Jiale Zhang",
@@ -676,6 +666,16 @@
           "latest_msg": "Update README.md",
           "latest_sha": "0daddff",
           "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/0daddffdc4df9851db05848dbe848fcf4a52c5d9"
+        },
+        {
+          "name": "Vince-1206",
+          "login": "Vince-1206",
+          "kind": "human",
+          "commits": 10,
+          "latest_date": "2026-07-17 18:37",
+          "latest_msg": "Add W29 Technical Agent report and predictions",
+          "latest_sha": "63ced11",
+          "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/63ced11f8fe525f37be9e93d1fb44b3ead17bdac"
         },
         {
           "name": "vandarkray",
