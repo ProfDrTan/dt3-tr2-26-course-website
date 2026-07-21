@@ -1,5 +1,5 @@
 {
-  "generated": "Tuesday 21 July 2026 08:05 SGT",
+  "generated": "Tuesday 21 July 2026 11:45 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
@@ -14,17 +14,17 @@
           "content": "You just help him if he struggles or there is a bug in the workflow.  he should complete this task on hiso own ideally",
           "ts_str": "2026-07-19 04:37:09",
           "url": "https://discord.com/channels/1505861202444816455/1505883026771677366/1528259378057052180"
-        },
-        {
-          "author": "sinder38",
-          "content": "<@690946964820328479>, can you please help <@1447623068917960824> complete his human score review if he is having problems.\nI merged you feature branch into main, so he can work directly with it.\n\nAer",
-          "ts_str": "2026-07-19 01:52:21",
-          "url": "https://discord.com/channels/1505861202444816455/1505883026771677366/1528217904061878363"
         }
       ]
     },
     "Team 2": {
       "blockers": [
+        {
+          "author": "guanyulu_88237",
+          "content": "According to R1 Sprint Goal, for the roles that have already been automated, today's task is:**Force Workflow Failures on NaN Values**: Update GitHub Actions and verification scripts so that any detec",
+          "ts_str": "2026-07-21 01:30:51",
+          "url": "https://discord.com/channels/1505861202444816455/1505883145466155079/1528937272156749936"
+        },
         {
           "author": "vileworx",
           "content": "DoD for R6, W30:\n[] ensure that code continues to work as expected\n[] document code functionality\n[] fix any potential minor issues and refactor code for efficiency\n[] ensure that outputs are present ",
@@ -48,12 +48,6 @@
           "content": "Definition of Done - R9 GitHub Administrator \u2014 Sprint 8 / W30 \n [] If the automated data fetch fails early Saturday morning, R9 must diagnose the problem and fix it.\n []Verify that all output files ha",
           "ts_str": "2026-07-20 11:47:39",
           "url": "https://discord.com/channels/1505861202444816455/1505883145466155079/1528730104073683077"
-        },
-        {
-          "author": "noobydoo2507",
-          "content": "**R3 DoD \u2014 Sprint 8 / W30**\n\n* [ ] Update R3 outputs to the shared folder: `outputs/R3/`.\n* [ ] Generate `almanac_agent_W30.json`, `.csv`, and `.md`.\n* [ ] Use forecast range `2026-07-27 to 2026-07-31",
-          "ts_str": "2026-07-20 08:29:58",
-          "url": "https://discord.com/channels/1505861202444816455/1505883145466155079/1528680354892873799"
         }
       ]
     },
@@ -71,14 +65,7 @@
       ]
     },
     "Team 5": {
-      "blockers": [
-        {
-          "author": "yh03472",
-          "content": "if there are any issues please ask",
-          "ts_str": "2026-07-19 02:38:21",
-          "url": "https://discord.com/channels/1505861202444816455/1505883282993315890/1528229482714894346"
-        }
-      ]
+      "blockers": []
     }
   }
 }
