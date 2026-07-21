@@ -1,5 +1,5 @@
 {
-  "generated": "Tuesday 21 July 2026 19:19 SGT",
+  "generated": "Tuesday 21 July 2026 20:50 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
@@ -65,7 +65,14 @@
       ]
     },
     "Team 5": {
-      "blockers": []
+      "blockers": [
+        {
+          "author": "yh03472",
+          "content": "tenent hy3 model still works, I assume the reason why it failed was because it hit the quota limit when we were doing live demo and thus failed to work, if possible we can try adjusting it so that whe",
+          "ts_str": "2026-07-21 11:27:26",
+          "url": "https://discord.com/channels/1505861202444816455/1505883282993315890/1529087405972263014"
+        }
+      ]
     }
   }
 }
