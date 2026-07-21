@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-21 09:08 UTC",
+  "updated": "2026-07-21 11:19 UTC",
   "sprint_tag": "vW30",
   "sprint_deadline_utc": "2026-07-26T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W30",
@@ -349,7 +349,7 @@
       "open_prs": 0,
       "pr_titles": [],
       "pr_links": [],
-      "days_since_commit": 1,
+      "days_since_commit": 2,
       "contributors": [
         {
           "name": "Hamzah \"Opal\" Nutt",
@@ -944,14 +944,14 @@
       ],
       "sprint_tag_present": false,
       "last_run_name": "Update Market Data",
-      "last_run_conclusion": "success",
-      "last_run_date": "2026-07-20 06:39",
-      "last_run_url": "https://github.com/Gong-yinxuan/CP3405/actions/runs/29722315083",
+      "last_run_conclusion": "in_progress",
+      "last_run_date": "2026-07-21 11:19",
+      "last_run_url": "https://github.com/Gong-yinxuan/CP3405/actions/runs/29825631539",
       "last_run_was_filtered": true,
       "open_prs": 0,
       "pr_titles": [],
       "pr_links": [],
-      "days_since_commit": 0,
+      "days_since_commit": 1,
       "contributors": [
         {
           "name": "HYH-design-bot",
@@ -1131,7 +1131,7 @@
       "open_prs": 0,
       "pr_titles": [],
       "pr_links": [],
-      "days_since_commit": 0,
+      "days_since_commit": 1,
       "contributors": [
         {
           "name": "ProfDrTan",
