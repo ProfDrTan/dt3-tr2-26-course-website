@@ -1,5 +1,5 @@
 {
-  "generated": "Tuesday 21 July 2026 11:45 SGT",
+  "generated": "Tuesday 21 July 2026 14:20 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
@@ -8,12 +8,6 @@
           "content": "Hi everyone, could you please answer these questions?\n\n\nWhat have you completed or contributed so far?\n\nDid you face any blockers or challenges?\n\nWhat went well during this sprint?\n\nIs there anything ",
           "ts_str": "2026-07-19 13:17:20",
           "url": "https://discord.com/channels/1505861202444816455/1505883026771677366/1528390287146221589"
-        },
-        {
-          "author": "sinder38",
-          "content": "You just help him if he struggles or there is a bug in the workflow.  he should complete this task on hiso own ideally",
-          "ts_str": "2026-07-19 04:37:09",
-          "url": "https://discord.com/channels/1505861202444816455/1505883026771677366/1528259378057052180"
         }
       ]
     },
