@@ -1,9 +1,9 @@
 {
-  "updated": "2026-07-21 03:45 UTC",
-  "sprint_tag": "vW29",
-  "sprint_deadline_utc": "2026-07-19T15:59:00Z",
-  "midweek_artefact_name": "standup_midweek_W29",
-  "midweek_artefact_deadline_utc": "2026-07-15T15:59:00Z",
+  "updated": "2026-07-21 06:20 UTC",
+  "sprint_tag": "vW30",
+  "sprint_deadline_utc": "2026-07-26T15:59:00Z",
+  "midweek_artefact_name": "standup_midweek_W30",
+  "midweek_artefact_deadline_utc": "2026-07-22T15:59:00Z",
   "teams": [
     {
       "name": "Team 1",
@@ -23,7 +23,7 @@
         "vW23",
         "vW22"
       ],
-      "sprint_tag_present": true,
+      "sprint_tag_present": false,
       "last_run_name": "python-checks",
       "last_run_conclusion": "success",
       "last_run_date": "2026-07-20 09:31",
@@ -313,9 +313,9 @@
         ]
       },
       "midweek_artefact": {
-        "present": true,
-        "path": "sprints/standup_midweek_W29.md",
-        "url": "https://github.com/sinder38/Team-1-Prac-A-Project/blob/bd69f28f6769ce43f6e4852859ace49a886c64e0/sprints/standup_midweek_W29.md"
+        "present": false,
+        "path": null,
+        "url": null
       },
       "repo_url": "https://github.com/sinder38/Team-1-Prac-A-Project"
     },
@@ -337,11 +337,11 @@
         "vW23",
         "vW22"
       ],
-      "sprint_tag_present": true,
-      "last_run_name": "R3 Almanac Agent Multi-Week Automation P",
+      "sprint_tag_present": false,
+      "last_run_name": "R4 Weekly Macro Agent",
       "last_run_conclusion": "success",
-      "last_run_date": "2026-07-20 10:05",
-      "last_run_url": "https://github.com/LuJunwen212/CP3405-Project/actions/runs/29733820692",
+      "last_run_date": "2026-07-21 03:59",
+      "last_run_url": "https://github.com/LuJunwen212/CP3405-Project/actions/runs/29799986448",
       "last_run_was_filtered": true,
       "open_prs": 0,
       "pr_titles": [],
@@ -610,9 +610,9 @@
         ]
       },
       "midweek_artefact": {
-        "present": true,
-        "path": "evidence/progress_logs/standup_midweek_W29.md",
-        "url": "https://github.com/LuJunwen212/CP3405-Project/blob/89429814d69c7f0752c54e70ae4b10c371cbbdd9/evidence/progress_logs/standup_midweek_W29.md"
+        "present": false,
+        "path": null,
+        "url": null
       },
       "repo_url": "https://github.com/LuJunwen212/CP3405-Project"
     },
@@ -621,11 +621,11 @@
       "repo": "juninho4/Team-3-Practical-A-CP3405",
       "prac": "A",
       "is_ultra": false,
-      "last_commit_sha": "2699675",
-      "last_commit_msg": "Create .1",
-      "last_commit_date": "2026-07-21 03:02",
-      "last_commit_author": "Li-Haoyao",
-      "last_commit_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/269967515a20c8ccd2aa4bff47b3394aa111a208",
+      "last_commit_sha": "1df2532",
+      "last_commit_msg": "Rename .github/workflows/run_market_pipeline.yml to vW28/per",
+      "last_commit_date": "2026-07-21 04:03",
+      "last_commit_author": "141242-l",
+      "last_commit_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/1df2532ab1e3ee441fe6c41af759b8f2ab1f02f7",
       "tags": [
         "vW25",
         "vW24",
@@ -658,11 +658,11 @@
           "name": "141242-l",
           "login": "141242-l",
           "kind": "human",
-          "commits": 17,
-          "latest_date": "2026-07-16 06:23",
-          "latest_msg": "Update vW29 files",
-          "latest_sha": "74002a5",
-          "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/74002a5418c2a1e6530ffbc94e850df176a383df"
+          "commits": 20,
+          "latest_date": "2026-07-21 04:03",
+          "latest_msg": "Rename .github/workflows/run_market_pipeline.yml to vW28/personal_prog",
+          "latest_sha": "1df2532",
+          "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/1df2532ab1e3ee441fe6c41af759b8f2ab1f02f7"
         },
         {
           "name": "Jiale Zhang",
@@ -754,9 +754,9 @@
         "recent": []
       },
       "midweek_artefact": {
-        "present": true,
-        "path": "vW29/standup_midweek_W29.md",
-        "url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/blob/269967515a20c8ccd2aa4bff47b3394aa111a208/vW29/standup_midweek_W29.md"
+        "present": false,
+        "path": null,
+        "url": null
       },
       "repo_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405"
     },
@@ -780,7 +780,7 @@
         "W23",
         "W7"
       ],
-      "sprint_tag_present": true,
+      "sprint_tag_present": false,
       "last_run_name": "Auto Prediction",
       "last_run_conclusion": "success",
       "last_run_date": "2026-07-20 06:21",
@@ -939,7 +939,7 @@
         "vW24",
         "W23"
       ],
-      "sprint_tag_present": true,
+      "sprint_tag_present": false,
       "last_run_name": "Update Market Data",
       "last_run_conclusion": "success",
       "last_run_date": "2026-07-20 06:39",
@@ -1102,9 +1102,9 @@
         ]
       },
       "midweek_artefact": {
-        "present": true,
-        "path": "Week7/R2_Scrum_Master/standup_midweek_W29.md",
-        "url": "https://github.com/Gong-yinxuan/CP3405/blob/ff11591cb93fb4564d7a49f6dba1cb947a313602/Week7/R2_Scrum_Master/standup_midweek_W29.md"
+        "present": false,
+        "path": null,
+        "url": null
       },
       "repo_url": "https://github.com/Gong-yinxuan/CP3405"
     },
