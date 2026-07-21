@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-21 15:00 UTC",
+  "updated": "2026-07-21 16:38 UTC",
   "sprint_tag": "vW30",
   "sprint_deadline_utc": "2026-07-26T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W30",
@@ -327,11 +327,11 @@
       "repo": "LuJunwen212/CP3405-Project",
       "prac": "A",
       "is_ultra": false,
-      "last_commit_sha": "8942981",
-      "last_commit_msg": "Rename Week 07 (1).pptx to presentation_2026-W29_Group2.pptx",
-      "last_commit_date": "2026-07-19 09:56",
-      "last_commit_author": "linyuchu",
-      "last_commit_url": "https://github.com/LuJunwen212/CP3405-Project/commit/89429814d69c7f0752c54e70ae4b10c371cbbdd9",
+      "last_commit_sha": "84cc026",
+      "last_commit_msg": "chore(r5): update technical outputs 2026-W30 [skip ci]",
+      "last_commit_date": "2026-07-21 16:05",
+      "last_commit_author": "Team2 Data Automatio",
+      "last_commit_url": "https://github.com/LuJunwen212/CP3405-Project/commit/84cc0265b9067e63f61e6efdfc4ec344512a333f",
       "tags": [
         "vW29",
         "vW28",
@@ -341,15 +341,15 @@
         "vW22"
       ],
       "sprint_tag_present": false,
-      "last_run_name": "R4 Weekly Macro Agent",
+      "last_run_name": "Automated Technical Agent",
       "last_run_conclusion": "success",
-      "last_run_date": "2026-07-21 03:59",
-      "last_run_url": "https://github.com/LuJunwen212/CP3405-Project/actions/runs/29799986448",
+      "last_run_date": "2026-07-21 16:05",
+      "last_run_url": "https://github.com/LuJunwen212/CP3405-Project/actions/runs/29847003474",
       "last_run_was_filtered": true,
       "open_prs": 0,
       "pr_titles": [],
       "pr_links": [],
-      "days_since_commit": 2,
+      "days_since_commit": 0,
       "contributors": [
         {
           "name": "Hamzah \"Opal\" Nutt",
@@ -376,10 +376,10 @@
           "login": "",
           "kind": "bot",
           "commits": 16,
-          "latest_date": "2026-07-19 07:18",
-          "latest_msg": "chore(r5): update technical outputs 2026-W29 [skip ci]",
-          "latest_sha": "d6206cb",
-          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/d6206cb75a4fca3e1a3f433d12b84ec31feee50f"
+          "latest_date": "2026-07-21 16:05",
+          "latest_msg": "chore(r5): update technical outputs 2026-W30 [skip ci]",
+          "latest_sha": "84cc026",
+          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/84cc0265b9067e63f61e6efdfc4ec344512a333f"
         },
         {
           "name": "Team2 R8 LLM Operator",
@@ -801,7 +801,7 @@
           "author": "wintwah-lwin"
         }
       ],
-      "days_since_commit": 0,
+      "days_since_commit": 1,
       "contributors": [
         {
           "name": "Arisa",
