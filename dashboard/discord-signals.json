@@ -1,5 +1,5 @@
 {
-  "generated": "Wednesday 22 July 2026 23:10 SGT",
+  "generated": "Thursday 23 July 2026 00:49 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
@@ -36,12 +36,6 @@
           "content": "According to R1 Sprint Goal, for the roles that have already been automated, today's task is:**Force Workflow Failures on NaN Values**: Update GitHub Actions and verification scripts so that any detec",
           "ts_str": "2026-07-21 01:30:51",
           "url": "https://discord.com/channels/1505861202444816455/1505883145466155079/1528937272156749936"
-        },
-        {
-          "author": "vileworx",
-          "content": "DoD for R6, W30:\n[] ensure that code continues to work as expected\n[] document code functionality\n[] fix any potential minor issues and refactor code for efficiency\n[] ensure that outputs are present ",
-          "ts_str": "2026-07-20 16:34:22",
-          "url": "https://discord.com/channels/1505861202444816455/1505883145466155079/1528802258693918901"
         }
       ]
     },
