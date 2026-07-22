@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-22 00:13 UTC",
+  "updated": "2026-07-22 03:51 UTC",
   "sprint_tag": "vW30",
   "sprint_deadline_utc": "2026-07-26T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W30",
@@ -930,11 +930,11 @@
       "repo": "Gong-yinxuan/CP3405",
       "prac": "B",
       "is_ultra": false,
-      "last_commit_sha": "d0a99e2",
-      "last_commit_msg": "Update sprint_goal_W30.md, Added Reasoning behind sprint goa",
-      "last_commit_date": "2026-07-21 11:31",
-      "last_commit_author": "HYH-design-bot",
-      "last_commit_url": "https://github.com/Gong-yinxuan/CP3405/commit/d0a99e22174b162c093329164bae8e131c8cf79e",
+      "last_commit_sha": "c7e2a12",
+      "last_commit_msg": "Create human_score_W08.md",
+      "last_commit_date": "2026-07-22 03:30",
+      "last_commit_author": "EkaTiu",
+      "last_commit_url": "https://github.com/Gong-yinxuan/CP3405/commit/c7e2a122b12846415f1e121d55e8c45db79bec76",
       "tags": [
         "vW29",
         "vW28",
@@ -957,7 +957,7 @@
           "name": "HYH-design-bot",
           "login": "HYH-design-bot",
           "kind": "bot",
-          "commits": 32,
+          "commits": 31,
           "latest_date": "2026-07-21 11:31",
           "latest_msg": "Update sprint_goal_W30.md, Added Reasoning behind sprint goal for clar",
           "latest_sha": "d0a99e2",
@@ -977,21 +977,11 @@
           "name": "EkaTiu",
           "login": "EkaTiuJCU",
           "kind": "human",
-          "commits": 17,
-          "latest_date": "2026-07-19 07:03",
-          "latest_msg": "Revise prediction submission details and market inputs",
-          "latest_sha": "2b863a9",
-          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/2b863a9b3a83fb2b0c996ba37c5beb52201f6e39"
-        },
-        {
-          "name": "github-actions[bot]",
-          "login": "github-actions[bot]",
-          "kind": "bot",
-          "commits": 10,
-          "latest_date": "2026-07-20 03:48",
-          "latest_msg": "chore: update Prism data 2026-07-20",
-          "latest_sha": "1e96586",
-          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/1e965866d625eb684dc5750781f7e3ce3e9605bf"
+          "commits": 18,
+          "latest_date": "2026-07-22 03:30",
+          "latest_msg": "Create human_score_W08.md",
+          "latest_sha": "c7e2a12",
+          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/c7e2a122b12846415f1e121d55e8c45db79bec76"
         },
         {
           "name": "wujinrui2004",
@@ -1004,6 +994,16 @@
           "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/be3ded2dac37ddcf68704a1fdc3641b0862a7b2a"
         },
         {
+          "name": "github-actions[bot]",
+          "login": "github-actions[bot]",
+          "kind": "bot",
+          "commits": 9,
+          "latest_date": "2026-07-20 03:48",
+          "latest_msg": "chore: update Prism data 2026-07-20",
+          "latest_sha": "1e96586",
+          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/1e965866d625eb684dc5750781f7e3ce3e9605bf"
+        },
+        {
           "name": "Kherlenbayar Sukhbaatar",
           "login": "kherlen31",
           "kind": "human",
@@ -1012,6 +1012,16 @@
           "latest_msg": "Update sprint_goal_W29.md",
           "latest_sha": "05a01d1",
           "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/05a01d1baf7c3593e0bc7384134b595aaed02246"
+        },
+        {
+          "name": "darwin",
+          "login": "DarwinJo05",
+          "kind": "human",
+          "commits": 2,
+          "latest_date": "2026-07-22 02:57",
+          "latest_msg": "Update macro_agent_W08.md",
+          "latest_sha": "10345f4",
+          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/10345f4f83b81e4275783f6dd9b3ed177940ce2e"
         },
         {
           "name": "Gong-yinxuan",
@@ -1032,16 +1042,6 @@
           "latest_msg": "Add files via upload",
           "latest_sha": "c3ab676",
           "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/c3ab6762a38fc42565f8f0c4f94357cfcbe60e82"
-        },
-        {
-          "name": "darwin",
-          "login": "DarwinJo05",
-          "kind": "human",
-          "commits": 1,
-          "latest_date": "2026-07-12 13:52",
-          "latest_msg": "Update human_score_W06.md",
-          "latest_sha": "cc123f4",
-          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/cc123f44f333b4da515a2b826f6b1c55f85111d2"
         }
       ],
       "pr_history": {
