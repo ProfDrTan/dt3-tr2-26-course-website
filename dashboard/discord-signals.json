@@ -1,5 +1,5 @@
 {
-  "generated": "Wednesday 22 July 2026 14:25 SGT",
+  "generated": "Wednesday 22 July 2026 17:12 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
@@ -13,6 +13,18 @@
     },
     "Team 2": {
       "blockers": [
+        {
+          "author": "louis1123990",
+          "content": "<@1506261429072957511> Bro today is Wednesday. I need to write the mid-week standup report. I would like to ask if there are any issues or obstacles for R10? Are there any problems with the code? Can ",
+          "ts_str": "2026-07-22 08:32:58",
+          "url": "https://discord.com/channels/1505861202444816455/1505883145466155079/1529405885330489494"
+        },
+        {
+          "author": "vileworx",
+          "content": "Updated the actions. But I can't really test it until the merge...",
+          "ts_str": "2026-07-22 07:51:31",
+          "url": "https://discord.com/channels/1505861202444816455/1505883145466155079/1529395457480982619"
+        },
         {
           "author": "guanyulu_88237",
           "content": "According to R1 Sprint Goal, for the roles that have already been automated, today's task is:**Force Workflow Failures on NaN Values**: Update GitHub Actions and verification scripts so that any detec",
@@ -30,18 +42,6 @@
           "content": "I think no issue",
           "ts_str": "2026-07-20 12:19:43",
           "url": "https://discord.com/channels/1505861202444816455/1505883145466155079/1528738174979936296"
-        },
-        {
-          "author": "vileworx",
-          "content": "Before I decide on my R6 DoD, are there any major issues/missing features that need to be addressed for this sprint?",
-          "ts_str": "2026-07-20 12:18:41",
-          "url": "https://discord.com/channels/1505861202444816455/1505883145466155079/1528737914325041232"
-        },
-        {
-          "author": "lujunwen1_29056",
-          "content": "Definition of Done - R9 GitHub Administrator \u2014 Sprint 8 / W30 \n [] If the automated data fetch fails early Saturday morning, R9 must diagnose the problem and fix it.\n []Verify that all output files ha",
-          "ts_str": "2026-07-20 11:47:39",
-          "url": "https://discord.com/channels/1505861202444816455/1505883145466155079/1528730104073683077"
         }
       ]
     },
@@ -49,14 +49,7 @@
       "blockers": []
     },
     "Team 4": {
-      "blockers": [
-        {
-          "author": "ajin4334",
-          "content": "Sprint goal:\nTo optimize TradeKyaMal for human score (r7) & calibration log (r10)\n\nDoD:\n-Update calibration log to reflect learning log and llm horserace\n-Keep an update of past accuracy logs\n-Fix err",
-          "ts_str": "2026-07-20 06:47:14",
-          "url": "https://discord.com/channels/1505861202444816455/1505883243361206392/1528654502394331196"
-        }
-      ]
+      "blockers": []
     },
     "Team 5": {
       "blockers": [
