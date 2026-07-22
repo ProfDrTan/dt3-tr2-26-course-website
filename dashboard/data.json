@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-22 09:12 UTC",
+  "updated": "2026-07-22 11:22 UTC",
   "sprint_tag": "vW30",
   "sprint_deadline_utc": "2026-07-26T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W30",
@@ -343,8 +343,8 @@
       "sprint_tag_present": false,
       "last_run_name": "R10 Calibration Automation",
       "last_run_conclusion": "success",
-      "last_run_date": "2026-07-22 09:09",
-      "last_run_url": "https://github.com/LuJunwen212/CP3405-Project/actions/runs/29906848170",
+      "last_run_date": "2026-07-22 10:44",
+      "last_run_url": "https://github.com/LuJunwen212/CP3405-Project/actions/runs/29913076076",
       "last_run_was_filtered": true,
       "open_prs": 0,
       "pr_titles": [],
@@ -768,11 +768,11 @@
       "repo": "wintwah-lwin/CP3405_Group_4",
       "prac": "B",
       "is_ultra": false,
-      "last_commit_sha": "69afdc9",
-      "last_commit_msg": "Add files via upload",
-      "last_commit_date": "2026-07-20 15:47",
-      "last_commit_author": "AJIN-TheHuman",
-      "last_commit_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/69afdc93849fbad111ac864f4bed571c7fc9b676",
+      "last_commit_sha": "23139d5",
+      "last_commit_msg": "Update technical_agent_2026-W9.md",
+      "last_commit_date": "2026-07-22 11:20",
+      "last_commit_author": "tiantian09091",
+      "last_commit_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/23139d51b968ed7d3c880cf2dc9de7d52f8cac31",
       "tags": [
         "vW29",
         "v1.0.0",
@@ -801,7 +801,7 @@
           "author": "wintwah-lwin"
         }
       ],
-      "days_since_commit": 1,
+      "days_since_commit": 0,
       "contributors": [
         {
           "name": "Arisa",
@@ -844,6 +844,26 @@
           "latest_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/cae70ccfcbd0a993a1b502c52073ce21afa9d445"
         },
         {
+          "name": "MojunZheng",
+          "login": "MojunZheng",
+          "kind": "human",
+          "commits": 3,
+          "latest_date": "2026-07-22 11:05",
+          "latest_msg": "Update macro_agent_data_W9.md",
+          "latest_sha": "b77a5d5",
+          "latest_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/b77a5d53644e18d91ee0d6f4788d684ca2ddf200"
+        },
+        {
+          "name": "tiantian09091",
+          "login": "tiantian09091",
+          "kind": "human",
+          "commits": 2,
+          "latest_date": "2026-07-22 11:20",
+          "latest_msg": "Update technical_agent_2026-W9.md",
+          "latest_sha": "23139d5",
+          "latest_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/23139d51b968ed7d3c880cf2dc9de7d52f8cac31"
+        },
+        {
           "name": "AJIN-TheHuman",
           "login": "AJIN-TheHuman",
           "kind": "human",
@@ -852,16 +872,6 @@
           "latest_msg": "Add files via upload",
           "latest_sha": "69afdc9",
           "latest_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/69afdc93849fbad111ac864f4bed571c7fc9b676"
-        },
-        {
-          "name": "MojunZheng",
-          "login": "MojunZheng",
-          "kind": "human",
-          "commits": 1,
-          "latest_date": "2026-07-15 00:57",
-          "latest_msg": "Revise R3 Almanac Agent report with manual updates",
-          "latest_sha": "3fa8de0",
-          "latest_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/3fa8de0b449213ffacc798dc84f7b4462174465b"
         },
         {
           "name": "Arisa",
@@ -930,11 +940,11 @@
       "repo": "Gong-yinxuan/CP3405",
       "prac": "B",
       "is_ultra": false,
-      "last_commit_sha": "afa3990",
-      "last_commit_msg": "Delete prism/llm_synthesis.py",
-      "last_commit_date": "2026-07-22 09:07",
-      "last_commit_author": "wujinrui2004",
-      "last_commit_url": "https://github.com/Gong-yinxuan/CP3405/commit/afa3990ff1e440c8779ebba9236a56e5e4008d9a",
+      "last_commit_sha": "17533f3",
+      "last_commit_msg": "Merge pull request #6 from Gong-yinxuan/R2_Scrum_Master",
+      "last_commit_date": "2026-07-22 09:39",
+      "last_commit_author": "To Hoang Gia",
+      "last_commit_url": "https://github.com/Gong-yinxuan/CP3405/commit/17533f344e281d89911cfac2d4aa61c056190403",
       "tags": [
         "vW29",
         "vW28",
@@ -954,30 +964,30 @@
       "days_since_commit": 0,
       "contributors": [
         {
+          "name": "To Hoang Gia",
+          "login": "ToHoangGia",
+          "kind": "human",
+          "commits": 25,
+          "latest_date": "2026-07-22 09:39",
+          "latest_msg": "Merge pull request #6 from Gong-yinxuan/R2_Scrum_Master",
+          "latest_sha": "17533f3",
+          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/17533f344e281d89911cfac2d4aa61c056190403"
+        },
+        {
           "name": "HYH-design-bot",
           "login": "HYH-design-bot",
           "kind": "bot",
-          "commits": 26,
+          "commits": 23,
           "latest_date": "2026-07-21 11:31",
           "latest_msg": "Update sprint_goal_W30.md, Added Reasoning behind sprint goal for clar",
           "latest_sha": "d0a99e2",
           "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/d0a99e22174b162c093329164bae8e131c8cf79e"
         },
         {
-          "name": "ToHoangGia",
-          "login": "ToHoangGia",
-          "kind": "human",
-          "commits": 21,
-          "latest_date": "2026-07-20 06:06",
-          "latest_msg": "fix",
-          "latest_sha": "3ebd18f",
-          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/3ebd18faf12a6d852b05444d9e6028972cf04051"
-        },
-        {
           "name": "EkaTiu",
           "login": "EkaTiuJCU",
           "kind": "human",
-          "commits": 18,
+          "commits": 17,
           "latest_date": "2026-07-22 03:30",
           "latest_msg": "Create human_score_W08.md",
           "latest_sha": "c7e2a12",
@@ -1045,13 +1055,13 @@
         }
       ],
       "pr_history": {
-        "total": 5,
-        "merged": 3,
+        "total": 6,
+        "merged": 4,
         "open": 0,
         "abandoned": 2,
         "weekly": {
           "2026-07-20": {
-            "merged": 1,
+            "merged": 2,
             "open": 0,
             "abandoned": 2
           },
@@ -1062,6 +1072,14 @@
           }
         },
         "recent": [
+          {
+            "number": 6,
+            "title": "R2 Scrum Master",
+            "status": "merged",
+            "url": "https://github.com/Gong-yinxuan/CP3405/pull/6",
+            "created_at": "2026-07-22",
+            "author": "ToHoangGia"
+          },
           {
             "number": 5,
             "title": "Improve macro collector",
@@ -1105,9 +1123,9 @@
         ]
       },
       "midweek_artefact": {
-        "present": false,
-        "path": null,
-        "url": null
+        "present": true,
+        "path": "Week8/R2_Scrum_Master/standup_midweek_W30.md",
+        "url": "https://github.com/Gong-yinxuan/CP3405/blob/17533f344e281d89911cfac2d4aa61c056190403/Week8/R2_Scrum_Master/standup_midweek_W30.md"
       },
       "repo_url": "https://github.com/Gong-yinxuan/CP3405"
     },
@@ -1131,7 +1149,7 @@
       "open_prs": 0,
       "pr_titles": [],
       "pr_links": [],
-      "days_since_commit": 1,
+      "days_since_commit": 2,
       "contributors": [
         {
           "name": "ProfDrTan",
