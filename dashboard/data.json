@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-22 15:10 UTC",
+  "updated": "2026-07-22 16:49 UTC",
   "sprint_tag": "vW30",
   "sprint_deadline_utc": "2026-07-26T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W30",
@@ -349,7 +349,7 @@
       "open_prs": 0,
       "pr_titles": [],
       "pr_links": [],
-      "days_since_commit": 0,
+      "days_since_commit": 1,
       "contributors": [
         {
           "name": "Hamzah \"Opal\" Nutt",
@@ -768,11 +768,11 @@
       "repo": "wintwah-lwin/CP3405_Group_4",
       "prac": "B",
       "is_ultra": false,
-      "last_commit_sha": "d80dfce",
-      "last_commit_msg": "Update almanac_agent_2026-W9.md",
-      "last_commit_date": "2026-07-22 12:16",
-      "last_commit_author": "yunchenli375",
-      "last_commit_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/d80dfcee17d5724d6867ef33bbd0c0f35fc98e50",
+      "last_commit_sha": "f0f30cd",
+      "last_commit_msg": "Add standup_midweek_W30.md",
+      "last_commit_date": "2026-07-22 16:38",
+      "last_commit_author": "AmiePhyo",
+      "last_commit_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/f0f30cddada4576f1326664d58b8624eaa52a93e",
       "tags": [
         "vW29",
         "v1.0.0",
@@ -827,11 +827,11 @@
           "name": "AmiePhyo",
           "login": "AmiePhyo",
           "kind": "human",
-          "commits": 7,
-          "latest_date": "2026-07-19 08:09",
-          "latest_msg": "Add calibration suite and update Week 26 outputs",
-          "latest_sha": "0b1cad3",
-          "latest_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/0b1cad36c6b7f49a0ed10739c5863eab33254f51"
+          "commits": 10,
+          "latest_date": "2026-07-22 16:38",
+          "latest_msg": "Add standup_midweek_W30.md",
+          "latest_sha": "f0f30cd",
+          "latest_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/f0f30cddada4576f1326664d58b8624eaa52a93e"
         },
         {
           "name": "louishan42",
