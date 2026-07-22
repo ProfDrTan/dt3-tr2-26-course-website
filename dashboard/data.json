@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-22 11:22 UTC",
+  "updated": "2026-07-22 12:57 UTC",
   "sprint_tag": "vW30",
   "sprint_deadline_utc": "2026-07-26T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W30",
@@ -768,11 +768,11 @@
       "repo": "wintwah-lwin/CP3405_Group_4",
       "prac": "B",
       "is_ultra": false,
-      "last_commit_sha": "23139d5",
-      "last_commit_msg": "Update technical_agent_2026-W9.md",
-      "last_commit_date": "2026-07-22 11:20",
-      "last_commit_author": "tiantian09091",
-      "last_commit_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/23139d51b968ed7d3c880cf2dc9de7d52f8cac31",
+      "last_commit_sha": "d80dfce",
+      "last_commit_msg": "Update almanac_agent_2026-W9.md",
+      "last_commit_date": "2026-07-22 12:16",
+      "last_commit_author": "yunchenli375",
+      "last_commit_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/d80dfcee17d5724d6867ef33bbd0c0f35fc98e50",
       "tags": [
         "vW29",
         "v1.0.0",
@@ -862,6 +862,16 @@
           "latest_msg": "Update technical_agent_2026-W9.md",
           "latest_sha": "23139d5",
           "latest_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/23139d51b968ed7d3c880cf2dc9de7d52f8cac31"
+        },
+        {
+          "name": "yunchenli375",
+          "login": "yunchenli375",
+          "kind": "human",
+          "commits": 1,
+          "latest_date": "2026-07-22 12:16",
+          "latest_msg": "Update almanac_agent_2026-W9.md",
+          "latest_sha": "d80dfce",
+          "latest_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/d80dfcee17d5724d6867ef33bbd0c0f35fc98e50"
         },
         {
           "name": "AJIN-TheHuman",
