@@ -1,8 +1,14 @@
 {
-  "generated": "Wednesday 22 July 2026 17:12 SGT",
+  "generated": "Wednesday 22 July 2026 19:21 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
+        {
+          "author": "profdrtktan",
+          "content": "Subject: Attendance expectation \u2014 Monday's Sprint 8 presentation\n\nTeam 1,\n\nAbout half of you were absent from Monday's Sprint 7 presentation. I'm not revisiting that here \u2014 what's done is done. But I ",
+          "ts_str": "2026-07-22 10:13:41",
+          "url": "https://discord.com/channels/1505861202444816455/1505883026771677366/1529431234877329478"
+        },
         {
           "author": "profdrtktan",
           "content": "**Contribution Report \u2014 I need to hear from the rest of you**\nTeam 1,\n\nOne of you has already written to me directly, owned exactly what the report said about them, and committed to specific changes f",
@@ -49,7 +55,20 @@
       "blockers": []
     },
     "Team 4": {
-      "blockers": []
+      "blockers": [
+        {
+          "author": "mojunzheng_02576",
+          "content": "I\u2019ve checked and updated the R4 Week 9 files. I corrected the obvious missing data and labels, including the earnings company names, German PPI data, and China LPR labels. The final macro bias remains",
+          "ts_str": "2026-07-22 11:07:48",
+          "url": "https://discord.com/channels/1505861202444816455/1505883243361206392/1529444853065191506"
+        },
+        {
+          "author": "amiephyo_23759",
+          "content": "<@1508276303378518196> <@1506883853212712971> <@1506667513638031470>  Hello, quick mid-week check \nPls update me on your progress by today. If you're facing any issues or blockers, let me know too so ",
+          "ts_str": "2026-07-22 09:54:48",
+          "url": "https://discord.com/channels/1505861202444816455/1505883243361206392/1529426481116090402"
+        }
+      ]
     },
     "Team 5": {
       "blockers": [
