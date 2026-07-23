@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-23 15:20 UTC",
+  "updated": "2026-07-23 16:54 UTC",
   "sprint_tag": "vW30",
   "sprint_deadline_utc": "2026-07-26T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W30",
@@ -361,7 +361,7 @@
       "open_prs": 0,
       "pr_titles": [],
       "pr_links": [],
-      "days_since_commit": 1,
+      "days_since_commit": 2,
       "contributors": [
         {
           "name": "Hamzah \"Opal\" Nutt",
@@ -813,7 +813,7 @@
           "author": "wintwah-lwin"
         }
       ],
-      "days_since_commit": 0,
+      "days_since_commit": 1,
       "contributors": [
         {
           "name": "Arisa",
