@@ -1,5 +1,5 @@
 {
-  "generated": "Thursday 23 July 2026 08:15 SGT",
+  "generated": "Thursday 23 July 2026 11:51 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
@@ -30,12 +30,6 @@
           "content": "Updated the actions. But I can't really test it until the merge...",
           "ts_str": "2026-07-22 07:51:31",
           "url": "https://discord.com/channels/1505861202444816455/1505883145466155079/1529395457480982619"
-        },
-        {
-          "author": "guanyulu_88237",
-          "content": "According to R1 Sprint Goal, for the roles that have already been automated, today's task is:**Force Workflow Failures on NaN Values**: Update GitHub Actions and verification scripts so that any detec",
-          "ts_str": "2026-07-21 01:30:51",
-          "url": "https://discord.com/channels/1505861202444816455/1505883145466155079/1528937272156749936"
         }
       ]
     },
