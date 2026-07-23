@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-23 09:12 UTC",
+  "updated": "2026-07-23 11:21 UTC",
   "sprint_tag": "vW30",
   "sprint_deadline_utc": "2026-07-26T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W30",
@@ -962,11 +962,11 @@
       "repo": "Gong-yinxuan/CP3405",
       "prac": "B",
       "is_ultra": false,
-      "last_commit_sha": "885710b",
-      "last_commit_msg": "R8: add free-model fallback + visible warning when a model f",
-      "last_commit_date": "2026-07-23 09:10",
+      "last_commit_sha": "8639c93",
+      "last_commit_msg": "R2/R8: document Hy3/Claude payment blocker and fallback reso",
+      "last_commit_date": "2026-07-23 10:09",
       "last_commit_author": "wujinrui2004",
-      "last_commit_url": "https://github.com/Gong-yinxuan/CP3405/commit/885710b60f6118ef89ab02760360ff59ea8f9066",
+      "last_commit_url": "https://github.com/Gong-yinxuan/CP3405/commit/8639c938fce2305a89195324d681a0ffd4206b38",
       "tags": [
         "vW29",
         "vW28",
@@ -977,8 +977,8 @@
       "sprint_tag_present": false,
       "last_run_name": "Update Market Data",
       "last_run_conclusion": "success",
-      "last_run_date": "2026-07-21 11:19",
-      "last_run_url": "https://github.com/Gong-yinxuan/CP3405/actions/runs/29825631539",
+      "last_run_date": "2026-07-23 10:01",
+      "last_run_url": "https://github.com/Gong-yinxuan/CP3405/actions/runs/29997715271",
       "last_run_was_filtered": true,
       "open_prs": 0,
       "pr_titles": [],
@@ -996,10 +996,20 @@
           "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/17533f344e281d89911cfac2d4aa61c056190403"
         },
         {
+          "name": "wujinrui2004",
+          "login": "wujinrui2004",
+          "kind": "human",
+          "commits": 23,
+          "latest_date": "2026-07-23 10:09",
+          "latest_msg": "R2/R8: document Hy3/Claude payment blocker and fallback resolution",
+          "latest_sha": "8639c93",
+          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/8639c938fce2305a89195324d681a0ffd4206b38"
+        },
+        {
           "name": "HYH-design-bot",
           "login": "HYH-design-bot",
           "kind": "bot",
-          "commits": 22,
+          "commits": 18,
           "latest_date": "2026-07-21 11:31",
           "latest_msg": "Update sprint_goal_W30.md, Added Reasoning behind sprint goal for clar",
           "latest_sha": "d0a99e2",
@@ -1016,16 +1026,6 @@
           "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/c7e2a122b12846415f1e121d55e8c45db79bec76"
         },
         {
-          "name": "wujinrui2004",
-          "login": "wujinrui2004",
-          "kind": "human",
-          "commits": 16,
-          "latest_date": "2026-07-23 09:10",
-          "latest_msg": "R8: add free-model fallback + visible warning when a model fails",
-          "latest_sha": "885710b",
-          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/885710b60f6118ef89ab02760360ff59ea8f9066"
-        },
-        {
           "name": "Kherlenbayar Sukhbaatar",
           "login": "kherlen31",
           "kind": "human",
@@ -1039,7 +1039,7 @@
           "name": "github-actions[bot]",
           "login": "github-actions[bot]",
           "kind": "bot",
-          "commits": 7,
+          "commits": 4,
           "latest_date": "2026-07-20 03:48",
           "latest_msg": "chore: update Prism data 2026-07-20",
           "latest_sha": "1e96586",
@@ -1147,7 +1147,7 @@
       "midweek_artefact": {
         "present": true,
         "path": "Week8/R2_Scrum_Master/standup_midweek_W30.md",
-        "url": "https://github.com/Gong-yinxuan/CP3405/blob/17533f344e281d89911cfac2d4aa61c056190403/Week8/R2_Scrum_Master/standup_midweek_W30.md"
+        "url": "https://github.com/Gong-yinxuan/CP3405/blob/8639c938fce2305a89195324d681a0ffd4206b38/Week8/R2_Scrum_Master/standup_midweek_W30.md"
       },
       "repo_url": "https://github.com/Gong-yinxuan/CP3405"
     },
@@ -1171,7 +1171,7 @@
       "open_prs": 0,
       "pr_titles": [],
       "pr_links": [],
-      "days_since_commit": 2,
+      "days_since_commit": 3,
       "contributors": [
         {
           "name": "ProfDrTan",
