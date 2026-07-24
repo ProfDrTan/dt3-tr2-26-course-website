@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-24 09:41 UTC",
+  "updated": "2026-07-24 11:27 UTC",
   "sprint_tag": "vW30",
   "sprint_deadline_utc": "2026-07-26T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W30",
@@ -24,19 +24,32 @@
         "vW22"
       ],
       "sprint_tag_present": false,
-      "last_run_name": "agent-checks",
+      "last_run_name": "python-checks",
       "last_run_conclusion": "success",
-      "last_run_date": "2026-07-23 08:08",
-      "last_run_url": "https://github.com/sinder38/Team-1-Prac-A-Project/actions/runs/29990334515",
+      "last_run_date": "2026-07-24 11:09",
+      "last_run_url": "https://github.com/sinder38/Team-1-Prac-A-Project/actions/runs/30088579787",
       "last_run_was_filtered": true,
-      "open_prs": 4,
+      "open_prs": 5,
       "pr_titles": [
+        "feat: persist human score as JSON and render markdown on bac",
+        "fix: keep incomplete archive weeks open and sync stage 3 pro",
         "Readme.md update ( week 8 ) ",
         "Refactor/decouple llms",
-        "Feat/fix frontend",
         "Implement regression tests for TechnicalAgent"
       ],
       "pr_links": [
+        {
+          "title": "feat: persist human score as JSON and render markdown on bac",
+          "number": 94,
+          "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/94",
+          "author": "oakkar-cm"
+        },
+        {
+          "title": "fix: keep incomplete archive weeks open and sync stage 3 pro",
+          "number": 93,
+          "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/93",
+          "author": "oakkar-cm"
+        },
         {
           "title": "Readme.md update ( week 8 ) ",
           "number": 92,
@@ -48,12 +61,6 @@
           "number": 91,
           "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/91",
           "author": "ZawLattNaung"
-        },
-        {
-          "title": "Feat/fix frontend",
-          "number": 90,
-          "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/90",
-          "author": "oakkar-cm"
         },
         {
           "title": "Implement regression tests for TechnicalAgent",
@@ -146,20 +153,20 @@
         }
       ],
       "pr_history": {
-        "total": 92,
+        "total": 94,
         "merged": 62,
-        "open": 4,
-        "abandoned": 26,
+        "open": 5,
+        "abandoned": 27,
         "weekly": {
           "2026-07-20": {
             "merged": 0,
-            "open": 2,
+            "open": 4,
             "abandoned": 0
           },
           "2026-07-13": {
             "merged": 10,
-            "open": 1,
-            "abandoned": 5
+            "open": 0,
+            "abandoned": 6
           },
           "2026-07-06": {
             "merged": 4,
@@ -199,6 +206,22 @@
         },
         "recent": [
           {
+            "number": 94,
+            "title": "feat: persist human score as JSON and render markdown on backend",
+            "status": "open",
+            "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/94",
+            "created_at": "2026-07-24",
+            "author": "oakkar-cm"
+          },
+          {
+            "number": 93,
+            "title": "fix: keep incomplete archive weeks open and sync stage 3 provider",
+            "status": "open",
+            "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/93",
+            "created_at": "2026-07-24",
+            "author": "oakkar-cm"
+          },
+          {
             "number": 92,
             "title": "Readme.md update ( week 8 ) ",
             "status": "open",
@@ -217,7 +240,7 @@
           {
             "number": 90,
             "title": "Feat/fix frontend",
-            "status": "open",
+            "status": "abandoned",
             "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/90",
             "created_at": "2026-07-19",
             "author": "oakkar-cm"
@@ -301,22 +324,6 @@
             "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/80",
             "created_at": "2026-07-17",
             "author": "sinder38"
-          },
-          {
-            "number": 79,
-            "title": "Add market API, archive weeks, and frontend integration.",
-            "status": "merged",
-            "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/79",
-            "created_at": "2026-07-17",
-            "author": "oakkar-cm"
-          },
-          {
-            "number": 78,
-            "title": "Goal and criteria W29",
-            "status": "merged",
-            "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/78",
-            "created_at": "2026-07-17",
-            "author": "sinder38"
           }
         ]
       },
@@ -332,11 +339,11 @@
       "repo": "LuJunwen212/CP3405-Project",
       "prac": "A",
       "is_ultra": false,
-      "last_commit_sha": "84cc026",
-      "last_commit_msg": "chore(r5): update technical outputs 2026-W30 [skip ci]",
-      "last_commit_date": "2026-07-21 16:05",
-      "last_commit_author": "Team2 Data Automatio",
-      "last_commit_url": "https://github.com/LuJunwen212/CP3405-Project/commit/84cc0265b9067e63f61e6efdfc4ec344512a333f",
+      "last_commit_sha": "744414c",
+      "last_commit_msg": "Merge pull request #24 from LuJunwen212/week-8",
+      "last_commit_date": "2026-07-24 09:48",
+      "last_commit_author": "LuJunwen212",
+      "last_commit_url": "https://github.com/LuJunwen212/CP3405-Project/commit/744414c0f1e1419c4ebf709276f1665c61c4ec5c",
       "tags": [
         "vW29",
         "vW28",
@@ -354,57 +361,67 @@
       "open_prs": 0,
       "pr_titles": [],
       "pr_links": [],
-      "days_since_commit": 2,
+      "days_since_commit": 0,
       "contributors": [
         {
           "name": "Hamzah \"Opal\" Nutt",
           "login": "hamzah-opal-n",
           "kind": "human",
-          "commits": 27,
-          "latest_date": "2026-07-18 05:14",
-          "latest_msg": "Update r10_calibration.yml",
-          "latest_sha": "d952470",
-          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/d952470cafae9d7459db68fcae5bf43c24206ce4"
+          "commits": 22,
+          "latest_date": "2026-07-23 08:53",
+          "latest_msg": "Update workflow name to include role number",
+          "latest_sha": "8904d72",
+          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/8904d72846826c876452c3828a153764ac06e952"
         },
         {
           "name": "The Bao Le",
           "login": "The-Bao-Le",
           "kind": "human",
-          "commits": 23,
-          "latest_date": "2026-07-19 09:35",
-          "latest_msg": "Merge pull request #23 from LuJunwen212/Week-07",
-          "latest_sha": "058f6b1",
-          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/058f6b1e351a75e2397a968f815b6de58bcb5fce"
+          "commits": 21,
+          "latest_date": "2026-07-21 09:50",
+          "latest_msg": "Update README.md",
+          "latest_sha": "4653be9",
+          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/4653be9ec898669182eb4992c23eff99be57d155"
+        },
+        {
+          "name": "ZhengZaikun",
+          "login": "ZhengZaikun",
+          "kind": "human",
+          "commits": 11,
+          "latest_date": "2026-07-22 08:18",
+          "latest_msg": "Update r8_llm_job.yml",
+          "latest_sha": "fa2dc07",
+          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/fa2dc07bc0e0f007819ae5d057170a0250c68e99"
+        },
+        {
+          "name": "Guanyu Lu",
+          "login": "Guanyu-Lu",
+          "kind": "human",
+          "commits": 10,
+          "latest_date": "2026-07-22 11:57",
+          "latest_msg": "Update midweek standup report.",
+          "latest_sha": "1ef9482",
+          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/1ef9482c870462b4574f2f14c6372e8fff7a58a5"
+        },
+        {
+          "name": "Team2 Calibration Bot",
+          "login": "",
+          "kind": "bot",
+          "commits": 6,
+          "latest_date": "2026-07-22 10:44",
+          "latest_msg": "chore(r10): automate calibration for W29",
+          "latest_sha": "1516c42",
+          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/1516c42def3b1a23d1f440a7f85d89fcdc563d86"
         },
         {
           "name": "Team2 Data Automation Bot",
           "login": "",
           "kind": "bot",
-          "commits": 16,
-          "latest_date": "2026-07-21 16:05",
-          "latest_msg": "chore(r5): update technical outputs 2026-W30 [skip ci]",
-          "latest_sha": "84cc026",
-          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/84cc0265b9067e63f61e6efdfc4ec344512a333f"
-        },
-        {
-          "name": "Team2 R8 LLM Operator",
-          "login": "",
-          "kind": "human",
-          "commits": 8,
-          "latest_date": "2026-07-18 09:23",
-          "latest_msg": "docs(r8): updated free open-source multi-model matrix [skip ci]",
-          "latest_sha": "c340e06",
-          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/c340e0690a7258c27e44d4d4fde2e5b85cf900ae"
-        },
-        {
-          "name": "swan002",
-          "login": "swan002",
-          "kind": "human",
-          "commits": 7,
-          "latest_date": "2026-07-19 07:12",
-          "latest_msg": "Update prediction_2026-W29_team2.md",
-          "latest_sha": "8ed26fe",
-          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/8ed26fe3d9bb50f1e8e522154c4bdaadcce55eee"
+          "commits": 5,
+          "latest_date": "2026-07-23 08:52",
+          "latest_msg": "chore(data): automated market ledger alignment [skip ci]",
+          "latest_sha": "5a034ce",
+          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/5a034ce64e39ada56e70e150ca7a13dc734d3ba9"
         },
         {
           "name": "louis848",
@@ -417,52 +434,47 @@
           "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/80a66d3639375fa82a68aac7c46f84c4916f879a"
         },
         {
-          "name": "Team2 Calibration Bot",
-          "login": "",
-          "kind": "bot",
-          "commits": 5,
-          "latest_date": "2026-07-18 05:18",
-          "latest_msg": "chore(r10): automate calibration for W28",
-          "latest_sha": "6cdf54c",
-          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/6cdf54c3af851fcc8712b32b46d2edb5e7780179"
-        },
-        {
           "name": "LuJunwen212",
           "login": "LuJunwen212",
           "kind": "human",
-          "commits": 3,
-          "latest_date": "2026-07-19 09:54",
-          "latest_msg": "Add files via upload",
-          "latest_sha": "65b9eee",
-          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/65b9eee4ae2aad6e6f881c93acdb25efe7d0d19e"
+          "commits": 4,
+          "latest_date": "2026-07-24 09:48",
+          "latest_msg": "Merge pull request #24 from LuJunwen212/week-8",
+          "latest_sha": "744414c",
+          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/744414c0f1e1419c4ebf709276f1665c61c4ec5c"
         },
         {
-          "name": "Kyler017",
-          "login": "Kyler017",
+          "name": "Team2 R8 LLM Operator",
+          "login": "",
           "kind": "human",
-          "commits": 3,
-          "latest_date": "2026-07-17 12:05",
-          "latest_msg": "Update r8_llm_operator.py",
-          "latest_sha": "17483c4",
-          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/17483c40be70bc397384f25c926829c165d06274"
+          "commits": 4,
+          "latest_date": "2026-07-22 08:16",
+          "latest_msg": "docs(r8): updated free open-source multi-model matrix [skip ci]",
+          "latest_sha": "3189297",
+          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/3189297b2ac2639ca1bdeafe51396e008c7c59a8"
         },
         {
           "name": "linyuchu",
           "login": "mihawk-cell",
           "kind": "human",
-          "commits": 2,
-          "latest_date": "2026-07-19 09:56",
-          "latest_msg": "Rename Week 07 (1).pptx to presentation_2026-W29_Group2.pptx",
-          "latest_sha": "8942981",
-          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/89429814d69c7f0752c54e70ae4b10c371cbbdd9"
+          "commits": 4,
+          "latest_date": "2026-07-21 15:55",
+          "latest_msg": "Update r5_technical_agent.yml",
+          "latest_sha": "042a850",
+          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/042a8502b1229683289c1584e67c6992fb87bc4a"
         }
       ],
       "pr_history": {
-        "total": 23,
-        "merged": 19,
+        "total": 24,
+        "merged": 20,
         "open": 0,
         "abandoned": 4,
         "weekly": {
+          "2026-07-20": {
+            "merged": 1,
+            "open": 0,
+            "abandoned": 0
+          },
           "2026-07-13": {
             "merged": 5,
             "open": 0,
@@ -495,6 +507,14 @@
           }
         },
         "recent": [
+          {
+            "number": 24,
+            "title": "Week 8",
+            "status": "merged",
+            "url": "https://github.com/LuJunwen212/CP3405-Project/pull/24",
+            "created_at": "2026-07-24",
+            "author": "LuJunwen212"
+          },
           {
             "number": 23,
             "title": "Week 07",
@@ -606,21 +626,13 @@
             "url": "https://github.com/LuJunwen212/CP3405-Project/pull/10",
             "created_at": "2026-06-20",
             "author": "The-Bao-Le"
-          },
-          {
-            "number": 9,
-            "title": "Add files via upload",
-            "status": "merged",
-            "url": "https://github.com/LuJunwen212/CP3405-Project/pull/9",
-            "created_at": "2026-06-14",
-            "author": "The-Bao-Le"
           }
         ]
       },
       "midweek_artefact": {
-        "present": false,
-        "path": null,
-        "url": null
+        "present": true,
+        "path": "evidence/progress_logs/standup_midweek_W30.md",
+        "url": "https://github.com/LuJunwen212/CP3405-Project/blob/744414c0f1e1419c4ebf709276f1665c61c4ec5c/evidence/progress_logs/standup_midweek_W30.md"
       },
       "repo_url": "https://github.com/LuJunwen212/CP3405-Project"
     },
