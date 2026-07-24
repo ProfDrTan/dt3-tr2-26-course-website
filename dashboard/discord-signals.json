@@ -1,11 +1,18 @@
 {
-  "generated": "Friday 24 July 2026 19:27 SGT",
+  "generated": "Friday 24 July 2026 21:04 SGT",
   "teams": {
     "Team 1": {
       "blockers": []
     },
     "Team 2": {
-      "blockers": []
+      "blockers": [
+        {
+          "author": "guanyulu_88237",
+          "content": "Good evening everyone. The progress this week is going well. R9 has merged week8 branch to main branch. Tomorrow, according to the  schedule, each role's pipeline will automatically generate the resul",
+          "ts_str": "2026-07-24 11:33:20",
+          "url": "https://discord.com/channels/1505861202444816455/1505883145466155079/1530176052930809876"
+        }
+      ]
     },
     "Team 3": {
       "blockers": []
