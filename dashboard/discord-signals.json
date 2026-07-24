@@ -1,5 +1,5 @@
 {
-  "generated": "Friday 24 July 2026 15:15 SGT",
+  "generated": "Friday 24 July 2026 17:41 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
@@ -12,20 +12,7 @@
       ]
     },
     "Team 2": {
-      "blockers": [
-        {
-          "author": "louis1123990",
-          "content": "<@1506261429072957511> Bro today is Wednesday. I need to write the mid-week standup report. I would like to ask if there are any issues or obstacles for R10? Are there any problems with the code? Can ",
-          "ts_str": "2026-07-22 08:32:58",
-          "url": "https://discord.com/channels/1505861202444816455/1505883145466155079/1529405885330489494"
-        },
-        {
-          "author": "vileworx",
-          "content": "Updated the actions. But I can't really test it until the merge...",
-          "ts_str": "2026-07-22 07:51:31",
-          "url": "https://discord.com/channels/1505861202444816455/1505883145466155079/1529395457480982619"
-        }
-      ]
+      "blockers": []
     },
     "Team 3": {
       "blockers": []
