@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-24 01:03 UTC",
+  "updated": "2026-07-24 04:33 UTC",
   "sprint_tag": "vW30",
   "sprint_deadline_utc": "2026-07-26T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W30",
@@ -29,12 +29,11 @@
       "last_run_date": "2026-07-23 08:08",
       "last_run_url": "https://github.com/sinder38/Team-1-Prac-A-Project/actions/runs/29990334515",
       "last_run_was_filtered": true,
-      "open_prs": 5,
+      "open_prs": 4,
       "pr_titles": [
         "Readme.md update ( week 8 ) ",
         "Refactor/decouple llms",
         "Feat/fix frontend",
-        "Update README.md",
         "Implement regression tests for TechnicalAgent"
       ],
       "pr_links": [
@@ -55,12 +54,6 @@
           "number": 90,
           "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/90",
           "author": "oakkar-cm"
-        },
-        {
-          "title": "Update README.md",
-          "number": 87,
-          "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/87",
-          "author": "Tobias778"
         },
         {
           "title": "Implement regression tests for TechnicalAgent",
@@ -155,8 +148,8 @@
       "pr_history": {
         "total": 92,
         "merged": 62,
-        "open": 5,
-        "abandoned": 25,
+        "open": 4,
+        "abandoned": 26,
         "weekly": {
           "2026-07-20": {
             "merged": 0,
@@ -165,8 +158,8 @@
           },
           "2026-07-13": {
             "merged": 10,
-            "open": 2,
-            "abandoned": 4
+            "open": 1,
+            "abandoned": 5
           },
           "2026-07-06": {
             "merged": 4,
@@ -248,7 +241,7 @@
           {
             "number": 87,
             "title": "Update README.md",
-            "status": "open",
+            "status": "abandoned",
             "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/87",
             "created_at": "2026-07-19",
             "author": "Tobias778"
@@ -657,7 +650,7 @@
       "open_prs": 0,
       "pr_titles": [],
       "pr_links": [],
-      "days_since_commit": 0,
+      "days_since_commit": 1,
       "contributors": [
         {
           "name": "141242-l",
@@ -962,11 +955,11 @@
       "repo": "Gong-yinxuan/CP3405",
       "prac": "B",
       "is_ultra": false,
-      "last_commit_sha": "8639c93",
-      "last_commit_msg": "R2/R8: document Hy3/Claude payment blocker and fallback reso",
-      "last_commit_date": "2026-07-23 10:09",
-      "last_commit_author": "wujinrui2004",
-      "last_commit_url": "https://github.com/Gong-yinxuan/CP3405/commit/8639c938fce2305a89195324d681a0ffd4206b38",
+      "last_commit_sha": "86f2971",
+      "last_commit_msg": "Rename r6_data_verification_w30 to r6_data_verification_w30.",
+      "last_commit_date": "2026-07-24 03:10",
+      "last_commit_author": "Gong-yinxuan",
+      "last_commit_url": "https://github.com/Gong-yinxuan/CP3405/commit/86f29717f22c10ea2d2c47bcdc5079ff9c29c3aa",
       "tags": [
         "vW29",
         "vW28",
@@ -986,16 +979,6 @@
       "days_since_commit": 0,
       "contributors": [
         {
-          "name": "To Hoang Gia",
-          "login": "ToHoangGia",
-          "kind": "human",
-          "commits": 25,
-          "latest_date": "2026-07-22 09:39",
-          "latest_msg": "Merge pull request #6 from Gong-yinxuan/R2_Scrum_Master",
-          "latest_sha": "17533f3",
-          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/17533f344e281d89911cfac2d4aa61c056190403"
-        },
-        {
           "name": "wujinrui2004",
           "login": "wujinrui2004",
           "kind": "human",
@@ -1006,14 +989,14 @@
           "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/8639c938fce2305a89195324d681a0ffd4206b38"
         },
         {
-          "name": "HYH-design-bot",
-          "login": "HYH-design-bot",
-          "kind": "bot",
-          "commits": 18,
-          "latest_date": "2026-07-21 11:31",
-          "latest_msg": "Update sprint_goal_W30.md, Added Reasoning behind sprint goal for clar",
-          "latest_sha": "d0a99e2",
-          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/d0a99e22174b162c093329164bae8e131c8cf79e"
+          "name": "To Hoang Gia",
+          "login": "ToHoangGia",
+          "kind": "human",
+          "commits": 22,
+          "latest_date": "2026-07-22 09:39",
+          "latest_msg": "Merge pull request #6 from Gong-yinxuan/R2_Scrum_Master",
+          "latest_sha": "17533f3",
+          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/17533f344e281d89911cfac2d4aa61c056190403"
         },
         {
           "name": "EkaTiu",
@@ -1026,6 +1009,16 @@
           "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/c7e2a122b12846415f1e121d55e8c45db79bec76"
         },
         {
+          "name": "HYH-design-bot",
+          "login": "HYH-design-bot",
+          "kind": "bot",
+          "commits": 17,
+          "latest_date": "2026-07-21 11:31",
+          "latest_msg": "Update sprint_goal_W30.md, Added Reasoning behind sprint goal for clar",
+          "latest_sha": "d0a99e2",
+          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/d0a99e22174b162c093329164bae8e131c8cf79e"
+        },
+        {
           "name": "Kherlenbayar Sukhbaatar",
           "login": "kherlen31",
           "kind": "human",
@@ -1036,10 +1029,20 @@
           "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/3a42095861d8fa262e613e0b53910f087c2265ad"
         },
         {
+          "name": "Gong-yinxuan",
+          "login": "Gong-yinxuan",
+          "kind": "human",
+          "commits": 7,
+          "latest_date": "2026-07-24 03:10",
+          "latest_msg": "Rename r6_data_verification_w30 to r6_data_verification_w30.md",
+          "latest_sha": "86f2971",
+          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/86f29717f22c10ea2d2c47bcdc5079ff9c29c3aa"
+        },
+        {
           "name": "github-actions[bot]",
           "login": "github-actions[bot]",
           "kind": "bot",
-          "commits": 4,
+          "commits": 3,
           "latest_date": "2026-07-20 03:48",
           "latest_msg": "chore: update Prism data 2026-07-20",
           "latest_sha": "1e96586",
@@ -1054,16 +1057,6 @@
           "latest_msg": "Update macro_agent_W08.md",
           "latest_sha": "10345f4",
           "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/10345f4f83b81e4275783f6dd9b3ed177940ce2e"
-        },
-        {
-          "name": "Gong-yinxuan",
-          "login": "Gong-yinxuan",
-          "kind": "human",
-          "commits": 2,
-          "latest_date": "2026-07-15 00:59",
-          "latest_msg": "Revise technical analysis report with manual updates",
-          "latest_sha": "f6c0204",
-          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/f6c02048f8f45a5ce5bd2aaf533da0a60726b4ec"
         },
         {
           "name": "JiangJinsong",
@@ -1147,7 +1140,7 @@
       "midweek_artefact": {
         "present": true,
         "path": "Week8/R2_Scrum_Master/standup_midweek_W30.md",
-        "url": "https://github.com/Gong-yinxuan/CP3405/blob/8639c938fce2305a89195324d681a0ffd4206b38/Week8/R2_Scrum_Master/standup_midweek_W30.md"
+        "url": "https://github.com/Gong-yinxuan/CP3405/blob/86f29717f22c10ea2d2c47bcdc5079ff9c29c3aa/Week8/R2_Scrum_Master/standup_midweek_W30.md"
       },
       "repo_url": "https://github.com/Gong-yinxuan/CP3405"
     },
