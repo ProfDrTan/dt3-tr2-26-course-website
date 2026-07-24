@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-24 13:04 UTC",
+  "updated": "2026-07-24 15:07 UTC",
   "sprint_tag": "vW30",
   "sprint_deadline_utc": "2026-07-26T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W30",
@@ -641,11 +641,11 @@
       "repo": "juninho4/Team-3-Practical-A-CP3405",
       "prac": "A",
       "is_ultra": false,
-      "last_commit_sha": "b9b6f22",
-      "last_commit_msg": "Delete .github/1",
-      "last_commit_date": "2026-07-23 01:59",
-      "last_commit_author": "Li-Haoyao",
-      "last_commit_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/b9b6f226ee094364aa2e8729011aa9e19396ad63",
+      "last_commit_sha": "3344400",
+      "last_commit_msg": "Add student name to Product Owner role",
+      "last_commit_date": "2026-07-24 13:32",
+      "last_commit_author": "vandarkray",
+      "last_commit_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/33444007a0893c4ea5a27210e787134afca07300",
       "tags": [
         "vW25",
         "vW24",
@@ -662,13 +662,13 @@
       "open_prs": 0,
       "pr_titles": [],
       "pr_links": [],
-      "days_since_commit": 1,
+      "days_since_commit": 0,
       "contributors": [
         {
           "name": "141242-l",
           "login": "141242-l",
           "kind": "human",
-          "commits": 60,
+          "commits": 59,
           "latest_date": "2026-07-21 18:33",
           "latest_msg": "Delete run_output.bat",
           "latest_sha": "a2cfbad",
@@ -695,6 +695,16 @@
           "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/b9b6f226ee094364aa2e8729011aa9e19396ad63"
         },
         {
+          "name": "vandarkray",
+          "login": "vandarkray",
+          "kind": "human",
+          "commits": 7,
+          "latest_date": "2026-07-24 13:32",
+          "latest_msg": "Add student name to Product Owner role",
+          "latest_sha": "3344400",
+          "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/33444007a0893c4ea5a27210e787134afca07300"
+        },
+        {
           "name": "Vince-1206",
           "login": "Vince-1206",
           "kind": "human",
@@ -703,16 +713,6 @@
           "latest_msg": "Add W29 Technical Agent report and predictions",
           "latest_sha": "63ced11",
           "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/63ced11f8fe525f37be9e93d1fb44b3ead17bdac"
-        },
-        {
-          "name": "vandarkray",
-          "login": "vandarkray",
-          "kind": "human",
-          "commits": 6,
-          "latest_date": "2026-07-19 07:07",
-          "latest_msg": "Add Week 29 LLM Horserace Report for 2026",
-          "latest_sha": "08ddf91",
-          "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/08ddf9178108f886957256bd971b23136a2272e3"
         },
         {
           "name": "Juninho",
