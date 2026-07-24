@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-24 22:38 UTC",
+  "updated": "2026-07-24 23:44 UTC",
   "sprint_tag": "vW30",
   "sprint_deadline_utc": "2026-07-26T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W30",
@@ -24,13 +24,14 @@
         "vW22"
       ],
       "sprint_tag_present": false,
-      "last_run_name": "python-checks",
-      "last_run_conclusion": "success",
-      "last_run_date": "2026-07-24 11:09",
-      "last_run_url": "https://github.com/sinder38/Team-1-Prac-A-Project/actions/runs/30088579787",
+      "last_run_name": "Weekly Pipeline",
+      "last_run_conclusion": "failure",
+      "last_run_date": "2026-07-24 23:30",
+      "last_run_url": "https://github.com/sinder38/Team-1-Prac-A-Project/actions/runs/30133963224",
       "last_run_was_filtered": true,
-      "open_prs": 5,
+      "open_prs": 6,
       "pr_titles": [
+        "chore: pipeline artifacts 2026-07-24",
         "feat: persist human score as JSON and render markdown on bac",
         "fix: keep incomplete archive weeks open and sync stage 3 pro",
         "Readme.md update ( week 8 ) ",
@@ -38,6 +39,12 @@
         "Implement regression tests for TechnicalAgent"
       ],
       "pr_links": [
+        {
+          "title": "chore: pipeline artifacts 2026-07-24",
+          "number": 95,
+          "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/95",
+          "author": "github-actions[bot]"
+        },
         {
           "title": "feat: persist human score as JSON and render markdown on bac",
           "number": 94,
@@ -153,14 +160,14 @@
         }
       ],
       "pr_history": {
-        "total": 94,
+        "total": 95,
         "merged": 62,
-        "open": 5,
+        "open": 6,
         "abandoned": 27,
         "weekly": {
           "2026-07-20": {
             "merged": 0,
-            "open": 4,
+            "open": 5,
             "abandoned": 0
           },
           "2026-07-13": {
@@ -205,6 +212,14 @@
           }
         },
         "recent": [
+          {
+            "number": 95,
+            "title": "chore: pipeline artifacts 2026-07-24",
+            "status": "open",
+            "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/95",
+            "created_at": "2026-07-24",
+            "author": "github-actions[bot]"
+          },
           {
             "number": 94,
             "title": "feat: persist human score as JSON and render markdown on backend",
@@ -316,14 +331,6 @@
             "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/81",
             "created_at": "2026-07-17",
             "author": "JasonEran"
-          },
-          {
-            "number": 80,
-            "title": "Allama local testing and sever configuration",
-            "status": "merged",
-            "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/80",
-            "created_at": "2026-07-17",
-            "author": "sinder38"
           }
         ]
       },
@@ -339,11 +346,11 @@
       "repo": "LuJunwen212/CP3405-Project",
       "prac": "A",
       "is_ultra": false,
-      "last_commit_sha": "695dc54",
-      "last_commit_msg": "Delete market_snapshot_W30.json",
-      "last_commit_date": "2026-07-24 17:04",
-      "last_commit_author": "Hamzah \"Opal\" Nutt",
-      "last_commit_url": "https://github.com/LuJunwen212/CP3405-Project/commit/695dc545784556989463ad11f5003a6ae7b7140e",
+      "last_commit_sha": "1ded5f4",
+      "last_commit_msg": "chore(data): automated market ledger alignment [skip ci]",
+      "last_commit_date": "2026-07-24 23:15",
+      "last_commit_author": "Team2 Data Automatio",
+      "last_commit_url": "https://github.com/LuJunwen212/CP3405-Project/commit/1ded5f42c1e8e1a24bb11375df1d352d600bcff7",
       "tags": [
         "vW29",
         "vW28",
@@ -353,10 +360,10 @@
         "vW22"
       ],
       "sprint_tag_present": false,
-      "last_run_name": "R10 Calibration Automation",
+      "last_run_name": "R6 Automated Cross-Asset Market Audit Pi",
       "last_run_conclusion": "success",
-      "last_run_date": "2026-07-23 08:52",
-      "last_run_url": "https://github.com/LuJunwen212/CP3405-Project/actions/runs/29992875456",
+      "last_run_date": "2026-07-24 23:15",
+      "last_run_url": "https://github.com/LuJunwen212/CP3405-Project/actions/runs/30133288232",
       "last_run_was_filtered": true,
       "open_prs": 0,
       "pr_titles": [],
@@ -367,7 +374,7 @@
           "name": "Hamzah \"Opal\" Nutt",
           "login": "hamzah-opal-n",
           "kind": "human",
-          "commits": 22,
+          "commits": 21,
           "latest_date": "2026-07-24 17:04",
           "latest_msg": "Delete market_snapshot_W30.json",
           "latest_sha": "695dc54",
@@ -404,6 +411,16 @@
           "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/1ef9482c870462b4574f2f14c6372e8fff7a58a5"
         },
         {
+          "name": "Team2 Data Automation Bot",
+          "login": "",
+          "kind": "bot",
+          "commits": 6,
+          "latest_date": "2026-07-24 23:15",
+          "latest_msg": "chore(data): automated market ledger alignment [skip ci]",
+          "latest_sha": "1ded5f4",
+          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/1ded5f42c1e8e1a24bb11375df1d352d600bcff7"
+        },
+        {
           "name": "Team2 Calibration Bot",
           "login": "",
           "kind": "bot",
@@ -412,16 +429,6 @@
           "latest_msg": "chore(r10): automate calibration for W29",
           "latest_sha": "1516c42",
           "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/1516c42def3b1a23d1f440a7f85d89fcdc563d86"
-        },
-        {
-          "name": "Team2 Data Automation Bot",
-          "login": "",
-          "kind": "bot",
-          "commits": 5,
-          "latest_date": "2026-07-23 08:52",
-          "latest_msg": "chore(data): automated market ledger alignment [skip ci]",
-          "latest_sha": "5a034ce",
-          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/5a034ce64e39ada56e70e150ca7a13dc734d3ba9"
         },
         {
           "name": "louis848",
@@ -632,7 +639,7 @@
       "midweek_artefact": {
         "present": true,
         "path": "evidence/progress_logs/standup_midweek_W30.md",
-        "url": "https://github.com/LuJunwen212/CP3405-Project/blob/695dc545784556989463ad11f5003a6ae7b7140e/evidence/progress_logs/standup_midweek_W30.md"
+        "url": "https://github.com/LuJunwen212/CP3405-Project/blob/1ded5f42c1e8e1a24bb11375df1d352d600bcff7/evidence/progress_logs/standup_midweek_W30.md"
       },
       "repo_url": "https://github.com/LuJunwen212/CP3405-Project"
     },
@@ -655,9 +662,9 @@
       ],
       "sprint_tag_present": false,
       "last_run_name": "Run Market Intelligence",
-      "last_run_conclusion": "success",
-      "last_run_date": "2026-07-19 14:38",
-      "last_run_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/actions/runs/29691226360",
+      "last_run_conclusion": "failure",
+      "last_run_date": "2026-07-24 23:34",
+      "last_run_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/actions/runs/30134148564",
       "last_run_was_filtered": true,
       "open_prs": 0,
       "pr_titles": [],
@@ -967,11 +974,11 @@
       "repo": "Gong-yinxuan/CP3405",
       "prac": "B",
       "is_ultra": false,
-      "last_commit_sha": "86f2971",
-      "last_commit_msg": "Rename r6_data_verification_w30 to r6_data_verification_w30.",
-      "last_commit_date": "2026-07-24 03:10",
-      "last_commit_author": "Gong-yinxuan",
-      "last_commit_url": "https://github.com/Gong-yinxuan/CP3405/commit/86f29717f22c10ea2d2c47bcdc5079ff9c29c3aa",
+      "last_commit_sha": "788351a",
+      "last_commit_msg": "chore: update Prism data 2026-07-24",
+      "last_commit_date": "2026-07-24 22:56",
+      "last_commit_author": "github-actions[bot]",
+      "last_commit_url": "https://github.com/Gong-yinxuan/CP3405/commit/788351af1612e262f7933302c9222d5d340fcc32",
       "tags": [
         "vW29",
         "vW28",
@@ -982,8 +989,8 @@
       "sprint_tag_present": false,
       "last_run_name": "Update Market Data",
       "last_run_conclusion": "success",
-      "last_run_date": "2026-07-23 10:01",
-      "last_run_url": "https://github.com/Gong-yinxuan/CP3405/actions/runs/29997715271",
+      "last_run_date": "2026-07-24 22:56",
+      "last_run_url": "https://github.com/Gong-yinxuan/CP3405/actions/runs/30132411845",
       "last_run_was_filtered": true,
       "open_prs": 0,
       "pr_titles": [],
@@ -1054,17 +1061,17 @@
           "name": "github-actions[bot]",
           "login": "github-actions[bot]",
           "kind": "bot",
-          "commits": 3,
-          "latest_date": "2026-07-20 03:48",
-          "latest_msg": "chore: update Prism data 2026-07-20",
-          "latest_sha": "1e96586",
-          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/1e965866d625eb684dc5750781f7e3ce3e9605bf"
+          "commits": 4,
+          "latest_date": "2026-07-24 22:56",
+          "latest_msg": "chore: update Prism data 2026-07-24",
+          "latest_sha": "788351a",
+          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/788351af1612e262f7933302c9222d5d340fcc32"
         },
         {
           "name": "darwin",
           "login": "DarwinJo05",
           "kind": "human",
-          "commits": 2,
+          "commits": 1,
           "latest_date": "2026-07-22 02:57",
           "latest_msg": "Update macro_agent_W08.md",
           "latest_sha": "10345f4",
@@ -1152,7 +1159,7 @@
       "midweek_artefact": {
         "present": true,
         "path": "Week8/R2_Scrum_Master/standup_midweek_W30.md",
-        "url": "https://github.com/Gong-yinxuan/CP3405/blob/86f29717f22c10ea2d2c47bcdc5079ff9c29c3aa/Week8/R2_Scrum_Master/standup_midweek_W30.md"
+        "url": "https://github.com/Gong-yinxuan/CP3405/blob/788351af1612e262f7933302c9222d5d340fcc32/Week8/R2_Scrum_Master/standup_midweek_W30.md"
       },
       "repo_url": "https://github.com/Gong-yinxuan/CP3405"
     },
