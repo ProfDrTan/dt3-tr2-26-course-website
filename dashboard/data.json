@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-24 16:58 UTC",
+  "updated": "2026-07-24 18:39 UTC",
   "sprint_tag": "vW30",
   "sprint_deadline_utc": "2026-07-26T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W30",
@@ -339,11 +339,11 @@
       "repo": "LuJunwen212/CP3405-Project",
       "prac": "A",
       "is_ultra": false,
-      "last_commit_sha": "744414c",
-      "last_commit_msg": "Merge pull request #24 from LuJunwen212/week-8",
-      "last_commit_date": "2026-07-24 09:48",
-      "last_commit_author": "LuJunwen212",
-      "last_commit_url": "https://github.com/LuJunwen212/CP3405-Project/commit/744414c0f1e1419c4ebf709276f1665c61c4ec5c",
+      "last_commit_sha": "695dc54",
+      "last_commit_msg": "Delete market_snapshot_W30.json",
+      "last_commit_date": "2026-07-24 17:04",
+      "last_commit_author": "Hamzah \"Opal\" Nutt",
+      "last_commit_url": "https://github.com/LuJunwen212/CP3405-Project/commit/695dc545784556989463ad11f5003a6ae7b7140e",
       "tags": [
         "vW29",
         "vW28",
@@ -368,10 +368,10 @@
           "login": "hamzah-opal-n",
           "kind": "human",
           "commits": 22,
-          "latest_date": "2026-07-23 08:53",
-          "latest_msg": "Update workflow name to include role number",
-          "latest_sha": "8904d72",
-          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/8904d72846826c876452c3828a153764ac06e952"
+          "latest_date": "2026-07-24 17:04",
+          "latest_msg": "Delete market_snapshot_W30.json",
+          "latest_sha": "695dc54",
+          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/695dc545784556989463ad11f5003a6ae7b7140e"
         },
         {
           "name": "The Bao Le",
@@ -632,7 +632,7 @@
       "midweek_artefact": {
         "present": true,
         "path": "evidence/progress_logs/standup_midweek_W30.md",
-        "url": "https://github.com/LuJunwen212/CP3405-Project/blob/744414c0f1e1419c4ebf709276f1665c61c4ec5c/evidence/progress_logs/standup_midweek_W30.md"
+        "url": "https://github.com/LuJunwen212/CP3405-Project/blob/695dc545784556989463ad11f5003a6ae7b7140e/evidence/progress_logs/standup_midweek_W30.md"
       },
       "repo_url": "https://github.com/LuJunwen212/CP3405-Project"
     },
