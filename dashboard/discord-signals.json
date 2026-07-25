@@ -1,11 +1,17 @@
 {
-  "generated": "Saturday 25 July 2026 09:24 SGT",
+  "generated": "Saturday 25 July 2026 12:48 SGT",
   "teams": {
     "Team 1": {
       "blockers": []
     },
     "Team 2": {
       "blockers": [
+        {
+          "author": "guanyulu_88237",
+          "content": "Current progress: The results for R6 and R3 have been automatically generated. Zaikun and I have fixed some unexpected issues in the R5 code. The results for R5 have also been automatically generated.",
+          "ts_str": "2026-07-25 01:49:12",
+          "url": "https://discord.com/channels/1505861202444816455/1505883145466155079/1530391441245737114"
+        },
         {
           "author": "guanyulu_88237",
           "content": "Good evening everyone. The progress this week is going well. R9 has merged week8 branch to main branch. Tomorrow, according to the  schedule, each role's pipeline will automatically generate the resul",
@@ -21,7 +27,38 @@
       "blockers": []
     },
     "Team 5": {
-      "blockers": []
+      "blockers": [
+        {
+          "author": "fiery_courgette_94143",
+          "content": "that one can't be automated and have to written manually by team since the prediction is inconsistent every week and each people having different writing style. but the json should be the same",
+          "ts_str": "2026-07-25 04:08:00",
+          "url": "https://discord.com/channels/1505861202444816455/1505883282993315890/1530426369501303025"
+        },
+        {
+          "author": "fiery_courgette_94143",
+          "content": "this one will be the main problems that make the calibration running wrong and redo the vW28",
+          "ts_str": "2026-07-25 04:04:01",
+          "url": "https://discord.com/channels/1505861202444816455/1505883282993315890/1530425365623734475"
+        },
+        {
+          "author": "fiery_courgette_94143",
+          "content": "Well, the problem is that the calibration file will run on Saturday morning, so when it's running, our group hasn't finished prediction; therefore, it doesn't have information of W30 so it overwrites ",
+          "ts_str": "2026-07-25 03:10:52",
+          "url": "https://discord.com/channels/1505861202444816455/1505883282993315890/1530411993700372560"
+        },
+        {
+          "author": "yinxuan_19796",
+          "content": "\u26a0\ufe0f R10 Calibration Bug \u2014 Still Unfixed, Now Reproduced Two Weeks in a Row\n\nLast week's (W29) R6 verification report found a logic issue in the calibration script prism/src/calibration_runner.py: once ",
+          "ts_str": "2026-07-25 02:51:56",
+          "url": "https://discord.com/channels/1505861202444816455/1505883282993315890/1530407227351896124"
+        },
+        {
+          "author": "yinxuan_19796",
+          "content": "I just finished the R6 project and found some issues.",
+          "ts_str": "2026-07-25 02:51:35",
+          "url": "https://discord.com/channels/1505861202444816455/1505883282993315890/1530407136885215283"
+        }
+      ]
     }
   }
 }
