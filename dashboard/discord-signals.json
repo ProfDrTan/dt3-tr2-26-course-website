@@ -1,5 +1,5 @@
 {
-  "generated": "Saturday 25 July 2026 12:48 SGT",
+  "generated": "Saturday 25 July 2026 15:08 SGT",
   "teams": {
     "Team 1": {
       "blockers": []
@@ -21,10 +21,24 @@
       ]
     },
     "Team 3": {
-      "blockers": []
+      "blockers": [
+        {
+          "author": "noah_071127",
+          "content": "Unfortunately, our automation script encountered an error when it ran at 6:30 this morning. I have now modified and uploaded the latest version of the automation script and ran it manually. The result",
+          "ts_str": "2026-07-25 05:25:50",
+          "url": "https://discord.com/channels/1505861202444816455/1505883200151490660/1530445955512401941"
+        }
+      ]
     },
     "Team 4": {
-      "blockers": []
+      "blockers": [
+        {
+          "author": "amiephyo_23759",
+          "content": "Hello, the latest pipeline has finished running. Everyone who is waiting on the updated data can proceed with your tasks now. Please let me know if you run into any blockers.",
+          "ts_str": "2026-07-25 05:36:11",
+          "url": "https://discord.com/channels/1505861202444816455/1505883243361206392/1530448561668493523"
+        }
+      ]
     },
     "Team 5": {
       "blockers": [
