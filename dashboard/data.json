@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-25 15:14 UTC",
+  "updated": "2026-07-25 16:15 UTC",
   "sprint_tag": "vW30",
   "sprint_deadline_utc": "2026-07-26T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W30",
@@ -10,11 +10,11 @@
       "repo": "sinder38/Team-1-Prac-A-Project",
       "prac": "A",
       "is_ultra": false,
-      "last_commit_sha": "c3a7f4c",
-      "last_commit_msg": "Feat: extract artifacts (#99)",
-      "last_commit_date": "2026-07-25 11:34",
-      "last_commit_author": "sinder",
-      "last_commit_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/c3a7f4ca3bd04179b651c22682ccc90d02abe7e2",
+      "last_commit_sha": "0af3a67",
+      "last_commit_msg": "feat: export delta report from sqlite (#101)",
+      "last_commit_date": "2026-07-25 16:10",
+      "last_commit_author": "JasonEran",
+      "last_commit_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/0af3a67be2a62cecc40e4de9f2ec377c4aea6403",
       "tags": [
         "vW29",
         "vW28",
@@ -26,12 +26,11 @@
       "sprint_tag_present": false,
       "last_run_name": "python-checks",
       "last_run_conclusion": "success",
-      "last_run_date": "2026-07-25 13:10",
-      "last_run_url": "https://github.com/sinder38/Team-1-Prac-A-Project/actions/runs/30159251646",
+      "last_run_date": "2026-07-25 16:10",
+      "last_run_url": "https://github.com/sinder38/Team-1-Prac-A-Project/actions/runs/30165107698",
       "last_run_was_filtered": true,
-      "open_prs": 7,
+      "open_prs": 6,
       "pr_titles": [
-        "feat: export Delta report from SQLite",
         "Implement prediction range",
         "chore: pipeline artifacts 2026-07-25",
         "fix: keep incomplete archive weeks open and sync stage 3 pro",
@@ -40,12 +39,6 @@
         "Implement regression tests for TechnicalAgent"
       ],
       "pr_links": [
-        {
-          "title": "feat: export Delta report from SQLite",
-          "number": 101,
-          "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/101",
-          "author": "JasonEran"
-        },
         {
           "title": "Implement prediction range",
           "number": 100,
@@ -126,6 +119,16 @@
           "latest_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/c672810e008381fbdb86bb26c46a50142144fe90"
         },
         {
+          "name": "JasonEran",
+          "login": "JasonEran",
+          "kind": "human",
+          "commits": 2,
+          "latest_date": "2026-07-25 16:10",
+          "latest_msg": "feat: export delta report from sqlite (#101)",
+          "latest_sha": "0af3a67",
+          "latest_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/0af3a67be2a62cecc40e4de9f2ec377c4aea6403"
+        },
+        {
           "name": "github-actions[bot]",
           "login": "github-actions[bot]",
           "kind": "bot",
@@ -154,27 +157,17 @@
           "latest_msg": "adding test_almanac_agent py file (#57)",
           "latest_sha": "ee302d6",
           "latest_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/ee302d66a966c5587b02a763cc1958d3278cc432"
-        },
-        {
-          "name": "JasonEran",
-          "login": "JasonEran",
-          "kind": "human",
-          "commits": 1,
-          "latest_date": "2026-07-19 13:17",
-          "latest_msg": "Integrate Delta Engine with pipeline, backend and frontend (#81)",
-          "latest_sha": "5a8d7d8",
-          "latest_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/5a8d7d800239df52011682b7e92e0b80bdb562bc"
         }
       ],
       "pr_history": {
         "total": 101,
-        "merged": 65,
-        "open": 7,
+        "merged": 66,
+        "open": 6,
         "abandoned": 29,
         "weekly": {
           "2026-07-20": {
-            "merged": 3,
-            "open": 6,
+            "merged": 4,
+            "open": 5,
             "abandoned": 2
           },
           "2026-07-13": {
@@ -222,7 +215,7 @@
           {
             "number": 101,
             "title": "feat: export Delta report from SQLite",
-            "status": "open",
+            "status": "merged",
             "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/101",
             "created_at": "2026-07-25",
             "author": "JasonEran"
