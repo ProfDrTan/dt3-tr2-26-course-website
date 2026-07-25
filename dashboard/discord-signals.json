@@ -1,8 +1,20 @@
 {
-  "generated": "Saturday 25 July 2026 21:55 SGT",
+  "generated": "Saturday 25 July 2026 23:13 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
+        {
+          "author": "_itobi_",
+          "content": "For this week, i already done the md update to the latest version and then i broke it down to different part for the wiki",
+          "ts_str": "2026-07-25 15:05:11",
+          "url": "https://discord.com/channels/1505861202444816455/1505883026771677366/1530591754607136768"
+        },
+        {
+          "author": "knm0856",
+          "content": "If you want to include a dedicated slide to share your details, no problem, tell me asap.\nOr you want to keep our existing presentation sturcture( slides summary first and then open the github repo to",
+          "ts_str": "2026-07-25 14:45:10",
+          "url": "https://discord.com/channels/1505861202444816455/1505883026771677366/1530586718892199986"
+        },
         {
           "author": "knm0856",
           "content": "1. Fixing of front-end(ollma/api choosing, new ci test on local llm or api)\n2. Fixing of back-end macro agent(api obtain error), and replacement of a a new llm model at llm agent\n3. \u2026\u2026updating as PR m",
