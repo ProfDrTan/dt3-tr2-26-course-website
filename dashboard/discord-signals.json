@@ -1,11 +1,36 @@
 {
-  "generated": "Saturday 25 July 2026 15:08 SGT",
+  "generated": "Saturday 25 July 2026 17:12 SGT",
   "teams": {
     "Team 1": {
-      "blockers": []
+      "blockers": [
+        {
+          "author": "knm0856",
+          "content": "1. Fixing of front-end(ollma/api choosing, new ci test on local llm or api)\n2. Fixing of back-end macro agent(api obtain error), and replacement of a a new llm model at llm agent\n3. \u2026\u2026updating as PR m",
+          "ts_str": "2026-07-25 07:18:38",
+          "url": "https://discord.com/channels/1505861202444816455/1505883026771677366/1530474343463649361"
+        },
+        {
+          "author": "js_eran",
+          "content": "Okay, thank you. I appreciate your help.",
+          "ts_str": "2026-07-25 07:12:33",
+          "url": "https://discord.com/channels/1505861202444816455/1505883026771677366/1530472812618322030"
+        }
+      ]
     },
     "Team 2": {
       "blockers": [
+        {
+          "author": "guanyulu_88237",
+          "content": "The code of R5 lacks the definition of \"normalize_week\", Zaikun fixed the code  but due to miss an underscore, it was unable to generate the graph. Fortunately, I discovered this problem in the end an",
+          "ts_str": "2026-07-25 07:53:38",
+          "url": "https://discord.com/channels/1505861202444816455/1505883145466155079/1530483152856813608"
+        },
+        {
+          "author": "vileworx",
+          "content": "As in what were the issues with the code?",
+          "ts_str": "2026-07-25 07:40:21",
+          "url": "https://discord.com/channels/1505861202444816455/1505883145466155079/1530479809552191621"
+        },
         {
           "author": "guanyulu_88237",
           "content": "Current progress: The results for R6 and R3 have been automatically generated. Zaikun and I have fixed some unexpected issues in the R5 code. The results for R5 have also been automatically generated.",
