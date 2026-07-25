@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-25 04:48 UTC",
+  "updated": "2026-07-25 07:09 UTC",
   "sprint_tag": "vW30",
   "sprint_deadline_utc": "2026-07-26T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W30",
@@ -26,11 +26,13 @@
       "sprint_tag_present": false,
       "last_run_name": "agent-checks",
       "last_run_conclusion": "success",
-      "last_run_date": "2026-07-25 04:44",
-      "last_run_url": "https://github.com/sinder38/Team-1-Prac-A-Project/actions/runs/30144546696",
+      "last_run_date": "2026-07-25 05:57",
+      "last_run_url": "https://github.com/sinder38/Team-1-Prac-A-Project/actions/runs/30146662650",
       "last_run_was_filtered": true,
-      "open_prs": 6,
+      "open_prs": 8,
       "pr_titles": [
+        "Feat/add database storage option",
+        "Fix incorrect API name, add updated macro",
         "chore: pipeline artifacts 2026-07-25",
         "feat: persist human score as JSON and render markdown on bac",
         "fix: keep incomplete archive weeks open and sync stage 3 pro",
@@ -39,6 +41,18 @@
         "Implement regression tests for TechnicalAgent"
       ],
       "pr_links": [
+        {
+          "title": "Feat/add database storage option",
+          "number": 98,
+          "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/98",
+          "author": "sinder38"
+        },
+        {
+          "title": "Fix incorrect API name, add updated macro",
+          "number": 97,
+          "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/97",
+          "author": "NaingPhonePyae"
+        },
         {
           "title": "chore: pipeline artifacts 2026-07-25",
           "number": 96,
@@ -160,14 +174,14 @@
         }
       ],
       "pr_history": {
-        "total": 96,
+        "total": 98,
         "merged": 62,
-        "open": 6,
+        "open": 8,
         "abandoned": 28,
         "weekly": {
           "2026-07-20": {
             "merged": 0,
-            "open": 5,
+            "open": 7,
             "abandoned": 1
           },
           "2026-07-13": {
@@ -212,6 +226,22 @@
           }
         },
         "recent": [
+          {
+            "number": 98,
+            "title": "Feat/add database storage option",
+            "status": "open",
+            "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/98",
+            "created_at": "2026-07-25",
+            "author": "sinder38"
+          },
+          {
+            "number": 97,
+            "title": "Fix incorrect API name, add updated macro",
+            "status": "open",
+            "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/97",
+            "created_at": "2026-07-25",
+            "author": "NaingPhonePyae"
+          },
           {
             "number": 96,
             "title": "chore: pipeline artifacts 2026-07-25",
@@ -315,22 +345,6 @@
             "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/84",
             "created_at": "2026-07-18",
             "author": "saikokokyaw"
-          },
-          {
-            "number": 83,
-            "title": "Save JSON files in database",
-            "status": "abandoned",
-            "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/83",
-            "created_at": "2026-07-18",
-            "author": "NaingPhonePyae"
-          },
-          {
-            "number": 82,
-            "title": "chore: pipeline artifacts 2026-07-17",
-            "status": "abandoned",
-            "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/82",
-            "created_at": "2026-07-17",
-            "author": "github-actions[bot]"
           }
         ]
       },
@@ -1167,7 +1181,7 @@
       "midweek_artefact": {
         "present": true,
         "path": "Week8/R2_Scrum_Master/standup_midweek_W30.md",
-        "url": "https://github.com/Gong-yinxuan/CP3405/blob/242614287ecacf5c112e38af1dae22cd0ad89386/Week8/R2_Scrum_Master/standup_midweek_W30.md"
+        "url": "https://github.com/Gong-yinxuan/CP3405/blob/821e299aac0ff2ef94f4b9dc1465cace1aff6a46/Week8/R2_Scrum_Master/standup_midweek_W30.md"
       },
       "repo_url": "https://github.com/Gong-yinxuan/CP3405"
     },
