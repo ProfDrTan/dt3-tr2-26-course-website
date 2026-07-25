@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-25 11:55 UTC",
+  "updated": "2026-07-25 13:55 UTC",
   "sprint_tag": "vW30",
   "sprint_deadline_utc": "2026-07-26T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W30",
@@ -25,12 +25,13 @@
       ],
       "sprint_tag_present": false,
       "last_run_name": "python-checks",
-      "last_run_conclusion": "failure",
-      "last_run_date": "2026-07-25 11:42",
-      "last_run_url": "https://github.com/sinder38/Team-1-Prac-A-Project/actions/runs/30156684394",
+      "last_run_conclusion": "success",
+      "last_run_date": "2026-07-25 13:10",
+      "last_run_url": "https://github.com/sinder38/Team-1-Prac-A-Project/actions/runs/30159251646",
       "last_run_was_filtered": true,
-      "open_prs": 6,
+      "open_prs": 7,
       "pr_titles": [
+        "feat: export Delta report from SQLite",
         "Implement prediction range",
         "chore: pipeline artifacts 2026-07-25",
         "fix: keep incomplete archive weeks open and sync stage 3 pro",
@@ -39,6 +40,12 @@
         "Implement regression tests for TechnicalAgent"
       ],
       "pr_links": [
+        {
+          "title": "feat: export Delta report from SQLite",
+          "number": 101,
+          "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/101",
+          "author": "JasonEran"
+        },
         {
           "title": "Implement prediction range",
           "number": 100,
@@ -160,14 +167,14 @@
         }
       ],
       "pr_history": {
-        "total": 100,
+        "total": 101,
         "merged": 65,
-        "open": 6,
+        "open": 7,
         "abandoned": 29,
         "weekly": {
           "2026-07-20": {
             "merged": 3,
-            "open": 5,
+            "open": 6,
             "abandoned": 2
           },
           "2026-07-13": {
@@ -212,6 +219,14 @@
           }
         },
         "recent": [
+          {
+            "number": 101,
+            "title": "feat: export Delta report from SQLite",
+            "status": "open",
+            "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/101",
+            "created_at": "2026-07-25",
+            "author": "JasonEran"
+          },
           {
             "number": 100,
             "title": "Implement prediction range",
@@ -323,14 +338,6 @@
             "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/87",
             "created_at": "2026-07-19",
             "author": "Tobias778"
-          },
-          {
-            "number": 86,
-            "title": "chore: pipeline artifacts 2026-07-19",
-            "status": "merged",
-            "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/86",
-            "created_at": "2026-07-19",
-            "author": "github-actions[bot]"
           }
         ]
       },
