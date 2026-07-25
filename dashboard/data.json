@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-25 09:13 UTC",
+  "updated": "2026-07-25 10:47 UTC",
   "sprint_tag": "vW30",
   "sprint_deadline_utc": "2026-07-26T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W30",
@@ -10,11 +10,11 @@
       "repo": "sinder38/Team-1-Prac-A-Project",
       "prac": "A",
       "is_ultra": false,
-      "last_commit_sha": "e1c1f71",
-      "last_commit_msg": "Feat/add database local storage  (#98)",
-      "last_commit_date": "2026-07-25 08:21",
-      "last_commit_author": "sinder",
-      "last_commit_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/e1c1f710cd41d9c665e9a0214bdb981f50aa231a",
+      "last_commit_sha": "8ab2e0d",
+      "last_commit_msg": "Fix incorrect API name, add updated macro (#97)",
+      "last_commit_date": "2026-07-25 09:32",
+      "last_commit_author": "NaingPhonePyae",
+      "last_commit_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/8ab2e0da5d8d456fdb0df31792b9de245333d841",
       "tags": [
         "vW29",
         "vW28",
@@ -24,14 +24,13 @@
         "vW22"
       ],
       "sprint_tag_present": false,
-      "last_run_name": "agent-checks",
+      "last_run_name": "python-checks",
       "last_run_conclusion": "success",
-      "last_run_date": "2026-07-25 08:33",
-      "last_run_url": "https://github.com/sinder38/Team-1-Prac-A-Project/actions/runs/30151311657",
+      "last_run_date": "2026-07-25 10:17",
+      "last_run_url": "https://github.com/sinder38/Team-1-Prac-A-Project/actions/runs/30154208952",
       "last_run_was_filtered": true,
-      "open_prs": 7,
+      "open_prs": 6,
       "pr_titles": [
-        "Fix incorrect API name, add updated macro",
         "chore: pipeline artifacts 2026-07-25",
         "feat: persist human score as JSON and render markdown on bac",
         "fix: keep incomplete archive weeks open and sync stage 3 pro",
@@ -40,12 +39,6 @@
         "Implement regression tests for TechnicalAgent"
       ],
       "pr_links": [
-        {
-          "title": "Fix incorrect API name, add updated macro",
-          "number": 97,
-          "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/97",
-          "author": "NaingPhonePyae"
-        },
         {
           "title": "chore: pipeline artifacts 2026-07-25",
           "number": 96,
@@ -96,6 +89,16 @@
           "latest_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/e1c1f710cd41d9c665e9a0214bdb981f50aa231a"
         },
         {
+          "name": "NaingPhonePyae",
+          "login": "NaingPhonePyae",
+          "kind": "human",
+          "commits": 3,
+          "latest_date": "2026-07-25 09:32",
+          "latest_msg": "Fix incorrect API name, add updated macro (#97)",
+          "latest_sha": "8ab2e0d",
+          "latest_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/8ab2e0da5d8d456fdb0df31792b9de245333d841"
+        },
+        {
           "name": "PanHsuMyat",
           "login": "panhsumyat0179-pixel",
           "kind": "human",
@@ -124,16 +127,6 @@
           "latest_msg": "chore: pipeline artifacts 2026-07-19 (#86)",
           "latest_sha": "bd69f28",
           "latest_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/bd69f28f6769ce43f6e4852859ace49a886c64e0"
-        },
-        {
-          "name": "NaingPhonePyae",
-          "login": "NaingPhonePyae",
-          "kind": "human",
-          "commits": 2,
-          "latest_date": "2026-07-19 14:23",
-          "latest_msg": "feature/macro-agent (#69)",
-          "latest_sha": "088157d",
-          "latest_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/088157dc6bcd0eb7ba134a0e2f3deea525f845d7"
         },
         {
           "name": "saikokokyaw",
@@ -168,13 +161,13 @@
       ],
       "pr_history": {
         "total": 98,
-        "merged": 63,
-        "open": 7,
+        "merged": 64,
+        "open": 6,
         "abandoned": 28,
         "weekly": {
           "2026-07-20": {
-            "merged": 1,
-            "open": 6,
+            "merged": 2,
+            "open": 5,
             "abandoned": 1
           },
           "2026-07-13": {
@@ -230,7 +223,7 @@
           {
             "number": 97,
             "title": "Fix incorrect API name, add updated macro",
-            "status": "open",
+            "status": "merged",
             "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/97",
             "created_at": "2026-07-25",
             "author": "NaingPhonePyae"
@@ -353,11 +346,11 @@
       "repo": "LuJunwen212/CP3405-Project",
       "prac": "A",
       "is_ultra": false,
-      "last_commit_sha": "48f49b1",
-      "last_commit_msg": "chore(r4): weekly macro report [skip ci]",
-      "last_commit_date": "2026-07-25 08:02",
-      "last_commit_author": "Team2 R4 Automation ",
-      "last_commit_url": "https://github.com/LuJunwen212/CP3405-Project/commit/48f49b1bb9870f4346d78b86d457f5b8f7fcf54b",
+      "last_commit_sha": "891a59f",
+      "last_commit_msg": "docs(r8): updated free open-source multi-model matrix [skip ",
+      "last_commit_date": "2026-07-25 09:43",
+      "last_commit_author": "Team2 R8 LLM Operato",
+      "last_commit_url": "https://github.com/LuJunwen212/CP3405-Project/commit/891a59ffa6ea1442231adc4de2fd55168c204ddc",
       "tags": [
         "vW29",
         "vW28",
@@ -367,10 +360,10 @@
         "vW22"
       ],
       "sprint_tag_present": false,
-      "last_run_name": "R4 Weekly Macro Agent",
+      "last_run_name": "Automated R8 LLM Operator",
       "last_run_conclusion": "success",
-      "last_run_date": "2026-07-25 08:01",
-      "last_run_url": "https://github.com/LuJunwen212/CP3405-Project/actions/runs/30150361689",
+      "last_run_date": "2026-07-25 09:42",
+      "last_run_url": "https://github.com/LuJunwen212/CP3405-Project/actions/runs/30153226228",
       "last_run_was_filtered": true,
       "open_prs": 0,
       "pr_titles": [],
@@ -438,6 +431,16 @@
           "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/c790ac9ef2d4faeb3539833c8229820939a11be0"
         },
         {
+          "name": "Team2 R8 LLM Operator",
+          "login": "",
+          "kind": "human",
+          "commits": 4,
+          "latest_date": "2026-07-25 09:43",
+          "latest_msg": "docs(r8): updated free open-source multi-model matrix [skip ci]",
+          "latest_sha": "891a59f",
+          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/891a59ffa6ea1442231adc4de2fd55168c204ddc"
+        },
+        {
           "name": "LuJunwen212",
           "login": "LuJunwen212",
           "kind": "human",
@@ -466,16 +469,6 @@
           "latest_msg": "chore(r10): automate calibration for W29",
           "latest_sha": "1516c42",
           "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/1516c42def3b1a23d1f440a7f85d89fcdc563d86"
-        },
-        {
-          "name": "Team2 R8 LLM Operator",
-          "login": "",
-          "kind": "human",
-          "commits": 3,
-          "latest_date": "2026-07-22 08:16",
-          "latest_msg": "docs(r8): updated free open-source multi-model matrix [skip ci]",
-          "latest_sha": "3189297",
-          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/3189297b2ac2639ca1bdeafe51396e008c7c59a8"
         }
       ],
       "pr_history": {
@@ -646,7 +639,7 @@
       "midweek_artefact": {
         "present": true,
         "path": "evidence/progress_logs/standup_midweek_W30.md",
-        "url": "https://github.com/LuJunwen212/CP3405-Project/blob/48f49b1bb9870f4346d78b86d457f5b8f7fcf54b/evidence/progress_logs/standup_midweek_W30.md"
+        "url": "https://github.com/LuJunwen212/CP3405-Project/blob/891a59ffa6ea1442231adc4de2fd55168c204ddc/evidence/progress_logs/standup_midweek_W30.md"
       },
       "repo_url": "https://github.com/LuJunwen212/CP3405-Project"
     },
@@ -981,11 +974,11 @@
       "repo": "Gong-yinxuan/CP3405",
       "prac": "B",
       "is_ultra": false,
-      "last_commit_sha": "ee93d29",
-      "last_commit_msg": "Update Human Score for Week 08",
-      "last_commit_date": "2026-07-25 08:16",
+      "last_commit_sha": "e285e0b",
+      "last_commit_msg": "Submit Team 05 weekly financial predictions",
+      "last_commit_date": "2026-07-25 09:29",
       "last_commit_author": "EkaTiu",
-      "last_commit_url": "https://github.com/Gong-yinxuan/CP3405/commit/ee93d29a146a43c630ae52ba2c83e73b55ffc562",
+      "last_commit_url": "https://github.com/Gong-yinxuan/CP3405/commit/e285e0bb6b3568b4be8252fe0e17d5543141511f",
       "tags": [
         "vW29",
         "vW28",
@@ -1018,11 +1011,11 @@
           "name": "EkaTiu",
           "login": "EkaTiuJCU",
           "kind": "human",
-          "commits": 22,
-          "latest_date": "2026-07-25 08:16",
-          "latest_msg": "Update Human Score for Week 08",
-          "latest_sha": "ee93d29",
-          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/ee93d29a146a43c630ae52ba2c83e73b55ffc562"
+          "commits": 23,
+          "latest_date": "2026-07-25 09:29",
+          "latest_msg": "Submit Team 05 weekly financial predictions",
+          "latest_sha": "e285e0b",
+          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/e285e0bb6b3568b4be8252fe0e17d5543141511f"
         },
         {
           "name": "wujinrui2004",
@@ -1058,7 +1051,7 @@
           "name": "Kherlenbayar Sukhbaatar",
           "login": "kherlen31",
           "kind": "human",
-          "commits": 6,
+          "commits": 5,
           "latest_date": "2026-07-22 08:02",
           "latest_msg": "Update technical_agent_W08.md",
           "latest_sha": "3a42095",
@@ -1174,7 +1167,7 @@
       "midweek_artefact": {
         "present": true,
         "path": "Week8/R2_Scrum_Master/standup_midweek_W30.md",
-        "url": "https://github.com/Gong-yinxuan/CP3405/blob/284a0a6accb7f21fe898884c4f2dbb19986a73b8/Week8/R2_Scrum_Master/standup_midweek_W30.md"
+        "url": "https://github.com/Gong-yinxuan/CP3405/blob/e285e0bb6b3568b4be8252fe0e17d5543141511f/Week8/R2_Scrum_Master/standup_midweek_W30.md"
       },
       "repo_url": "https://github.com/Gong-yinxuan/CP3405"
     },
@@ -1198,7 +1191,7 @@
       "open_prs": 0,
       "pr_titles": [],
       "pr_links": [],
-      "days_since_commit": 4,
+      "days_since_commit": 5,
       "contributors": [
         {
           "name": "ProfDrTan",
