@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-25 07:09 UTC",
+  "updated": "2026-07-25 09:13 UTC",
   "sprint_tag": "vW30",
   "sprint_deadline_utc": "2026-07-26T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W30",
@@ -10,11 +10,11 @@
       "repo": "sinder38/Team-1-Prac-A-Project",
       "prac": "A",
       "is_ultra": false,
-      "last_commit_sha": "3160a85",
-      "last_commit_msg": "fix improper naming",
-      "last_commit_date": "2026-07-25 04:44",
+      "last_commit_sha": "e1c1f71",
+      "last_commit_msg": "Feat/add database local storage  (#98)",
+      "last_commit_date": "2026-07-25 08:21",
       "last_commit_author": "sinder",
-      "last_commit_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/3160a8510b5c26b27f6bebcdf4ccec8e4706927b",
+      "last_commit_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/e1c1f710cd41d9c665e9a0214bdb981f50aa231a",
       "tags": [
         "vW29",
         "vW28",
@@ -26,12 +26,11 @@
       "sprint_tag_present": false,
       "last_run_name": "agent-checks",
       "last_run_conclusion": "success",
-      "last_run_date": "2026-07-25 05:57",
-      "last_run_url": "https://github.com/sinder38/Team-1-Prac-A-Project/actions/runs/30146662650",
+      "last_run_date": "2026-07-25 08:33",
+      "last_run_url": "https://github.com/sinder38/Team-1-Prac-A-Project/actions/runs/30151311657",
       "last_run_was_filtered": true,
-      "open_prs": 8,
+      "open_prs": 7,
       "pr_titles": [
-        "Feat/add database storage option",
         "Fix incorrect API name, add updated macro",
         "chore: pipeline artifacts 2026-07-25",
         "feat: persist human score as JSON and render markdown on bac",
@@ -41,12 +40,6 @@
         "Implement regression tests for TechnicalAgent"
       ],
       "pr_links": [
-        {
-          "title": "Feat/add database storage option",
-          "number": 98,
-          "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/98",
-          "author": "sinder38"
-        },
         {
           "title": "Fix incorrect API name, add updated macro",
           "number": 97,
@@ -96,11 +89,11 @@
           "name": "sinder",
           "login": "sinder38",
           "kind": "human",
-          "commits": 12,
-          "latest_date": "2026-07-25 04:44",
-          "latest_msg": "fix improper naming",
-          "latest_sha": "3160a85",
-          "latest_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/3160a8510b5c26b27f6bebcdf4ccec8e4706927b"
+          "commits": 13,
+          "latest_date": "2026-07-25 08:21",
+          "latest_msg": "Feat/add database local storage  (#98)",
+          "latest_sha": "e1c1f71",
+          "latest_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/e1c1f710cd41d9c665e9a0214bdb981f50aa231a"
         },
         {
           "name": "PanHsuMyat",
@@ -175,13 +168,13 @@
       ],
       "pr_history": {
         "total": 98,
-        "merged": 62,
-        "open": 8,
+        "merged": 63,
+        "open": 7,
         "abandoned": 28,
         "weekly": {
           "2026-07-20": {
-            "merged": 0,
-            "open": 7,
+            "merged": 1,
+            "open": 6,
             "abandoned": 1
           },
           "2026-07-13": {
@@ -228,8 +221,8 @@
         "recent": [
           {
             "number": 98,
-            "title": "Feat/add database storage option",
-            "status": "open",
+            "title": "Feat/add database local storage ",
+            "status": "merged",
             "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/98",
             "created_at": "2026-07-25",
             "author": "sinder38"
@@ -360,11 +353,11 @@
       "repo": "LuJunwen212/CP3405-Project",
       "prac": "A",
       "is_ultra": false,
-      "last_commit_sha": "c790ac9",
-      "last_commit_msg": "chore(data): automated R3 next-week forecast execution matri",
-      "last_commit_date": "2026-07-25 04:33",
-      "last_commit_author": "Team 2 Almanac Autom",
-      "last_commit_url": "https://github.com/LuJunwen212/CP3405-Project/commit/c790ac9ef2d4faeb3539833c8229820939a11be0",
+      "last_commit_sha": "48f49b1",
+      "last_commit_msg": "chore(r4): weekly macro report [skip ci]",
+      "last_commit_date": "2026-07-25 08:02",
+      "last_commit_author": "Team2 R4 Automation ",
+      "last_commit_url": "https://github.com/LuJunwen212/CP3405-Project/commit/48f49b1bb9870f4346d78b86d457f5b8f7fcf54b",
       "tags": [
         "vW29",
         "vW28",
@@ -374,10 +367,10 @@
         "vW22"
       ],
       "sprint_tag_present": false,
-      "last_run_name": "R3 Almanac Agent Multi-Week Automation P",
+      "last_run_name": "R4 Weekly Macro Agent",
       "last_run_conclusion": "success",
-      "last_run_date": "2026-07-25 04:33",
-      "last_run_url": "https://github.com/LuJunwen212/CP3405-Project/actions/runs/30144229093",
+      "last_run_date": "2026-07-25 08:01",
+      "last_run_url": "https://github.com/LuJunwen212/CP3405-Project/actions/runs/30150361689",
       "last_run_was_filtered": true,
       "open_prs": 0,
       "pr_titles": [],
@@ -408,11 +401,11 @@
           "name": "Guanyu Lu",
           "login": "Guanyu-Lu",
           "kind": "human",
-          "commits": 13,
-          "latest_date": "2026-07-25 03:05",
-          "latest_msg": "Refactor comments to remove emojis and formatting",
-          "latest_sha": "227c796",
-          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/227c79639cf87d13b071f3b856fe09763fa2d036"
+          "commits": 14,
+          "latest_date": "2026-07-25 07:59",
+          "latest_msg": "Merge pull request #25 from LuJunwen212/week-8",
+          "latest_sha": "c7e211f",
+          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/c7e211fcd9580f4dc9f7853b3b617c8f4a480f9a"
         },
         {
           "name": "Team2 Data Automation Bot",
@@ -486,13 +479,13 @@
         }
       ],
       "pr_history": {
-        "total": 24,
-        "merged": 20,
+        "total": 25,
+        "merged": 21,
         "open": 0,
         "abandoned": 4,
         "weekly": {
           "2026-07-20": {
-            "merged": 1,
+            "merged": 2,
             "open": 0,
             "abandoned": 0
           },
@@ -528,6 +521,14 @@
           }
         },
         "recent": [
+          {
+            "number": 25,
+            "title": "chore(r4): weekly macro report [skip ci]",
+            "status": "merged",
+            "url": "https://github.com/LuJunwen212/CP3405-Project/pull/25",
+            "created_at": "2026-07-25",
+            "author": "Guanyu-Lu"
+          },
           {
             "number": 24,
             "title": "Week 8",
@@ -639,21 +640,13 @@
             "url": "https://github.com/LuJunwen212/CP3405-Project/pull/11",
             "created_at": "2026-06-20",
             "author": "The-Bao-Le"
-          },
-          {
-            "number": 10,
-            "title": "chore(data): automated market ledger alignment [skip ci]",
-            "status": "merged",
-            "url": "https://github.com/LuJunwen212/CP3405-Project/pull/10",
-            "created_at": "2026-06-20",
-            "author": "The-Bao-Le"
           }
         ]
       },
       "midweek_artefact": {
         "present": true,
         "path": "evidence/progress_logs/standup_midweek_W30.md",
-        "url": "https://github.com/LuJunwen212/CP3405-Project/blob/c790ac9ef2d4faeb3539833c8229820939a11be0/evidence/progress_logs/standup_midweek_W30.md"
+        "url": "https://github.com/LuJunwen212/CP3405-Project/blob/48f49b1bb9870f4346d78b86d457f5b8f7fcf54b/evidence/progress_logs/standup_midweek_W30.md"
       },
       "repo_url": "https://github.com/LuJunwen212/CP3405-Project"
     },
@@ -988,11 +981,11 @@
       "repo": "Gong-yinxuan/CP3405",
       "prac": "B",
       "is_ultra": false,
-      "last_commit_sha": "821e299",
-      "last_commit_msg": "update update.yml",
-      "last_commit_date": "2026-07-25 04:41",
-      "last_commit_author": "ToHoangGia",
-      "last_commit_url": "https://github.com/Gong-yinxuan/CP3405/commit/821e299aac0ff2ef94f4b9dc1465cace1aff6a46",
+      "last_commit_sha": "ee93d29",
+      "last_commit_msg": "Update Human Score for Week 08",
+      "last_commit_date": "2026-07-25 08:16",
+      "last_commit_author": "EkaTiu",
+      "last_commit_url": "https://github.com/Gong-yinxuan/CP3405/commit/ee93d29a146a43c630ae52ba2c83e73b55ffc562",
       "tags": [
         "vW29",
         "vW28",
@@ -1003,8 +996,8 @@
       "sprint_tag_present": false,
       "last_run_name": "Update Market Data",
       "last_run_conclusion": "success",
-      "last_run_date": "2026-07-24 22:56",
-      "last_run_url": "https://github.com/Gong-yinxuan/CP3405/actions/runs/30132411845",
+      "last_run_date": "2026-07-23 10:01",
+      "last_run_url": "https://github.com/Gong-yinxuan/CP3405/actions/runs/29997715271",
       "last_run_was_filtered": true,
       "open_prs": 0,
       "pr_titles": [],
@@ -1015,11 +1008,21 @@
           "name": "ToHoangGia",
           "login": "ToHoangGia",
           "kind": "human",
-          "commits": 28,
+          "commits": 26,
           "latest_date": "2026-07-25 04:41",
           "latest_msg": "update update.yml",
           "latest_sha": "821e299",
           "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/821e299aac0ff2ef94f4b9dc1465cace1aff6a46"
+        },
+        {
+          "name": "EkaTiu",
+          "login": "EkaTiuJCU",
+          "kind": "human",
+          "commits": 22,
+          "latest_date": "2026-07-25 08:16",
+          "latest_msg": "Update Human Score for Week 08",
+          "latest_sha": "ee93d29",
+          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/ee93d29a146a43c630ae52ba2c83e73b55ffc562"
         },
         {
           "name": "wujinrui2004",
@@ -1032,20 +1035,10 @@
           "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/8639c938fce2305a89195324d681a0ffd4206b38"
         },
         {
-          "name": "EkaTiu",
-          "login": "EkaTiuJCU",
-          "kind": "human",
-          "commits": 17,
-          "latest_date": "2026-07-22 03:30",
-          "latest_msg": "Create human_score_W08.md",
-          "latest_sha": "c7e2a12",
-          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/c7e2a122b12846415f1e121d55e8c45db79bec76"
-        },
-        {
           "name": "HYH-design-bot",
           "login": "HYH-design-bot",
           "kind": "bot",
-          "commits": 17,
+          "commits": 16,
           "latest_date": "2026-07-21 11:31",
           "latest_msg": "Update sprint_goal_W30.md, Added Reasoning behind sprint goal for clar",
           "latest_sha": "d0a99e2",
@@ -1065,7 +1058,7 @@
           "name": "Kherlenbayar Sukhbaatar",
           "login": "kherlen31",
           "kind": "human",
-          "commits": 8,
+          "commits": 6,
           "latest_date": "2026-07-22 08:02",
           "latest_msg": "Update technical_agent_W08.md",
           "latest_sha": "3a42095",
@@ -1181,7 +1174,7 @@
       "midweek_artefact": {
         "present": true,
         "path": "Week8/R2_Scrum_Master/standup_midweek_W30.md",
-        "url": "https://github.com/Gong-yinxuan/CP3405/blob/821e299aac0ff2ef94f4b9dc1465cace1aff6a46/Week8/R2_Scrum_Master/standup_midweek_W30.md"
+        "url": "https://github.com/Gong-yinxuan/CP3405/blob/284a0a6accb7f21fe898884c4f2dbb19986a73b8/Week8/R2_Scrum_Master/standup_midweek_W30.md"
       },
       "repo_url": "https://github.com/Gong-yinxuan/CP3405"
     },
