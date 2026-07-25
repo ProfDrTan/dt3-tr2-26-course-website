@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-25 19:51 UTC",
+  "updated": "2026-07-25 20:47 UTC",
   "sprint_tag": "vW30",
   "sprint_deadline_utc": "2026-07-26T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W30",
@@ -782,11 +782,11 @@
       "repo": "wintwah-lwin/CP3405_Group_4",
       "prac": "B",
       "is_ultra": false,
-      "last_commit_sha": "106fdd0",
-      "last_commit_msg": "Auto-commit: Pipeline execution (Week 9)",
-      "last_commit_date": "2026-07-24 21:05",
-      "last_commit_author": "github-actions[bot]",
-      "last_commit_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/106fdd0a429b33ce66dbf3bc24a18f510bfae066",
+      "last_commit_sha": "6971148",
+      "last_commit_msg": "Update human_score_2026-W9.md",
+      "last_commit_date": "2026-07-25 20:27",
+      "last_commit_author": "Mingyu-Cai",
+      "last_commit_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/697114819e8e2716c5ec1561f443f5ba16bf761d",
       "tags": [
         "vW29",
         "v1.0.0",
@@ -846,6 +846,16 @@
           "latest_msg": "Add standup_midweek_W30.md",
           "latest_sha": "f0f30cd",
           "latest_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/f0f30cddada4576f1326664d58b8624eaa52a93e"
+        },
+        {
+          "name": "Mingyu-Cai",
+          "login": "Mingyu-Cai",
+          "kind": "human",
+          "commits": 6,
+          "latest_date": "2026-07-25 20:27",
+          "latest_msg": "Update human_score_2026-W9.md",
+          "latest_sha": "6971148",
+          "latest_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/697114819e8e2716c5ec1561f443f5ba16bf761d"
         },
         {
           "name": "louishan42",
