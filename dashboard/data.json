@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-25 13:55 UTC",
+  "updated": "2026-07-25 15:14 UTC",
   "sprint_tag": "vW30",
   "sprint_deadline_utc": "2026-07-26T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W30",
@@ -655,11 +655,11 @@
       "repo": "juninho4/Team-3-Practical-A-CP3405",
       "prac": "A",
       "is_ultra": false,
-      "last_commit_sha": "4775e6b",
-      "last_commit_msg": "chore: update weekly market output [skip ci]",
-      "last_commit_date": "2026-07-25 04:34",
-      "last_commit_author": "github-actions[bot]",
-      "last_commit_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/4775e6b2f5d097e03e2c963dc46af4540aef3421",
+      "last_commit_sha": "a8369b1",
+      "last_commit_msg": "Update R9 contact in README",
+      "last_commit_date": "2026-07-25 14:45",
+      "last_commit_author": "141242-l",
+      "last_commit_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/a8369b13d4ca6445f1c2e3a3a3a0d5eeded65b48",
       "tags": [
         "vW25",
         "vW24",
@@ -682,11 +682,11 @@
           "name": "141242-l",
           "login": "141242-l",
           "kind": "human",
-          "commits": 44,
-          "latest_date": "2026-07-21 18:33",
-          "latest_msg": "Delete run_output.bat",
-          "latest_sha": "a2cfbad",
-          "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/a2cfbad85b4a0534e97e8c440833e82352a32c25"
+          "commits": 45,
+          "latest_date": "2026-07-25 14:45",
+          "latest_msg": "Update R9 contact in README",
+          "latest_sha": "a8369b1",
+          "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/a8369b13d4ca6445f1c2e3a3a3a0d5eeded65b48"
         },
         {
           "name": "Li-Haoyao",
@@ -767,16 +767,6 @@
           "latest_msg": "Add files via upload",
           "latest_sha": "eb23504",
           "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/eb235040d6cfa4727f9dfbcf8bb511386c893f4c"
-        },
-        {
-          "name": "ZhangJiayu0201",
-          "login": "ZhangJiayu0201",
-          "kind": "human",
-          "commits": 1,
-          "latest_date": "2026-07-18 08:36",
-          "latest_msg": "Add files via upload",
-          "latest_sha": "f9e7cd4",
-          "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/f9e7cd420df50dd690f6d24f47bc91a881cf568d"
         }
       ],
       "pr_history": {
@@ -981,11 +971,11 @@
       "repo": "Gong-yinxuan/CP3405",
       "prac": "B",
       "is_ultra": false,
-      "last_commit_sha": "e285e0b",
-      "last_commit_msg": "Submit Team 05 weekly financial predictions",
-      "last_commit_date": "2026-07-25 09:29",
+      "last_commit_sha": "8ecd340",
+      "last_commit_msg": "Update predictions for vW30 with new data",
+      "last_commit_date": "2026-07-25 14:49",
       "last_commit_author": "EkaTiu",
-      "last_commit_url": "https://github.com/Gong-yinxuan/CP3405/commit/e285e0bb6b3568b4be8252fe0e17d5543141511f",
+      "last_commit_url": "https://github.com/Gong-yinxuan/CP3405/commit/8ecd340abea9df6072584f8fb61b99028d481680",
       "tags": [
         "vW29",
         "vW28",
@@ -1018,11 +1008,11 @@
           "name": "EkaTiu",
           "login": "EkaTiuJCU",
           "kind": "human",
-          "commits": 23,
-          "latest_date": "2026-07-25 09:29",
-          "latest_msg": "Submit Team 05 weekly financial predictions",
-          "latest_sha": "e285e0b",
-          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/e285e0bb6b3568b4be8252fe0e17d5543141511f"
+          "commits": 24,
+          "latest_date": "2026-07-25 14:49",
+          "latest_msg": "Update predictions for vW30 with new data",
+          "latest_sha": "8ecd340",
+          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/8ecd340abea9df6072584f8fb61b99028d481680"
         },
         {
           "name": "wujinrui2004",
@@ -1058,7 +1048,7 @@
           "name": "Kherlenbayar Sukhbaatar",
           "login": "kherlen31",
           "kind": "human",
-          "commits": 5,
+          "commits": 4,
           "latest_date": "2026-07-22 08:02",
           "latest_msg": "Update technical_agent_W08.md",
           "latest_sha": "3a42095",
@@ -1174,7 +1164,7 @@
       "midweek_artefact": {
         "present": true,
         "path": "Week8/R2_Scrum_Master/standup_midweek_W30.md",
-        "url": "https://github.com/Gong-yinxuan/CP3405/blob/e285e0bb6b3568b4be8252fe0e17d5543141511f/Week8/R2_Scrum_Master/standup_midweek_W30.md"
+        "url": "https://github.com/Gong-yinxuan/CP3405/blob/8ecd340abea9df6072584f8fb61b99028d481680/Week8/R2_Scrum_Master/standup_midweek_W30.md"
       },
       "repo_url": "https://github.com/Gong-yinxuan/CP3405"
     },
