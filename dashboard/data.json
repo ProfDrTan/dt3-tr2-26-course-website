@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-25 10:47 UTC",
+  "updated": "2026-07-25 11:55 UTC",
   "sprint_tag": "vW30",
   "sprint_deadline_utc": "2026-07-26T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W30",
@@ -10,11 +10,11 @@
       "repo": "sinder38/Team-1-Prac-A-Project",
       "prac": "A",
       "is_ultra": false,
-      "last_commit_sha": "8ab2e0d",
-      "last_commit_msg": "Fix incorrect API name, add updated macro (#97)",
-      "last_commit_date": "2026-07-25 09:32",
-      "last_commit_author": "NaingPhonePyae",
-      "last_commit_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/8ab2e0da5d8d456fdb0df31792b9de245333d841",
+      "last_commit_sha": "c3a7f4c",
+      "last_commit_msg": "Feat: extract artifacts (#99)",
+      "last_commit_date": "2026-07-25 11:34",
+      "last_commit_author": "sinder",
+      "last_commit_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/c3a7f4ca3bd04179b651c22682ccc90d02abe7e2",
       "tags": [
         "vW29",
         "vW28",
@@ -25,14 +25,14 @@
       ],
       "sprint_tag_present": false,
       "last_run_name": "python-checks",
-      "last_run_conclusion": "success",
-      "last_run_date": "2026-07-25 10:17",
-      "last_run_url": "https://github.com/sinder38/Team-1-Prac-A-Project/actions/runs/30154208952",
+      "last_run_conclusion": "failure",
+      "last_run_date": "2026-07-25 11:42",
+      "last_run_url": "https://github.com/sinder38/Team-1-Prac-A-Project/actions/runs/30156684394",
       "last_run_was_filtered": true,
       "open_prs": 6,
       "pr_titles": [
+        "Implement prediction range",
         "chore: pipeline artifacts 2026-07-25",
-        "feat: persist human score as JSON and render markdown on bac",
         "fix: keep incomplete archive weeks open and sync stage 3 pro",
         "Readme.md update ( week 8 ) ",
         "Refactor/decouple llms",
@@ -40,16 +40,16 @@
       ],
       "pr_links": [
         {
+          "title": "Implement prediction range",
+          "number": 100,
+          "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/100",
+          "author": "NaingPhonePyae"
+        },
+        {
           "title": "chore: pipeline artifacts 2026-07-25",
           "number": 96,
           "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/96",
           "author": "github-actions[bot]"
-        },
-        {
-          "title": "feat: persist human score as JSON and render markdown on bac",
-          "number": 94,
-          "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/94",
-          "author": "oakkar-cm"
         },
         {
           "title": "fix: keep incomplete archive weeks open and sync stage 3 pro",
@@ -82,11 +82,11 @@
           "name": "sinder",
           "login": "sinder38",
           "kind": "human",
-          "commits": 13,
-          "latest_date": "2026-07-25 08:21",
-          "latest_msg": "Feat/add database local storage  (#98)",
-          "latest_sha": "e1c1f71",
-          "latest_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/e1c1f710cd41d9c665e9a0214bdb981f50aa231a"
+          "commits": 14,
+          "latest_date": "2026-07-25 11:34",
+          "latest_msg": "Feat: extract artifacts (#99)",
+          "latest_sha": "c3a7f4c",
+          "latest_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/c3a7f4ca3bd04179b651c22682ccc90d02abe7e2"
         },
         {
           "name": "NaingPhonePyae",
@@ -160,15 +160,15 @@
         }
       ],
       "pr_history": {
-        "total": 98,
-        "merged": 64,
+        "total": 100,
+        "merged": 65,
         "open": 6,
-        "abandoned": 28,
+        "abandoned": 29,
         "weekly": {
           "2026-07-20": {
-            "merged": 2,
+            "merged": 3,
             "open": 5,
-            "abandoned": 1
+            "abandoned": 2
           },
           "2026-07-13": {
             "merged": 10,
@@ -213,6 +213,22 @@
         },
         "recent": [
           {
+            "number": 100,
+            "title": "Implement prediction range",
+            "status": "open",
+            "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/100",
+            "created_at": "2026-07-25",
+            "author": "NaingPhonePyae"
+          },
+          {
+            "number": 99,
+            "title": "Feat: extract artifacts",
+            "status": "merged",
+            "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/99",
+            "created_at": "2026-07-25",
+            "author": "sinder38"
+          },
+          {
             "number": 98,
             "title": "Feat/add database local storage ",
             "status": "merged",
@@ -247,7 +263,7 @@
           {
             "number": 94,
             "title": "feat: persist human score as JSON and render markdown on backend",
-            "status": "open",
+            "status": "abandoned",
             "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/94",
             "created_at": "2026-07-24",
             "author": "oakkar-cm"
@@ -315,22 +331,6 @@
             "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/86",
             "created_at": "2026-07-19",
             "author": "github-actions[bot]"
-          },
-          {
-            "number": 85,
-            "title": "chore: pipeline artifacts 2026-07-18",
-            "status": "abandoned",
-            "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/85",
-            "created_at": "2026-07-18",
-            "author": "github-actions[bot]"
-          },
-          {
-            "number": 84,
-            "title": "Refactor: centralize repository paths",
-            "status": "abandoned",
-            "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/84",
-            "created_at": "2026-07-18",
-            "author": "saikokokyaw"
           }
         ]
       },
