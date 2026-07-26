@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-26 14:16 UTC",
+  "updated": "2026-07-26 15:35 UTC",
   "sprint_tag": "vW30",
   "sprint_deadline_utc": "2026-07-26T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W30",
@@ -763,11 +763,11 @@
       "repo": "wintwah-lwin/CP3405_Group_4",
       "prac": "B",
       "is_ultra": false,
-      "last_commit_sha": "4d16533",
-      "last_commit_msg": "auto: generate calibration reports for Week 9",
-      "last_commit_date": "2026-07-26 12:46",
-      "last_commit_author": "wintwah-lwin",
-      "last_commit_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/4d16533df7d08186afe49b78418986d206f1f21c",
+      "last_commit_sha": "c060574",
+      "last_commit_msg": "Sync TradeKyaMal calibration scripts, human score API, and d",
+      "last_commit_date": "2026-07-26 15:31",
+      "last_commit_author": "louishan42",
+      "last_commit_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/c060574e826a0456660dcdbf62433c3c8875cc0f",
       "tags": [
         "vW29",
         "v1.0.0",
@@ -842,11 +842,11 @@
           "name": "louishan42",
           "login": "louishan42",
           "kind": "human",
-          "commits": 4,
-          "latest_date": "2026-07-11 18:35",
-          "latest_msg": "Update auto-prediction.yml",
-          "latest_sha": "cae70cc",
-          "latest_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/cae70ccfcbd0a993a1b502c52073ce21afa9d445"
+          "commits": 5,
+          "latest_date": "2026-07-26 14:47",
+          "latest_msg": "Sync TradeKyaMal calibration scripts, human score API, and dashboard u",
+          "latest_sha": "c060574",
+          "latest_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/c060574e826a0456660dcdbf62433c3c8875cc0f"
         },
         {
           "name": "MojunZheng",
