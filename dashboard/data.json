@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-26 05:02 UTC",
+  "updated": "2026-07-26 07:44 UTC",
   "sprint_tag": "vW30",
   "sprint_deadline_utc": "2026-07-26T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W30",
@@ -26,8 +26,8 @@
       "sprint_tag_present": false,
       "last_run_name": "python-checks",
       "last_run_conclusion": "success",
-      "last_run_date": "2026-07-25 16:40",
-      "last_run_url": "https://github.com/sinder38/Team-1-Prac-A-Project/actions/runs/30166089304",
+      "last_run_date": "2026-07-26 06:41",
+      "last_run_url": "https://github.com/sinder38/Team-1-Prac-A-Project/actions/runs/30191484884",
       "last_run_was_filtered": true,
       "open_prs": 6,
       "pr_titles": [
@@ -346,11 +346,11 @@
       "repo": "LuJunwen212/CP3405-Project",
       "prac": "A",
       "is_ultra": false,
-      "last_commit_sha": "891a59f",
-      "last_commit_msg": "docs(r8): updated free open-source multi-model matrix [skip ",
-      "last_commit_date": "2026-07-25 09:43",
-      "last_commit_author": "Team2 R8 LLM Operato",
-      "last_commit_url": "https://github.com/LuJunwen212/CP3405-Project/commit/891a59ffa6ea1442231adc4de2fd55168c204ddc",
+      "last_commit_sha": "ac47264",
+      "last_commit_msg": "chore(r10): automate calibration for W29",
+      "last_commit_date": "2026-07-26 06:47",
+      "last_commit_author": "Team2 Calibration Bo",
+      "last_commit_url": "https://github.com/LuJunwen212/CP3405-Project/commit/ac47264a914b1e740fbe78acaa16138313a73212",
       "tags": [
         "vW29",
         "vW28",
@@ -360,10 +360,10 @@
         "vW22"
       ],
       "sprint_tag_present": false,
-      "last_run_name": "Automated R8 LLM Operator",
+      "last_run_name": "R10 Calibration Automation",
       "last_run_conclusion": "success",
-      "last_run_date": "2026-07-25 09:42",
-      "last_run_url": "https://github.com/LuJunwen212/CP3405-Project/actions/runs/30153226228",
+      "last_run_date": "2026-07-26 07:39",
+      "last_run_url": "https://github.com/LuJunwen212/CP3405-Project/actions/runs/30193188693",
       "last_run_was_filtered": true,
       "open_prs": 0,
       "pr_titles": [],
@@ -374,7 +374,7 @@
           "name": "The Bao Le",
           "login": "The-Bao-Le",
           "kind": "human",
-          "commits": 26,
+          "commits": 23,
           "latest_date": "2026-07-25 01:15",
           "latest_msg": "Change cron job schedule to 09:20 UTC",
           "latest_sha": "dc857ce",
@@ -394,17 +394,17 @@
           "name": "Guanyu Lu",
           "login": "Guanyu-Lu",
           "kind": "human",
-          "commits": 14,
-          "latest_date": "2026-07-25 07:59",
-          "latest_msg": "Merge pull request #25 from LuJunwen212/week-8",
-          "latest_sha": "c7e211f",
-          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/c7e211fcd9580f4dc9f7853b3b617c8f4a480f9a"
+          "commits": 16,
+          "latest_date": "2026-07-26 06:34",
+          "latest_msg": "Add Sprint 8 retrospective document for W30",
+          "latest_sha": "447d709",
+          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/447d70907cc38f545e147bd5a9e60c4dcd953e85"
         },
         {
           "name": "Team2 Data Automation Bot",
           "login": "",
           "kind": "bot",
-          "commits": 11,
+          "commits": 10,
           "latest_date": "2026-07-25 03:06",
           "latest_msg": "chore(r5): update technical outputs 2026-W30 [skip ci]",
           "latest_sha": "4129c1c",
@@ -429,6 +429,16 @@
           "latest_msg": "chore(data): automated R3 next-week forecast execution matrix [skip ci",
           "latest_sha": "c790ac9",
           "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/c790ac9ef2d4faeb3539833c8229820939a11be0"
+        },
+        {
+          "name": "Team2 Calibration Bot",
+          "login": "",
+          "kind": "bot",
+          "commits": 4,
+          "latest_date": "2026-07-26 06:47",
+          "latest_msg": "chore(r10): automate calibration for W29",
+          "latest_sha": "ac47264",
+          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/ac47264a914b1e740fbe78acaa16138313a73212"
         },
         {
           "name": "Team2 R8 LLM Operator",
@@ -459,26 +469,16 @@
           "latest_msg": "Update r5_technical_agent.yml",
           "latest_sha": "042a850",
           "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/042a8502b1229683289c1584e67c6992fb87bc4a"
-        },
-        {
-          "name": "Team2 Calibration Bot",
-          "login": "",
-          "kind": "bot",
-          "commits": 3,
-          "latest_date": "2026-07-22 10:44",
-          "latest_msg": "chore(r10): automate calibration for W29",
-          "latest_sha": "1516c42",
-          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/1516c42def3b1a23d1f440a7f85d89fcdc563d86"
         }
       ],
       "pr_history": {
-        "total": 25,
-        "merged": 21,
+        "total": 26,
+        "merged": 22,
         "open": 0,
         "abandoned": 4,
         "weekly": {
           "2026-07-20": {
-            "merged": 2,
+            "merged": 3,
             "open": 0,
             "abandoned": 0
           },
@@ -514,6 +514,14 @@
           }
         },
         "recent": [
+          {
+            "number": 26,
+            "title": "Week 8",
+            "status": "merged",
+            "url": "https://github.com/LuJunwen212/CP3405-Project/pull/26",
+            "created_at": "2026-07-26",
+            "author": "Guanyu-Lu"
+          },
           {
             "number": 25,
             "title": "chore(r4): weekly macro report [skip ci]",
@@ -625,21 +633,13 @@
             "url": "https://github.com/LuJunwen212/CP3405-Project/pull/12",
             "created_at": "2026-06-20",
             "author": "The-Bao-Le"
-          },
-          {
-            "number": 11,
-            "title": "chore(data): automated market ledger alignment [skip ci]",
-            "status": "merged",
-            "url": "https://github.com/LuJunwen212/CP3405-Project/pull/11",
-            "created_at": "2026-06-20",
-            "author": "The-Bao-Le"
           }
         ]
       },
       "midweek_artefact": {
         "present": true,
         "path": "evidence/progress_logs/standup_midweek_W30.md",
-        "url": "https://github.com/LuJunwen212/CP3405-Project/blob/891a59ffa6ea1442231adc4de2fd55168c204ddc/evidence/progress_logs/standup_midweek_W30.md"
+        "url": "https://github.com/LuJunwen212/CP3405-Project/blob/ac47264a914b1e740fbe78acaa16138313a73212/evidence/progress_logs/standup_midweek_W30.md"
       },
       "repo_url": "https://github.com/LuJunwen212/CP3405-Project"
     },
