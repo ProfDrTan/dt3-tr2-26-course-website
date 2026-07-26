@@ -1,8 +1,14 @@
 {
-  "generated": "Sunday 26 July 2026 13:02 SGT",
+  "generated": "Sunday 26 July 2026 15:44 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
+        {
+          "author": "_itobi_",
+          "content": "Hi Whitley , these is what I have done:\n\nWhat have you completed or contributed so far?\n\nI reviewed the latest main branch and updated the project documentation for Week 8. I corrected the active LLM ",
+          "ts_str": "2026-07-26 07:41:05",
+          "url": "https://discord.com/channels/1505861202444816455/1505883026771677366/1530842383720251604"
+        },
         {
           "author": "whitley_90776",
           "content": "Hi everyone, could you please answer these questions?\n\n\nWhat have you completed or contributed so far?\n\nDid you face any blockers or challenges?\n\nWhat went well during this sprint?\n\nIs there anything ",
@@ -26,17 +32,17 @@
           "content": "1. Fixing of front-end(ollma/api choosing, new ci test on local llm or api)\n2. Fixing of back-end macro agent(api obtain error), and replacement of a a new llm model at llm agent\n3. \u2026\u2026updating as PR m",
           "ts_str": "2026-07-25 07:18:38",
           "url": "https://discord.com/channels/1505861202444816455/1505883026771677366/1530474343463649361"
-        },
-        {
-          "author": "js_eran",
-          "content": "Okay, thank you. I appreciate your help.",
-          "ts_str": "2026-07-25 07:12:33",
-          "url": "https://discord.com/channels/1505861202444816455/1505883026771677366/1530472812618322030"
         }
       ]
     },
     "Team 2": {
       "blockers": [
+        {
+          "author": "vileworx",
+          "content": "Well something went wrong I guess",
+          "ts_str": "2026-07-26 06:22:30",
+          "url": "https://discord.com/channels/1505861202444816455/1505883145466155079/1530822605966413915"
+        },
         {
           "author": "guanyulu_88237",
           "content": "The code of R5 lacks the definition of \"normalize_week\", Zaikun fixed the code  but due to miss an underscore, it was unable to generate the graph. Fortunately, I discovered this problem in the end an",
