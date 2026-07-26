@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-26 15:35 UTC",
+  "updated": "2026-07-26 16:36 UTC",
   "sprint_tag": "vW30",
   "sprint_deadline_utc": "2026-07-26T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W30",
@@ -769,6 +769,7 @@
       "last_commit_author": "louishan42",
       "last_commit_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/c060574e826a0456660dcdbf62433c3c8875cc0f",
       "tags": [
+        "vW30",
         "vW29",
         "v1.0.0",
         "W29",
@@ -778,7 +779,7 @@
         "W23",
         "W7"
       ],
-      "sprint_tag_present": false,
+      "sprint_tag_present": true,
       "last_run_name": "Run Calibration & Accuracy Suite",
       "last_run_conclusion": "success",
       "last_run_date": "2026-07-26 12:46",
