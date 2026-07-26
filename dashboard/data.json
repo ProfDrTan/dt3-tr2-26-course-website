@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-26 12:34 UTC",
+  "updated": "2026-07-26 14:16 UTC",
   "sprint_tag": "vW30",
   "sprint_deadline_utc": "2026-07-26T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W30",
@@ -10,12 +10,13 @@
       "repo": "sinder38/Team-1-Prac-A-Project",
       "prac": "A",
       "is_ultra": false,
-      "last_commit_sha": "995300f",
-      "last_commit_msg": "Add W30-W37 encoded almanac data (#105)",
-      "last_commit_date": "2026-07-26 12:26",
+      "last_commit_sha": "95781c5",
+      "last_commit_msg": "Fix failing test (#106)",
+      "last_commit_date": "2026-07-26 13:59",
       "last_commit_author": "NaingPhonePyae",
-      "last_commit_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/995300f37a8eebb0400473a49f754e73d2396d09",
+      "last_commit_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/95781c5787d897500f4e65214f8905530df29cd7",
       "tags": [
+        "vW30",
         "vW29",
         "vW28",
         "vW25",
@@ -23,47 +24,19 @@
         "vW23",
         "vW22"
       ],
-      "sprint_tag_present": false,
+      "sprint_tag_present": true,
       "last_run_name": "python-checks",
       "last_run_conclusion": "success",
-      "last_run_date": "2026-07-26 12:26",
-      "last_run_url": "https://github.com/sinder38/Team-1-Prac-A-Project/actions/runs/30202045369",
+      "last_run_date": "2026-07-26 13:59",
+      "last_run_url": "https://github.com/sinder38/Team-1-Prac-A-Project/actions/runs/30205162995",
       "last_run_was_filtered": true,
-      "open_prs": 7,
+      "open_prs": 3,
       "pr_titles": [
-        "Scrum master week 9",
-        "fix: restore partial pipeline progress from history",
-        "Implement prediction range",
-        "chore: pipeline artifacts 2026-07-25",
         "Readme.md update ( week 8 ) ",
         "Refactor/decouple llms",
         "Implement regression tests for TechnicalAgent"
       ],
       "pr_links": [
-        {
-          "title": "Scrum master week 9",
-          "number": 104,
-          "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/104",
-          "author": "panhsumyat0179-pixel"
-        },
-        {
-          "title": "fix: restore partial pipeline progress from history",
-          "number": 102,
-          "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/102",
-          "author": "JasonEran"
-        },
-        {
-          "title": "Implement prediction range",
-          "number": 100,
-          "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/100",
-          "author": "NaingPhonePyae"
-        },
-        {
-          "title": "chore: pipeline artifacts 2026-07-25",
-          "number": 96,
-          "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/96",
-          "author": "github-actions[bot]"
-        },
         {
           "title": "Readme.md update ( week 8 ) ",
           "number": 92,
@@ -99,11 +72,21 @@
           "name": "NaingPhonePyae",
           "login": "NaingPhonePyae",
           "kind": "human",
+          "commits": 6,
+          "latest_date": "2026-07-26 13:59",
+          "latest_msg": "Fix failing test (#106)",
+          "latest_sha": "95781c5",
+          "latest_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/95781c5787d897500f4e65214f8905530df29cd7"
+        },
+        {
+          "name": "PanHsuMyat",
+          "login": "panhsumyat0179-pixel",
+          "kind": "human",
           "commits": 4,
-          "latest_date": "2026-07-26 12:26",
-          "latest_msg": "Add W30-W37 encoded almanac data (#105)",
-          "latest_sha": "995300f",
-          "latest_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/995300f37a8eebb0400473a49f754e73d2396d09"
+          "latest_date": "2026-07-26 13:01",
+          "latest_msg": "Scrum master week 9 (#104)",
+          "latest_sha": "f8ce761",
+          "latest_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/f8ce7610d0628f1635677f30f7f58aa12c66d625"
         },
         {
           "name": "Oakkar Phyoe",
@@ -116,34 +99,24 @@
           "latest_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/fd798decff588a963b1a78c242a3915c108e3c42"
         },
         {
-          "name": "PanHsuMyat",
-          "login": "panhsumyat0179-pixel",
-          "kind": "human",
+          "name": "github-actions[bot]",
+          "login": "github-actions[bot]",
+          "kind": "bot",
           "commits": 3,
-          "latest_date": "2026-07-19 20:50",
-          "latest_msg": "Create retrospective_W29.md (#88)",
-          "latest_sha": "112360b",
-          "latest_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/112360b2c03010d311674c66c39fafe2dfb3ef80"
+          "latest_date": "2026-07-26 13:27",
+          "latest_msg": "chore: pipeline artifacts 2026-07-25 (#96)",
+          "latest_sha": "1609c37",
+          "latest_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/1609c3778e95ed64db2e4ab94aad13b4265cc88c"
         },
         {
           "name": "JasonEran",
           "login": "JasonEran",
           "kind": "human",
-          "commits": 2,
-          "latest_date": "2026-07-25 16:10",
-          "latest_msg": "feat: export delta report from sqlite (#101)",
-          "latest_sha": "0af3a67",
-          "latest_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/0af3a67be2a62cecc40e4de9f2ec377c4aea6403"
-        },
-        {
-          "name": "github-actions[bot]",
-          "login": "github-actions[bot]",
-          "kind": "bot",
-          "commits": 2,
-          "latest_date": "2026-07-20 02:22",
-          "latest_msg": "chore: pipeline artifacts 2026-07-19 (#86)",
-          "latest_sha": "bd69f28",
-          "latest_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/bd69f28f6769ce43f6e4852859ace49a886c64e0"
+          "commits": 3,
+          "latest_date": "2026-07-26 12:46",
+          "latest_msg": "fix: restore partial pipeline progress from history (#102)",
+          "latest_sha": "b303977",
+          "latest_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/b30397745c5146d59209c4b594bfd1d4e2ffc368"
         },
         {
           "name": "saikokokyaw",
@@ -167,14 +140,14 @@
         }
       ],
       "pr_history": {
-        "total": 105,
-        "merged": 69,
-        "open": 7,
+        "total": 106,
+        "merged": 74,
+        "open": 3,
         "abandoned": 29,
         "weekly": {
           "2026-07-20": {
-            "merged": 7,
-            "open": 6,
+            "merged": 12,
+            "open": 2,
             "abandoned": 2
           },
           "2026-07-13": {
@@ -220,6 +193,14 @@
         },
         "recent": [
           {
+            "number": 106,
+            "title": "Fix failing test",
+            "status": "merged",
+            "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/106",
+            "created_at": "2026-07-26",
+            "author": "NaingPhonePyae"
+          },
+          {
             "number": 105,
             "title": "Update Almanac Data",
             "status": "merged",
@@ -230,7 +211,7 @@
           {
             "number": 104,
             "title": "Scrum master week 9",
-            "status": "open",
+            "status": "merged",
             "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/104",
             "created_at": "2026-07-26",
             "author": "panhsumyat0179-pixel"
@@ -246,7 +227,7 @@
           {
             "number": 102,
             "title": "fix: restore partial pipeline progress from history",
-            "status": "open",
+            "status": "merged",
             "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/102",
             "created_at": "2026-07-26",
             "author": "JasonEran"
@@ -262,7 +243,7 @@
           {
             "number": 100,
             "title": "Implement prediction range",
-            "status": "open",
+            "status": "merged",
             "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/100",
             "created_at": "2026-07-25",
             "author": "NaingPhonePyae"
@@ -294,7 +275,7 @@
           {
             "number": 96,
             "title": "chore: pipeline artifacts 2026-07-25",
-            "status": "open",
+            "status": "merged",
             "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/96",
             "created_at": "2026-07-25",
             "author": "github-actions[bot]"
@@ -330,21 +311,13 @@
             "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/92",
             "created_at": "2026-07-23",
             "author": "Tobias778"
-          },
-          {
-            "number": 91,
-            "title": "Refactor/decouple llms",
-            "status": "open",
-            "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/91",
-            "created_at": "2026-07-23",
-            "author": "ZawLattNaung"
           }
         ]
       },
       "midweek_artefact": {
-        "present": false,
-        "path": null,
-        "url": null
+        "present": true,
+        "path": "sprints/standup_midweek_W30.md",
+        "url": "https://github.com/sinder38/Team-1-Prac-A-Project/blob/95781c5787d897500f4e65214f8905530df29cd7/sprints/standup_midweek_W30.md"
       },
       "repo_url": "https://github.com/sinder38/Team-1-Prac-A-Project"
     },
@@ -790,11 +763,11 @@
       "repo": "wintwah-lwin/CP3405_Group_4",
       "prac": "B",
       "is_ultra": false,
-      "last_commit_sha": "6971148",
-      "last_commit_msg": "Update human_score_2026-W9.md",
-      "last_commit_date": "2026-07-25 20:27",
-      "last_commit_author": "Mingyu-Cai",
-      "last_commit_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/697114819e8e2716c5ec1561f443f5ba16bf761d",
+      "last_commit_sha": "4d16533",
+      "last_commit_msg": "auto: generate calibration reports for Week 9",
+      "last_commit_date": "2026-07-26 12:46",
+      "last_commit_author": "wintwah-lwin",
+      "last_commit_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/4d16533df7d08186afe49b78418986d206f1f21c",
       "tags": [
         "vW29",
         "v1.0.0",
@@ -806,10 +779,10 @@
         "W7"
       ],
       "sprint_tag_present": false,
-      "last_run_name": "Auto Prediction",
+      "last_run_name": "Run Calibration & Accuracy Suite",
       "last_run_conclusion": "success",
-      "last_run_date": "2026-07-24 21:03",
-      "last_run_url": "https://github.com/wintwah-lwin/CP3405_Group_4/actions/runs/30126401137",
+      "last_run_date": "2026-07-26 12:46",
+      "last_run_url": "https://github.com/wintwah-lwin/CP3405_Group_4/actions/runs/30202725788",
       "last_run_was_filtered": true,
       "open_prs": 1,
       "pr_titles": [
@@ -826,14 +799,14 @@
       "days_since_commit": 0,
       "contributors": [
         {
-          "name": "Arisa",
+          "name": "wintwah-lwin",
           "login": "wintwah-lwin",
           "kind": "human",
-          "commits": 27,
-          "latest_date": "2026-07-19 13:54",
-          "latest_msg": "Add retrospectives W29",
-          "latest_sha": "5d37f5e",
-          "latest_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/5d37f5e693e5f8f693b4b64633ccaea9c6b5a1eb"
+          "commits": 30,
+          "latest_date": "2026-07-26 12:46",
+          "latest_msg": "auto: generate calibration reports for Week 9",
+          "latest_sha": "4d16533",
+          "latest_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/4d16533df7d08186afe49b78418986d206f1f21c"
         },
         {
           "name": "github-actions[bot]",
@@ -927,11 +900,16 @@
         }
       ],
       "pr_history": {
-        "total": 3,
-        "merged": 1,
+        "total": 4,
+        "merged": 2,
         "open": 1,
         "abandoned": 1,
         "weekly": {
+          "2026-07-20": {
+            "merged": 1,
+            "open": 0,
+            "abandoned": 0
+          },
           "2026-07-13": {
             "merged": 1,
             "open": 0,
@@ -944,6 +922,14 @@
           }
         },
         "recent": [
+          {
+            "number": 4,
+            "title": "add calibration",
+            "status": "merged",
+            "url": "https://github.com/wintwah-lwin/CP3405_Group_4/pull/4",
+            "created_at": "2026-07-26",
+            "author": "wintwah-lwin"
+          },
           {
             "number": 3,
             "title": "Add calibration suite and update Week 26 outputs",
