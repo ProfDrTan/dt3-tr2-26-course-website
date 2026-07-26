@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-26 16:36 UTC",
+  "updated": "2026-07-26 17:44 UTC",
   "sprint_tag": "vW30",
   "sprint_deadline_utc": "2026-07-26T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W30",
@@ -629,11 +629,11 @@
       "repo": "juninho4/Team-3-Practical-A-CP3405",
       "prac": "A",
       "is_ultra": false,
-      "last_commit_sha": "ef727da",
-      "last_commit_msg": "Update README.md",
-      "last_commit_date": "2026-07-26 09:58",
-      "last_commit_author": "souyashiinamahiru",
-      "last_commit_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/ef727dafc3209db3b01e84bdc4b61505159c40ed",
+      "last_commit_sha": "22906d9",
+      "last_commit_msg": "added final human judgment for w30",
+      "last_commit_date": "2026-07-26 17:00",
+      "last_commit_author": "Juninho",
+      "last_commit_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/22906d9dab3517b434f2799b8a7cbf84b765f219",
       "tags": [
         "vW25",
         "vW24",
@@ -693,14 +693,14 @@
           "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/9af9124534cc792978eb8a260e0438f8da56668e"
         },
         {
-          "name": "github-actions[bot]",
-          "login": "github-actions[bot]",
-          "kind": "bot",
-          "commits": 5,
-          "latest_date": "2026-07-25 04:34",
-          "latest_msg": "chore: update weekly market output [skip ci]",
-          "latest_sha": "4775e6b",
-          "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/4775e6b2f5d097e03e2c963dc46af4540aef3421"
+          "name": "Juninho",
+          "login": "juninho4",
+          "kind": "human",
+          "commits": 4,
+          "latest_date": "2026-07-26 17:00",
+          "latest_msg": "added final human judgment for w30",
+          "latest_sha": "22906d9",
+          "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/22906d9dab3517b434f2799b8a7cbf84b765f219"
         },
         {
           "name": "souyashiinamahiru",
@@ -713,14 +713,14 @@
           "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/ef727dafc3209db3b01e84bdc4b61505159c40ed"
         },
         {
-          "name": "Juninho",
-          "login": "juninho4",
-          "kind": "human",
-          "commits": 3,
-          "latest_date": "2026-07-20 05:29",
-          "latest_msg": "Revise team roles and responsibilities in README",
-          "latest_sha": "5f824e0",
-          "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/5f824e066203a89788da030a7085a3c95b979f84"
+          "name": "github-actions[bot]",
+          "login": "github-actions[bot]",
+          "kind": "bot",
+          "commits": 4,
+          "latest_date": "2026-07-25 04:34",
+          "latest_msg": "chore: update weekly market output [skip ci]",
+          "latest_sha": "4775e6b",
+          "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/4775e6b2f5d097e03e2c963dc46af4540aef3421"
         },
         {
           "name": "Jiawei990029",
@@ -754,7 +754,7 @@
       "midweek_artefact": {
         "present": true,
         "path": "vW30/standup_midweek_W30.md",
-        "url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/blob/ef727dafc3209db3b01e84bdc4b61505159c40ed/vW30/standup_midweek_W30.md"
+        "url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/blob/22906d9dab3517b434f2799b8a7cbf84b765f219/vW30/standup_midweek_W30.md"
       },
       "repo_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405"
     },
