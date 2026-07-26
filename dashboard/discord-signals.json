@@ -1,5 +1,5 @@
 {
-  "generated": "Sunday 26 July 2026 07:44 SGT",
+  "generated": "Sunday 26 July 2026 09:27 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
@@ -81,6 +81,12 @@
       "blockers": [
         {
           "author": "fiery_courgette_94143",
+          "content": "hi the prediction.json was abit wrong but it should be alright",
+          "ts_str": "2026-07-26 00:49:44",
+          "url": "https://discord.com/channels/1505861202444816455/1505883282993315890/1530738861658079453"
+        },
+        {
+          "author": "fiery_courgette_94143",
           "content": "that one can't be automated and have to written manually by team since the prediction is inconsistent every week and each people having different writing style. but the json should be the same",
           "ts_str": "2026-07-25 04:08:00",
           "url": "https://discord.com/channels/1505861202444816455/1505883282993315890/1530426369501303025"
@@ -102,12 +108,6 @@
           "content": "\u26a0\ufe0f R10 Calibration Bug \u2014 Still Unfixed, Now Reproduced Two Weeks in a Row\n\nLast week's (W29) R6 verification report found a logic issue in the calibration script prism/src/calibration_runner.py: once ",
           "ts_str": "2026-07-25 02:51:56",
           "url": "https://discord.com/channels/1505861202444816455/1505883282993315890/1530407227351896124"
-        },
-        {
-          "author": "yinxuan_19796",
-          "content": "I just finished the R6 project and found some issues.",
-          "ts_str": "2026-07-25 02:51:35",
-          "url": "https://discord.com/channels/1505861202444816455/1505883282993315890/1530407136885215283"
         }
       ]
     }
