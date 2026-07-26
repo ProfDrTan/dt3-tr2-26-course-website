@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-26 09:49 UTC",
+  "updated": "2026-07-26 11:13 UTC",
   "sprint_tag": "vW30",
   "sprint_deadline_utc": "2026-07-26T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W30",
@@ -10,11 +10,11 @@
       "repo": "sinder38/Team-1-Prac-A-Project",
       "prac": "A",
       "is_ultra": false,
-      "last_commit_sha": "fd798de",
-      "last_commit_msg": "fix: keep incomplete archive weeks open and sync stage 3 pro",
-      "last_commit_date": "2026-07-26 09:26",
-      "last_commit_author": "Oakkar Phyoe",
-      "last_commit_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/fd798decff588a963b1a78c242a3915c108e3c42",
+      "last_commit_sha": "7478607",
+      "last_commit_msg": "Add W30 PO stuff (#103)",
+      "last_commit_date": "2026-07-26 10:31",
+      "last_commit_author": "sinder",
+      "last_commit_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/7478607fa537758d91f3e2cfaf96eca9c524f5c2",
       "tags": [
         "vW29",
         "vW28",
@@ -26,11 +26,12 @@
       "sprint_tag_present": false,
       "last_run_name": "python-checks",
       "last_run_conclusion": "success",
-      "last_run_date": "2026-07-26 09:26",
-      "last_run_url": "https://github.com/sinder38/Team-1-Prac-A-Project/actions/runs/30196473544",
+      "last_run_date": "2026-07-26 11:06",
+      "last_run_url": "https://github.com/sinder38/Team-1-Prac-A-Project/actions/runs/30199495298",
       "last_run_was_filtered": true,
-      "open_prs": 6,
+      "open_prs": 7,
       "pr_titles": [
+        "Scrum master week 9",
         "fix: restore partial pipeline progress from history",
         "Implement prediction range",
         "chore: pipeline artifacts 2026-07-25",
@@ -39,6 +40,12 @@
         "Implement regression tests for TechnicalAgent"
       ],
       "pr_links": [
+        {
+          "title": "Scrum master week 9",
+          "number": 104,
+          "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/104",
+          "author": "panhsumyat0179-pixel"
+        },
         {
           "title": "fix: restore partial pipeline progress from history",
           "number": 102,
@@ -82,11 +89,11 @@
           "name": "sinder",
           "login": "sinder38",
           "kind": "human",
-          "commits": 14,
-          "latest_date": "2026-07-25 11:34",
-          "latest_msg": "Feat: extract artifacts (#99)",
-          "latest_sha": "c3a7f4c",
-          "latest_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/c3a7f4ca3bd04179b651c22682ccc90d02abe7e2"
+          "commits": 16,
+          "latest_date": "2026-07-26 10:31",
+          "latest_msg": "Add W30 PO stuff (#103)",
+          "latest_sha": "7478607",
+          "latest_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/7478607fa537758d91f3e2cfaf96eca9c524f5c2"
         },
         {
           "name": "Oakkar Phyoe",
@@ -160,14 +167,14 @@
         }
       ],
       "pr_history": {
-        "total": 102,
-        "merged": 67,
-        "open": 6,
+        "total": 104,
+        "merged": 68,
+        "open": 7,
         "abandoned": 29,
         "weekly": {
           "2026-07-20": {
-            "merged": 5,
-            "open": 5,
+            "merged": 6,
+            "open": 6,
             "abandoned": 2
           },
           "2026-07-13": {
@@ -212,6 +219,22 @@
           }
         },
         "recent": [
+          {
+            "number": 104,
+            "title": "Scrum master week 9",
+            "status": "open",
+            "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/104",
+            "created_at": "2026-07-26",
+            "author": "panhsumyat0179-pixel"
+          },
+          {
+            "number": 103,
+            "title": "Add W30 PO stuff",
+            "status": "merged",
+            "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/103",
+            "created_at": "2026-07-26",
+            "author": "sinder38"
+          },
           {
             "number": 102,
             "title": "fix: restore partial pipeline progress from history",
@@ -315,22 +338,6 @@
             "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/90",
             "created_at": "2026-07-19",
             "author": "oakkar-cm"
-          },
-          {
-            "number": 89,
-            "title": "Path cleanup main",
-            "status": "merged",
-            "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/89",
-            "created_at": "2026-07-19",
-            "author": "saikokokyaw"
-          },
-          {
-            "number": 88,
-            "title": "Create retrospective_W29.md",
-            "status": "merged",
-            "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/88",
-            "created_at": "2026-07-19",
-            "author": "panhsumyat0179-pixel"
           }
         ]
       },
@@ -346,11 +353,11 @@
       "repo": "LuJunwen212/CP3405-Project",
       "prac": "A",
       "is_ultra": false,
-      "last_commit_sha": "46e6eb9",
-      "last_commit_msg": "Create DECISION_2026-W30.md",
-      "last_commit_date": "2026-07-26 09:48",
+      "last_commit_sha": "4253442",
+      "last_commit_msg": "Update DECISION_2026-W30.md",
+      "last_commit_date": "2026-07-26 10:06",
       "last_commit_author": "ZhengZaikun",
-      "last_commit_url": "https://github.com/LuJunwen212/CP3405-Project/commit/46e6eb9f450ca1b8ebca73da2238042fb5aad2a2",
+      "last_commit_url": "https://github.com/LuJunwen212/CP3405-Project/commit/4253442cdee3e76d224febd9e15ed3198a8d626c",
       "tags": [
         "vW29",
         "vW28",
@@ -374,7 +381,7 @@
           "name": "The Bao Le",
           "login": "The-Bao-Le",
           "kind": "human",
-          "commits": 22,
+          "commits": 21,
           "latest_date": "2026-07-25 01:15",
           "latest_msg": "Change cron job schedule to 09:20 UTC",
           "latest_sha": "dc857ce",
@@ -384,11 +391,11 @@
           "name": "ZhengZaikun",
           "login": "ZhengZaikun",
           "kind": "human",
-          "commits": 19,
-          "latest_date": "2026-07-26 09:48",
-          "latest_msg": "Create DECISION_2026-W30.md",
-          "latest_sha": "46e6eb9",
-          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/46e6eb9f450ca1b8ebca73da2238042fb5aad2a2"
+          "commits": 20,
+          "latest_date": "2026-07-26 10:06",
+          "latest_msg": "Update DECISION_2026-W30.md",
+          "latest_sha": "4253442",
+          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/4253442cdee3e76d224febd9e15ed3198a8d626c"
         },
         {
           "name": "Guanyu Lu",
@@ -639,7 +646,7 @@
       "midweek_artefact": {
         "present": true,
         "path": "evidence/progress_logs/standup_midweek_W30.md",
-        "url": "https://github.com/LuJunwen212/CP3405-Project/blob/cc89ee636b50bd791b0a13e4b1e5ab3f3b8baa7f/evidence/progress_logs/standup_midweek_W30.md"
+        "url": "https://github.com/LuJunwen212/CP3405-Project/blob/4253442cdee3e76d224febd9e15ed3198a8d626c/evidence/progress_logs/standup_midweek_W30.md"
       },
       "repo_url": "https://github.com/LuJunwen212/CP3405-Project"
     },
@@ -648,11 +655,11 @@
       "repo": "juninho4/Team-3-Practical-A-CP3405",
       "prac": "A",
       "is_ultra": false,
-      "last_commit_sha": "843e33f",
-      "last_commit_msg": "Update retrospective_W30.md",
-      "last_commit_date": "2026-07-26 09:38",
-      "last_commit_author": "Jiale Zhang",
-      "last_commit_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/843e33f45803a00adbb46d32f0faccd3aceca76d",
+      "last_commit_sha": "ef727da",
+      "last_commit_msg": "Update README.md",
+      "last_commit_date": "2026-07-26 09:58",
+      "last_commit_author": "souyashiinamahiru",
+      "last_commit_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/ef727dafc3209db3b01e84bdc4b61505159c40ed",
       "tags": [
         "vW25",
         "vW24",
@@ -685,7 +692,7 @@
           "name": "Li-Haoyao",
           "login": "Li-Haoyao",
           "kind": "human",
-          "commits": 25,
+          "commits": 23,
           "latest_date": "2026-07-26 08:45",
           "latest_msg": "Update README.md",
           "latest_sha": "0720ca1",
@@ -722,6 +729,16 @@
           "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/4775e6b2f5d097e03e2c963dc46af4540aef3421"
         },
         {
+          "name": "souyashiinamahiru",
+          "login": "souyashiinamahiru",
+          "kind": "human",
+          "commits": 4,
+          "latest_date": "2026-07-26 09:58",
+          "latest_msg": "Update README.md",
+          "latest_sha": "ef727da",
+          "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/ef727dafc3209db3b01e84bdc4b61505159c40ed"
+        },
+        {
           "name": "Juninho",
           "login": "juninho4",
           "kind": "human",
@@ -730,16 +747,6 @@
           "latest_msg": "Revise team roles and responsibilities in README",
           "latest_sha": "5f824e0",
           "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/5f824e066203a89788da030a7085a3c95b979f84"
-        },
-        {
-          "name": "vandarkray",
-          "login": "vandarkray",
-          "kind": "human",
-          "commits": 2,
-          "latest_date": "2026-07-24 13:32",
-          "latest_msg": "Add student name to Product Owner role",
-          "latest_sha": "3344400",
-          "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/33444007a0893c4ea5a27210e787134afca07300"
         },
         {
           "name": "Jiawei990029",
@@ -752,14 +759,14 @@
           "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/60f1584593f1269ad77b709f4422b138556bd193"
         },
         {
-          "name": "souyashiinamahiru",
-          "login": "souyashiinamahiru",
+          "name": "vandarkray",
+          "login": "vandarkray",
           "kind": "human",
           "commits": 1,
-          "latest_date": "2026-07-20 02:23",
-          "latest_msg": "Add files via upload",
-          "latest_sha": "e8c3f7e",
-          "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/e8c3f7e6b55a929e74443183aa1debf98492fca5"
+          "latest_date": "2026-07-24 13:32",
+          "latest_msg": "Add student name to Product Owner role",
+          "latest_sha": "3344400",
+          "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/33444007a0893c4ea5a27210e787134afca07300"
         }
       ],
       "pr_history": {
@@ -773,7 +780,7 @@
       "midweek_artefact": {
         "present": true,
         "path": "vW30/standup_midweek_W30.md",
-        "url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/blob/843e33f45803a00adbb46d32f0faccd3aceca76d/vW30/standup_midweek_W30.md"
+        "url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/blob/ef727dafc3209db3b01e84bdc4b61505159c40ed/vW30/standup_midweek_W30.md"
       },
       "repo_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405"
     },
@@ -974,19 +981,20 @@
       "repo": "Gong-yinxuan/CP3405",
       "prac": "B",
       "is_ultra": false,
-      "last_commit_sha": "5905064",
-      "last_commit_msg": "Add files via upload",
-      "last_commit_date": "2026-07-26 08:26",
-      "last_commit_author": "JiangJinsong",
-      "last_commit_url": "https://github.com/Gong-yinxuan/CP3405/commit/5905064fc755c13da7777d09bd0a84236e241c88",
+      "last_commit_sha": "30a0519",
+      "last_commit_msg": "update retrospective_W30.md",
+      "last_commit_date": "2026-07-26 10:36",
+      "last_commit_author": "ToHoangGia",
+      "last_commit_url": "https://github.com/Gong-yinxuan/CP3405/commit/30a0519e945021c0f86006d616201046a7817fcb",
       "tags": [
+        "vW30",
         "vW29",
         "vW28",
         "vW25",
         "vW24",
         "W23"
       ],
-      "sprint_tag_present": false,
+      "sprint_tag_present": true,
       "last_run_name": "Update Market Data",
       "last_run_conclusion": "success",
       "last_run_date": "2026-07-23 10:01",
@@ -998,14 +1006,14 @@
       "days_since_commit": 0,
       "contributors": [
         {
-          "name": "To Hoang Gia",
+          "name": "ToHoangGia",
           "login": "ToHoangGia",
           "kind": "human",
-          "commits": 30,
-          "latest_date": "2026-07-26 00:48",
-          "latest_msg": "Merge pull request #8 from Gong-yinxuan/fix_calibration_2",
-          "latest_sha": "1a8dfa1",
-          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/1a8dfa1cec16d503f65aedd0b95b2eb926a30e79"
+          "commits": 31,
+          "latest_date": "2026-07-26 10:36",
+          "latest_msg": "update retrospective_W30.md",
+          "latest_sha": "30a0519",
+          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/30a0519e945021c0f86006d616201046a7817fcb"
         },
         {
           "name": "EkaTiu",
@@ -1031,7 +1039,7 @@
           "name": "HYH-design-bot",
           "login": "HYH-design-bot",
           "kind": "bot",
-          "commits": 12,
+          "commits": 11,
           "latest_date": "2026-07-21 11:31",
           "latest_msg": "Update sprint_goal_W30.md, Added Reasoning behind sprint goal for clar",
           "latest_sha": "d0a99e2",
@@ -1175,7 +1183,7 @@
       "midweek_artefact": {
         "present": true,
         "path": "Week8/R2_Scrum_Master/standup_midweek_W30.md",
-        "url": "https://github.com/Gong-yinxuan/CP3405/blob/5905064fc755c13da7777d09bd0a84236e241c88/Week8/R2_Scrum_Master/standup_midweek_W30.md"
+        "url": "https://github.com/Gong-yinxuan/CP3405/blob/30a0519e945021c0f86006d616201046a7817fcb/Week8/R2_Scrum_Master/standup_midweek_W30.md"
       },
       "repo_url": "https://github.com/Gong-yinxuan/CP3405"
     },
