@@ -1,8 +1,14 @@
 {
-  "generated": "Sunday 26 July 2026 09:27 SGT",
+  "generated": "Sunday 26 July 2026 13:02 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
+        {
+          "author": "whitley_90776",
+          "content": "Hi everyone, could you please answer these questions?\n\n\nWhat have you completed or contributed so far?\n\nDid you face any blockers or challenges?\n\nWhat went well during this sprint?\n\nIs there anything ",
+          "ts_str": "2026-07-26 05:01:06",
+          "url": "https://discord.com/channels/1505861202444816455/1505883026771677366/1530802119639040051"
+        },
         {
           "author": "_itobi_",
           "content": "For this week, i already done the md update to the latest version and then i broke it down to different part for the wiki",
