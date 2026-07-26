@@ -1,8 +1,14 @@
 {
-  "generated": "Sunday 26 July 2026 20:34 SGT",
+  "generated": "Sunday 26 July 2026 22:16 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
+        {
+          "author": "knm0856",
+          "content": "***What have you completed or contributed so far?***\n\nPresentation slides and speaker notes (most of them) finalization. And also help to search llm models we can use since some model(s) aren\u2019t be ava",
+          "ts_str": "2026-07-26 12:38:47",
+          "url": "https://discord.com/channels/1505861202444816455/1505883026771677366/1530917299509399716"
+        },
         {
           "author": "aeron0833",
           "content": "What have you completed or contributed so far?\nI did human score and final prediction. I also search up for rate limited model like last week\n Did you face any blockers or challenges? \nNot really but ",
@@ -26,12 +32,6 @@
           "content": "What have you completed or contributed so far?\nAdd Final Prediction UI, archive load fixes, week picker so new weeks stay selectable. Also reviewed other team members PR.\n Did you face any blockers or",
           "ts_str": "2026-07-26 11:04:34",
           "url": "https://discord.com/channels/1505861202444816455/1505883026771677366/1530893591986049095"
-        },
-        {
-          "author": "js_eran",
-          "content": "What have you completed or contributed so far?\nI continued developing the Delta Engine and integrated it with the pipeline, backend, and frontend. I also added the Delta report export from SQLite to M",
-          "ts_str": "2026-07-26 09:25:07",
-          "url": "https://discord.com/channels/1505861202444816455/1505883026771677366/1530868563697471518"
         }
       ]
     },
