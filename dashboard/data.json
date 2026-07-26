@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-25 23:44 UTC",
+  "updated": "2026-07-26 01:27 UTC",
   "sprint_tag": "vW30",
   "sprint_deadline_utc": "2026-07-26T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W30",
@@ -974,11 +974,11 @@
       "repo": "Gong-yinxuan/CP3405",
       "prac": "B",
       "is_ultra": false,
-      "last_commit_sha": "8ecd340",
-      "last_commit_msg": "Update predictions for vW30 with new data",
-      "last_commit_date": "2026-07-25 14:49",
-      "last_commit_author": "EkaTiu",
-      "last_commit_url": "https://github.com/Gong-yinxuan/CP3405/commit/8ecd340abea9df6072584f8fb61b99028d481680",
+      "last_commit_sha": "1a8dfa1",
+      "last_commit_msg": "Merge pull request #8 from Gong-yinxuan/fix_calibration_2",
+      "last_commit_date": "2026-07-26 00:48",
+      "last_commit_author": "To Hoang Gia",
+      "last_commit_url": "https://github.com/Gong-yinxuan/CP3405/commit/1a8dfa1cec16d503f65aedd0b95b2eb926a30e79",
       "tags": [
         "vW29",
         "vW28",
@@ -998,14 +998,14 @@
       "days_since_commit": 0,
       "contributors": [
         {
-          "name": "ToHoangGia",
+          "name": "To Hoang Gia",
           "login": "ToHoangGia",
           "kind": "human",
-          "commits": 26,
-          "latest_date": "2026-07-25 04:41",
-          "latest_msg": "update update.yml",
-          "latest_sha": "821e299",
-          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/821e299aac0ff2ef94f4b9dc1465cace1aff6a46"
+          "commits": 30,
+          "latest_date": "2026-07-26 00:48",
+          "latest_msg": "Merge pull request #8 from Gong-yinxuan/fix_calibration_2",
+          "latest_sha": "1a8dfa1",
+          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/1a8dfa1cec16d503f65aedd0b95b2eb926a30e79"
         },
         {
           "name": "EkaTiu",
@@ -1031,7 +1031,7 @@
           "name": "HYH-design-bot",
           "login": "HYH-design-bot",
           "kind": "bot",
-          "commits": 16,
+          "commits": 13,
           "latest_date": "2026-07-21 11:31",
           "latest_msg": "Update sprint_goal_W30.md, Added Reasoning behind sprint goal for clar",
           "latest_sha": "d0a99e2",
@@ -1048,16 +1048,6 @@
           "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/47d0340c468ba45bd90a3b5c4b9f5aa62acb7017"
         },
         {
-          "name": "Kherlenbayar Sukhbaatar",
-          "login": "kherlen31",
-          "kind": "human",
-          "commits": 4,
-          "latest_date": "2026-07-22 08:02",
-          "latest_msg": "Update technical_agent_W08.md",
-          "latest_sha": "3a42095",
-          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/3a42095861d8fa262e613e0b53910f087c2265ad"
-        },
-        {
           "name": "github-actions[bot]",
           "login": "github-actions[bot]",
           "kind": "bot",
@@ -1066,6 +1056,16 @@
           "latest_msg": "chore: update Prism data 2026-07-24",
           "latest_sha": "788351a",
           "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/788351af1612e262f7933302c9222d5d340fcc32"
+        },
+        {
+          "name": "Kherlenbayar Sukhbaatar",
+          "login": "kherlen31",
+          "kind": "human",
+          "commits": 3,
+          "latest_date": "2026-07-22 08:02",
+          "latest_msg": "Update technical_agent_W08.md",
+          "latest_sha": "3a42095",
+          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/3a42095861d8fa262e613e0b53910f087c2265ad"
         },
         {
           "name": "darwin",
@@ -1089,13 +1089,13 @@
         }
       ],
       "pr_history": {
-        "total": 7,
-        "merged": 5,
+        "total": 8,
+        "merged": 6,
         "open": 0,
         "abandoned": 2,
         "weekly": {
           "2026-07-20": {
-            "merged": 3,
+            "merged": 4,
             "open": 0,
             "abandoned": 2
           },
@@ -1106,6 +1106,14 @@
           }
         },
         "recent": [
+          {
+            "number": 8,
+            "title": "Fix calibration 2",
+            "status": "merged",
+            "url": "https://github.com/Gong-yinxuan/CP3405/pull/8",
+            "created_at": "2026-07-26",
+            "author": "ToHoangGia"
+          },
           {
             "number": 7,
             "title": "Fix calibration",
@@ -1167,7 +1175,7 @@
       "midweek_artefact": {
         "present": true,
         "path": "Week8/R2_Scrum_Master/standup_midweek_W30.md",
-        "url": "https://github.com/Gong-yinxuan/CP3405/blob/8ecd340abea9df6072584f8fb61b99028d481680/Week8/R2_Scrum_Master/standup_midweek_W30.md"
+        "url": "https://github.com/Gong-yinxuan/CP3405/blob/1a8dfa1cec16d503f65aedd0b95b2eb926a30e79/Week8/R2_Scrum_Master/standup_midweek_W30.md"
       },
       "repo_url": "https://github.com/Gong-yinxuan/CP3405"
     },
