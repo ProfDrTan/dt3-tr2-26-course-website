@@ -1,8 +1,26 @@
 {
-  "generated": "Sunday 26 July 2026 19:13 SGT",
+  "generated": "Sunday 26 July 2026 20:34 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
+        {
+          "author": "aeron0833",
+          "content": "What have you completed or contributed so far?\nI did human score and final prediction. I also search up for rate limited model like last week\n Did you face any blockers or challenges? \nNot really but ",
+          "ts_str": "2026-07-26 12:25:44",
+          "url": "https://discord.com/channels/1505861202444816455/1505883026771677366/1530914014719246387"
+        },
+        {
+          "author": "name010249",
+          "content": "What have you completed or contributed so far?\nI have implemented the prediction range to the current pipeline and also added it to the frontend. Both Almanac and macro will fetch seasonal data and im",
+          "ts_str": "2026-07-26 12:21:28",
+          "url": "https://discord.com/channels/1505861202444816455/1505883026771677366/1530912943653257276"
+        },
+        {
+          "author": "sinder38",
+          "content": "What have you completed or contributed so far?\nImplemented Local persistanse using Sqltie\nMerged, Reviewed and fixed PRs\nAssigned tasks to the developers\nFound several bugs: continuity errors, incompl",
+          "ts_str": "2026-07-26 11:18:23",
+          "url": "https://discord.com/channels/1505861202444816455/1505883026771677366/1530897065775726622"
+        },
         {
           "author": "virus.xxi",
           "content": "What have you completed or contributed so far?\nAdd Final Prediction UI, archive load fixes, week picker so new weeks stay selectable. Also reviewed other team members PR.\n Did you face any blockers or",
@@ -14,24 +32,6 @@
           "content": "What have you completed or contributed so far?\nI continued developing the Delta Engine and integrated it with the pipeline, backend, and frontend. I also added the Delta report export from SQLite to M",
           "ts_str": "2026-07-26 09:25:07",
           "url": "https://discord.com/channels/1505861202444816455/1505883026771677366/1530868563697471518"
-        },
-        {
-          "author": "saiko_ok7",
-          "content": "What have you completed or contributed so far?\nI updated PR #49 (Technical Agent regression tests). After review feedback, I redesigned the tests so they compare the manual W22/W23 technical reports w",
-          "ts_str": "2026-07-26 09:18:12",
-          "url": "https://discord.com/channels/1505861202444816455/1505883026771677366/1530866822566514779"
-        },
-        {
-          "author": "zl6969",
-          "content": "What have you completed or contributed so far?\nMy previous task test file for alamanac has already merged to the main and currently i am working on the second task and reviewer request me for small ch",
-          "ts_str": "2026-07-26 07:49:53",
-          "url": "https://discord.com/channels/1505861202444816455/1505883026771677366/1530844596853276723"
-        },
-        {
-          "author": "_itobi_",
-          "content": "Hi Whitley , these is what I have done:\n\nWhat have you completed or contributed so far?\n\nI reviewed the latest main branch and updated the project documentation for Week 8. I corrected the active LLM ",
-          "ts_str": "2026-07-26 07:41:05",
-          "url": "https://discord.com/channels/1505861202444816455/1505883026771677366/1530842383720251604"
         }
       ]
     },
@@ -60,12 +60,6 @@
           "content": "Current progress: The results for R3, R4, R6 and R8 have been automatically generated. Zaikun and I have fixed some unexpected issues in the R5 code. The results for R5 have also been automatically ge",
           "ts_str": "2026-07-25 01:49:12",
           "url": "https://discord.com/channels/1505861202444816455/1505883145466155079/1530391441245737114"
-        },
-        {
-          "author": "guanyulu_88237",
-          "content": "Good evening everyone. The progress this week is going well. R9 has merged week8 branch to main branch. Tomorrow, according to the  schedule, each role's pipeline will automatically generate the resul",
-          "ts_str": "2026-07-24 11:33:20",
-          "url": "https://discord.com/channels/1505861202444816455/1505883145466155079/1530176052930809876"
         }
       ]
     },
