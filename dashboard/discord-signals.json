@@ -1,5 +1,5 @@
 {
-  "generated": "Monday 27 July 2026 12:55 SGT",
+  "generated": "Monday 27 July 2026 16:40 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
@@ -48,18 +48,6 @@
           "content": "Well something went wrong I guess",
           "ts_str": "2026-07-26 06:22:30",
           "url": "https://discord.com/channels/1505861202444816455/1505883145466155079/1530822605966413915"
-        },
-        {
-          "author": "guanyulu_88237",
-          "content": "The code of R5 lacks the definition of \"normalize_week\", Zaikun fixed the code  but due to miss an underscore, it was unable to generate the graph. Fortunately, I discovered this problem in the end an",
-          "ts_str": "2026-07-25 07:53:38",
-          "url": "https://discord.com/channels/1505861202444816455/1505883145466155079/1530483152856813608"
-        },
-        {
-          "author": "vileworx",
-          "content": "As in what were the issues with the code?",
-          "ts_str": "2026-07-25 07:40:21",
-          "url": "https://discord.com/channels/1505861202444816455/1505883145466155079/1530479809552191621"
         }
       ]
     },
@@ -67,27 +55,20 @@
       "blockers": [
         {
           "author": "zhangjiale_81292",
+          "content": "\ud83d\udce2 Sprint 9 has started!\n\nHi team,\n\nToday we will begin Sprint 9.\n\nPlease:\n\u2705 Check the Sprint 9 requirements.\n\u2705 Confirm your role and tasks.\n\u2705 Start working on your assigned responsibilities.\n\u2705 Think a",
+          "ts_str": "2026-07-27 08:25:27",
+          "url": "https://discord.com/channels/1505861202444816455/1505883200151490660/1531215934381883572"
+        },
+        {
+          "author": "zhangjiale_81292",
           "content": "My link seems to be broken, so I didn't see the new content.",
           "ts_str": "2026-07-26 08:45:27",
           "url": "https://discord.com/channels/1505861202444816455/1505883200151490660/1530858581669449769"
-        },
-        {
-          "author": "noah_071127",
-          "content": "Unfortunately, our automation script encountered an error when it ran at 6:30 this morning. I have now modified and uploaded the latest version of the automation script and ran it manually. The result",
-          "ts_str": "2026-07-25 05:25:50",
-          "url": "https://discord.com/channels/1505861202444816455/1505883200151490660/1530445955512401941"
         }
       ]
     },
     "Team 4": {
-      "blockers": [
-        {
-          "author": "amiephyo_23759",
-          "content": "Hello, the latest pipeline has finished running. Everyone who is waiting on the updated data can proceed with your tasks now. Please let me know if you run into any blockers.",
-          "ts_str": "2026-07-25 05:36:11",
-          "url": "https://discord.com/channels/1505861202444816455/1505883243361206392/1530448561668493523"
-        }
-      ]
+      "blockers": []
     },
     "Team 5": {
       "blockers": [
