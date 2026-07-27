@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-27 08:41 UTC",
+  "updated": "2026-07-27 11:59 UTC",
   "sprint_tag": "vW30",
   "sprint_deadline_utc": "2026-07-26T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W30",
@@ -329,11 +329,11 @@
       "repo": "LuJunwen212/CP3405-Project",
       "prac": "A",
       "is_ultra": false,
-      "last_commit_sha": "428f398",
-      "last_commit_msg": "Delete docs/sprint_goal_W31.md",
-      "last_commit_date": "2026-07-27 07:25",
-      "last_commit_author": "ZhengZaikun",
-      "last_commit_url": "https://github.com/LuJunwen212/CP3405-Project/commit/428f3986b860487d1be84f59f042682bb9d49a4b",
+      "last_commit_sha": "cf26176",
+      "last_commit_msg": "Change cron schedule for R3 Almanac pipeline",
+      "last_commit_date": "2026-07-27 09:50",
+      "last_commit_author": "The Bao Le",
+      "last_commit_url": "https://github.com/LuJunwen212/CP3405-Project/commit/cf26176ab75838d124c0744f745e891c6df03811",
       "tags": [
         "vW30",
         "vW29",
@@ -379,10 +379,10 @@
           "login": "The-Bao-Le",
           "kind": "human",
           "commits": 17,
-          "latest_date": "2026-07-25 01:15",
-          "latest_msg": "Change cron job schedule to 09:20 UTC",
-          "latest_sha": "dc857ce",
-          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/dc857cebc4e24d21d85186443a290d305fcf5118"
+          "latest_date": "2026-07-27 09:50",
+          "latest_msg": "Change cron schedule for R3 Almanac pipeline",
+          "latest_sha": "cf26176",
+          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/cf26176ab75838d124c0744f745e891c6df03811"
         },
         {
           "name": "Team2 Data Automation Bot",
@@ -456,11 +456,16 @@
         }
       ],
       "pr_history": {
-        "total": 26,
-        "merged": 22,
+        "total": 27,
+        "merged": 23,
         "open": 0,
         "abandoned": 4,
         "weekly": {
+          "2026-07-27": {
+            "merged": 1,
+            "open": 0,
+            "abandoned": 0
+          },
           "2026-07-20": {
             "merged": 3,
             "open": 0,
@@ -498,6 +503,14 @@
           }
         },
         "recent": [
+          {
+            "number": 27,
+            "title": "Change cron schedule for R3 Almanac pipeline",
+            "status": "merged",
+            "url": "https://github.com/LuJunwen212/CP3405-Project/pull/27",
+            "created_at": "2026-07-27",
+            "author": "The-Bao-Le"
+          },
           {
             "number": 26,
             "title": "Week 8",
@@ -609,21 +622,13 @@
             "url": "https://github.com/LuJunwen212/CP3405-Project/pull/13",
             "created_at": "2026-06-20",
             "author": "The-Bao-Le"
-          },
-          {
-            "number": 12,
-            "title": "Update actuals",
-            "status": "merged",
-            "url": "https://github.com/LuJunwen212/CP3405-Project/pull/12",
-            "created_at": "2026-06-20",
-            "author": "The-Bao-Le"
           }
         ]
       },
       "midweek_artefact": {
         "present": true,
         "path": "evidence/progress_logs/standup_midweek_W30.md",
-        "url": "https://github.com/LuJunwen212/CP3405-Project/blob/428f3986b860487d1be84f59f042682bb9d49a4b/evidence/progress_logs/standup_midweek_W30.md"
+        "url": "https://github.com/LuJunwen212/CP3405-Project/blob/cf26176ab75838d124c0744f745e891c6df03811/evidence/progress_logs/standup_midweek_W30.md"
       },
       "repo_url": "https://github.com/LuJunwen212/CP3405-Project"
     },
@@ -632,11 +637,11 @@
       "repo": "juninho4/Team-3-Practical-A-CP3405",
       "prac": "A",
       "is_ultra": false,
-      "last_commit_sha": "2338610",
-      "last_commit_msg": "added ppt file for w30",
-      "last_commit_date": "2026-07-27 05:41",
-      "last_commit_author": "Juninho",
-      "last_commit_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/23386106a807866bf8b53a5683b4cd4e21870b1b",
+      "last_commit_sha": "14b8a7a",
+      "last_commit_msg": "Create sprint_goal_vW31.md",
+      "last_commit_date": "2026-07-27 11:52",
+      "last_commit_author": "vandarkray",
+      "last_commit_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/14b8a7a1935ffa41e259e95829b0e6725d4d0fa8",
       "tags": [
         "vW30",
         "vW25",
@@ -680,7 +685,7 @@
           "name": "Jiale Zhang",
           "login": "ZHANGJIALELLLLL",
           "kind": "human",
-          "commits": 11,
+          "commits": 9,
           "latest_date": "2026-07-27 01:09",
           "latest_msg": "Update standup_midweek_W30.md",
           "latest_sha": "8533f74",
@@ -727,6 +732,16 @@
           "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/4775e6b2f5d097e03e2c963dc46af4540aef3421"
         },
         {
+          "name": "vandarkray",
+          "login": "vandarkray",
+          "kind": "human",
+          "commits": 3,
+          "latest_date": "2026-07-27 11:52",
+          "latest_msg": "Create sprint_goal_vW31.md",
+          "latest_sha": "14b8a7a",
+          "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/14b8a7a1935ffa41e259e95829b0e6725d4d0fa8"
+        },
+        {
           "name": "Jiawei990029",
           "login": "Jiawei990029",
           "kind": "human",
@@ -735,16 +750,6 @@
           "latest_msg": "Update README.md",
           "latest_sha": "60f1584",
           "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/60f1584593f1269ad77b709f4422b138556bd193"
-        },
-        {
-          "name": "vandarkray",
-          "login": "vandarkray",
-          "kind": "human",
-          "commits": 1,
-          "latest_date": "2026-07-24 13:32",
-          "latest_msg": "Add student name to Product Owner role",
-          "latest_sha": "3344400",
-          "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/33444007a0893c4ea5a27210e787134afca07300"
         }
       ],
       "pr_history": {
@@ -758,7 +763,7 @@
       "midweek_artefact": {
         "present": true,
         "path": "vW30/standup_midweek_W30.md",
-        "url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/blob/23386106a807866bf8b53a5683b4cd4e21870b1b/vW30/standup_midweek_W30.md"
+        "url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/blob/33390cab2963383ad07339b5c4bfc3fd96ad7760/vW30/standup_midweek_W30.md"
       },
       "repo_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405"
     },
@@ -954,11 +959,11 @@
       "repo": "Gong-yinxuan/CP3405",
       "prac": "B",
       "is_ultra": false,
-      "last_commit_sha": "fb02009",
-      "last_commit_msg": "Update r6_data_verification_w30.md",
-      "last_commit_date": "2026-07-27 03:24",
-      "last_commit_author": "Gong-yinxuan",
-      "last_commit_url": "https://github.com/Gong-yinxuan/CP3405/commit/fb020093c52b3e96d56bf38d5d99fa335f0b2633",
+      "last_commit_sha": "3060d4a",
+      "last_commit_msg": "Create sprint_goal_W31.md",
+      "last_commit_date": "2026-07-27 11:36",
+      "last_commit_author": "HYH-design-bot",
+      "last_commit_url": "https://github.com/Gong-yinxuan/CP3405/commit/3060d4adc7ab052bfb21344e3a73e982ec0150bc",
       "tags": [
         "vW30",
         "vW29",
@@ -982,7 +987,7 @@
           "name": "ToHoangGia",
           "login": "ToHoangGia",
           "kind": "human",
-          "commits": 31,
+          "commits": 30,
           "latest_date": "2026-07-26 10:36",
           "latest_msg": "update retrospective_W30.md",
           "latest_sha": "30a0519",
@@ -1022,11 +1027,11 @@
           "name": "HYH-design-bot",
           "login": "HYH-design-bot",
           "kind": "bot",
-          "commits": 8,
-          "latest_date": "2026-07-21 11:31",
-          "latest_msg": "Update sprint_goal_W30.md, Added Reasoning behind sprint goal for clar",
-          "latest_sha": "d0a99e2",
-          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/d0a99e22174b162c093329164bae8e131c8cf79e"
+          "commits": 9,
+          "latest_date": "2026-07-27 11:36",
+          "latest_msg": "Create sprint_goal_W31.md",
+          "latest_sha": "3060d4a",
+          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/3060d4adc7ab052bfb21344e3a73e982ec0150bc"
         },
         {
           "name": "github-actions[bot]",
@@ -1156,7 +1161,7 @@
       "midweek_artefact": {
         "present": true,
         "path": "Week8/R2_Scrum_Master/standup_midweek_W30.md",
-        "url": "https://github.com/Gong-yinxuan/CP3405/blob/fb020093c52b3e96d56bf38d5d99fa335f0b2633/Week8/R2_Scrum_Master/standup_midweek_W30.md"
+        "url": "https://github.com/Gong-yinxuan/CP3405/blob/3060d4adc7ab052bfb21344e3a73e982ec0150bc/Week8/R2_Scrum_Master/standup_midweek_W30.md"
       },
       "repo_url": "https://github.com/Gong-yinxuan/CP3405"
     },
@@ -1165,17 +1170,17 @@
       "repo": "ProfDrTan/market-prediction-engine",
       "prac": "Instructor",
       "is_ultra": true,
-      "last_commit_sha": "f7a70aa",
-      "last_commit_msg": "Weekly calibration scoring: 2026-07-27",
-      "last_commit_date": "2026-07-27 08:21",
+      "last_commit_sha": "561af8a",
+      "last_commit_msg": "Weekly pipeline run: 2026-07-27",
+      "last_commit_date": "2026-07-27 10:09",
       "last_commit_author": "market-prediction-en",
-      "last_commit_url": "https://github.com/ProfDrTan/market-prediction-engine/commit/f7a70aa06b792b50458b6793fdfd05954dec34a4",
+      "last_commit_url": "https://github.com/ProfDrTan/market-prediction-engine/commit/561af8aa2d17474c908a98b75d5221664d2fc665",
       "tags": [],
       "sprint_tag_present": false,
-      "last_run_name": "Weekly Calibration Scoring",
+      "last_run_name": "Weekly Prediction Pipeline",
       "last_run_conclusion": "success",
-      "last_run_date": "2026-07-27 08:21",
-      "last_run_url": "https://github.com/ProfDrTan/market-prediction-engine/actions/runs/30249570920",
+      "last_run_date": "2026-07-27 10:00",
+      "last_run_url": "https://github.com/ProfDrTan/market-prediction-engine/actions/runs/30256326123",
       "last_run_was_filtered": true,
       "open_prs": 0,
       "pr_titles": [],
@@ -1196,11 +1201,11 @@
           "name": "market-prediction-engine-bot",
           "login": "actions",
           "kind": "bot",
-          "commits": 11,
-          "latest_date": "2026-07-27 08:21",
-          "latest_msg": "Weekly calibration scoring: 2026-07-27",
-          "latest_sha": "f7a70aa",
-          "latest_url": "https://github.com/ProfDrTan/market-prediction-engine/commit/f7a70aa06b792b50458b6793fdfd05954dec34a4"
+          "commits": 12,
+          "latest_date": "2026-07-27 10:09",
+          "latest_msg": "Weekly pipeline run: 2026-07-27",
+          "latest_sha": "561af8a",
+          "latest_url": "https://github.com/ProfDrTan/market-prediction-engine/commit/561af8aa2d17474c908a98b75d5221664d2fc665"
         }
       ],
       "pr_history": {
