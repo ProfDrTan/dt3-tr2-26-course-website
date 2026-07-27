@@ -1,5 +1,5 @@
 {
-  "generated": "Monday 27 July 2026 09:12 SGT",
+  "generated": "Monday 27 July 2026 12:55 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
@@ -38,6 +38,12 @@
     "Team 2": {
       "blockers": [
         {
+          "author": "guanyulu_88237",
+          "content": "@everyone ,Team, for your DoD, you can break down your work for W31 into a list of tasks that can be tick off. Please finish it by today. Thank you\u2764\ufe0f .\nFor example:\n\nDefinition of Done - R6 Data Colle",
+          "ts_str": "2026-07-27 02:45:37",
+          "url": "https://discord.com/channels/1505861202444816455/1505883145466155079/1531130415098757212"
+        },
+        {
           "author": "vileworx",
           "content": "Well something went wrong I guess",
           "ts_str": "2026-07-26 06:22:30",
@@ -54,12 +60,6 @@
           "content": "As in what were the issues with the code?",
           "ts_str": "2026-07-25 07:40:21",
           "url": "https://discord.com/channels/1505861202444816455/1505883145466155079/1530479809552191621"
-        },
-        {
-          "author": "guanyulu_88237",
-          "content": "Current progress: The results for R3, R4, R6 and R8 have been automatically generated. Zaikun and I have fixed some unexpected issues in the R5 code. The results for R5 have also been automatically ge",
-          "ts_str": "2026-07-25 01:49:12",
-          "url": "https://discord.com/channels/1505861202444816455/1505883145466155079/1530391441245737114"
         }
       ]
     },
@@ -93,6 +93,12 @@
       "blockers": [
         {
           "author": "fiery_courgette_94143",
+          "content": "TEAM: Team _5_ / Practical _8_\nSPRINT: 8 \u00b7 vW30\nGITHUB REPO: https://github.com/Gong-yinxuan/CP3405\nRELEASE LINK: https://github.com/Gong-yinxuan/CP3405/releases/tag/vW30\n\n\u2501\u2501\u2501 SM CHECK-IN (R2) \u2501\u2501\u2501\nsta",
+          "ts_str": "2026-07-27 01:26:44",
+          "url": "https://discord.com/channels/1505861202444816455/1505883282993315890/1531110562572800102"
+        },
+        {
+          "author": "fiery_courgette_94143",
           "content": "I'm seeing that all the files are ready, if there are no problems, then I'm going to release tag soon",
           "ts_str": "2026-07-26 10:37:31",
           "url": "https://discord.com/channels/1505861202444816455/1505883282993315890/1530886781778530396"
@@ -102,24 +108,6 @@
           "content": "hi the prediction.json was abit wrong but it should be alright",
           "ts_str": "2026-07-26 00:49:44",
           "url": "https://discord.com/channels/1505861202444816455/1505883282993315890/1530738861658079453"
-        },
-        {
-          "author": "fiery_courgette_94143",
-          "content": "that one can't be automated and have to written manually by team since the prediction is inconsistent every week and each people having different writing style. but the json should be the same",
-          "ts_str": "2026-07-25 04:08:00",
-          "url": "https://discord.com/channels/1505861202444816455/1505883282993315890/1530426369501303025"
-        },
-        {
-          "author": "fiery_courgette_94143",
-          "content": "this one will be the main problems that make the calibration running wrong and redo the vW28",
-          "ts_str": "2026-07-25 04:04:01",
-          "url": "https://discord.com/channels/1505861202444816455/1505883282993315890/1530425365623734475"
-        },
-        {
-          "author": "fiery_courgette_94143",
-          "content": "Well, the problem is that the calibration file will run on Saturday morning, so when it's running, our group hasn't finished prediction; therefore, it doesn't have information of W30 so it overwrites ",
-          "ts_str": "2026-07-25 03:10:52",
-          "url": "https://discord.com/channels/1505861202444816455/1505883282993315890/1530411993700372560"
         }
       ]
     }
