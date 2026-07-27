@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-27 11:59 UTC",
+  "updated": "2026-07-27 15:08 UTC",
   "sprint_tag": "vW30",
   "sprint_deadline_utc": "2026-07-26T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W30",
@@ -329,11 +329,11 @@
       "repo": "LuJunwen212/CP3405-Project",
       "prac": "A",
       "is_ultra": false,
-      "last_commit_sha": "cf26176",
-      "last_commit_msg": "Change cron schedule for R3 Almanac pipeline",
-      "last_commit_date": "2026-07-27 09:50",
-      "last_commit_author": "The Bao Le",
-      "last_commit_url": "https://github.com/LuJunwen212/CP3405-Project/commit/cf26176ab75838d124c0744f745e891c6df03811",
+      "last_commit_sha": "52b682e",
+      "last_commit_msg": "chore(data): automated R3 next-week forecast execution matri",
+      "last_commit_date": "2026-07-27 13:37",
+      "last_commit_author": "Team 2 Almanac Autom",
+      "last_commit_url": "https://github.com/LuJunwen212/CP3405-Project/commit/52b682ead3103ea942ea754971d39ecf511aacee",
       "tags": [
         "vW30",
         "vW29",
@@ -344,10 +344,10 @@
         "vW22"
       ],
       "sprint_tag_present": true,
-      "last_run_name": "R10 Calibration Automation",
+      "last_run_name": "R3 Almanac Agent Multi-Week Automation P",
       "last_run_conclusion": "success",
-      "last_run_date": "2026-07-26 07:39",
-      "last_run_url": "https://github.com/LuJunwen212/CP3405-Project/actions/runs/30193188693",
+      "last_run_date": "2026-07-27 13:37",
+      "last_run_url": "https://github.com/LuJunwen212/CP3405-Project/actions/runs/30271133365",
       "last_run_was_filtered": true,
       "open_prs": 0,
       "pr_titles": [],
@@ -378,7 +378,7 @@
           "name": "The Bao Le",
           "login": "The-Bao-Le",
           "kind": "human",
-          "commits": 17,
+          "commits": 16,
           "latest_date": "2026-07-27 09:50",
           "latest_msg": "Change cron schedule for R3 Almanac pipeline",
           "latest_sha": "cf26176",
@@ -408,11 +408,11 @@
           "name": "Team 2 Almanac Automation Bot",
           "login": "",
           "kind": "bot",
-          "commits": 5,
-          "latest_date": "2026-07-25 04:33",
+          "commits": 6,
+          "latest_date": "2026-07-27 13:37",
           "latest_msg": "chore(data): automated R3 next-week forecast execution matrix [skip ci",
-          "latest_sha": "c790ac9",
-          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/c790ac9ef2d4faeb3539833c8229820939a11be0"
+          "latest_sha": "52b682e",
+          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/52b682ead3103ea942ea754971d39ecf511aacee"
         },
         {
           "name": "Team2 Calibration Bot",
@@ -628,7 +628,7 @@
       "midweek_artefact": {
         "present": true,
         "path": "evidence/progress_logs/standup_midweek_W30.md",
-        "url": "https://github.com/LuJunwen212/CP3405-Project/blob/cf26176ab75838d124c0744f745e891c6df03811/evidence/progress_logs/standup_midweek_W30.md"
+        "url": "https://github.com/LuJunwen212/CP3405-Project/blob/52b682ead3103ea942ea754971d39ecf511aacee/evidence/progress_logs/standup_midweek_W30.md"
       },
       "repo_url": "https://github.com/LuJunwen212/CP3405-Project"
     },
@@ -637,11 +637,11 @@
       "repo": "juninho4/Team-3-Practical-A-CP3405",
       "prac": "A",
       "is_ultra": false,
-      "last_commit_sha": "14b8a7a",
-      "last_commit_msg": "Create sprint_goal_vW31.md",
-      "last_commit_date": "2026-07-27 11:52",
+      "last_commit_sha": "3f87d99",
+      "last_commit_msg": "update week31's sprint_goal",
+      "last_commit_date": "2026-07-27 12:11",
       "last_commit_author": "vandarkray",
-      "last_commit_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/14b8a7a1935ffa41e259e95829b0e6725d4d0fa8",
+      "last_commit_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/3f87d995961f9421abc450d8d614c22a0a8607bb",
       "tags": [
         "vW30",
         "vW25",
@@ -685,7 +685,7 @@
           "name": "Jiale Zhang",
           "login": "ZHANGJIALELLLLL",
           "kind": "human",
-          "commits": 9,
+          "commits": 7,
           "latest_date": "2026-07-27 01:09",
           "latest_msg": "Update standup_midweek_W30.md",
           "latest_sha": "8533f74",
@@ -700,6 +700,16 @@
           "latest_msg": "Create requirements.txt",
           "latest_sha": "9af9124",
           "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/9af9124534cc792978eb8a260e0438f8da56668e"
+        },
+        {
+          "name": "vandarkray",
+          "login": "vandarkray",
+          "kind": "human",
+          "commits": 5,
+          "latest_date": "2026-07-27 12:11",
+          "latest_msg": "update week31's sprint_goal",
+          "latest_sha": "3f87d99",
+          "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/3f87d995961f9421abc450d8d614c22a0a8607bb"
         },
         {
           "name": "souyashiinamahiru",
@@ -732,16 +742,6 @@
           "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/4775e6b2f5d097e03e2c963dc46af4540aef3421"
         },
         {
-          "name": "vandarkray",
-          "login": "vandarkray",
-          "kind": "human",
-          "commits": 3,
-          "latest_date": "2026-07-27 11:52",
-          "latest_msg": "Create sprint_goal_vW31.md",
-          "latest_sha": "14b8a7a",
-          "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/14b8a7a1935ffa41e259e95829b0e6725d4d0fa8"
-        },
-        {
           "name": "Jiawei990029",
           "login": "Jiawei990029",
           "kind": "human",
@@ -763,7 +763,7 @@
       "midweek_artefact": {
         "present": true,
         "path": "vW30/standup_midweek_W30.md",
-        "url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/blob/33390cab2963383ad07339b5c4bfc3fd96ad7760/vW30/standup_midweek_W30.md"
+        "url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/blob/3f87d995961f9421abc450d8d614c22a0a8607bb/vW30/standup_midweek_W30.md"
       },
       "repo_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405"
     },
