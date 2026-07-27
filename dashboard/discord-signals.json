@@ -1,5 +1,5 @@
 {
-  "generated": "Monday 27 July 2026 19:59 SGT",
+  "generated": "Monday 27 July 2026 23:07 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
@@ -38,6 +38,24 @@
     "Team 2": {
       "blockers": [
         {
+          "author": "wenhanhu14796631_51955",
+          "content": "R4[ ] Scripts tested, no unhandled runtime errors\n[ ] GitHub Actions auto-run every Friday after US market close\n[ ] Workflow outputs timestamped macro data files\n[ ] New data auto-committed to correc",
+          "ts_str": "2026-07-27 14:27:36",
+          "url": "https://discord.com/channels/1505861202444816455/1505883145466155079/1531307073370067125"
+        },
+        {
+          "author": "lujunwen1_29056",
+          "content": "GitHub Leader \u2014 Definition of Done\nCreate the required working branches using the correct naming convention.\nReview all submitted branches and Pull Requests before merging.\nConfirm that the required f",
+          "ts_str": "2026-07-27 13:06:09",
+          "url": "https://discord.com/channels/1505861202444816455/1505883145466155079/1531286574682079242"
+        },
+        {
+          "author": "zhengzaikun_84219",
+          "content": "# Sprint 9 Goal \u2014 W31\n\nEnsure complete code and report reproducibility, streamline deliverables with a clean and efficient documentation structure, and prepare comprehensive presentations for Sprint 9",
+          "ts_str": "2026-07-27 12:27:10",
+          "url": "https://discord.com/channels/1505861202444816455/1505883145466155079/1531276763110441263"
+        },
+        {
           "author": "noobydoo2507",
           "content": "Team, we might have an issue here. We gonna need a frontend for Sprint 9.",
           "ts_str": "2026-07-27 09:41:21",
@@ -48,12 +66,6 @@
           "content": "@everyone ,Team, for your DoD, you can break down your work for W31 into a list of tasks that can be tick off. Please finish it by today. Thank you\u2764\ufe0f .\nFor example:\n\nDefinition of Done - R6 Data Colle",
           "ts_str": "2026-07-27 02:45:37",
           "url": "https://discord.com/channels/1505861202444816455/1505883145466155079/1531130415098757212"
-        },
-        {
-          "author": "vileworx",
-          "content": "Well something went wrong I guess",
-          "ts_str": "2026-07-26 06:22:30",
-          "url": "https://discord.com/channels/1505861202444816455/1505883145466155079/1530822605966413915"
         }
       ]
     },
