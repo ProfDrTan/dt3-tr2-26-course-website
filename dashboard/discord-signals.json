@@ -1,5 +1,5 @@
 {
-  "generated": "Monday 27 July 2026 16:40 SGT",
+  "generated": "Monday 27 July 2026 19:59 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
@@ -38,6 +38,12 @@
     "Team 2": {
       "blockers": [
         {
+          "author": "noobydoo2507",
+          "content": "Team, we might have an issue here. We gonna need a frontend for Sprint 9.",
+          "ts_str": "2026-07-27 09:41:21",
+          "url": "https://discord.com/channels/1505861202444816455/1505883145466155079/1531235035162873928"
+        },
+        {
           "author": "guanyulu_88237",
           "content": "@everyone ,Team, for your DoD, you can break down your work for W31 into a list of tasks that can be tick off. Please finish it by today. Thank you\u2764\ufe0f .\nFor example:\n\nDefinition of Done - R6 Data Colle",
           "ts_str": "2026-07-27 02:45:37",
@@ -72,6 +78,12 @@
     },
     "Team 5": {
       "blockers": [
+        {
+          "author": "yh03472",
+          "content": "Important things to keep in mind this week: (R1 sprint goal)\nDon't fully rely on the automation data, do a human quality check on your parts of the work\nFix the automation pipeline if any errors were ",
+          "ts_str": "2026-07-27 09:03:36",
+          "url": "https://discord.com/channels/1505861202444816455/1505883282993315890/1531225533822799882"
+        },
         {
           "author": "fiery_courgette_94143",
           "content": "TEAM: Team _5_ / Practical _8_\nSPRINT: 8 \u00b7 vW30\nGITHUB REPO: https://github.com/Gong-yinxuan/CP3405\nRELEASE LINK: https://github.com/Gong-yinxuan/CP3405/releases/tag/vW30\n\n\u2501\u2501\u2501 SM CHECK-IN (R2) \u2501\u2501\u2501\nsta",
