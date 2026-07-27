@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-27 01:13 UTC",
+  "updated": "2026-07-27 04:56 UTC",
   "sprint_tag": "vW30",
   "sprint_deadline_utc": "2026-07-26T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W30",
@@ -10,11 +10,11 @@
       "repo": "sinder38/Team-1-Prac-A-Project",
       "prac": "A",
       "is_ultra": false,
-      "last_commit_sha": "95781c5",
-      "last_commit_msg": "Fix failing test (#106)",
-      "last_commit_date": "2026-07-26 13:59",
-      "last_commit_author": "NaingPhonePyae",
-      "last_commit_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/95781c5787d897500f4e65214f8905530df29cd7",
+      "last_commit_sha": "d5b0b01",
+      "last_commit_msg": "Readme.md update ( week 8 )  (#92)",
+      "last_commit_date": "2026-07-27 01:57",
+      "last_commit_author": "Tobias778",
+      "last_commit_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/d5b0b01187ad71ba42256ce42608249400a8f0c5",
       "tags": [
         "vW30",
         "vW29",
@@ -30,19 +30,12 @@
       "last_run_date": "2026-07-26 13:59",
       "last_run_url": "https://github.com/sinder38/Team-1-Prac-A-Project/actions/runs/30205162995",
       "last_run_was_filtered": true,
-      "open_prs": 3,
+      "open_prs": 2,
       "pr_titles": [
-        "Readme.md update ( week 8 ) ",
         "Refactor/decouple llms",
         "Implement regression tests for TechnicalAgent"
       ],
       "pr_links": [
-        {
-          "title": "Readme.md update ( week 8 ) ",
-          "number": 92,
-          "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/92",
-          "author": "Tobias778"
-        },
         {
           "title": "Refactor/decouple llms",
           "number": 91,
@@ -129,6 +122,16 @@
           "latest_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/0dadc41b92f1fab949107f9760c653cb5de8011e"
         },
         {
+          "name": "Tobias778",
+          "login": "Tobias778",
+          "kind": "human",
+          "commits": 1,
+          "latest_date": "2026-07-27 01:57",
+          "latest_msg": "Readme.md update ( week 8 )  (#92)",
+          "latest_sha": "d5b0b01",
+          "latest_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/d5b0b01187ad71ba42256ce42608249400a8f0c5"
+        },
+        {
           "name": "Zaw Latt Naung",
           "login": "ZawLattNaung",
           "kind": "human",
@@ -141,13 +144,13 @@
       ],
       "pr_history": {
         "total": 106,
-        "merged": 74,
-        "open": 3,
+        "merged": 75,
+        "open": 2,
         "abandoned": 29,
         "weekly": {
           "2026-07-20": {
-            "merged": 12,
-            "open": 2,
+            "merged": 13,
+            "open": 1,
             "abandoned": 2
           },
           "2026-07-13": {
@@ -307,7 +310,7 @@
           {
             "number": 92,
             "title": "Readme.md update ( week 8 ) ",
-            "status": "open",
+            "status": "merged",
             "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/92",
             "created_at": "2026-07-23",
             "author": "Tobias778"
@@ -317,7 +320,7 @@
       "midweek_artefact": {
         "present": true,
         "path": "sprints/standup_midweek_W30.md",
-        "url": "https://github.com/sinder38/Team-1-Prac-A-Project/blob/95781c5787d897500f4e65214f8905530df29cd7/sprints/standup_midweek_W30.md"
+        "url": "https://github.com/sinder38/Team-1-Prac-A-Project/blob/d5b0b01187ad71ba42256ce42608249400a8f0c5/sprints/standup_midweek_W30.md"
       },
       "repo_url": "https://github.com/sinder38/Team-1-Prac-A-Project"
     },
@@ -629,11 +632,11 @@
       "repo": "juninho4/Team-3-Practical-A-CP3405",
       "prac": "A",
       "is_ultra": false,
-      "last_commit_sha": "8533f74",
-      "last_commit_msg": "Update standup_midweek_W30.md",
-      "last_commit_date": "2026-07-27 01:09",
-      "last_commit_author": "Jiale Zhang",
-      "last_commit_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/8533f74979856b26dab051e7837cf354bece3dbd",
+      "last_commit_sha": "965c5db",
+      "last_commit_msg": "Add files via upload",
+      "last_commit_date": "2026-07-27 02:15",
+      "last_commit_author": "souyashiinamahiru",
+      "last_commit_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/965c5db4211658cf7fb7d98a10d552d97c61e96f",
       "tags": [
         "vW25",
         "vW24",
@@ -676,7 +679,7 @@
           "name": "Jiale Zhang",
           "login": "ZHANGJIALELLLLL",
           "kind": "human",
-          "commits": 13,
+          "commits": 12,
           "latest_date": "2026-07-27 01:09",
           "latest_msg": "Update standup_midweek_W30.md",
           "latest_sha": "8533f74",
@@ -696,11 +699,11 @@
           "name": "souyashiinamahiru",
           "login": "souyashiinamahiru",
           "kind": "human",
-          "commits": 4,
-          "latest_date": "2026-07-26 09:58",
-          "latest_msg": "Update README.md",
-          "latest_sha": "ef727da",
-          "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/ef727dafc3209db3b01e84bdc4b61505159c40ed"
+          "commits": 5,
+          "latest_date": "2026-07-27 02:15",
+          "latest_msg": "Add files via upload",
+          "latest_sha": "965c5db",
+          "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/965c5db4211658cf7fb7d98a10d552d97c61e96f"
         },
         {
           "name": "github-actions[bot]",
@@ -754,7 +757,7 @@
       "midweek_artefact": {
         "present": true,
         "path": "vW30/standup_midweek_W30.md",
-        "url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/blob/22906d9dab3517b434f2799b8a7cbf84b765f219/vW30/standup_midweek_W30.md"
+        "url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/blob/965c5db4211658cf7fb7d98a10d552d97c61e96f/vW30/standup_midweek_W30.md"
       },
       "repo_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405"
     },
@@ -763,11 +766,11 @@
       "repo": "wintwah-lwin/CP3405_Group_4",
       "prac": "B",
       "is_ultra": false,
-      "last_commit_sha": "c060574",
-      "last_commit_msg": "Sync TradeKyaMal calibration scripts, human score API, and d",
-      "last_commit_date": "2026-07-26 15:31",
-      "last_commit_author": "louishan42",
-      "last_commit_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/c060574e826a0456660dcdbf62433c3c8875cc0f",
+      "last_commit_sha": "1bb042a",
+      "last_commit_msg": "Auto-commit: Pipeline execution (Week 9)",
+      "last_commit_date": "2026-07-27 04:42",
+      "last_commit_author": "github-actions[bot]",
+      "last_commit_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/1bb042a94dda97b7e49ce5ca99c7e84a3eee8aca",
       "tags": [
         "vW30",
         "vW29",
@@ -780,50 +783,51 @@
         "W7"
       ],
       "sprint_tag_present": true,
-      "last_run_name": "Run Calibration & Accuracy Suite",
-      "last_run_conclusion": "success",
-      "last_run_date": "2026-07-26 12:46",
-      "last_run_url": "https://github.com/wintwah-lwin/CP3405_Group_4/actions/runs/30202725788",
+      "last_run_name": "Auto Prediction",
+      "last_run_conclusion": "in_progress",
+      "last_run_date": "2026-07-27 04:41",
+      "last_run_url": "https://github.com/wintwah-lwin/CP3405_Group_4/actions/runs/30237772022",
       "last_run_was_filtered": true,
-      "open_prs": 1,
-      "pr_titles": [
-        "Macro update"
-      ],
-      "pr_links": [
-        {
-          "title": "Macro update",
-          "number": 1,
-          "url": "https://github.com/wintwah-lwin/CP3405_Group_4/pull/1",
-          "author": "wintwah-lwin"
-        }
-      ],
+      "open_prs": 0,
+      "pr_titles": [],
+      "pr_links": [],
       "days_since_commit": 0,
       "contributors": [
         {
-          "name": "wintwah-lwin",
+          "name": "Arisa",
           "login": "wintwah-lwin",
           "kind": "human",
-          "commits": 30,
-          "latest_date": "2026-07-26 12:46",
-          "latest_msg": "auto: generate calibration reports for Week 9",
-          "latest_sha": "4d16533",
-          "latest_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/4d16533df7d08186afe49b78418986d206f1f21c"
+          "commits": 50,
+          "latest_date": "2026-07-27 04:17",
+          "latest_msg": "Update auto-prediction.yml",
+          "latest_sha": "bf1d7b3",
+          "latest_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/bf1d7b328ae4b90f65b961996db435417a09bd2c"
         },
         {
           "name": "github-actions[bot]",
           "login": "github-actions[bot]",
           "kind": "bot",
-          "commits": 14,
-          "latest_date": "2026-07-24 21:05",
+          "commits": 17,
+          "latest_date": "2026-07-27 04:42",
           "latest_msg": "Auto-commit: Pipeline execution (Week 9)",
-          "latest_sha": "106fdd0",
-          "latest_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/106fdd0a429b33ce66dbf3bc24a18f510bfae066"
+          "latest_sha": "1bb042a",
+          "latest_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/1bb042a94dda97b7e49ce5ca99c7e84a3eee8aca"
+        },
+        {
+          "name": "louishan42",
+          "login": "louishan42",
+          "kind": "human",
+          "commits": 9,
+          "latest_date": "2026-07-27 04:13",
+          "latest_msg": "Rename evidence Week 26 to Week 6 and fix week mapping.",
+          "latest_sha": "4bfc1e9",
+          "latest_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/4bfc1e90d848bf11a87f08158300092819d711c8"
         },
         {
           "name": "AmiePhyo",
           "login": "AmiePhyo",
           "kind": "human",
-          "commits": 10,
+          "commits": 8,
           "latest_date": "2026-07-22 16:38",
           "latest_msg": "Add standup_midweek_W30.md",
           "latest_sha": "f0f30cd",
@@ -838,16 +842,6 @@
           "latest_msg": "Update human_score_2026-W9.md",
           "latest_sha": "6971148",
           "latest_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/697114819e8e2716c5ec1561f443f5ba16bf761d"
-        },
-        {
-          "name": "louishan42",
-          "login": "louishan42",
-          "kind": "human",
-          "commits": 5,
-          "latest_date": "2026-07-26 14:47",
-          "latest_msg": "Sync TradeKyaMal calibration scripts, human score API, and dashboard u",
-          "latest_sha": "c060574",
-          "latest_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/c060574e826a0456660dcdbf62433c3c8875cc0f"
         },
         {
           "name": "MojunZheng",
@@ -888,23 +882,13 @@
           "latest_msg": "Add files via upload",
           "latest_sha": "69afdc9",
           "latest_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/69afdc93849fbad111ac864f4bed571c7fc9b676"
-        },
-        {
-          "name": "Arisa",
-          "login": "arisa-exe",
-          "kind": "human",
-          "commits": 1,
-          "latest_date": "2026-07-06 04:50",
-          "latest_msg": "Add GitHub Actions workflow for Macro Agent",
-          "latest_sha": "dbdf3ee",
-          "latest_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/dbdf3eea21864f538ae0c7ca38f11614a569ca59"
         }
       ],
       "pr_history": {
         "total": 4,
         "merged": 2,
-        "open": 1,
-        "abandoned": 1,
+        "open": 0,
+        "abandoned": 2,
         "weekly": {
           "2026-07-20": {
             "merged": 1,
@@ -918,8 +902,8 @@
           },
           "2026-07-06": {
             "merged": 0,
-            "open": 1,
-            "abandoned": 0
+            "open": 0,
+            "abandoned": 1
           }
         },
         "recent": [
@@ -950,7 +934,7 @@
           {
             "number": 1,
             "title": "Macro update",
-            "status": "open",
+            "status": "abandoned",
             "url": "https://github.com/wintwah-lwin/CP3405_Group_4/pull/1",
             "created_at": "2026-07-06",
             "author": "wintwah-lwin"
@@ -969,11 +953,11 @@
       "repo": "Gong-yinxuan/CP3405",
       "prac": "B",
       "is_ultra": false,
-      "last_commit_sha": "30a0519",
-      "last_commit_msg": "update retrospective_W30.md",
-      "last_commit_date": "2026-07-26 10:36",
-      "last_commit_author": "ToHoangGia",
-      "last_commit_url": "https://github.com/Gong-yinxuan/CP3405/commit/30a0519e945021c0f86006d616201046a7817fcb",
+      "last_commit_sha": "fb02009",
+      "last_commit_msg": "Update r6_data_verification_w30.md",
+      "last_commit_date": "2026-07-27 03:24",
+      "last_commit_author": "Gong-yinxuan",
+      "last_commit_url": "https://github.com/Gong-yinxuan/CP3405/commit/fb020093c52b3e96d56bf38d5d99fa335f0b2633",
       "tags": [
         "vW30",
         "vW29",
@@ -985,8 +969,8 @@
       "sprint_tag_present": true,
       "last_run_name": "Update Market Data",
       "last_run_conclusion": "success",
-      "last_run_date": "2026-07-23 10:01",
-      "last_run_url": "https://github.com/Gong-yinxuan/CP3405/actions/runs/29997715271",
+      "last_run_date": "2026-07-27 04:51",
+      "last_run_url": "https://github.com/Gong-yinxuan/CP3405/actions/runs/30238190007",
       "last_run_was_filtered": true,
       "open_prs": 0,
       "pr_titles": [],
@@ -1024,34 +1008,34 @@
           "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/8639c938fce2305a89195324d681a0ffd4206b38"
         },
         {
+          "name": "Gong-yinxuan",
+          "login": "Gong-yinxuan",
+          "kind": "human",
+          "commits": 10,
+          "latest_date": "2026-07-27 03:24",
+          "latest_msg": "Update r6_data_verification_w30.md",
+          "latest_sha": "fb02009",
+          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/fb020093c52b3e96d56bf38d5d99fa335f0b2633"
+        },
+        {
           "name": "HYH-design-bot",
           "login": "HYH-design-bot",
           "kind": "bot",
-          "commits": 11,
+          "commits": 8,
           "latest_date": "2026-07-21 11:31",
           "latest_msg": "Update sprint_goal_W30.md, Added Reasoning behind sprint goal for clar",
           "latest_sha": "d0a99e2",
           "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/d0a99e22174b162c093329164bae8e131c8cf79e"
         },
         {
-          "name": "Gong-yinxuan",
-          "login": "Gong-yinxuan",
-          "kind": "human",
-          "commits": 8,
-          "latest_date": "2026-07-25 02:49",
-          "latest_msg": "Update r6_data_verification_w30.md",
-          "latest_sha": "47d0340",
-          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/47d0340c468ba45bd90a3b5c4b9f5aa62acb7017"
-        },
-        {
           "name": "github-actions[bot]",
           "login": "github-actions[bot]",
           "kind": "bot",
-          "commits": 3,
-          "latest_date": "2026-07-24 22:56",
-          "latest_msg": "chore: update Prism data 2026-07-24",
-          "latest_sha": "788351a",
-          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/788351af1612e262f7933302c9222d5d340fcc32"
+          "commits": 4,
+          "latest_date": "2026-07-27 02:58",
+          "latest_msg": "chore: update Prism data 2026-07-27",
+          "latest_sha": "0a84ec4",
+          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/0a84ec49c7b29b2cd0471e230a470f98d827df59"
         },
         {
           "name": "Kherlenbayar Sukhbaatar",
@@ -1171,7 +1155,7 @@
       "midweek_artefact": {
         "present": true,
         "path": "Week8/R2_Scrum_Master/standup_midweek_W30.md",
-        "url": "https://github.com/Gong-yinxuan/CP3405/blob/30a0519e945021c0f86006d616201046a7817fcb/Week8/R2_Scrum_Master/standup_midweek_W30.md"
+        "url": "https://github.com/Gong-yinxuan/CP3405/blob/fb020093c52b3e96d56bf38d5d99fa335f0b2633/Week8/R2_Scrum_Master/standup_midweek_W30.md"
       },
       "repo_url": "https://github.com/Gong-yinxuan/CP3405"
     },
@@ -1180,42 +1164,42 @@
       "repo": "ProfDrTan/market-prediction-engine",
       "prac": "Instructor",
       "is_ultra": true,
-      "last_commit_sha": "421e415",
-      "last_commit_msg": "Weekly pipeline run: 2026-07-20",
-      "last_commit_date": "2026-07-20 09:28",
-      "last_commit_author": "market-prediction-en",
-      "last_commit_url": "https://github.com/ProfDrTan/market-prediction-engine/commit/421e41575a0c5f27356114012cd0155a6aea0e31",
+      "last_commit_sha": "6843033",
+      "last_commit_msg": "docs: update CLAUDE.md learnings - gpt-oss-120b delisting an",
+      "last_commit_date": "2026-07-27 04:19",
+      "last_commit_author": "ProfDrTan",
+      "last_commit_url": "https://github.com/ProfDrTan/market-prediction-engine/commit/68430335352a2f8aa448332e543ab96029a5c78f",
       "tags": [],
       "sprint_tag_present": false,
       "last_run_name": "Weekly Prediction Pipeline",
       "last_run_conclusion": "success",
-      "last_run_date": "2026-07-20 09:25",
-      "last_run_url": "https://github.com/ProfDrTan/market-prediction-engine/actions/runs/29731357097",
+      "last_run_date": "2026-07-27 04:09",
+      "last_run_url": "https://github.com/ProfDrTan/market-prediction-engine/actions/runs/30236327654",
       "last_run_was_filtered": true,
       "open_prs": 0,
       "pr_titles": [],
       "pr_links": [],
-      "days_since_commit": 6,
+      "days_since_commit": 0,
       "contributors": [
         {
           "name": "ProfDrTan",
           "login": "ProfDrTan",
           "kind": "human",
-          "commits": 20,
-          "latest_date": "2026-07-10 18:02",
-          "latest_msg": "feat: front-end for enhanced Team 2 prediction feed (Weekly Almanac)",
-          "latest_sha": "0fe2178",
-          "latest_url": "https://github.com/ProfDrTan/market-prediction-engine/commit/0fe217852ef8edf1e0f38ec4d264a098e42cc698"
+          "commits": 24,
+          "latest_date": "2026-07-27 04:19",
+          "latest_msg": "docs: update CLAUDE.md learnings - gpt-oss-120b delisting and exit-0 m",
+          "latest_sha": "6843033",
+          "latest_url": "https://github.com/ProfDrTan/market-prediction-engine/commit/68430335352a2f8aa448332e543ab96029a5c78f"
         },
         {
           "name": "market-prediction-engine-bot",
           "login": "actions",
           "kind": "bot",
-          "commits": 9,
-          "latest_date": "2026-07-20 09:28",
-          "latest_msg": "Weekly pipeline run: 2026-07-20",
-          "latest_sha": "421e415",
-          "latest_url": "https://github.com/ProfDrTan/market-prediction-engine/commit/421e41575a0c5f27356114012cd0155a6aea0e31"
+          "commits": 10,
+          "latest_date": "2026-07-27 04:14",
+          "latest_msg": "Weekly pipeline run: 2026-07-27",
+          "latest_sha": "6b8f6b2",
+          "latest_url": "https://github.com/ProfDrTan/market-prediction-engine/commit/6b8f6b2cad032c7a781221dd5d3f2fb9fbce5d5d"
         }
       ],
       "pr_history": {
