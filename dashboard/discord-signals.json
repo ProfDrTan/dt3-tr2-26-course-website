@@ -1,5 +1,5 @@
 {
-  "generated": "Monday 27 July 2026 23:07 SGT",
+  "generated": "Tuesday 28 July 2026 01:09 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
@@ -38,6 +38,12 @@
     "Team 2": {
       "blockers": [
         {
+          "author": "vileworx",
+          "content": "R6 definition of done\n\u2705\ufe0f check and ensure no pipeline vulnerabilities\n\u2705\ufe0f ensure that output files are produced as expected\n\u2705\ufe0f connect the website front-end to the pipeline and output files\n\u2705\ufe0f complete",
+          "ts_str": "2026-07-27 16:33:13",
+          "url": "https://discord.com/channels/1505861202444816455/1505883145466155079/1531338686065545296"
+        },
+        {
           "author": "wenhanhu14796631_51955",
           "content": "R4[ ] Scripts tested, no unhandled runtime errors\n[ ] GitHub Actions auto-run every Friday after US market close\n[ ] Workflow outputs timestamped macro data files\n[ ] New data auto-committed to correc",
           "ts_str": "2026-07-27 14:27:36",
@@ -60,12 +66,6 @@
           "content": "Team, we might have an issue here. We gonna need a frontend for Sprint 9.",
           "ts_str": "2026-07-27 09:41:21",
           "url": "https://discord.com/channels/1505861202444816455/1505883145466155079/1531235035162873928"
-        },
-        {
-          "author": "guanyulu_88237",
-          "content": "@everyone ,Team, for your DoD, you can break down your work for W31 into a list of tasks that can be tick off. Please finish it by today. Thank you\u2764\ufe0f .\nFor example:\n\nDefinition of Done - R6 Data Colle",
-          "ts_str": "2026-07-27 02:45:37",
-          "url": "https://discord.com/channels/1505861202444816455/1505883145466155079/1531130415098757212"
         }
       ]
     },
