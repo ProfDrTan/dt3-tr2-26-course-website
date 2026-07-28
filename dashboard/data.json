@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-28 12:16 UTC",
+  "updated": "2026-07-28 14:55 UTC",
   "sprint_tag": "vW30",
   "sprint_deadline_utc": "2026-07-26T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W30",
@@ -352,7 +352,7 @@
       "open_prs": 0,
       "pr_titles": [],
       "pr_links": [],
-      "days_since_commit": 0,
+      "days_since_commit": 1,
       "contributors": [
         {
           "name": "ZhengZaikun",
@@ -975,8 +975,8 @@
       "sprint_tag_present": true,
       "last_run_name": "Update Market Data",
       "last_run_conclusion": "success",
-      "last_run_date": "2026-07-27 04:51",
-      "last_run_url": "https://github.com/Gong-yinxuan/CP3405/actions/runs/30238190007",
+      "last_run_date": "2026-07-28 13:30",
+      "last_run_url": "https://github.com/Gong-yinxuan/CP3405/actions/runs/30363811953",
       "last_run_was_filtered": true,
       "open_prs": 0,
       "pr_titles": [],
