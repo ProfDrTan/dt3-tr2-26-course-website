@@ -1,27 +1,8 @@
 {
-  "generated": "Tuesday 28 July 2026 20:15 SGT",
+  "generated": "Tuesday 28 July 2026 22:55 SGT",
   "teams": {
     "Team 1": {
-      "blockers": [
-        {
-          "author": "knm0856",
-          "content": "***What have you completed or contributed so far?***\n\nPresentation slides and speaker notes (most of them) finalization. And also help to search llm models we can use since some model(s) aren\u2019t be ava",
-          "ts_str": "2026-07-26 12:38:47",
-          "url": "https://discord.com/channels/1505861202444816455/1505883026771677366/1530917299509399716"
-        },
-        {
-          "author": "aeron0833",
-          "content": "What have you completed or contributed so far?\nI did human score and final prediction. I also search up for rate limited model like last week\n Did you face any blockers or challenges? \nNot really but ",
-          "ts_str": "2026-07-26 12:25:44",
-          "url": "https://discord.com/channels/1505861202444816455/1505883026771677366/1530914014719246387"
-        },
-        {
-          "author": "name010249",
-          "content": "What have you completed or contributed so far?\nI have implemented the prediction range to the current pipeline and also added it to the frontend. Both Almanac and macro will fetch seasonal data and im",
-          "ts_str": "2026-07-26 12:21:28",
-          "url": "https://discord.com/channels/1505861202444816455/1505883026771677366/1530912943653257276"
-        }
-      ]
+      "blockers": []
     },
     "Team 2": {
       "blockers": [
