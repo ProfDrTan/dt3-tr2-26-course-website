@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-28 01:20 UTC",
+  "updated": "2026-07-28 04:38 UTC",
   "sprint_tag": "vW30",
   "sprint_deadline_utc": "2026-07-26T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W30",
@@ -49,7 +49,7 @@
           "author": "saikokokyaw"
         }
       ],
-      "days_since_commit": 0,
+      "days_since_commit": 1,
       "contributors": [
         {
           "name": "sinder",
@@ -344,10 +344,10 @@
         "vW22"
       ],
       "sprint_tag_present": true,
-      "last_run_name": "R3 Almanac Agent Multi-Week Automation P",
-      "last_run_conclusion": "success",
-      "last_run_date": "2026-07-27 13:37",
-      "last_run_url": "https://github.com/LuJunwen212/CP3405-Project/actions/runs/30271133365",
+      "last_run_name": ".github/workflows/webpage_auto_pipeline.",
+      "last_run_conclusion": "failure",
+      "last_run_date": "2026-07-28 04:30",
+      "last_run_url": "https://github.com/LuJunwen212/CP3405-Project/actions/runs/30328919053",
       "last_run_was_filtered": true,
       "open_prs": 0,
       "pr_titles": [],
@@ -959,11 +959,11 @@
       "repo": "Gong-yinxuan/CP3405",
       "prac": "B",
       "is_ultra": false,
-      "last_commit_sha": "3060d4a",
-      "last_commit_msg": "Create sprint_goal_W31.md",
-      "last_commit_date": "2026-07-27 11:36",
-      "last_commit_author": "HYH-design-bot",
-      "last_commit_url": "https://github.com/Gong-yinxuan/CP3405/commit/3060d4adc7ab052bfb21344e3a73e982ec0150bc",
+      "last_commit_sha": "1e3bbe8",
+      "last_commit_msg": "Merge pull request #9 from Gong-yinxuan/create-frontend",
+      "last_commit_date": "2026-07-28 03:48",
+      "last_commit_author": "To Hoang Gia",
+      "last_commit_url": "https://github.com/Gong-yinxuan/CP3405/commit/1e3bbe847dac03771b799f1d1f5f0f826e3344a3",
       "tags": [
         "vW30",
         "vW29",
@@ -984,14 +984,14 @@
       "days_since_commit": 0,
       "contributors": [
         {
-          "name": "ToHoangGia",
+          "name": "To Hoang Gia",
           "login": "ToHoangGia",
           "kind": "human",
-          "commits": 30,
-          "latest_date": "2026-07-26 10:36",
-          "latest_msg": "update retrospective_W30.md",
-          "latest_sha": "30a0519",
-          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/30a0519e945021c0f86006d616201046a7817fcb"
+          "commits": 32,
+          "latest_date": "2026-07-28 03:48",
+          "latest_msg": "Merge pull request #9 from Gong-yinxuan/create-frontend",
+          "latest_sha": "1e3bbe8",
+          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/1e3bbe847dac03771b799f1d1f5f0f826e3344a3"
         },
         {
           "name": "EkaTiu",
@@ -1014,16 +1014,6 @@
           "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/8639c938fce2305a89195324d681a0ffd4206b38"
         },
         {
-          "name": "Gong-yinxuan",
-          "login": "Gong-yinxuan",
-          "kind": "human",
-          "commits": 10,
-          "latest_date": "2026-07-27 03:24",
-          "latest_msg": "Update r6_data_verification_w30.md",
-          "latest_sha": "fb02009",
-          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/fb020093c52b3e96d56bf38d5d99fa335f0b2633"
-        },
-        {
           "name": "HYH-design-bot",
           "login": "HYH-design-bot",
           "kind": "bot",
@@ -1032,6 +1022,16 @@
           "latest_msg": "Create sprint_goal_W31.md",
           "latest_sha": "3060d4a",
           "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/3060d4adc7ab052bfb21344e3a73e982ec0150bc"
+        },
+        {
+          "name": "Gong-yinxuan",
+          "login": "Gong-yinxuan",
+          "kind": "human",
+          "commits": 8,
+          "latest_date": "2026-07-27 03:24",
+          "latest_msg": "Update r6_data_verification_w30.md",
+          "latest_sha": "fb02009",
+          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/fb020093c52b3e96d56bf38d5d99fa335f0b2633"
         },
         {
           "name": "github-actions[bot]",
@@ -1075,11 +1075,16 @@
         }
       ],
       "pr_history": {
-        "total": 8,
-        "merged": 6,
+        "total": 9,
+        "merged": 7,
         "open": 0,
         "abandoned": 2,
         "weekly": {
+          "2026-07-27": {
+            "merged": 1,
+            "open": 0,
+            "abandoned": 0
+          },
           "2026-07-20": {
             "merged": 4,
             "open": 0,
@@ -1092,6 +1097,14 @@
           }
         },
         "recent": [
+          {
+            "number": 9,
+            "title": "Create frontend",
+            "status": "merged",
+            "url": "https://github.com/Gong-yinxuan/CP3405/pull/9",
+            "created_at": "2026-07-28",
+            "author": "ToHoangGia"
+          },
           {
             "number": 8,
             "title": "Fix calibration 2",
@@ -1161,7 +1174,7 @@
       "midweek_artefact": {
         "present": true,
         "path": "Week8/R2_Scrum_Master/standup_midweek_W30.md",
-        "url": "https://github.com/Gong-yinxuan/CP3405/blob/3060d4adc7ab052bfb21344e3a73e982ec0150bc/Week8/R2_Scrum_Master/standup_midweek_W30.md"
+        "url": "https://github.com/Gong-yinxuan/CP3405/blob/1e3bbe847dac03771b799f1d1f5f0f826e3344a3/Week8/R2_Scrum_Master/standup_midweek_W30.md"
       },
       "repo_url": "https://github.com/Gong-yinxuan/CP3405"
     },
