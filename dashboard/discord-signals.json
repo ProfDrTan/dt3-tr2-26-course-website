@@ -1,5 +1,5 @@
 {
-  "generated": "Tuesday 28 July 2026 07:47 SGT",
+  "generated": "Tuesday 28 July 2026 09:19 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
@@ -107,12 +107,6 @@
           "content": "I'm seeing that all the files are ready, if there are no problems, then I'm going to release tag soon",
           "ts_str": "2026-07-26 10:37:31",
           "url": "https://discord.com/channels/1505861202444816455/1505883282993315890/1530886781778530396"
-        },
-        {
-          "author": "fiery_courgette_94143",
-          "content": "hi the prediction.json was abit wrong but it should be alright",
-          "ts_str": "2026-07-26 00:49:44",
-          "url": "https://discord.com/channels/1505861202444816455/1505883282993315890/1530738861658079453"
         }
       ]
     }
