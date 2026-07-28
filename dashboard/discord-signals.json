@@ -1,5 +1,5 @@
 {
-  "generated": "Tuesday 28 July 2026 09:19 SGT",
+  "generated": "Tuesday 28 July 2026 12:37 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
@@ -90,6 +90,12 @@
     },
     "Team 5": {
       "blockers": [
+        {
+          "author": "fiery_courgette_94143",
+          "content": "Hi, I've just finished doing the frontend website, but I can't host it using GitHub right now since I'm not the admin of GitHub\n\nSo <@1508337441445118062>  you are the admin, can you do these steps:\n\n",
+          "ts_str": "2026-07-28 03:54:34",
+          "url": "https://discord.com/channels/1505861202444816455/1505883282993315890/1531510153747234878"
+        },
         {
           "author": "yh03472",
           "content": "Important things to keep in mind this week: (R1 sprint goal)\nDon't fully rely on the automation data, do a human quality check on your parts of the work\nFix the automation pipeline if any errors were ",
