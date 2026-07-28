@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-28 04:38 UTC",
+  "updated": "2026-07-28 07:25 UTC",
   "sprint_tag": "vW30",
   "sprint_deadline_utc": "2026-07-26T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W30",
@@ -344,10 +344,10 @@
         "vW22"
       ],
       "sprint_tag_present": true,
-      "last_run_name": ".github/workflows/webpage_auto_pipeline.",
-      "last_run_conclusion": "failure",
-      "last_run_date": "2026-07-28 04:30",
-      "last_run_url": "https://github.com/LuJunwen212/CP3405-Project/actions/runs/30328919053",
+      "last_run_name": "Team 2 Webpage & Dashboard Automation Pi",
+      "last_run_conclusion": "success",
+      "last_run_date": "2026-07-28 06:15",
+      "last_run_url": "https://github.com/LuJunwen212/CP3405-Project/actions/runs/30334189146",
       "last_run_was_filtered": true,
       "open_prs": 0,
       "pr_titles": [],
@@ -797,7 +797,7 @@
       "open_prs": 0,
       "pr_titles": [],
       "pr_links": [],
-      "days_since_commit": 0,
+      "days_since_commit": 1,
       "contributors": [
         {
           "name": "Arisa",
