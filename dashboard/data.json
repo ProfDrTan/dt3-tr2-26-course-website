@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-29 19:38 UTC",
+  "updated": "2026-07-29 20:36 UTC",
   "sprint_tag": "vW30",
   "sprint_deadline_utc": "2026-07-26T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W30",
@@ -26,18 +26,25 @@
       ],
       "sprint_tag_present": true,
       "last_run_name": "python-checks",
-      "last_run_conclusion": "failure",
-      "last_run_date": "2026-07-29 19:25",
-      "last_run_url": "https://github.com/sinder38/Team-1-Prac-A-Project/actions/runs/30484337330",
+      "last_run_conclusion": "success",
+      "last_run_date": "2026-07-29 19:57",
+      "last_run_url": "https://github.com/sinder38/Team-1-Prac-A-Project/actions/runs/30486597331",
       "last_run_was_filtered": true,
-      "open_prs": 4,
+      "open_prs": 5,
       "pr_titles": [
+        "New LLMs Replacement for Week 10 (Branch duplictated from Ma",
         "feat: Charts week context, actuals, and About refresh",
         "Create standup_midweek_W31.md",
         "Refactor/decouple llms",
         "Implement regression tests for TechnicalAgent"
       ],
       "pr_links": [
+        {
+          "title": "New LLMs Replacement for Week 10 (Branch duplictated from Ma",
+          "number": 110,
+          "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/110",
+          "author": "sun9226066"
+        },
         {
           "title": "feat: Charts week context, actuals, and About refresh",
           "number": 109,
@@ -157,14 +164,14 @@
         }
       ],
       "pr_history": {
-        "total": 109,
+        "total": 110,
         "merged": 75,
-        "open": 4,
+        "open": 5,
         "abandoned": 30,
         "weekly": {
           "2026-07-27": {
             "merged": 0,
-            "open": 2,
+            "open": 3,
             "abandoned": 1
           },
           "2026-07-20": {
@@ -214,6 +221,14 @@
           }
         },
         "recent": [
+          {
+            "number": 110,
+            "title": "New LLMs Replacement for Week 10 (Branch duplictated from Main Branch)",
+            "status": "open",
+            "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/110",
+            "created_at": "2026-07-29",
+            "author": "sun9226066"
+          },
           {
             "number": 109,
             "title": "feat: Charts week context, actuals, and About refresh",
@@ -324,14 +339,6 @@
             "status": "merged",
             "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/96",
             "created_at": "2026-07-25",
-            "author": "github-actions[bot]"
-          },
-          {
-            "number": 95,
-            "title": "chore: pipeline artifacts 2026-07-24",
-            "status": "abandoned",
-            "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/95",
-            "created_at": "2026-07-24",
             "author": "github-actions[bot]"
           }
         ]
