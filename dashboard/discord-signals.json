@@ -1,11 +1,17 @@
 {
-  "generated": "Wednesday 29 July 2026 07:34 SGT",
+  "generated": "Wednesday 29 July 2026 09:10 SGT",
   "teams": {
     "Team 1": {
       "blockers": []
     },
     "Team 2": {
       "blockers": [
+        {
+          "author": "guanyulu_88237",
+          "content": "@everyone  Guys, today everyone needs to check their code for any issues and conduct tests on the week9 branch to ensure that the code can run automatically on Saturday.",
+          "ts_str": "2026-07-29 00:33:52",
+          "url": "https://discord.com/channels/1505861202444816455/1505883145466155079/1531822031816101929"
+        },
         {
           "author": "vileworx",
           "content": "R6 definition of done\n\u2705\ufe0f check and ensure no pipeline vulnerabilities\n\u2705\ufe0f ensure that output files are produced as expected\n\u2705\ufe0f connect the website front-end to the pipeline and output files\n\u2705\ufe0f complete",
@@ -29,12 +35,6 @@
           "content": "# Sprint 9 Goal \u2014 W31\n\nEnsure complete code and report reproducibility, streamline deliverables with a clean and efficient documentation structure, and prepare comprehensive presentations for Sprint 9",
           "ts_str": "2026-07-27 12:27:10",
           "url": "https://discord.com/channels/1505861202444816455/1505883145466155079/1531276763110441263"
-        },
-        {
-          "author": "noobydoo2507",
-          "content": "Team, we might have an issue here. We gonna need a frontend for Sprint 9.",
-          "ts_str": "2026-07-27 09:41:21",
-          "url": "https://discord.com/channels/1505861202444816455/1505883145466155079/1531235035162873928"
         }
       ]
     },
