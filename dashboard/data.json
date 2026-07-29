@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-29 14:55 UTC",
+  "updated": "2026-07-29 16:37 UTC",
   "sprint_tag": "vW30",
   "sprint_deadline_utc": "2026-07-26T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W30",
@@ -1213,24 +1213,24 @@
       "days_since_commit": 2,
       "contributors": [
         {
-          "name": "ProfDrTan",
-          "login": "ProfDrTan",
-          "kind": "human",
-          "commits": 13,
-          "latest_date": "2026-07-27 04:19",
-          "latest_msg": "docs: update CLAUDE.md learnings - gpt-oss-120b delisting and exit-0 m",
-          "latest_sha": "6843033",
-          "latest_url": "https://github.com/ProfDrTan/market-prediction-engine/commit/68430335352a2f8aa448332e543ab96029a5c78f"
-        },
-        {
           "name": "market-prediction-engine-bot",
           "login": "actions",
           "kind": "bot",
-          "commits": 12,
+          "commits": 10,
           "latest_date": "2026-07-27 10:09",
           "latest_msg": "Weekly pipeline run: 2026-07-27",
           "latest_sha": "561af8a",
           "latest_url": "https://github.com/ProfDrTan/market-prediction-engine/commit/561af8aa2d17474c908a98b75d5221664d2fc665"
+        },
+        {
+          "name": "ProfDrTan",
+          "login": "ProfDrTan",
+          "kind": "human",
+          "commits": 8,
+          "latest_date": "2026-07-27 04:19",
+          "latest_msg": "docs: update CLAUDE.md learnings - gpt-oss-120b delisting and exit-0 m",
+          "latest_sha": "6843033",
+          "latest_url": "https://github.com/ProfDrTan/market-prediction-engine/commit/68430335352a2f8aa448332e543ab96029a5c78f"
         }
       ],
       "pr_history": {
