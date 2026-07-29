@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-29 07:27 UTC",
+  "updated": "2026-07-29 10:13 UTC",
   "sprint_tag": "vW30",
   "sprint_deadline_utc": "2026-07-26T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W30",
@@ -30,13 +30,20 @@
       "last_run_date": "2026-07-29 00:49",
       "last_run_url": "https://github.com/sinder38/Team-1-Prac-A-Project/actions/runs/30412266492",
       "last_run_was_filtered": true,
-      "open_prs": 3,
+      "open_prs": 4,
       "pr_titles": [
+        "Create standup_midweek_W31.md",
         "New LLMs Replacement for Week 10 (Branch duplictated from Za",
         "Refactor/decouple llms",
         "Implement regression tests for TechnicalAgent"
       ],
       "pr_links": [
+        {
+          "title": "Create standup_midweek_W31.md",
+          "number": 108,
+          "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/108",
+          "author": "panhsumyat0179-pixel"
+        },
         {
           "title": "New LLMs Replacement for Week 10 (Branch duplictated from Za",
           "number": 107,
@@ -150,14 +157,14 @@
         }
       ],
       "pr_history": {
-        "total": 107,
+        "total": 108,
         "merged": 75,
-        "open": 3,
+        "open": 4,
         "abandoned": 29,
         "weekly": {
           "2026-07-27": {
             "merged": 0,
-            "open": 1,
+            "open": 2,
             "abandoned": 0
           },
           "2026-07-20": {
@@ -207,6 +214,14 @@
           }
         },
         "recent": [
+          {
+            "number": 108,
+            "title": "Create standup_midweek_W31.md",
+            "status": "open",
+            "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/108",
+            "created_at": "2026-07-29",
+            "author": "panhsumyat0179-pixel"
+          },
           {
             "number": 107,
             "title": "New LLMs Replacement for Week 10 (Branch duplictated from ZawLattNaung",
@@ -318,14 +333,6 @@
             "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/94",
             "created_at": "2026-07-24",
             "author": "oakkar-cm"
-          },
-          {
-            "number": 93,
-            "title": "fix: keep incomplete archive weeks open and sync stage 3 provider",
-            "status": "merged",
-            "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/93",
-            "created_at": "2026-07-24",
-            "author": "oakkar-cm"
           }
         ]
       },
@@ -356,10 +363,10 @@
         "vW22"
       ],
       "sprint_tag_present": true,
-      "last_run_name": "Team 2 Webpage & Dashboard Automation Pi",
-      "last_run_conclusion": "success",
-      "last_run_date": "2026-07-28 06:15",
-      "last_run_url": "https://github.com/LuJunwen212/CP3405-Project/actions/runs/30334189146",
+      "last_run_name": "R10 Calibration Automation",
+      "last_run_conclusion": "skipped",
+      "last_run_date": "2026-07-29 08:34",
+      "last_run_url": "https://github.com/LuJunwen212/CP3405-Project/actions/runs/30436078856",
       "last_run_was_filtered": true,
       "open_prs": 0,
       "pr_titles": [],
@@ -1210,7 +1217,7 @@
       "open_prs": 0,
       "pr_titles": [],
       "pr_links": [],
-      "days_since_commit": 1,
+      "days_since_commit": 2,
       "contributors": [
         {
           "name": "ProfDrTan",
