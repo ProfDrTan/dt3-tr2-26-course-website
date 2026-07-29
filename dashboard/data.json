@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-29 12:26 UTC",
+  "updated": "2026-07-29 14:55 UTC",
   "sprint_tag": "vW30",
   "sprint_deadline_utc": "2026-07-26T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W30",
@@ -30,10 +30,9 @@
       "last_run_date": "2026-07-29 00:49",
       "last_run_url": "https://github.com/sinder38/Team-1-Prac-A-Project/actions/runs/30412266492",
       "last_run_was_filtered": true,
-      "open_prs": 4,
+      "open_prs": 3,
       "pr_titles": [
         "Create standup_midweek_W31.md",
-        "New LLMs Replacement for Week 10 (Branch duplictated from Za",
         "Refactor/decouple llms",
         "Implement regression tests for TechnicalAgent"
       ],
@@ -43,12 +42,6 @@
           "number": 108,
           "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/108",
           "author": "panhsumyat0179-pixel"
-        },
-        {
-          "title": "New LLMs Replacement for Week 10 (Branch duplictated from Za",
-          "number": 107,
-          "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/107",
-          "author": "sun9226066"
         },
         {
           "title": "Refactor/decouple llms",
@@ -159,13 +152,13 @@
       "pr_history": {
         "total": 108,
         "merged": 75,
-        "open": 4,
-        "abandoned": 29,
+        "open": 3,
+        "abandoned": 30,
         "weekly": {
           "2026-07-27": {
             "merged": 0,
-            "open": 2,
-            "abandoned": 0
+            "open": 1,
+            "abandoned": 1
           },
           "2026-07-20": {
             "merged": 13,
@@ -225,7 +218,7 @@
           {
             "number": 107,
             "title": "New LLMs Replacement for Week 10 (Branch duplictated from ZawLattNaung",
-            "status": "open",
+            "status": "abandoned",
             "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/107",
             "created_at": "2026-07-29",
             "author": "sun9226066"
@@ -364,14 +357,14 @@
       ],
       "sprint_tag_present": true,
       "last_run_name": "R10 Calibration Automation",
-      "last_run_conclusion": "skipped",
-      "last_run_date": "2026-07-29 08:34",
-      "last_run_url": "https://github.com/LuJunwen212/CP3405-Project/actions/runs/30436078856",
+      "last_run_conclusion": "success",
+      "last_run_date": "2026-07-29 13:04",
+      "last_run_url": "https://github.com/LuJunwen212/CP3405-Project/actions/runs/30454326039",
       "last_run_was_filtered": true,
       "open_prs": 0,
       "pr_titles": [],
       "pr_links": [],
-      "days_since_commit": 1,
+      "days_since_commit": 2,
       "contributors": [
         {
           "name": "ZhengZaikun",
@@ -656,11 +649,11 @@
       "repo": "juninho4/Team-3-Practical-A-CP3405",
       "prac": "A",
       "is_ultra": false,
-      "last_commit_sha": "3f87d99",
-      "last_commit_msg": "update week31's sprint_goal",
-      "last_commit_date": "2026-07-27 12:11",
-      "last_commit_author": "vandarkray",
-      "last_commit_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/3f87d995961f9421abc450d8d614c22a0a8607bb",
+      "last_commit_sha": "b92e489",
+      "last_commit_msg": "Update standup_midweek_W31.md",
+      "last_commit_date": "2026-07-29 14:10",
+      "last_commit_author": "Jiale Zhang",
+      "last_commit_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/b92e489092f71dbe31c2758a1ecd8cefd0245895",
       "tags": [
         "vW30",
         "vW25",
@@ -678,7 +671,7 @@
       "open_prs": 0,
       "pr_titles": [],
       "pr_links": [],
-      "days_since_commit": 2,
+      "days_since_commit": 0,
       "contributors": [
         {
           "name": "141242-l",
@@ -704,11 +697,11 @@
           "name": "Jiale Zhang",
           "login": "ZHANGJIALELLLLL",
           "kind": "human",
-          "commits": 7,
-          "latest_date": "2026-07-27 01:09",
-          "latest_msg": "Update standup_midweek_W30.md",
-          "latest_sha": "8533f74",
-          "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/8533f74979856b26dab051e7837cf354bece3dbd"
+          "commits": 9,
+          "latest_date": "2026-07-29 14:10",
+          "latest_msg": "Update standup_midweek_W31.md",
+          "latest_sha": "b92e489",
+          "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/b92e489092f71dbe31c2758a1ecd8cefd0245895"
         },
         {
           "name": "Vince-1206",
@@ -734,21 +727,11 @@
           "name": "souyashiinamahiru",
           "login": "souyashiinamahiru",
           "kind": "human",
-          "commits": 5,
+          "commits": 4,
           "latest_date": "2026-07-27 02:15",
           "latest_msg": "Add files via upload",
           "latest_sha": "965c5db",
           "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/965c5db4211658cf7fb7d98a10d552d97c61e96f"
-        },
-        {
-          "name": "Juninho",
-          "login": "juninho4",
-          "kind": "human",
-          "commits": 4,
-          "latest_date": "2026-07-27 05:41",
-          "latest_msg": "added ppt file for w30",
-          "latest_sha": "2338610",
-          "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/23386106a807866bf8b53a5683b4cd4e21870b1b"
         },
         {
           "name": "github-actions[bot]",
@@ -759,6 +742,16 @@
           "latest_msg": "chore: update weekly market output [skip ci]",
           "latest_sha": "4775e6b",
           "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/4775e6b2f5d097e03e2c963dc46af4540aef3421"
+        },
+        {
+          "name": "Juninho",
+          "login": "juninho4",
+          "kind": "human",
+          "commits": 3,
+          "latest_date": "2026-07-27 05:41",
+          "latest_msg": "added ppt file for w30",
+          "latest_sha": "2338610",
+          "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/23386106a807866bf8b53a5683b4cd4e21870b1b"
         },
         {
           "name": "Jiawei990029",
@@ -782,7 +775,7 @@
       "midweek_artefact": {
         "present": true,
         "path": "vW30/standup_midweek_W30.md",
-        "url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/blob/3f87d995961f9421abc450d8d614c22a0a8607bb/vW30/standup_midweek_W30.md"
+        "url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/blob/b92e489092f71dbe31c2758a1ecd8cefd0245895/vW30/standup_midweek_W30.md"
       },
       "repo_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405"
     },
@@ -978,11 +971,11 @@
       "repo": "Gong-yinxuan/CP3405",
       "prac": "B",
       "is_ultra": false,
-      "last_commit_sha": "086f1a2",
-      "last_commit_msg": "Update llm_synthesis.py",
-      "last_commit_date": "2026-07-29 05:28",
-      "last_commit_author": "HYH-design-bot",
-      "last_commit_url": "https://github.com/Gong-yinxuan/CP3405/commit/086f1a2339bab42c61e4b4f97dc15869b4d566cc",
+      "last_commit_sha": "b36b34a",
+      "last_commit_msg": "Update technical_agent_W09.md",
+      "last_commit_date": "2026-07-29 13:56",
+      "last_commit_author": "darwin",
+      "last_commit_url": "https://github.com/Gong-yinxuan/CP3405/commit/b36b34afb0395342e877f1e1ca20814e4815df69",
       "tags": [
         "vW30",
         "vW29",
@@ -1026,37 +1019,37 @@
           "name": "wujinrui2004",
           "login": "wujinrui2004",
           "kind": "human",
-          "commits": 17,
+          "commits": 16,
           "latest_date": "2026-07-23 10:09",
           "latest_msg": "R2/R8: document Hy3/Claude payment blocker and fallback resolution",
           "latest_sha": "8639c93",
           "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/8639c938fce2305a89195324d681a0ffd4206b38"
         },
         {
+          "name": "Gong-yinxuan",
+          "login": "Gong-yinxuan",
+          "kind": "human",
+          "commits": 10,
+          "latest_date": "2026-07-29 12:51",
+          "latest_msg": "Update macro_agent_W09.md",
+          "latest_sha": "25946db",
+          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/25946dbf35ba1a93e97b590a9a9d1e3b1bf76314"
+        },
+        {
           "name": "HYH-design-bot",
           "login": "HYH-design-bot",
           "kind": "bot",
-          "commits": 9,
+          "commits": 8,
           "latest_date": "2026-07-29 05:28",
           "latest_msg": "Update llm_synthesis.py",
           "latest_sha": "086f1a2",
           "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/086f1a2339bab42c61e4b4f97dc15869b4d566cc"
         },
         {
-          "name": "Gong-yinxuan",
-          "login": "Gong-yinxuan",
-          "kind": "human",
-          "commits": 8,
-          "latest_date": "2026-07-27 03:24",
-          "latest_msg": "Update r6_data_verification_w30.md",
-          "latest_sha": "fb02009",
-          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/fb020093c52b3e96d56bf38d5d99fa335f0b2633"
-        },
-        {
           "name": "github-actions[bot]",
           "login": "github-actions[bot]",
           "kind": "bot",
-          "commits": 4,
+          "commits": 3,
           "latest_date": "2026-07-27 02:58",
           "latest_msg": "chore: update Prism data 2026-07-27",
           "latest_sha": "0a84ec4",
@@ -1073,6 +1066,16 @@
           "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/3a42095861d8fa262e613e0b53910f087c2265ad"
         },
         {
+          "name": "darwin",
+          "login": "DarwinJo05",
+          "kind": "human",
+          "commits": 2,
+          "latest_date": "2026-07-29 13:56",
+          "latest_msg": "Update technical_agent_W09.md",
+          "latest_sha": "b36b34a",
+          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/b36b34afb0395342e877f1e1ca20814e4815df69"
+        },
+        {
           "name": "JiangJinsong",
           "login": "JiangJinsong",
           "kind": "human",
@@ -1081,16 +1084,6 @@
           "latest_msg": "Add files via upload",
           "latest_sha": "5905064",
           "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/5905064fc755c13da7777d09bd0a84236e241c88"
-        },
-        {
-          "name": "darwin",
-          "login": "DarwinJo05",
-          "kind": "human",
-          "commits": 1,
-          "latest_date": "2026-07-22 02:57",
-          "latest_msg": "Update macro_agent_W08.md",
-          "latest_sha": "10345f4",
-          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/10345f4f83b81e4275783f6dd9b3ed177940ce2e"
         }
       ],
       "pr_history": {
@@ -1193,7 +1186,7 @@
       "midweek_artefact": {
         "present": true,
         "path": "Week8/R2_Scrum_Master/standup_midweek_W30.md",
-        "url": "https://github.com/Gong-yinxuan/CP3405/blob/086f1a2339bab42c61e4b4f97dc15869b4d566cc/Week8/R2_Scrum_Master/standup_midweek_W30.md"
+        "url": "https://github.com/Gong-yinxuan/CP3405/blob/b36b34afb0395342e877f1e1ca20814e4815df69/Week8/R2_Scrum_Master/standup_midweek_W30.md"
       },
       "repo_url": "https://github.com/Gong-yinxuan/CP3405"
     },
@@ -1223,7 +1216,7 @@
           "name": "ProfDrTan",
           "login": "ProfDrTan",
           "kind": "human",
-          "commits": 24,
+          "commits": 13,
           "latest_date": "2026-07-27 04:19",
           "latest_msg": "docs: update CLAUDE.md learnings - gpt-oss-120b delisting and exit-0 m",
           "latest_sha": "6843033",
