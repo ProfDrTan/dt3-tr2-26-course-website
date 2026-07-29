@@ -1,5 +1,5 @@
 {
-  "generated": "Wednesday 29 July 2026 20:26 SGT",
+  "generated": "Wednesday 29 July 2026 22:55 SGT",
   "teams": {
     "Team 1": {
       "blockers": []
@@ -17,24 +17,6 @@
           "content": "R6 definition of done\n\u2705\ufe0f check and ensure no pipeline vulnerabilities\n\u2705\ufe0f ensure that output files are produced as expected\n\u2705\ufe0f connect the website front-end to the pipeline and output files\n\u2705\ufe0f complete",
           "ts_str": "2026-07-27 16:33:13",
           "url": "https://discord.com/channels/1505861202444816455/1505883145466155079/1531338686065545296"
-        },
-        {
-          "author": "wenhanhu14796631_51955",
-          "content": "R4[ ] Scripts tested, no unhandled runtime errors\n[ ] GitHub Actions auto-run every Friday after US market close\n[ ] Workflow outputs timestamped macro data files\n[ ] New data auto-committed to correc",
-          "ts_str": "2026-07-27 14:27:36",
-          "url": "https://discord.com/channels/1505861202444816455/1505883145466155079/1531307073370067125"
-        },
-        {
-          "author": "lujunwen1_29056",
-          "content": "GitHub Leader \u2014 Definition of Done\nCreate the required working branches using the correct naming convention.\nReview all submitted branches and Pull Requests before merging.\nConfirm that the required f",
-          "ts_str": "2026-07-27 13:06:09",
-          "url": "https://discord.com/channels/1505861202444816455/1505883145466155079/1531286574682079242"
-        },
-        {
-          "author": "zhengzaikun_84219",
-          "content": "# Sprint 9 Goal \u2014 W31\n\nEnsure complete code and report reproducibility, streamline deliverables with a clean and efficient documentation structure, and prepare comprehensive presentations for Sprint 9",
-          "ts_str": "2026-07-27 12:27:10",
-          "url": "https://discord.com/channels/1505861202444816455/1505883145466155079/1531276763110441263"
         }
       ]
     },
