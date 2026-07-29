@@ -1,5 +1,5 @@
 {
-  "generated": "Wednesday 29 July 2026 09:10 SGT",
+  "generated": "Wednesday 29 July 2026 12:32 SGT",
   "teams": {
     "Team 1": {
       "blockers": []
@@ -76,12 +76,6 @@
           "content": "Important things to keep in mind this week: (R1 sprint goal)\nDon't fully rely on the automation data, do a human quality check on your parts of the work\nFix the automation pipeline if any errors were ",
           "ts_str": "2026-07-27 09:03:36",
           "url": "https://discord.com/channels/1505861202444816455/1505883282993315890/1531225533822799882"
-        },
-        {
-          "author": "fiery_courgette_94143",
-          "content": "TEAM: Team _5_ / Practical _8_\nSPRINT: 8 \u00b7 vW30\nGITHUB REPO: https://github.com/Gong-yinxuan/CP3405\nRELEASE LINK: https://github.com/Gong-yinxuan/CP3405/releases/tag/vW30\n\n\u2501\u2501\u2501 SM CHECK-IN (R2) \u2501\u2501\u2501\nsta",
-          "ts_str": "2026-07-27 01:26:44",
-          "url": "https://discord.com/channels/1505861202444816455/1505883282993315890/1531110562572800102"
         }
       ]
     }
