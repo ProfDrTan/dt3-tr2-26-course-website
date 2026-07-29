@@ -1,5 +1,5 @@
 {
-  "generated": "Wednesday 29 July 2026 15:26 SGT",
+  "generated": "Wednesday 29 July 2026 18:13 SGT",
   "teams": {
     "Team 1": {
       "blockers": []
@@ -42,6 +42,12 @@
       "blockers": [
         {
           "author": "zhangjiale_81292",
+          "content": "Hi ,\n\nPlease send me:\n\u2022 Started / In Progress / Completed\n\u2022 Any blockers\n\u2022 Are you ready for your Demo Day presentation?\n\nThank you!",
+          "ts_str": "2026-07-29 08:57:09",
+          "url": "https://discord.com/channels/1505861202444816455/1505883200151490660/1531948689541566577"
+        },
+        {
+          "author": "zhangjiale_81292",
           "content": "\ud83d\udce2 Sprint 9 Daily Update\n\nHi team,\n\nPlease continue your assigned tasks today.\n\nRemember to:\n\u2022 Update your progress.\n\u2022 Let me know if you have any blockers.\n\u2022 Prepare your Demo Day presentation.\n\nThank",
           "ts_str": "2026-07-28 11:45:41",
           "url": "https://discord.com/channels/1505861202444816455/1505883200151490660/1531628712100106282"
@@ -51,12 +57,6 @@
           "content": "Whoever has their automation script/backend throws an error, make to sure to fix sooner, i will try to work on the front end",
           "ts_str": "2026-07-28 06:33:05",
           "url": "https://discord.com/channels/1505861202444816455/1505883200151490660/1531550043830747316"
-        },
-        {
-          "author": "zhangjiale_81292",
-          "content": "\ud83d\udce2 Sprint 9 has started!\n\nHi team,\n\nToday we will begin Sprint 9.\n\nPlease:\n\u2705 Check the Sprint 9 requirements.\n\u2705 Confirm your role and tasks.\n\u2705 Start working on your assigned responsibilities.\n\u2705 Think a",
-          "ts_str": "2026-07-27 08:25:27",
-          "url": "https://discord.com/channels/1505861202444816455/1505883200151490660/1531215934381883572"
         }
       ]
     },
@@ -77,12 +77,6 @@
           "content": "Hi, I've just finished doing the frontend website, but I can't host it using GitHub right now since I'm not the admin of GitHub\n\nSo <@1508337441445118062>  you are the admin, can you do these steps:\n\n",
           "ts_str": "2026-07-28 03:54:34",
           "url": "https://discord.com/channels/1505861202444816455/1505883282993315890/1531510153747234878"
-        },
-        {
-          "author": "yh03472",
-          "content": "Important things to keep in mind this week: (R1 sprint goal)\nDon't fully rely on the automation data, do a human quality check on your parts of the work\nFix the automation pipeline if any errors were ",
-          "ts_str": "2026-07-27 09:03:36",
-          "url": "https://discord.com/channels/1505861202444816455/1505883282993315890/1531225533822799882"
         }
       ]
     }
