@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-29 21:38 UTC",
+  "updated": "2026-07-29 22:40 UTC",
   "sprint_tag": "vW30",
   "sprint_deadline_utc": "2026-07-26T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W30",
@@ -798,11 +798,11 @@
       "repo": "wintwah-lwin/CP3405_Group_4",
       "prac": "B",
       "is_ultra": false,
-      "last_commit_sha": "1f86b86",
-      "last_commit_msg": "Auto-commit: Pipeline execution (Week 10)",
-      "last_commit_date": "2026-07-29 04:21",
-      "last_commit_author": "github-actions[bot]",
-      "last_commit_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/1f86b869b6687ee89425e6a40ee6e21e06a7c1c6",
+      "last_commit_sha": "ddc985d",
+      "last_commit_msg": "Delete incoming directory",
+      "last_commit_date": "2026-07-29 22:37",
+      "last_commit_author": "Arisa",
+      "last_commit_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/ddc985d46ca90e3057abef98efc50886abd42fa6",
       "tags": [
         "vW30",
         "vW29",
@@ -830,10 +830,10 @@
           "login": "wintwah-lwin",
           "kind": "human",
           "commits": 48,
-          "latest_date": "2026-07-27 04:17",
-          "latest_msg": "Update auto-prediction.yml",
-          "latest_sha": "bf1d7b3",
-          "latest_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/bf1d7b328ae4b90f65b961996db435417a09bd2c"
+          "latest_date": "2026-07-29 22:37",
+          "latest_msg": "Delete incoming directory",
+          "latest_sha": "ddc985d",
+          "latest_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/ddc985d46ca90e3057abef98efc50886abd42fa6"
         },
         {
           "name": "github-actions[bot]",
