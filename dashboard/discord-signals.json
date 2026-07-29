@@ -1,5 +1,5 @@
 {
-  "generated": "Wednesday 29 July 2026 22:55 SGT",
+  "generated": "Thursday 30 July 2026 00:36 SGT",
   "teams": {
     "Team 1": {
       "blockers": []
@@ -11,12 +11,6 @@
           "content": "@everyone  Guys, today everyone needs to check their code for any issues and conduct tests on the week9 branch to ensure that the code can run automatically on Saturday.",
           "ts_str": "2026-07-29 00:33:52",
           "url": "https://discord.com/channels/1505861202444816455/1505883145466155079/1531822031816101929"
-        },
-        {
-          "author": "vileworx",
-          "content": "R6 definition of done\n\u2705\ufe0f check and ensure no pipeline vulnerabilities\n\u2705\ufe0f ensure that output files are produced as expected\n\u2705\ufe0f connect the website front-end to the pipeline and output files\n\u2705\ufe0f complete",
-          "ts_str": "2026-07-27 16:33:13",
-          "url": "https://discord.com/channels/1505861202444816455/1505883145466155079/1531338686065545296"
         }
       ]
     },
