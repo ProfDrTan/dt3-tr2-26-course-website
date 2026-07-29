@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-29 04:32 UTC",
+  "updated": "2026-07-29 07:27 UTC",
   "sprint_tag": "vW30",
   "sprint_deadline_utc": "2026-07-26T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W30",
@@ -971,11 +971,11 @@
       "repo": "Gong-yinxuan/CP3405",
       "prac": "B",
       "is_ultra": false,
-      "last_commit_sha": "1e3bbe8",
-      "last_commit_msg": "Merge pull request #9 from Gong-yinxuan/create-frontend",
-      "last_commit_date": "2026-07-28 03:48",
-      "last_commit_author": "To Hoang Gia",
-      "last_commit_url": "https://github.com/Gong-yinxuan/CP3405/commit/1e3bbe847dac03771b799f1d1f5f0f826e3344a3",
+      "last_commit_sha": "086f1a2",
+      "last_commit_msg": "Update llm_synthesis.py",
+      "last_commit_date": "2026-07-29 05:28",
+      "last_commit_author": "HYH-design-bot",
+      "last_commit_url": "https://github.com/Gong-yinxuan/CP3405/commit/086f1a2339bab42c61e4b4f97dc15869b4d566cc",
       "tags": [
         "vW30",
         "vW29",
@@ -987,13 +987,13 @@
       "sprint_tag_present": true,
       "last_run_name": "Update Market Data",
       "last_run_conclusion": "success",
-      "last_run_date": "2026-07-29 03:53",
-      "last_run_url": "https://github.com/Gong-yinxuan/CP3405/actions/runs/30420751439",
+      "last_run_date": "2026-07-29 05:19",
+      "last_run_url": "https://github.com/Gong-yinxuan/CP3405/actions/runs/30424754539",
       "last_run_was_filtered": true,
       "open_prs": 0,
       "pr_titles": [],
       "pr_links": [],
-      "days_since_commit": 1,
+      "days_since_commit": 0,
       "contributors": [
         {
           "name": "To Hoang Gia",
@@ -1030,10 +1030,10 @@
           "login": "HYH-design-bot",
           "kind": "bot",
           "commits": 9,
-          "latest_date": "2026-07-27 11:36",
-          "latest_msg": "Create sprint_goal_W31.md",
-          "latest_sha": "3060d4a",
-          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/3060d4adc7ab052bfb21344e3a73e982ec0150bc"
+          "latest_date": "2026-07-29 05:28",
+          "latest_msg": "Update llm_synthesis.py",
+          "latest_sha": "086f1a2",
+          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/086f1a2339bab42c61e4b4f97dc15869b4d566cc"
         },
         {
           "name": "Gong-yinxuan",
@@ -1186,7 +1186,7 @@
       "midweek_artefact": {
         "present": true,
         "path": "Week8/R2_Scrum_Master/standup_midweek_W30.md",
-        "url": "https://github.com/Gong-yinxuan/CP3405/blob/1e3bbe847dac03771b799f1d1f5f0f826e3344a3/Week8/R2_Scrum_Master/standup_midweek_W30.md"
+        "url": "https://github.com/Gong-yinxuan/CP3405/blob/086f1a2339bab42c61e4b4f97dc15869b4d566cc/Week8/R2_Scrum_Master/standup_midweek_W30.md"
       },
       "repo_url": "https://github.com/Gong-yinxuan/CP3405"
     },
