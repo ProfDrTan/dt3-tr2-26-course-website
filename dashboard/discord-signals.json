@@ -1,5 +1,5 @@
 {
-  "generated": "Wednesday 29 July 2026 12:32 SGT",
+  "generated": "Wednesday 29 July 2026 15:26 SGT",
   "teams": {
     "Team 1": {
       "blockers": []
@@ -61,7 +61,14 @@
       ]
     },
     "Team 4": {
-      "blockers": []
+      "blockers": [
+        {
+          "author": "esstarisa",
+          "content": "<@&1505883871797973036> \nRole confirmation\n\nR1 - Product Owner\n(Commit the sprint goal file, DoD includes segment(who do what part for demo day), update the product backlog on figma)\n\nR2 - Scrum Maste",
+          "ts_str": "2026-07-29 05:08:17",
+          "url": "https://discord.com/channels/1505861202444816455/1505883243361206392/1531891091492700240"
+        }
+      ]
     },
     "Team 5": {
       "blockers": [
