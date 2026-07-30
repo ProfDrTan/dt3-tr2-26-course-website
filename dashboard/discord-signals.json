@@ -1,5 +1,5 @@
 {
-  "generated": "Thursday 30 July 2026 12:25 SGT",
+  "generated": "Thursday 30 July 2026 15:17 SGT",
   "teams": {
     "Team 1": {
       "blockers": []
@@ -27,12 +27,6 @@
           "content": "\ud83d\udce2 Sprint 9 Daily Update\n\nHi team,\n\nPlease continue your assigned tasks today.\n\nRemember to:\n\u2022 Update your progress.\n\u2022 Let me know if you have any blockers.\n\u2022 Prepare your Demo Day presentation.\n\nThank",
           "ts_str": "2026-07-28 11:45:41",
           "url": "https://discord.com/channels/1505861202444816455/1505883200151490660/1531628712100106282"
-        },
-        {
-          "author": "juninho3",
-          "content": "Whoever has their automation script/backend throws an error, make to sure to fix sooner, i will try to work on the front end",
-          "ts_str": "2026-07-28 06:33:05",
-          "url": "https://discord.com/channels/1505861202444816455/1505883200151490660/1531550043830747316"
         }
       ]
     },
