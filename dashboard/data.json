@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-30 09:56 UTC",
+  "updated": "2026-07-30 11:59 UTC",
   "sprint_tag": "vW30",
   "sprint_deadline_utc": "2026-07-26T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W30",
@@ -798,11 +798,11 @@
       "repo": "wintwah-lwin/CP3405_Group_4",
       "prac": "B",
       "is_ultra": false,
-      "last_commit_sha": "cdf898a",
-      "last_commit_msg": "Update technical_agent_2026-W10.md",
-      "last_commit_date": "2026-07-30 07:50",
-      "last_commit_author": "tiantian09091",
-      "last_commit_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/cdf898a26f798abdb9b6c148a66997bc1b683489",
+      "last_commit_sha": "a3289ed",
+      "last_commit_msg": "Update macro report with earnings note and remove articles",
+      "last_commit_date": "2026-07-30 11:08",
+      "last_commit_author": "Mingyu-Cai",
+      "last_commit_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/a3289ed4d358157473280bb930741e57ef0a9cfc",
       "tags": [
         "vW30",
         "vW29",
@@ -829,7 +829,7 @@
           "name": "Arisa",
           "login": "wintwah-lwin",
           "kind": "human",
-          "commits": 46,
+          "commits": 45,
           "latest_date": "2026-07-29 22:47",
           "latest_msg": "Add files via upload",
           "latest_sha": "c1258c8",
@@ -859,11 +859,11 @@
           "name": "Mingyu-Cai",
           "login": "Mingyu-Cai",
           "kind": "human",
-          "commits": 6,
-          "latest_date": "2026-07-25 20:27",
-          "latest_msg": "Update human_score_2026-W9.md",
-          "latest_sha": "6971148",
-          "latest_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/697114819e8e2716c5ec1561f443f5ba16bf761d"
+          "commits": 7,
+          "latest_date": "2026-07-30 11:08",
+          "latest_msg": "Update macro report with earnings note and remove articles",
+          "latest_sha": "a3289ed",
+          "latest_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/a3289ed4d358157473280bb930741e57ef0a9cfc"
         },
         {
           "name": "AmiePhyo",
@@ -1224,7 +1224,7 @@
       "open_prs": 0,
       "pr_titles": [],
       "pr_links": [],
-      "days_since_commit": 2,
+      "days_since_commit": 3,
       "contributors": [
         {
           "name": "market-prediction-engine-bot",
@@ -1240,7 +1240,7 @@
           "name": "ProfDrTan",
           "login": "ProfDrTan",
           "kind": "human",
-          "commits": 8,
+          "commits": 7,
           "latest_date": "2026-07-27 04:19",
           "latest_msg": "docs: update CLAUDE.md learnings - gpt-oss-120b delisting and exit-0 m",
           "latest_sha": "6843033",
