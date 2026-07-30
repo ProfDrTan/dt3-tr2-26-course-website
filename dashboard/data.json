@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-30 01:14 UTC",
+  "updated": "2026-07-30 04:25 UTC",
   "sprint_tag": "vW30",
   "sprint_deadline_utc": "2026-07-26T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W30",
@@ -70,7 +70,7 @@
           "author": "saikokokyaw"
         }
       ],
-      "days_since_commit": 2,
+      "days_since_commit": 3,
       "contributors": [
         {
           "name": "sinder",
@@ -798,11 +798,11 @@
       "repo": "wintwah-lwin/CP3405_Group_4",
       "prac": "B",
       "is_ultra": false,
-      "last_commit_sha": "c1258c8",
-      "last_commit_msg": "Add files via upload",
-      "last_commit_date": "2026-07-29 22:47",
-      "last_commit_author": "Arisa",
-      "last_commit_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/c1258c806b055eca22fd2eaa5e419806055c3b13",
+      "last_commit_sha": "5573486",
+      "last_commit_msg": "Review and correct R3 Almanac Agent report for Week 10",
+      "last_commit_date": "2026-07-30 02:55",
+      "last_commit_author": "MojunZheng",
+      "last_commit_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/5573486474b663a2f830e4f3cdb2bda8c7daaf5c",
       "tags": [
         "vW30",
         "vW29",
@@ -829,7 +829,7 @@
           "name": "Arisa",
           "login": "wintwah-lwin",
           "kind": "human",
-          "commits": 48,
+          "commits": 47,
           "latest_date": "2026-07-29 22:47",
           "latest_msg": "Add files via upload",
           "latest_sha": "c1258c8",
@@ -879,11 +879,11 @@
           "name": "MojunZheng",
           "login": "MojunZheng",
           "kind": "human",
-          "commits": 3,
-          "latest_date": "2026-07-22 11:05",
-          "latest_msg": "Update macro_agent_data_W9.md",
-          "latest_sha": "b77a5d5",
-          "latest_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/b77a5d53644e18d91ee0d6f4788d684ca2ddf200"
+          "commits": 4,
+          "latest_date": "2026-07-30 02:55",
+          "latest_msg": "Review and correct R3 Almanac Agent report for Week 10",
+          "latest_sha": "5573486",
+          "latest_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/5573486474b663a2f830e4f3cdb2bda8c7daaf5c"
         },
         {
           "name": "tiantian09091",
