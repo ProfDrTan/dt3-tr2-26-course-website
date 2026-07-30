@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-30 14:27 UTC",
+  "updated": "2026-07-30 16:10 UTC",
   "sprint_tag": "vW30",
   "sprint_deadline_utc": "2026-07-26T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W30",
@@ -10,11 +10,11 @@
       "repo": "sinder38/Team-1-Prac-A-Project",
       "prac": "A",
       "is_ultra": false,
-      "last_commit_sha": "d5b0b01",
-      "last_commit_msg": "Readme.md update ( week 8 )  (#92)",
-      "last_commit_date": "2026-07-27 01:57",
-      "last_commit_author": "Tobias778",
-      "last_commit_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/d5b0b01187ad71ba42256ce42608249400a8f0c5",
+      "last_commit_sha": "b62302f",
+      "last_commit_msg": "Create standup_midweek_W31.md (#108)",
+      "last_commit_date": "2026-07-30 14:29",
+      "last_commit_author": "PanHsuMyat",
+      "last_commit_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/b62302fde0e5b1cd3ad2c0c171adbf1605bdbe8d",
       "tags": [
         "vW30",
         "vW29",
@@ -30,11 +30,10 @@
       "last_run_date": "2026-07-30 13:50",
       "last_run_url": "https://github.com/sinder38/Team-1-Prac-A-Project/actions/runs/30548829358",
       "last_run_was_filtered": true,
-      "open_prs": 5,
+      "open_prs": 4,
       "pr_titles": [
         "New LLMs Replacement for Week 10 (Branch duplictated from Ma",
         "feat: Charts week context, actuals, and About refresh",
-        "Create standup_midweek_W31.md",
         "Refactor/decouple llms",
         "Implement regression tests for TechnicalAgent"
       ],
@@ -52,12 +51,6 @@
           "author": "oakkar-cm"
         },
         {
-          "title": "Create standup_midweek_W31.md",
-          "number": 108,
-          "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/108",
-          "author": "panhsumyat0179-pixel"
-        },
-        {
           "title": "Refactor/decouple llms",
           "number": 91,
           "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/91",
@@ -70,7 +63,7 @@
           "author": "saikokokyaw"
         }
       ],
-      "days_since_commit": 3,
+      "days_since_commit": 0,
       "contributors": [
         {
           "name": "sinder",
@@ -96,11 +89,11 @@
           "name": "PanHsuMyat",
           "login": "panhsumyat0179-pixel",
           "kind": "human",
-          "commits": 4,
-          "latest_date": "2026-07-26 13:01",
-          "latest_msg": "Scrum master week 9 (#104)",
-          "latest_sha": "f8ce761",
-          "latest_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/f8ce7610d0628f1635677f30f7f58aa12c66d625"
+          "commits": 5,
+          "latest_date": "2026-07-30 14:29",
+          "latest_msg": "Create standup_midweek_W31.md (#108)",
+          "latest_sha": "b62302f",
+          "latest_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/b62302fde0e5b1cd3ad2c0c171adbf1605bdbe8d"
         },
         {
           "name": "Oakkar Phyoe",
@@ -165,13 +158,13 @@
       ],
       "pr_history": {
         "total": 110,
-        "merged": 75,
-        "open": 5,
+        "merged": 76,
+        "open": 4,
         "abandoned": 30,
         "weekly": {
           "2026-07-27": {
-            "merged": 0,
-            "open": 3,
+            "merged": 1,
+            "open": 2,
             "abandoned": 1
           },
           "2026-07-20": {
@@ -240,7 +233,7 @@
           {
             "number": 108,
             "title": "Create standup_midweek_W31.md",
-            "status": "open",
+            "status": "merged",
             "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/108",
             "created_at": "2026-07-29",
             "author": "panhsumyat0179-pixel"
@@ -346,7 +339,7 @@
       "midweek_artefact": {
         "present": true,
         "path": "sprints/standup_midweek_W30.md",
-        "url": "https://github.com/sinder38/Team-1-Prac-A-Project/blob/d5b0b01187ad71ba42256ce42608249400a8f0c5/sprints/standup_midweek_W30.md"
+        "url": "https://github.com/sinder38/Team-1-Prac-A-Project/blob/b62302fde0e5b1cd3ad2c0c171adbf1605bdbe8d/sprints/standup_midweek_W30.md"
       },
       "repo_url": "https://github.com/sinder38/Team-1-Prac-A-Project"
     },
@@ -1230,7 +1223,7 @@
           "name": "market-prediction-engine-bot",
           "login": "actions",
           "kind": "bot",
-          "commits": 10,
+          "commits": 8,
           "latest_date": "2026-07-27 10:09",
           "latest_msg": "Weekly pipeline run: 2026-07-27",
           "latest_sha": "561af8a",
@@ -1240,7 +1233,7 @@
           "name": "ProfDrTan",
           "login": "ProfDrTan",
           "kind": "human",
-          "commits": 7,
+          "commits": 6,
           "latest_date": "2026-07-27 04:19",
           "latest_msg": "docs: update CLAUDE.md learnings - gpt-oss-120b delisting and exit-0 m",
           "latest_sha": "6843033",
