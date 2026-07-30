@@ -1,5 +1,5 @@
 {
-  "generated": "Thursday 30 July 2026 17:55 SGT",
+  "generated": "Thursday 30 July 2026 19:59 SGT",
   "teams": {
     "Team 1": {
       "blockers": []
@@ -18,15 +18,15 @@
       "blockers": [
         {
           "author": "zhangjiale_81292",
-          "content": "Hi ,\n\nPlease send me:\n\u2022 Started / In Progress / Completed\n\u2022 Any blockers\n\u2022 Are you ready for your Demo Day presentation?\n\nThank you!",
-          "ts_str": "2026-07-29 08:57:09",
-          "url": "https://discord.com/channels/1505861202444816455/1505883200151490660/1531948689541566577"
+          "content": "Hi\uff0c\n\nToday is the synthesis stage.\n\nPlease make sure your assigned work is committed on GitHub.\n\nR3, R4 and R5, please confirm your outputs have been committed.\nR8, please begin the final synthesis af",
+          "ts_str": "2026-07-30 11:23:05",
+          "url": "https://discord.com/channels/1505861202444816455/1505883200151490660/1532347802980581426"
         },
         {
           "author": "zhangjiale_81292",
-          "content": "\ud83d\udce2 Sprint 9 Daily Update\n\nHi team,\n\nPlease continue your assigned tasks today.\n\nRemember to:\n\u2022 Update your progress.\n\u2022 Let me know if you have any blockers.\n\u2022 Prepare your Demo Day presentation.\n\nThank",
-          "ts_str": "2026-07-28 11:45:41",
-          "url": "https://discord.com/channels/1505861202444816455/1505883200151490660/1531628712100106282"
+          "content": "Hi ,\n\nPlease send me:\n\u2022 Started / In Progress / Completed\n\u2022 Any blockers\n\u2022 Are you ready for your Demo Day presentation?\n\nThank you!",
+          "ts_str": "2026-07-29 08:57:09",
+          "url": "https://discord.com/channels/1505861202444816455/1505883200151490660/1531948689541566577"
         }
       ]
     },
