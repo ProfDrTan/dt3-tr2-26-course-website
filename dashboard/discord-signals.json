@@ -1,5 +1,5 @@
 {
-  "generated": "Friday 31 July 2026 11:54 SGT",
+  "generated": "Friday 31 July 2026 14:51 SGT",
   "teams": {
     "Team 1": {
       "blockers": []
@@ -9,6 +9,12 @@
     },
     "Team 3": {
       "blockers": [
+        {
+          "author": "wc251537931",
+          "content": "Furthermore, the API has consistently had call issues, so one step requires the automated script to run first, followed by manual data addition to continue running the script and obtaining results. I ",
+          "ts_str": "2026-07-31 06:17:18",
+          "url": "https://discord.com/channels/1505861202444816455/1505883200151490660/1532633235123863552"
+        },
         {
           "author": "zhangjiale_81292",
           "content": "Hi\uff0c\n\nToday is the synthesis stage.\n\nPlease make sure your assigned work is committed on GitHub.\n\nR3, R4 and R5, please confirm your outputs have been committed.\nR8, please begin the final synthesis af",
@@ -24,14 +30,7 @@
       ]
     },
     "Team 4": {
-      "blockers": [
-        {
-          "author": "esstarisa",
-          "content": "<@&1505883871797973036> \nRole confirmation\n\nR1 - Product Owner - Wise\n(Commit the sprint goal file, DoD includes segment(who do what part for demo day), update the product backlog on figma)\n\nR2 - Scru",
-          "ts_str": "2026-07-29 05:08:17",
-          "url": "https://discord.com/channels/1505861202444816455/1505883243361206392/1531891091492700240"
-        }
-      ]
+      "blockers": []
     },
     "Team 5": {
       "blockers": []
