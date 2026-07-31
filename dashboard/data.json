@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-31 09:43 UTC",
+  "updated": "2026-07-31 11:49 UTC",
   "sprint_tag": "vW30",
   "sprint_deadline_utc": "2026-07-26T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W30",
@@ -10,11 +10,11 @@
       "repo": "sinder38/Team-1-Prac-A-Project",
       "prac": "A",
       "is_ultra": false,
-      "last_commit_sha": "b62302f",
-      "last_commit_msg": "Create standup_midweek_W31.md (#108)",
-      "last_commit_date": "2026-07-30 14:29",
-      "last_commit_author": "PanHsuMyat",
-      "last_commit_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/b62302fde0e5b1cd3ad2c0c171adbf1605bdbe8d",
+      "last_commit_sha": "8644aff",
+      "last_commit_msg": "New LLMs Replacement for Week 10 (Branch duplictated from Ma",
+      "last_commit_date": "2026-07-31 11:41",
+      "last_commit_author": "Charles",
+      "last_commit_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/8644affaf73258bac025bb8fea98e1c78e5383d8",
       "tags": [
         "vW30",
         "vW29",
@@ -27,23 +27,16 @@
       "sprint_tag_present": true,
       "last_run_name": "python-checks",
       "last_run_conclusion": "success",
-      "last_run_date": "2026-07-30 13:50",
-      "last_run_url": "https://github.com/sinder38/Team-1-Prac-A-Project/actions/runs/30548829358",
+      "last_run_date": "2026-07-31 11:41",
+      "last_run_url": "https://github.com/sinder38/Team-1-Prac-A-Project/actions/runs/30627893642",
       "last_run_was_filtered": true,
-      "open_prs": 4,
+      "open_prs": 3,
       "pr_titles": [
-        "New LLMs Replacement for Week 10 (Branch duplictated from Ma",
         "feat: Charts week context, actuals, and About refresh",
         "Refactor/decouple llms",
         "Implement regression tests for TechnicalAgent"
       ],
       "pr_links": [
-        {
-          "title": "New LLMs Replacement for Week 10 (Branch duplictated from Ma",
-          "number": 110,
-          "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/110",
-          "author": "sun9226066"
-        },
         {
           "title": "feat: Charts week context, actuals, and About refresh",
           "number": 109,
@@ -136,6 +129,16 @@
           "latest_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/0dadc41b92f1fab949107f9760c653cb5de8011e"
         },
         {
+          "name": "Charles",
+          "login": "sun9226066",
+          "kind": "human",
+          "commits": 1,
+          "latest_date": "2026-07-31 11:41",
+          "latest_msg": "New LLMs Replacement for Week 10 (Branch duplictated from Main Branch)",
+          "latest_sha": "8644aff",
+          "latest_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/8644affaf73258bac025bb8fea98e1c78e5383d8"
+        },
+        {
           "name": "Tobias778",
           "login": "Tobias778",
           "kind": "human",
@@ -158,13 +161,13 @@
       ],
       "pr_history": {
         "total": 110,
-        "merged": 76,
-        "open": 4,
+        "merged": 77,
+        "open": 3,
         "abandoned": 30,
         "weekly": {
           "2026-07-27": {
-            "merged": 1,
-            "open": 2,
+            "merged": 2,
+            "open": 1,
             "abandoned": 1
           },
           "2026-07-20": {
@@ -217,7 +220,7 @@
           {
             "number": 110,
             "title": "New LLMs Replacement for Week 10 (Branch duplictated from Main Branch)",
-            "status": "open",
+            "status": "merged",
             "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/110",
             "created_at": "2026-07-29",
             "author": "sun9226066"
@@ -816,7 +819,7 @@
       "open_prs": 0,
       "pr_titles": [],
       "pr_links": [],
-      "days_since_commit": 0,
+      "days_since_commit": 1,
       "contributors": [
         {
           "name": "Arisa",
@@ -1217,7 +1220,7 @@
       "open_prs": 0,
       "pr_titles": [],
       "pr_links": [],
-      "days_since_commit": 3,
+      "days_since_commit": 4,
       "contributors": [
         {
           "name": "market-prediction-engine-bot",
