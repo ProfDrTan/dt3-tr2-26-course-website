@@ -1,5 +1,5 @@
 {
-  "generated": "Friday 31 July 2026 17:43 SGT",
+  "generated": "Friday 31 July 2026 19:49 SGT",
   "teams": {
     "Team 1": {
       "blockers": []
@@ -9,6 +9,12 @@
     },
     "Team 3": {
       "blockers": [
+        {
+          "author": "zhangjiale_81292",
+          "content": "Hi everyone, Thank you for the updates.\n\nPlease make sure any code changes are committed before the scheduled automation run.\n\nAfter the automation finishes, please update the team if there are any is",
+          "ts_str": "2026-07-31 09:48:06",
+          "url": "https://discord.com/channels/1505861202444816455/1505883200151490660/1532686284072554517"
+        },
         {
           "author": "vince3331",
           "content": "Can someone help me Update R5 code, I just do some fix to the code is that possible to change before the market close? use the new code to run for this week.",
