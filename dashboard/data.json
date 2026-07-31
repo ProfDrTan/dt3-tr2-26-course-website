@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-31 18:50 UTC",
+  "updated": "2026-07-31 20:16 UTC",
   "sprint_tag": "vW30",
   "sprint_deadline_utc": "2026-07-26T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W30",
@@ -89,16 +89,6 @@
           "latest_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/b62302fde0e5b1cd3ad2c0c171adbf1605bdbe8d"
         },
         {
-          "name": "Oakkar Phyoe",
-          "login": "oakkar-cm",
-          "kind": "human",
-          "commits": 4,
-          "latest_date": "2026-07-26 09:26",
-          "latest_msg": "fix: keep incomplete archive weeks open and sync stage 3 provider (#93",
-          "latest_sha": "fd798de",
-          "latest_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/fd798decff588a963b1a78c242a3915c108e3c42"
-        },
-        {
           "name": "github-actions[bot]",
           "login": "github-actions[bot]",
           "kind": "bot",
@@ -117,6 +107,16 @@
           "latest_msg": "fix: restore partial pipeline progress from history (#102)",
           "latest_sha": "b303977",
           "latest_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/b30397745c5146d59209c4b594bfd1d4e2ffc368"
+        },
+        {
+          "name": "Oakkar Phyoe",
+          "login": "oakkar-cm",
+          "kind": "human",
+          "commits": 3,
+          "latest_date": "2026-07-26 09:26",
+          "latest_msg": "fix: keep incomplete archive weeks open and sync stage 3 provider (#93",
+          "latest_sha": "fd798de",
+          "latest_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/fd798decff588a963b1a78c242a3915c108e3c42"
         },
         {
           "name": "Charles",
