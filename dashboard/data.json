@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-31 17:19 UTC",
+  "updated": "2026-07-31 18:50 UTC",
   "sprint_tag": "vW30",
   "sprint_deadline_utc": "2026-07-26T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W30",
@@ -1236,7 +1236,7 @@
           "name": "ProfDrTan",
           "login": "ProfDrTan",
           "kind": "human",
-          "commits": 5,
+          "commits": 4,
           "latest_date": "2026-07-27 04:19",
           "latest_msg": "docs: update CLAUDE.md learnings - gpt-oss-120b delisting and exit-0 m",
           "latest_sha": "6843033",
