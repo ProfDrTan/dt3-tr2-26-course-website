@@ -1,5 +1,5 @@
 {
-  "generated": "Friday 31 July 2026 14:51 SGT",
+  "generated": "Friday 31 July 2026 17:43 SGT",
   "teams": {
     "Team 1": {
       "blockers": []
@@ -9,6 +9,12 @@
     },
     "Team 3": {
       "blockers": [
+        {
+          "author": "vince3331",
+          "content": "Can someone help me Update R5 code, I just do some fix to the code is that possible to change before the market close? use the new code to run for this week.",
+          "ts_str": "2026-07-31 06:56:08",
+          "url": "https://discord.com/channels/1505861202444816455/1505883200151490660/1532643009282314371"
+        },
         {
           "author": "wc251537931",
           "content": "Furthermore, the API has consistently had call issues, so one step requires the automated script to run first, followed by manual data addition to continue running the script and obtaining results. I ",
@@ -20,12 +26,6 @@
           "content": "Hi\uff0c\n\nToday is the synthesis stage.\n\nPlease make sure your assigned work is committed on GitHub.\n\nR3, R4 and R5, please confirm your outputs have been committed.\nR8, please begin the final synthesis af",
           "ts_str": "2026-07-30 11:23:05",
           "url": "https://discord.com/channels/1505861202444816455/1505883200151490660/1532347802980581426"
-        },
-        {
-          "author": "zhangjiale_81292",
-          "content": "Hi ,\n\nPlease send me:\n\u2022 Started / In Progress / Completed\n\u2022 Any blockers\n\u2022 Are you ready for your Demo Day presentation?\n\nThank you!",
-          "ts_str": "2026-07-29 08:57:09",
-          "url": "https://discord.com/channels/1505861202444816455/1505883200151490660/1531948689541566577"
         }
       ]
     },
