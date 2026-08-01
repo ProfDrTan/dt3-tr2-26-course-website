@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-01 07:35 UTC",
+  "updated": "2026-08-01 09:36 UTC",
   "sprint_tag": "vW30",
   "sprint_deadline_utc": "2026-07-26T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W30",
@@ -25,18 +25,25 @@
         "vW22"
       ],
       "sprint_tag_present": true,
-      "last_run_name": "Weekly Pipeline",
-      "last_run_conclusion": "failure",
-      "last_run_date": "2026-07-31 23:28",
-      "last_run_url": "https://github.com/sinder38/Team-1-Prac-A-Project/actions/runs/30672962091",
+      "last_run_name": "python-checks",
+      "last_run_conclusion": "success",
+      "last_run_date": "2026-08-01 09:11",
+      "last_run_url": "https://github.com/sinder38/Team-1-Prac-A-Project/actions/runs/30693270821",
       "last_run_was_filtered": true,
-      "open_prs": 3,
+      "open_prs": 4,
       "pr_titles": [
+        "fix: isolate Delta runs and add admin authentication",
         "feat: Charts week context, actuals, and About refresh",
         "Refactor/decouple llms",
         "Implement regression tests for TechnicalAgent"
       ],
       "pr_links": [
+        {
+          "title": "fix: isolate Delta runs and add admin authentication",
+          "number": 112,
+          "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/112",
+          "author": "JasonEran"
+        },
         {
           "title": "feat: Charts week context, actuals, and About refresh",
           "number": 109,
@@ -160,14 +167,14 @@
         }
       ],
       "pr_history": {
-        "total": 111,
+        "total": 112,
         "merged": 78,
-        "open": 3,
+        "open": 4,
         "abandoned": 30,
         "weekly": {
           "2026-07-27": {
             "merged": 3,
-            "open": 1,
+            "open": 2,
             "abandoned": 1
           },
           "2026-07-20": {
@@ -217,6 +224,14 @@
           }
         },
         "recent": [
+          {
+            "number": 112,
+            "title": "fix: isolate Delta runs and add admin authentication",
+            "status": "open",
+            "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/112",
+            "created_at": "2026-08-01",
+            "author": "JasonEran"
+          },
           {
             "number": 111,
             "title": "Update Badgets in README.md",
@@ -328,14 +343,6 @@
             "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/98",
             "created_at": "2026-07-25",
             "author": "sinder38"
-          },
-          {
-            "number": 97,
-            "title": "Fix incorrect API name, add updated macro",
-            "status": "merged",
-            "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/97",
-            "created_at": "2026-07-25",
-            "author": "NaingPhonePyae"
           }
         ]
       },
@@ -351,11 +358,11 @@
       "repo": "LuJunwen212/CP3405-Project",
       "prac": "A",
       "is_ultra": false,
-      "last_commit_sha": "0d173ed",
-      "last_commit_msg": "Add display of strongest sector in R6 section",
-      "last_commit_date": "2026-08-01 06:43",
-      "last_commit_author": "Hamzah \"Opal\" Nutt",
-      "last_commit_url": "https://github.com/LuJunwen212/CP3405-Project/commit/0d173ed9ea68b535d01f83e1baae465867f1356d",
+      "last_commit_sha": "e465c39",
+      "last_commit_msg": "chore(r4): weekly macro report [skip ci]",
+      "last_commit_date": "2026-08-01 08:14",
+      "last_commit_author": "Team2 R4 Automation ",
+      "last_commit_url": "https://github.com/LuJunwen212/CP3405-Project/commit/e465c399d1b8d41f7c76fcdfba9cb6a60fd6f71b",
       "tags": [
         "vW30",
         "vW29",
@@ -366,10 +373,10 @@
         "vW22"
       ],
       "sprint_tag_present": true,
-      "last_run_name": "Team 2 Webpage & Dashboard Automation Pi",
-      "last_run_conclusion": "failure",
-      "last_run_date": "2026-08-01 04:16",
-      "last_run_url": "https://github.com/LuJunwen212/CP3405-Project/actions/runs/30683639806",
+      "last_run_name": "R4 Weekly Macro Agent",
+      "last_run_conclusion": "success",
+      "last_run_date": "2026-08-01 08:14",
+      "last_run_url": "https://github.com/LuJunwen212/CP3405-Project/actions/runs/30691356315",
       "last_run_was_filtered": true,
       "open_prs": 0,
       "pr_titles": [],
@@ -380,7 +387,7 @@
           "name": "ZhengZaikun",
           "login": "ZhengZaikun",
           "kind": "human",
-          "commits": 66,
+          "commits": 65,
           "latest_date": "2026-08-01 04:18",
           "latest_msg": "Update webpage_auto_pipeline.yml",
           "latest_sha": "40ad156",
@@ -447,6 +454,16 @@
           "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/ba73b2683f6d543047a7ef5f475435fde2e58d84"
         },
         {
+          "name": "Team2 R4 Automation Bot",
+          "login": "github-actions[bot]",
+          "kind": "bot",
+          "commits": 1,
+          "latest_date": "2026-08-01 08:14",
+          "latest_msg": "chore(r4): weekly macro report [skip ci]",
+          "latest_sha": "e465c39",
+          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/e465c399d1b8d41f7c76fcdfba9cb6a60fd6f71b"
+        },
+        {
           "name": "LuJunwen212",
           "login": "LuJunwen212",
           "kind": "human",
@@ -465,16 +482,6 @@
           "latest_msg": "chore(r10): automate calibration for W30",
           "latest_sha": "cd12195",
           "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/cd121956df5d8cd1cdf3c7c4cd602b2116eafb65"
-        },
-        {
-          "name": "Team2 R8 LLM Operator",
-          "login": "",
-          "kind": "human",
-          "commits": 1,
-          "latest_date": "2026-07-29 08:27",
-          "latest_msg": "docs(r8): updated free open-source multi-model matrix [skip ci]",
-          "latest_sha": "d75de24",
-          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/d75de2416c017a0c0a77c096c7489681f1adf718"
         }
       ],
       "pr_history": {
@@ -650,7 +657,7 @@
       "midweek_artefact": {
         "present": true,
         "path": "evidence/progress_logs/standup_midweek_W30.md",
-        "url": "https://github.com/LuJunwen212/CP3405-Project/blob/0d173ed9ea68b535d01f83e1baae465867f1356d/evidence/progress_logs/standup_midweek_W30.md"
+        "url": "https://github.com/LuJunwen212/CP3405-Project/blob/e465c399d1b8d41f7c76fcdfba9cb6a60fd6f71b/evidence/progress_logs/standup_midweek_W30.md"
       },
       "repo_url": "https://github.com/LuJunwen212/CP3405-Project"
     },
