@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-01 15:12 UTC",
+  "updated": "2026-08-01 16:16 UTC",
   "sprint_tag": "vW30",
   "sprint_deadline_utc": "2026-07-26T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W30",
@@ -10,11 +10,11 @@
       "repo": "sinder38/Team-1-Prac-A-Project",
       "prac": "A",
       "is_ultra": false,
-      "last_commit_sha": "3a17a00",
-      "last_commit_msg": "fix: isolate delta runs and add admin auth (#112)",
-      "last_commit_date": "2026-08-01 15:00",
-      "last_commit_author": "JasonEran",
-      "last_commit_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/3a17a00a40410d2e37071f8c47f0f2e228d4d734",
+      "last_commit_sha": "adba747",
+      "last_commit_msg": "Fix delta artifacts for the pipeline",
+      "last_commit_date": "2026-08-01 15:44",
+      "last_commit_author": "sinder",
+      "last_commit_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/adba747518dbd0becf487ddca908d01ae0cc8c71",
       "tags": [
         "vW30",
         "vW29",
@@ -25,18 +25,25 @@
         "vW22"
       ],
       "sprint_tag_present": true,
-      "last_run_name": "python-checks",
+      "last_run_name": "Weekly Pipeline",
       "last_run_conclusion": "success",
-      "last_run_date": "2026-08-01 15:00",
-      "last_run_url": "https://github.com/sinder38/Team-1-Prac-A-Project/actions/runs/30704976442",
+      "last_run_date": "2026-08-01 15:45",
+      "last_run_url": "https://github.com/sinder38/Team-1-Prac-A-Project/actions/runs/30706617558",
       "last_run_was_filtered": true,
-      "open_prs": 3,
+      "open_prs": 4,
       "pr_titles": [
+        "chore: pipeline artifacts 2026-08-01",
         "feat: Charts week context, actuals, and About refresh",
         "Refactor/decouple llms",
         "Implement regression tests for TechnicalAgent"
       ],
       "pr_links": [
+        {
+          "title": "chore: pipeline artifacts 2026-08-01",
+          "number": 113,
+          "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/113",
+          "author": "github-actions[bot]"
+        },
         {
           "title": "feat: Charts week context, actuals, and About refresh",
           "number": 109,
@@ -62,11 +69,11 @@
           "name": "sinder",
           "login": "sinder38",
           "kind": "human",
-          "commits": 16,
-          "latest_date": "2026-07-26 10:31",
-          "latest_msg": "Add W30 PO stuff (#103)",
-          "latest_sha": "7478607",
-          "latest_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/7478607fa537758d91f3e2cfaf96eca9c524f5c2"
+          "commits": 17,
+          "latest_date": "2026-08-01 15:44",
+          "latest_msg": "Fix delta artifacts for the pipeline",
+          "latest_sha": "adba747",
+          "latest_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/adba747518dbd0becf487ddca908d01ae0cc8c71"
         },
         {
           "name": "NaingPhonePyae",
@@ -160,14 +167,14 @@
         }
       ],
       "pr_history": {
-        "total": 112,
+        "total": 113,
         "merged": 79,
-        "open": 3,
+        "open": 4,
         "abandoned": 30,
         "weekly": {
           "2026-07-27": {
             "merged": 4,
-            "open": 1,
+            "open": 2,
             "abandoned": 1
           },
           "2026-07-20": {
@@ -217,6 +224,14 @@
           }
         },
         "recent": [
+          {
+            "number": 113,
+            "title": "chore: pipeline artifacts 2026-08-01",
+            "status": "open",
+            "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/113",
+            "created_at": "2026-08-01",
+            "author": "github-actions[bot]"
+          },
           {
             "number": 112,
             "title": "fix: isolate Delta runs and add admin authentication",
@@ -328,21 +343,13 @@
             "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/99",
             "created_at": "2026-07-25",
             "author": "sinder38"
-          },
-          {
-            "number": 98,
-            "title": "Feat/add database local storage ",
-            "status": "merged",
-            "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/98",
-            "created_at": "2026-07-25",
-            "author": "sinder38"
           }
         ]
       },
       "midweek_artefact": {
         "present": true,
         "path": "sprints/standup_midweek_W30.md",
-        "url": "https://github.com/sinder38/Team-1-Prac-A-Project/blob/3a17a00a40410d2e37071f8c47f0f2e228d4d734/sprints/standup_midweek_W30.md"
+        "url": "https://github.com/sinder38/Team-1-Prac-A-Project/blob/adba747518dbd0becf487ddca908d01ae0cc8c71/sprints/standup_midweek_W30.md"
       },
       "repo_url": "https://github.com/sinder38/Team-1-Prac-A-Project"
     },
@@ -1215,23 +1222,33 @@
       "repo": "ProfDrTan/market-prediction-engine",
       "prac": "Instructor",
       "is_ultra": true,
-      "last_commit_sha": "561af8a",
-      "last_commit_msg": "Weekly pipeline run: 2026-07-27",
-      "last_commit_date": "2026-07-27 10:09",
-      "last_commit_author": "market-prediction-en",
-      "last_commit_url": "https://github.com/ProfDrTan/market-prediction-engine/commit/561af8aa2d17474c908a98b75d5221664d2fc665",
+      "last_commit_sha": "4919284",
+      "last_commit_msg": "Add Fed rhetoric-vs-substance divergence signal to Macro Age",
+      "last_commit_date": "2026-08-01 15:15",
+      "last_commit_author": "ProfDrTan",
+      "last_commit_url": "https://github.com/ProfDrTan/market-prediction-engine/commit/491928450ffc4d3db5373aea9e6629a060edc1e4",
       "tags": [],
       "sprint_tag_present": false,
       "last_run_name": "Weekly Prediction Pipeline",
       "last_run_conclusion": "success",
-      "last_run_date": "2026-07-27 10:00",
-      "last_run_url": "https://github.com/ProfDrTan/market-prediction-engine/actions/runs/30256326123",
+      "last_run_date": "2026-08-01 15:13",
+      "last_run_url": "https://github.com/ProfDrTan/market-prediction-engine/actions/runs/30705435209",
       "last_run_was_filtered": true,
       "open_prs": 0,
       "pr_titles": [],
       "pr_links": [],
-      "days_since_commit": 5,
+      "days_since_commit": 0,
       "contributors": [
+        {
+          "name": "ProfDrTan",
+          "login": "ProfDrTan",
+          "kind": "human",
+          "commits": 7,
+          "latest_date": "2026-08-01 15:15",
+          "latest_msg": "Add Fed rhetoric-vs-substance divergence signal to Macro Agent",
+          "latest_sha": "4919284",
+          "latest_url": "https://github.com/ProfDrTan/market-prediction-engine/commit/491928450ffc4d3db5373aea9e6629a060edc1e4"
+        },
         {
           "name": "market-prediction-engine-bot",
           "login": "actions",
@@ -1241,16 +1258,6 @@
           "latest_msg": "Weekly pipeline run: 2026-07-27",
           "latest_sha": "561af8a",
           "latest_url": "https://github.com/ProfDrTan/market-prediction-engine/commit/561af8aa2d17474c908a98b75d5221664d2fc665"
-        },
-        {
-          "name": "ProfDrTan",
-          "login": "ProfDrTan",
-          "kind": "human",
-          "commits": 4,
-          "latest_date": "2026-07-27 04:19",
-          "latest_msg": "docs: update CLAUDE.md learnings - gpt-oss-120b delisting and exit-0 m",
-          "latest_sha": "6843033",
-          "latest_url": "https://github.com/ProfDrTan/market-prediction-engine/commit/68430335352a2f8aa448332e543ab96029a5c78f"
         }
       ],
       "pr_history": {
