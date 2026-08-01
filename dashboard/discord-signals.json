@@ -1,5 +1,5 @@
 {
-  "generated": "Saturday 01 August 2026 19:05 SGT",
+  "generated": "Saturday 01 August 2026 20:12 SGT",
   "teams": {
     "Team 1": {
       "blockers": []
@@ -9,6 +9,12 @@
     },
     "Team 3": {
       "blockers": [
+        {
+          "author": "zhangjiale_81292",
+          "content": "Hi, everyone, check your results.\nConfirm your work has been committed.\nMake sure your demo day presentation is ready.\nLet me know immediately if there are any blockers.\nTomorrow is our final submissi",
+          "ts_str": "2026-08-01 11:42:21",
+          "url": "https://discord.com/channels/1505861202444816455/1505883200151490660/1533077425678713003"
+        },
         {
           "author": "zhangjiale_81292",
           "content": "Hi everyone, Thank you for the updates.\n\nPlease make sure any code changes are committed before the scheduled automation run.\n\nAfter the automation finishes, please update the team if there are any is",
@@ -26,12 +32,6 @@
           "content": "Furthermore, the API has consistently had call issues, so one step requires the automated script to run first, followed by manual data addition to continue running the script and obtaining results. I ",
           "ts_str": "2026-07-31 06:17:18",
           "url": "https://discord.com/channels/1505861202444816455/1505883200151490660/1532633235123863552"
-        },
-        {
-          "author": "zhangjiale_81292",
-          "content": "Hi\uff0c\n\nToday is the synthesis stage.\n\nPlease make sure your assigned work is committed on GitHub.\n\nR3, R4 and R5, please confirm your outputs have been committed.\nR8, please begin the final synthesis af",
-          "ts_str": "2026-07-30 11:23:05",
-          "url": "https://discord.com/channels/1505861202444816455/1505883200151490660/1532347802980581426"
         }
       ]
     },
