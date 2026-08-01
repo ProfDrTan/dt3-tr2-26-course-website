@@ -1,5 +1,5 @@
 {
-  "generated": "Saturday 01 August 2026 20:12 SGT",
+  "generated": "Saturday 01 August 2026 21:59 SGT",
   "teams": {
     "Team 1": {
       "blockers": []
@@ -9,6 +9,18 @@
     },
     "Team 3": {
       "blockers": [
+        {
+          "author": "noah_071127",
+          "content": "<@1508279197657993288> Pay attention to how you format your standup files on GitHub. There are no blockers this week; \u201cWaiting to run\u201d should be listed as a status.",
+          "ts_str": "2026-08-01 13:20:08",
+          "url": "https://discord.com/channels/1505861202444816455/1505883200151490660/1533102035040338133"
+        },
+        {
+          "author": "wc251537931",
+          "content": "Two api calls fail, The file has been manually completed and llm_comparison.md has been modified. R7 can be used directly.",
+          "ts_str": "2026-08-01 13:11:23",
+          "url": "https://discord.com/channels/1505861202444816455/1505883200151490660/1533099830946168833"
+        },
         {
           "author": "zhangjiale_81292",
           "content": "Hi, everyone, check your results.\nConfirm your work has been committed.\nMake sure your demo day presentation is ready.\nLet me know immediately if there are any blockers.\nTomorrow is our final submissi",
@@ -26,12 +38,6 @@
           "content": "Can someone help me Update R5 code, I just do some fix to the code is that possible to change before the market close? use the new code to run for this week.",
           "ts_str": "2026-07-31 06:56:08",
           "url": "https://discord.com/channels/1505861202444816455/1505883200151490660/1532643009282314371"
-        },
-        {
-          "author": "wc251537931",
-          "content": "Furthermore, the API has consistently had call issues, so one step requires the automated script to run first, followed by manual data addition to continue running the script and obtaining results. I ",
-          "ts_str": "2026-07-31 06:17:18",
-          "url": "https://discord.com/channels/1505861202444816455/1505883200151490660/1532633235123863552"
         }
       ]
     },
