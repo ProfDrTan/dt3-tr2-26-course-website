@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-01 12:13 UTC",
+  "updated": "2026-08-01 14:00 UTC",
   "sprint_tag": "vW30",
   "sprint_deadline_utc": "2026-07-26T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W30",
@@ -63,7 +63,7 @@
           "author": "saikokokyaw"
         }
       ],
-      "days_since_commit": 0,
+      "days_since_commit": 1,
       "contributors": [
         {
           "name": "sinder",
@@ -666,11 +666,11 @@
       "repo": "juninho4/Team-3-Practical-A-CP3405",
       "prac": "A",
       "is_ultra": false,
-      "last_commit_sha": "30413b5",
-      "last_commit_msg": "Create Prediction_2026_W31.md",
-      "last_commit_date": "2026-08-01 05:40",
-      "last_commit_author": "Vince-1206",
-      "last_commit_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/30413b5c7b2b5133f264da0b8e8094404fb46e16",
+      "last_commit_sha": "aa0c8f6",
+      "last_commit_msg": "Update standup_midweek_W31.md",
+      "last_commit_date": "2026-08-01 13:52",
+      "last_commit_author": "Jiale Zhang",
+      "last_commit_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/aa0c8f6e5128b032f0ccfaf0228297659eef29ed",
       "tags": [
         "vW30",
         "vW25",
@@ -694,7 +694,7 @@
           "name": "141242-l",
           "login": "141242-l",
           "kind": "human",
-          "commits": 36,
+          "commits": 25,
           "latest_date": "2026-07-25 14:45",
           "latest_msg": "Update R9 contact in README",
           "latest_sha": "a8369b1",
@@ -724,11 +724,21 @@
           "name": "Jiale Zhang",
           "login": "ZHANGJIALELLLLL",
           "kind": "human",
-          "commits": 8,
-          "latest_date": "2026-07-29 14:10",
+          "commits": 14,
+          "latest_date": "2026-08-01 13:52",
           "latest_msg": "Update standup_midweek_W31.md",
-          "latest_sha": "b92e489",
-          "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/b92e489092f71dbe31c2758a1ecd8cefd0245895"
+          "latest_sha": "aa0c8f6",
+          "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/aa0c8f6e5128b032f0ccfaf0228297659eef29ed"
+        },
+        {
+          "name": "ZhangJiayu0201",
+          "login": "ZhangJiayu0201",
+          "kind": "human",
+          "commits": 5,
+          "latest_date": "2026-08-01 13:08",
+          "latest_msg": "Update llm_comparison.md",
+          "latest_sha": "282a3a9",
+          "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/282a3a91f94e48a20a69181eff259e929d1d2210"
         },
         {
           "name": "github-actions[bot]",
@@ -792,7 +802,7 @@
       "midweek_artefact": {
         "present": true,
         "path": "vW30/standup_midweek_W30.md",
-        "url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/blob/30413b5c7b2b5133f264da0b8e8094404fb46e16/vW30/standup_midweek_W30.md"
+        "url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/blob/339ac2fc03876947345c043ca7397263be7f1882/vW30/standup_midweek_W30.md"
       },
       "repo_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405"
     },
