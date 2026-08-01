@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-31 23:46 UTC",
+  "updated": "2026-08-01 01:29 UTC",
   "sprint_tag": "vW30",
   "sprint_deadline_utc": "2026-07-26T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W30",
@@ -351,11 +351,11 @@
       "repo": "LuJunwen212/CP3405-Project",
       "prac": "A",
       "is_ultra": false,
-      "last_commit_sha": "0789f36",
-      "last_commit_msg": "chore(data): automated market ledger alignment [skip ci]",
-      "last_commit_date": "2026-07-31 23:15",
+      "last_commit_sha": "a30e168",
+      "last_commit_msg": "chore(r5): update technical outputs 2026-W31 [skip ci]",
+      "last_commit_date": "2026-08-01 00:02",
       "last_commit_author": "Team2 Data Automatio",
-      "last_commit_url": "https://github.com/LuJunwen212/CP3405-Project/commit/0789f36d9def324f860a49bd7cb5f83a1862d0c9",
+      "last_commit_url": "https://github.com/LuJunwen212/CP3405-Project/commit/a30e16806137911ce6785cedff1958ca62c51e7d",
       "tags": [
         "vW30",
         "vW29",
@@ -366,10 +366,10 @@
         "vW22"
       ],
       "sprint_tag_present": true,
-      "last_run_name": "R6 Automated Cross-Asset Market Audit Pi",
+      "last_run_name": "Automated Technical Agent",
       "last_run_conclusion": "success",
-      "last_run_date": "2026-07-31 23:14",
-      "last_run_url": "https://github.com/LuJunwen212/CP3405-Project/actions/runs/30672347101",
+      "last_run_date": "2026-08-01 00:02",
+      "last_run_url": "https://github.com/LuJunwen212/CP3405-Project/actions/runs/30674483105",
       "last_run_was_filtered": true,
       "open_prs": 0,
       "pr_titles": [],
@@ -400,7 +400,7 @@
           "name": "The Bao Le",
           "login": "The-Bao-Le",
           "kind": "human",
-          "commits": 16,
+          "commits": 15,
           "latest_date": "2026-07-27 09:50",
           "latest_msg": "Change cron schedule for R3 Almanac pipeline",
           "latest_sha": "cf26176",
@@ -410,11 +410,11 @@
           "name": "Team2 Data Automation Bot",
           "login": "",
           "kind": "bot",
-          "commits": 11,
-          "latest_date": "2026-07-31 23:15",
-          "latest_msg": "chore(data): automated market ledger alignment [skip ci]",
-          "latest_sha": "0789f36",
-          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/0789f36d9def324f860a49bd7cb5f83a1862d0c9"
+          "commits": 12,
+          "latest_date": "2026-08-01 00:02",
+          "latest_msg": "chore(r5): update technical outputs 2026-W31 [skip ci]",
+          "latest_sha": "a30e168",
+          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/a30e16806137911ce6785cedff1958ca62c51e7d"
         },
         {
           "name": "Hamzah \"Opal\" Nutt",
@@ -478,15 +478,15 @@
         }
       ],
       "pr_history": {
-        "total": 28,
+        "total": 29,
         "merged": 23,
         "open": 0,
-        "abandoned": 5,
+        "abandoned": 6,
         "weekly": {
           "2026-07-27": {
             "merged": 1,
             "open": 0,
-            "abandoned": 1
+            "abandoned": 2
           },
           "2026-07-20": {
             "merged": 3,
@@ -525,6 +525,14 @@
           }
         },
         "recent": [
+          {
+            "number": 29,
+            "title": "Week 9",
+            "status": "abandoned",
+            "url": "https://github.com/LuJunwen212/CP3405-Project/pull/29",
+            "created_at": "2026-07-31",
+            "author": "The-Bao-Le"
+          },
           {
             "number": 28,
             "title": "Week 9",
@@ -636,21 +644,13 @@
             "url": "https://github.com/LuJunwen212/CP3405-Project/pull/15",
             "created_at": "2026-06-21",
             "author": "hamzah-opal-n"
-          },
-          {
-            "number": 14,
-            "title": "Week 05",
-            "status": "merged",
-            "url": "https://github.com/LuJunwen212/CP3405-Project/pull/14",
-            "created_at": "2026-06-21",
-            "author": "The-Bao-Le"
           }
         ]
       },
       "midweek_artefact": {
         "present": true,
         "path": "evidence/progress_logs/standup_midweek_W30.md",
-        "url": "https://github.com/LuJunwen212/CP3405-Project/blob/0789f36d9def324f860a49bd7cb5f83a1862d0c9/evidence/progress_logs/standup_midweek_W30.md"
+        "url": "https://github.com/LuJunwen212/CP3405-Project/blob/a30e16806137911ce6785cedff1958ca62c51e7d/evidence/progress_logs/standup_midweek_W30.md"
       },
       "repo_url": "https://github.com/LuJunwen212/CP3405-Project"
     },
@@ -659,11 +659,11 @@
       "repo": "juninho4/Team-3-Practical-A-CP3405",
       "prac": "A",
       "is_ultra": false,
-      "last_commit_sha": "04da64f",
-      "last_commit_msg": "chore: update weekly market output [skip ci]",
-      "last_commit_date": "2026-07-31 23:36",
-      "last_commit_author": "github-actions[bot]",
-      "last_commit_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/04da64fc28a177b97df7027fecab6dd05bae39db",
+      "last_commit_sha": "1f124e0",
+      "last_commit_msg": "Delete vW31/Technical Agent directory",
+      "last_commit_date": "2026-08-01 01:19",
+      "last_commit_author": "Vince-1206",
+      "last_commit_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/1f124e088c230073cfd921ae9025b351eebb887a",
       "tags": [
         "vW30",
         "vW25",
@@ -687,7 +687,7 @@
           "name": "141242-l",
           "login": "141242-l",
           "kind": "human",
-          "commits": 38,
+          "commits": 37,
           "latest_date": "2026-07-25 14:45",
           "latest_msg": "Update R9 contact in README",
           "latest_sha": "a8369b1",
@@ -707,11 +707,11 @@
           "name": "Vince-1206",
           "login": "Vince-1206",
           "kind": "human",
-          "commits": 15,
-          "latest_date": "2026-07-31 06:52",
-          "latest_msg": "Create requirements.txt",
-          "latest_sha": "ffbcddf",
-          "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/ffbcddf7d207a5bfb096dec9bcc21c6bcfcae63a"
+          "commits": 16,
+          "latest_date": "2026-08-01 01:19",
+          "latest_msg": "Delete vW31/Technical Agent directory",
+          "latest_sha": "1f124e0",
+          "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/1f124e088c230073cfd921ae9025b351eebb887a"
         },
         {
           "name": "Jiale Zhang",
@@ -785,7 +785,7 @@
       "midweek_artefact": {
         "present": true,
         "path": "vW30/standup_midweek_W30.md",
-        "url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/blob/ffbcddf7d207a5bfb096dec9bcc21c6bcfcae63a/vW30/standup_midweek_W30.md"
+        "url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/blob/1f124e088c230073cfd921ae9025b351eebb887a/vW30/standup_midweek_W30.md"
       },
       "repo_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405"
     },
