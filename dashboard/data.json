@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-01 19:56 UTC",
+  "updated": "2026-08-01 21:05 UTC",
   "sprint_tag": "vW30",
   "sprint_deadline_utc": "2026-07-26T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W30",
@@ -836,7 +836,7 @@
       "open_prs": 0,
       "pr_titles": [],
       "pr_links": [],
-      "days_since_commit": 0,
+      "days_since_commit": 1,
       "contributors": [
         {
           "name": "Arisa",
@@ -852,7 +852,7 @@
           "name": "github-actions[bot]",
           "login": "github-actions[bot]",
           "kind": "bot",
-          "commits": 18,
+          "commits": 17,
           "latest_date": "2026-07-31 21:05",
           "latest_msg": "Auto-commit: Pipeline execution (Week 10)",
           "latest_sha": "c4e6f07",
