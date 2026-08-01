@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-01 04:59 UTC",
+  "updated": "2026-08-01 07:35 UTC",
   "sprint_tag": "vW30",
   "sprint_deadline_utc": "2026-07-26T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W30",
@@ -351,11 +351,11 @@
       "repo": "LuJunwen212/CP3405-Project",
       "prac": "A",
       "is_ultra": false,
-      "last_commit_sha": "40ad156",
-      "last_commit_msg": "Update webpage_auto_pipeline.yml",
-      "last_commit_date": "2026-08-01 04:18",
-      "last_commit_author": "ZhengZaikun",
-      "last_commit_url": "https://github.com/LuJunwen212/CP3405-Project/commit/40ad15682e8d4b3963099be7bd74cf3f3d74ff97",
+      "last_commit_sha": "0d173ed",
+      "last_commit_msg": "Add display of strongest sector in R6 section",
+      "last_commit_date": "2026-08-01 06:43",
+      "last_commit_author": "Hamzah \"Opal\" Nutt",
+      "last_commit_url": "https://github.com/LuJunwen212/CP3405-Project/commit/0d173ed9ea68b535d01f83e1baae465867f1356d",
       "tags": [
         "vW30",
         "vW29",
@@ -407,24 +407,24 @@
           "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/a30e16806137911ce6785cedff1958ca62c51e7d"
         },
         {
+          "name": "Hamzah \"Opal\" Nutt",
+          "login": "hamzah-opal-n",
+          "kind": "human",
+          "commits": 3,
+          "latest_date": "2026-08-01 06:43",
+          "latest_msg": "Add display of strongest sector in R6 section",
+          "latest_sha": "0d173ed",
+          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/0d173ed9ea68b535d01f83e1baae465867f1356d"
+        },
+        {
           "name": "Guanyu Lu",
           "login": "Guanyu-Lu",
           "kind": "human",
-          "commits": 4,
+          "commits": 3,
           "latest_date": "2026-07-30 01:22",
           "latest_msg": "Update standup_midweek_W31.md",
           "latest_sha": "2e3ddb2",
           "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/2e3ddb2800e293937dc289f4333ad5eb6fe420fa"
-        },
-        {
-          "name": "Hamzah \"Opal\" Nutt",
-          "login": "hamzah-opal-n",
-          "kind": "human",
-          "commits": 2,
-          "latest_date": "2026-08-01 03:44",
-          "latest_msg": "Update index.html to remove the filepath display error for R6",
-          "latest_sha": "d7b3a6e",
-          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/d7b3a6ea9119604f49d054e45379bb56b9cac4aa"
         },
         {
           "name": "Team 2 Webpage Automation Bot",
@@ -650,7 +650,7 @@
       "midweek_artefact": {
         "present": true,
         "path": "evidence/progress_logs/standup_midweek_W30.md",
-        "url": "https://github.com/LuJunwen212/CP3405-Project/blob/40ad15682e8d4b3963099be7bd74cf3f3d74ff97/evidence/progress_logs/standup_midweek_W30.md"
+        "url": "https://github.com/LuJunwen212/CP3405-Project/blob/0d173ed9ea68b535d01f83e1baae465867f1356d/evidence/progress_logs/standup_midweek_W30.md"
       },
       "repo_url": "https://github.com/LuJunwen212/CP3405-Project"
     },
@@ -659,11 +659,11 @@
       "repo": "juninho4/Team-3-Practical-A-CP3405",
       "prac": "A",
       "is_ultra": false,
-      "last_commit_sha": "1f124e0",
-      "last_commit_msg": "Delete vW31/Technical Agent directory",
-      "last_commit_date": "2026-08-01 01:19",
+      "last_commit_sha": "30413b5",
+      "last_commit_msg": "Create Prediction_2026_W31.md",
+      "last_commit_date": "2026-08-01 05:40",
       "last_commit_author": "Vince-1206",
-      "last_commit_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/1f124e088c230073cfd921ae9025b351eebb887a",
+      "last_commit_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/30413b5c7b2b5133f264da0b8e8094404fb46e16",
       "tags": [
         "vW30",
         "vW25",
@@ -687,7 +687,7 @@
           "name": "141242-l",
           "login": "141242-l",
           "kind": "human",
-          "commits": 37,
+          "commits": 36,
           "latest_date": "2026-07-25 14:45",
           "latest_msg": "Update R9 contact in README",
           "latest_sha": "a8369b1",
@@ -707,11 +707,11 @@
           "name": "Vince-1206",
           "login": "Vince-1206",
           "kind": "human",
-          "commits": 16,
-          "latest_date": "2026-08-01 01:19",
-          "latest_msg": "Delete vW31/Technical Agent directory",
-          "latest_sha": "1f124e0",
-          "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/1f124e088c230073cfd921ae9025b351eebb887a"
+          "commits": 17,
+          "latest_date": "2026-08-01 05:40",
+          "latest_msg": "Create Prediction_2026_W31.md",
+          "latest_sha": "30413b5",
+          "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/30413b5c7b2b5133f264da0b8e8094404fb46e16"
         },
         {
           "name": "Jiale Zhang",
@@ -785,7 +785,7 @@
       "midweek_artefact": {
         "present": true,
         "path": "vW30/standup_midweek_W30.md",
-        "url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/blob/1f124e088c230073cfd921ae9025b351eebb887a/vW30/standup_midweek_W30.md"
+        "url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/blob/30413b5c7b2b5133f264da0b8e8094404fb46e16/vW30/standup_midweek_W30.md"
       },
       "repo_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405"
     },
