@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-02 14:05 UTC",
+  "updated": "2026-08-02 15:21 UTC",
   "sprint_tag": "vW30",
   "sprint_deadline_utc": "2026-07-26T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W30",
@@ -10,11 +10,11 @@
       "repo": "sinder38/Team-1-Prac-A-Project",
       "prac": "A",
       "is_ultra": false,
-      "last_commit_sha": "9135c6a",
-      "last_commit_msg": "Project owner Week 31",
-      "last_commit_date": "2026-08-02 13:44",
-      "last_commit_author": "sinder",
-      "last_commit_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/9135c6ab3a371ca701b1f0e4c8d0974fd6bce7fc",
+      "last_commit_sha": "d54d844",
+      "last_commit_msg": "chore: pipeline artifacts 2026-08-01 (#113)",
+      "last_commit_date": "2026-08-02 15:18",
+      "last_commit_author": "github-actions[bot]",
+      "last_commit_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/d54d8448f123177c77f1ff14f84ca8acd409620f",
       "tags": [
         "vW30",
         "vW29",
@@ -25,12 +25,12 @@
         "vW22"
       ],
       "sprint_tag_present": true,
-      "last_run_name": "python-checks",
-      "last_run_conclusion": "failure",
-      "last_run_date": "2026-08-02 13:49",
-      "last_run_url": "https://github.com/sinder38/Team-1-Prac-A-Project/actions/runs/30750762761",
+      "last_run_name": "agent-checks",
+      "last_run_conclusion": "success",
+      "last_run_date": "2026-08-02 15:18",
+      "last_run_url": "https://github.com/sinder38/Team-1-Prac-A-Project/actions/runs/30754056983",
       "last_run_was_filtered": true,
-      "open_prs": 9,
+      "open_prs": 7,
       "pr_titles": [
         "Create prediction_2026_W31_Team1.md",
         "Create human_score_W31.md",
@@ -38,9 +38,7 @@
         "refactor: update LLM render_md call to use output only",
         "refactor: remove prediction_date from BaseAgent render_md",
         "refactor: read prediction date from LLM output",
-        "fix(delta): file Delta artifacts under the completed actuals",
-        "chore: pipeline artifacts 2026-08-01",
-        "feat: Charts week context, actuals, and About refresh"
+        "fix(delta): file Delta artifacts under the completed actuals"
       ],
       "pr_links": [
         {
@@ -84,18 +82,6 @@
           "number": 115,
           "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/115",
           "author": "sun9226066"
-        },
-        {
-          "title": "chore: pipeline artifacts 2026-08-01",
-          "number": 113,
-          "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/113",
-          "author": "github-actions[bot]"
-        },
-        {
-          "title": "feat: Charts week context, actuals, and About refresh",
-          "number": 109,
-          "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/109",
-          "author": "oakkar-cm"
         }
       ],
       "days_since_commit": 0,
@@ -131,6 +117,26 @@
           "latest_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/b62302fde0e5b1cd3ad2c0c171adbf1605bdbe8d"
         },
         {
+          "name": "github-actions[bot]",
+          "login": "github-actions[bot]",
+          "kind": "bot",
+          "commits": 4,
+          "latest_date": "2026-08-02 15:18",
+          "latest_msg": "chore: pipeline artifacts 2026-08-01 (#113)",
+          "latest_sha": "d54d844",
+          "latest_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/d54d8448f123177c77f1ff14f84ca8acd409620f"
+        },
+        {
+          "name": "Oakkar Phyoe",
+          "login": "oakkar-cm",
+          "kind": "human",
+          "commits": 4,
+          "latest_date": "2026-08-02 14:23",
+          "latest_msg": "feat: Charts week context, actuals, and About refresh (#109)",
+          "latest_sha": "89b7561",
+          "latest_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/89b75612c9ce56e249b8432deccf836b8e9f145a"
+        },
+        {
           "name": "JasonEran",
           "login": "JasonEran",
           "kind": "human",
@@ -161,26 +167,6 @@
           "latest_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/287b56144e24ad3ede625a9ba8ac84ce8ad2182e"
         },
         {
-          "name": "github-actions[bot]",
-          "login": "github-actions[bot]",
-          "kind": "bot",
-          "commits": 3,
-          "latest_date": "2026-07-26 13:27",
-          "latest_msg": "chore: pipeline artifacts 2026-07-25 (#96)",
-          "latest_sha": "1609c37",
-          "latest_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/1609c3778e95ed64db2e4ab94aad13b4265cc88c"
-        },
-        {
-          "name": "Oakkar Phyoe",
-          "login": "oakkar-cm",
-          "kind": "human",
-          "commits": 3,
-          "latest_date": "2026-07-26 09:26",
-          "latest_msg": "fix: keep incomplete archive weeks open and sync stage 3 provider (#93",
-          "latest_sha": "fd798de",
-          "latest_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/fd798decff588a963b1a78c242a3915c108e3c42"
-        },
-        {
           "name": "Zaw Latt Naung",
           "login": "ZawLattNaung",
           "kind": "human",
@@ -203,13 +189,13 @@
       ],
       "pr_history": {
         "total": 126,
-        "merged": 86,
-        "open": 9,
+        "merged": 88,
+        "open": 7,
         "abandoned": 31,
         "weekly": {
           "2026-07-27": {
-            "merged": 10,
-            "open": 9,
+            "merged": 12,
+            "open": 7,
             "abandoned": 1
           },
           "2026-07-20": {
@@ -366,7 +352,7 @@
           {
             "number": 113,
             "title": "chore: pipeline artifacts 2026-08-01",
-            "status": "open",
+            "status": "merged",
             "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/113",
             "created_at": "2026-08-01",
             "author": "github-actions[bot]"
@@ -384,7 +370,7 @@
       "midweek_artefact": {
         "present": true,
         "path": "sprints/standup_midweek_W30.md",
-        "url": "https://github.com/sinder38/Team-1-Prac-A-Project/blob/9135c6ab3a371ca701b1f0e4c8d0974fd6bce7fc/sprints/standup_midweek_W30.md"
+        "url": "https://github.com/sinder38/Team-1-Prac-A-Project/blob/89b75612c9ce56e249b8432deccf836b8e9f145a/sprints/standup_midweek_W30.md"
       },
       "repo_url": "https://github.com/sinder38/Team-1-Prac-A-Project"
     },
@@ -710,6 +696,7 @@
       "tags": [
         "vW31",
         "vW30",
+        "vW29",
         "vW28",
         "vW25",
         "vW24",
@@ -718,10 +705,10 @@
         "W25"
       ],
       "sprint_tag_present": true,
-      "last_run_name": "Run Market Intelligence",
+      "last_run_name": "R5 Technical Agent Pipeline",
       "last_run_conclusion": "success",
-      "last_run_date": "2026-07-31 23:28",
-      "last_run_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/actions/runs/30672958938",
+      "last_run_date": "2026-08-02 14:07",
+      "last_run_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/actions/runs/30751395187",
       "last_run_was_filtered": true,
       "open_prs": 0,
       "pr_titles": [],
@@ -849,11 +836,11 @@
       "repo": "wintwah-lwin/CP3405_Group_4",
       "prac": "B",
       "is_ultra": false,
-      "last_commit_sha": "1ef251c",
-      "last_commit_msg": "Merge branch 'main' of https://github.com/wintwah-lwin/CP340",
-      "last_commit_date": "2026-08-02 10:08",
-      "last_commit_author": "louishan42",
-      "last_commit_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/1ef251cb440e7527d359e3b779eab2caa4eca82d",
+      "last_commit_sha": "ec2d0f3",
+      "last_commit_msg": "Add files via upload",
+      "last_commit_date": "2026-08-02 15:12",
+      "last_commit_author": "AJIN-TheHuman",
+      "last_commit_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/ec2d0f3db267ff7adf60afd58e9b9e8e1e5d5910",
       "tags": [
         "vW30",
         "vW29",
@@ -937,6 +924,16 @@
           "latest_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/5573486474b663a2f830e4f3cdb2bda8c7daaf5c"
         },
         {
+          "name": "AJIN-TheHuman",
+          "login": "AJIN-TheHuman",
+          "kind": "human",
+          "commits": 3,
+          "latest_date": "2026-08-02 15:12",
+          "latest_msg": "Add files via upload",
+          "latest_sha": "ec2d0f3",
+          "latest_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/ec2d0f3db267ff7adf60afd58e9b9e8e1e5d5910"
+        },
+        {
           "name": "tiantian09091",
           "login": "tiantian09091",
           "kind": "human",
@@ -955,16 +952,6 @@
           "latest_msg": "Update almanac_agent_2026-W9.md",
           "latest_sha": "d80dfce",
           "latest_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/d80dfcee17d5724d6867ef33bbd0c0f35fc98e50"
-        },
-        {
-          "name": "AJIN-TheHuman",
-          "login": "AJIN-TheHuman",
-          "kind": "human",
-          "commits": 1,
-          "latest_date": "2026-07-20 15:47",
-          "latest_msg": "Add files via upload",
-          "latest_sha": "69afdc9",
-          "latest_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/69afdc93849fbad111ac864f4bed571c7fc9b676"
         }
       ],
       "pr_history": {
@@ -1275,7 +1262,7 @@
       "open_prs": 0,
       "pr_titles": [],
       "pr_links": [],
-      "days_since_commit": 0,
+      "days_since_commit": 1,
       "contributors": [
         {
           "name": "ProfDrTan",
