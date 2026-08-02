@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-02 01:02 UTC",
+  "updated": "2026-08-02 04:34 UTC",
   "sprint_tag": "vW30",
   "sprint_deadline_utc": "2026-07-26T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W30",
@@ -27,17 +27,24 @@
       "sprint_tag_present": true,
       "last_run_name": "python-checks",
       "last_run_conclusion": "success",
-      "last_run_date": "2026-08-02 00:59",
-      "last_run_url": "https://github.com/sinder38/Team-1-Prac-A-Project/actions/runs/30726234483",
+      "last_run_date": "2026-08-02 01:30",
+      "last_run_url": "https://github.com/sinder38/Team-1-Prac-A-Project/actions/runs/30727185928",
       "last_run_was_filtered": true,
-      "open_prs": 4,
+      "open_prs": 5,
       "pr_titles": [
+        "fix(delta): file Delta artifacts under the completed actuals",
         "chore: pipeline artifacts 2026-08-01",
         "feat: Charts week context, actuals, and About refresh",
         "Refactor/decouple llms",
         "Implement regression tests for TechnicalAgent"
       ],
       "pr_links": [
+        {
+          "title": "fix(delta): file Delta artifacts under the completed actuals",
+          "number": 115,
+          "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/115",
+          "author": "sun9226066"
+        },
         {
           "title": "chore: pipeline artifacts 2026-08-01",
           "number": 113,
@@ -167,14 +174,14 @@
         }
       ],
       "pr_history": {
-        "total": 114,
+        "total": 115,
         "merged": 80,
-        "open": 4,
+        "open": 5,
         "abandoned": 30,
         "weekly": {
           "2026-07-27": {
             "merged": 5,
-            "open": 2,
+            "open": 3,
             "abandoned": 1
           },
           "2026-07-20": {
@@ -224,6 +231,14 @@
           }
         },
         "recent": [
+          {
+            "number": 115,
+            "title": "fix(delta): file Delta artifacts under the completed actuals week",
+            "status": "open",
+            "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/115",
+            "created_at": "2026-08-02",
+            "author": "sun9226066"
+          },
           {
             "number": 114,
             "title": "Feat/deployment",
@@ -335,14 +350,6 @@
             "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/101",
             "created_at": "2026-07-25",
             "author": "JasonEran"
-          },
-          {
-            "number": 100,
-            "title": "Implement prediction range",
-            "status": "merged",
-            "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/100",
-            "created_at": "2026-07-25",
-            "author": "NaingPhonePyae"
           }
         ]
       },
@@ -1020,7 +1027,7 @@
       "open_prs": 0,
       "pr_titles": [],
       "pr_links": [],
-      "days_since_commit": 0,
+      "days_since_commit": 1,
       "contributors": [
         {
           "name": "To Hoang Gia",
