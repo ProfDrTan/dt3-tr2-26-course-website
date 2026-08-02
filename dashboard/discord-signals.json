@@ -1,5 +1,5 @@
 {
-  "generated": "Monday 03 August 2026 03:59 SGT",
+  "generated": "Monday 03 August 2026 05:06 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
@@ -65,6 +65,12 @@
     },
     "Team 5": {
       "blockers": [
+        {
+          "author": "noahjiang_61203",
+          "content": "hey guys. I have sent an email to the teacher discussing the issue of Jundei's frequent absences. I am waiting for the teacher's reply.",
+          "ts_str": "2026-08-02 21:03:58",
+          "url": "https://discord.com/channels/1505861202444816455/1505883282993315890/1533581148481912983"
+        },
         {
           "author": "fiery_courgette_94143",
           "content": "Also <@1508337441445118062> did you host the website? I can't do that since I'm not the admin",
