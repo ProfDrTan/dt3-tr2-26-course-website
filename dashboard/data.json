@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-02 09:29 UTC",
+  "updated": "2026-08-02 11:04 UTC",
   "sprint_tag": "vW30",
   "sprint_deadline_utc": "2026-07-26T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W30",
@@ -26,9 +26,9 @@
       ],
       "sprint_tag_present": true,
       "last_run_name": "python-checks",
-      "last_run_conclusion": "success",
-      "last_run_date": "2026-08-02 08:57",
-      "last_run_url": "https://github.com/sinder38/Team-1-Prac-A-Project/actions/runs/30740804130",
+      "last_run_conclusion": "failure",
+      "last_run_date": "2026-08-02 10:49",
+      "last_run_url": "https://github.com/sinder38/Team-1-Prac-A-Project/actions/runs/30744503671",
       "last_run_was_filtered": true,
       "open_prs": 9,
       "pr_titles": [
@@ -393,11 +393,11 @@
       "repo": "LuJunwen212/CP3405-Project",
       "prac": "A",
       "is_ultra": false,
-      "last_commit_sha": "e083d67",
-      "last_commit_msg": "Delete presentation_2026-W31_Group2.pptx",
-      "last_commit_date": "2026-08-02 09:28",
+      "last_commit_sha": "38a05c5",
+      "last_commit_msg": "Upload Week 31 PPT.",
+      "last_commit_date": "2026-08-02 09:32",
       "last_commit_author": "Guanyu Lu",
-      "last_commit_url": "https://github.com/LuJunwen212/CP3405-Project/commit/e083d671a5b5e6a03a390ec5545f0389b6ab3212",
+      "last_commit_url": "https://github.com/LuJunwen212/CP3405-Project/commit/38a05c5bd2f7566ae71811e93cc61d179685fee3",
       "tags": [
         "vW30",
         "vW29",
@@ -422,7 +422,7 @@
           "name": "ZhengZaikun",
           "login": "ZhengZaikun",
           "kind": "human",
-          "commits": 58,
+          "commits": 57,
           "latest_date": "2026-08-02 08:58",
           "latest_msg": "Update DECISION_2026-W31.md",
           "latest_sha": "effa344",
@@ -442,11 +442,11 @@
           "name": "Guanyu Lu",
           "login": "Guanyu-Lu",
           "kind": "human",
-          "commits": 7,
-          "latest_date": "2026-08-02 09:28",
-          "latest_msg": "Delete presentation_2026-W31_Group2.pptx",
-          "latest_sha": "e083d67",
-          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/e083d671a5b5e6a03a390ec5545f0389b6ab3212"
+          "commits": 8,
+          "latest_date": "2026-08-02 09:32",
+          "latest_msg": "Upload Week 31 PPT.",
+          "latest_sha": "38a05c5",
+          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/38a05c5bd2f7566ae71811e93cc61d179685fee3"
         },
         {
           "name": "The Bao Le",
@@ -692,7 +692,7 @@
       "midweek_artefact": {
         "present": true,
         "path": "evidence/progress_logs/standup_midweek_W30.md",
-        "url": "https://github.com/LuJunwen212/CP3405-Project/blob/effa344ba1adb8d33c3a49a46e35849c35d73373/evidence/progress_logs/standup_midweek_W30.md"
+        "url": "https://github.com/LuJunwen212/CP3405-Project/blob/e083d671a5b5e6a03a390ec5545f0389b6ab3212/evidence/progress_logs/standup_midweek_W30.md"
       },
       "repo_url": "https://github.com/LuJunwen212/CP3405-Project"
     },
@@ -701,11 +701,11 @@
       "repo": "juninho4/Team-3-Practical-A-CP3405",
       "prac": "A",
       "is_ultra": false,
-      "last_commit_sha": "335e649",
-      "last_commit_msg": "Update vW31_almanac.md",
-      "last_commit_date": "2026-08-01 15:01",
-      "last_commit_author": "Jiawei990029",
-      "last_commit_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/335e64932e9a33a41a6ead0e04ff7a8a45294dce",
+      "last_commit_sha": "27dbaed",
+      "last_commit_msg": "added final human judgment for w31",
+      "last_commit_date": "2026-08-02 10:21",
+      "last_commit_author": "Juninho",
+      "last_commit_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/27dbaed6a360d0c4a1a6a59fa22fc27e410fc7d7",
       "tags": [
         "vW30",
         "vW25",
@@ -729,7 +729,7 @@
           "name": "141242-l",
           "login": "141242-l",
           "kind": "human",
-          "commits": 24,
+          "commits": 23,
           "latest_date": "2026-07-25 14:45",
           "latest_msg": "Update R9 contact in README",
           "latest_sha": "a8369b1",
@@ -806,6 +806,16 @@
           "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/965c5db4211658cf7fb7d98a10d552d97c61e96f"
         },
         {
+          "name": "Juninho",
+          "login": "juninho4",
+          "kind": "human",
+          "commits": 3,
+          "latest_date": "2026-08-02 10:21",
+          "latest_msg": "added final human judgment for w31",
+          "latest_sha": "27dbaed",
+          "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/27dbaed6a360d0c4a1a6a59fa22fc27e410fc7d7"
+        },
+        {
           "name": "Jiawei990029",
           "login": "Jiawei990029",
           "kind": "human",
@@ -814,16 +824,6 @@
           "latest_msg": "Update vW31_almanac.md",
           "latest_sha": "335e649",
           "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/335e64932e9a33a41a6ead0e04ff7a8a45294dce"
-        },
-        {
-          "name": "Juninho",
-          "login": "juninho4",
-          "kind": "human",
-          "commits": 2,
-          "latest_date": "2026-07-27 05:41",
-          "latest_msg": "added ppt file for w30",
-          "latest_sha": "2338610",
-          "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/23386106a807866bf8b53a5683b4cd4e21870b1b"
         }
       ],
       "pr_history": {
@@ -837,7 +837,7 @@
       "midweek_artefact": {
         "present": true,
         "path": "vW30/standup_midweek_W30.md",
-        "url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/blob/335e64932e9a33a41a6ead0e04ff7a8a45294dce/vW30/standup_midweek_W30.md"
+        "url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/blob/27dbaed6a360d0c4a1a6a59fa22fc27e410fc7d7/vW30/standup_midweek_W30.md"
       },
       "repo_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405"
     },
@@ -846,11 +846,11 @@
       "repo": "wintwah-lwin/CP3405_Group_4",
       "prac": "B",
       "is_ultra": false,
-      "last_commit_sha": "c4e6f07",
-      "last_commit_msg": "Auto-commit: Pipeline execution (Week 10)",
-      "last_commit_date": "2026-07-31 21:05",
-      "last_commit_author": "github-actions[bot]",
-      "last_commit_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/c4e6f07042bef72ecca301882c62d6c281679bed",
+      "last_commit_sha": "1ef251c",
+      "last_commit_msg": "Merge branch 'main' of https://github.com/wintwah-lwin/CP340",
+      "last_commit_date": "2026-08-02 10:08",
+      "last_commit_author": "louishan42",
+      "last_commit_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/1ef251cb440e7527d359e3b779eab2caa4eca82d",
       "tags": [
         "vW30",
         "vW29",
@@ -871,13 +871,13 @@
       "open_prs": 0,
       "pr_titles": [],
       "pr_links": [],
-      "days_since_commit": 1,
+      "days_since_commit": 0,
       "contributors": [
         {
           "name": "Arisa",
           "login": "wintwah-lwin",
           "kind": "human",
-          "commits": 43,
+          "commits": 40,
           "latest_date": "2026-07-29 22:47",
           "latest_msg": "Add files via upload",
           "latest_sha": "c1258c8",
@@ -897,11 +897,11 @@
           "name": "louishan42",
           "login": "louishan42",
           "kind": "human",
-          "commits": 10,
-          "latest_date": "2026-07-27 05:13",
-          "latest_msg": "Sync pipeline scripts and confirm push fix v3 on group repo.",
-          "latest_sha": "7ab4466",
-          "latest_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/7ab4466dc9901c505939eb057d456ab5ad5d9baa"
+          "commits": 12,
+          "latest_date": "2026-08-02 10:08",
+          "latest_msg": "Merge branch 'main' of https://github.com/wintwah-lwin/CP3405_Group_4",
+          "latest_sha": "1ef251c",
+          "latest_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/1ef251cb440e7527d359e3b779eab2caa4eca82d"
         },
         {
           "name": "Mingyu-Cai",
