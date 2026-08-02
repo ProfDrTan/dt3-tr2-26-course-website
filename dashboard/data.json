@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-02 22:10 UTC",
+  "updated": "2026-08-02 23:14 UTC",
   "sprint_tag": "vW30",
   "sprint_deadline_utc": "2026-07-26T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W30",
@@ -77,7 +77,7 @@
           "name": "sinder",
           "login": "sinder38",
           "kind": "human",
-          "commits": 20,
+          "commits": 19,
           "latest_date": "2026-08-02 13:44",
           "latest_msg": "Project owner Week 31",
           "latest_sha": "9135c6a",
@@ -1011,11 +1011,11 @@
       "repo": "Gong-yinxuan/CP3405",
       "prac": "B",
       "is_ultra": false,
-      "last_commit_sha": "d8b08a5",
-      "last_commit_msg": "Add files via upload",
-      "last_commit_date": "2026-08-02 12:29",
-      "last_commit_author": "JiangJinsong",
-      "last_commit_url": "https://github.com/Gong-yinxuan/CP3405/commit/d8b08a5ef10290741353ccdb317ba18ec3b175e6",
+      "last_commit_sha": "6536ce5",
+      "last_commit_msg": "R7: add prediction.md",
+      "last_commit_date": "2026-08-02 22:25",
+      "last_commit_author": "wujinrui2004",
+      "last_commit_url": "https://github.com/Gong-yinxuan/CP3405/commit/6536ce52ee247847424124e9cf9dc56d304014c5",
       "tags": [
         "vW30",
         "vW29",
@@ -1025,11 +1025,11 @@
         "W23"
       ],
       "sprint_tag_present": true,
-      "last_run_name": "Update Market Data",
+      "last_run_name": "pages build and deployment",
       "last_run_conclusion": "success",
-      "last_run_date": "2026-08-01 03:18",
-      "last_run_url": "https://github.com/Gong-yinxuan/CP3405/actions/runs/30681743373",
-      "last_run_was_filtered": true,
+      "last_run_date": "2026-08-02 22:25",
+      "last_run_url": "https://github.com/Gong-yinxuan/CP3405/actions/runs/30770077356",
+      "last_run_was_filtered": false,
       "open_prs": 0,
       "pr_titles": [],
       "pr_links": [],
@@ -1039,7 +1039,7 @@
           "name": "To Hoang Gia",
           "login": "ToHoangGia",
           "kind": "human",
-          "commits": 32,
+          "commits": 31,
           "latest_date": "2026-07-28 03:48",
           "latest_msg": "Merge pull request #9 from Gong-yinxuan/create-frontend",
           "latest_sha": "1e3bbe8",
@@ -1059,11 +1059,11 @@
           "name": "wujinrui2004",
           "login": "wujinrui2004",
           "kind": "human",
-          "commits": 15,
-          "latest_date": "2026-07-23 10:09",
-          "latest_msg": "R2/R8: document Hy3/Claude payment blocker and fallback resolution",
-          "latest_sha": "8639c93",
-          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/8639c938fce2305a89195324d681a0ffd4206b38"
+          "commits": 18,
+          "latest_date": "2026-08-02 22:25",
+          "latest_msg": "R7: add prediction.md",
+          "latest_sha": "6536ce5",
+          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/6536ce52ee247847424124e9cf9dc56d304014c5"
         },
         {
           "name": "Gong-yinxuan",
@@ -1079,7 +1079,7 @@
           "name": "HYH-design-bot",
           "login": "HYH-design-bot",
           "kind": "bot",
-          "commits": 8,
+          "commits": 7,
           "latest_date": "2026-07-30 08:11",
           "latest_msg": "Ran and Commit LLM Synthesis Pipeline",
           "latest_sha": "d2527a9",
@@ -1096,16 +1096,6 @@
           "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/7a089abfd83e0f8c5b794054ebc0697ee91532b8"
         },
         {
-          "name": "JiangJinsong",
-          "login": "JiangJinsong",
-          "kind": "human",
-          "commits": 3,
-          "latest_date": "2026-08-02 12:29",
-          "latest_msg": "Add files via upload",
-          "latest_sha": "d8b08a5",
-          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/d8b08a5ef10290741353ccdb317ba18ec3b175e6"
-        },
-        {
           "name": "Kherlenbayar Sukhbaatar",
           "login": "kherlen31",
           "kind": "human",
@@ -1114,6 +1104,16 @@
           "latest_msg": "Update technical_agent_W08.md",
           "latest_sha": "3a42095",
           "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/3a42095861d8fa262e613e0b53910f087c2265ad"
+        },
+        {
+          "name": "JiangJinsong",
+          "login": "JiangJinsong",
+          "kind": "human",
+          "commits": 2,
+          "latest_date": "2026-08-02 12:29",
+          "latest_msg": "Add files via upload",
+          "latest_sha": "d8b08a5",
+          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/d8b08a5ef10290741353ccdb317ba18ec3b175e6"
         },
         {
           "name": "darwin",
@@ -1226,7 +1226,7 @@
       "midweek_artefact": {
         "present": true,
         "path": "Week8/R2_Scrum_Master/standup_midweek_W30.md",
-        "url": "https://github.com/Gong-yinxuan/CP3405/blob/d8b08a5ef10290741353ccdb317ba18ec3b175e6/Week8/R2_Scrum_Master/standup_midweek_W30.md"
+        "url": "https://github.com/Gong-yinxuan/CP3405/blob/6536ce52ee247847424124e9cf9dc56d304014c5/Week8/R2_Scrum_Master/standup_midweek_W30.md"
       },
       "repo_url": "https://github.com/Gong-yinxuan/CP3405"
     },
