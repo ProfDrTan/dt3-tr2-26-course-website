@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-02 07:19 UTC",
+  "updated": "2026-08-02 09:29 UTC",
   "sprint_tag": "vW30",
   "sprint_deadline_utc": "2026-07-26T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W30",
@@ -10,11 +10,11 @@
       "repo": "sinder38/Team-1-Prac-A-Project",
       "prac": "A",
       "is_ultra": false,
-      "last_commit_sha": "c4ac5f7",
-      "last_commit_msg": "Macro raise error (#116)",
-      "last_commit_date": "2026-08-02 06:07",
+      "last_commit_sha": "ded05b2",
+      "last_commit_msg": "Update llm max_retries (#121)",
+      "last_commit_date": "2026-08-02 08:57",
       "last_commit_author": "NaingPhonePyae",
-      "last_commit_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/c4ac5f77175ab6c7ffc36c0501098a8b5357072d",
+      "last_commit_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/ded05b2cc68af3a58acc676b199e261f0ac953fc",
       "tags": [
         "vW30",
         "vW29",
@@ -26,9 +26,9 @@
       ],
       "sprint_tag_present": true,
       "last_run_name": "python-checks",
-      "last_run_conclusion": "failure",
-      "last_run_date": "2026-08-02 07:17",
-      "last_run_url": "https://github.com/sinder38/Team-1-Prac-A-Project/actions/runs/30737535586",
+      "last_run_conclusion": "success",
+      "last_run_date": "2026-08-02 08:57",
+      "last_run_url": "https://github.com/sinder38/Team-1-Prac-A-Project/actions/runs/30740804130",
       "last_run_was_filtered": true,
       "open_prs": 9,
       "pr_titles": [
@@ -114,11 +114,11 @@
           "name": "NaingPhonePyae",
           "login": "NaingPhonePyae",
           "kind": "human",
-          "commits": 7,
-          "latest_date": "2026-08-02 06:07",
-          "latest_msg": "Macro raise error (#116)",
-          "latest_sha": "c4ac5f7",
-          "latest_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/c4ac5f77175ab6c7ffc36c0501098a8b5357072d"
+          "commits": 8,
+          "latest_date": "2026-08-02 08:57",
+          "latest_msg": "Update llm max_retries (#121)",
+          "latest_sha": "ded05b2",
+          "latest_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/ded05b2cc68af3a58acc676b199e261f0ac953fc"
         },
         {
           "name": "PanHsuMyat",
@@ -202,13 +202,13 @@
         }
       ],
       "pr_history": {
-        "total": 120,
-        "merged": 81,
+        "total": 121,
+        "merged": 82,
         "open": 9,
         "abandoned": 30,
         "weekly": {
           "2026-07-27": {
-            "merged": 6,
+            "merged": 7,
             "open": 7,
             "abandoned": 1
           },
@@ -259,6 +259,14 @@
           }
         },
         "recent": [
+          {
+            "number": 121,
+            "title": "Update llm max_retries",
+            "status": "merged",
+            "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/121",
+            "created_at": "2026-08-02",
+            "author": "NaingPhonePyae"
+          },
           {
             "number": 120,
             "title": "refactor: update LLM render_md call to use output only",
@@ -370,21 +378,13 @@
             "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/107",
             "created_at": "2026-07-29",
             "author": "sun9226066"
-          },
-          {
-            "number": 106,
-            "title": "Fix failing test",
-            "status": "merged",
-            "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/106",
-            "created_at": "2026-07-26",
-            "author": "NaingPhonePyae"
           }
         ]
       },
       "midweek_artefact": {
         "present": true,
         "path": "sprints/standup_midweek_W30.md",
-        "url": "https://github.com/sinder38/Team-1-Prac-A-Project/blob/c4ac5f77175ab6c7ffc36c0501098a8b5357072d/sprints/standup_midweek_W30.md"
+        "url": "https://github.com/sinder38/Team-1-Prac-A-Project/blob/ded05b2cc68af3a58acc676b199e261f0ac953fc/sprints/standup_midweek_W30.md"
       },
       "repo_url": "https://github.com/sinder38/Team-1-Prac-A-Project"
     },
@@ -393,11 +393,11 @@
       "repo": "LuJunwen212/CP3405-Project",
       "prac": "A",
       "is_ultra": false,
-      "last_commit_sha": "ec52b6a",
-      "last_commit_msg": "chore(r10): automate calibration for W30",
-      "last_commit_date": "2026-08-02 07:00",
-      "last_commit_author": "Team2 Calibration Bo",
-      "last_commit_url": "https://github.com/LuJunwen212/CP3405-Project/commit/ec52b6a9c24794ce2b6834cecbc4d9b8ee710b83",
+      "last_commit_sha": "e083d67",
+      "last_commit_msg": "Delete presentation_2026-W31_Group2.pptx",
+      "last_commit_date": "2026-08-02 09:28",
+      "last_commit_author": "Guanyu Lu",
+      "last_commit_url": "https://github.com/LuJunwen212/CP3405-Project/commit/e083d671a5b5e6a03a390ec5545f0389b6ab3212",
       "tags": [
         "vW30",
         "vW29",
@@ -410,8 +410,8 @@
       "sprint_tag_present": true,
       "last_run_name": "Team 2 Webpage & Dashboard Automation Pi",
       "last_run_conclusion": "success",
-      "last_run_date": "2026-08-02 07:13",
-      "last_run_url": "https://github.com/LuJunwen212/CP3405-Project/actions/runs/30737397790",
+      "last_run_date": "2026-08-02 09:02",
+      "last_run_url": "https://github.com/LuJunwen212/CP3405-Project/actions/runs/30740978902",
       "last_run_was_filtered": true,
       "open_prs": 0,
       "pr_titles": [],
@@ -422,11 +422,11 @@
           "name": "ZhengZaikun",
           "login": "ZhengZaikun",
           "kind": "human",
-          "commits": 61,
-          "latest_date": "2026-08-01 04:18",
-          "latest_msg": "Update webpage_auto_pipeline.yml",
-          "latest_sha": "40ad156",
-          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/40ad15682e8d4b3963099be7bd74cf3f3d74ff97"
+          "commits": 58,
+          "latest_date": "2026-08-02 08:58",
+          "latest_msg": "Update DECISION_2026-W31.md",
+          "latest_sha": "effa344",
+          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/effa344ba1adb8d33c3a49a46e35849c35d73373"
         },
         {
           "name": "Team2 Data Automation Bot",
@@ -439,24 +439,34 @@
           "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/a30e16806137911ce6785cedff1958ca62c51e7d"
         },
         {
+          "name": "Guanyu Lu",
+          "login": "Guanyu-Lu",
+          "kind": "human",
+          "commits": 7,
+          "latest_date": "2026-08-02 09:28",
+          "latest_msg": "Delete presentation_2026-W31_Group2.pptx",
+          "latest_sha": "e083d67",
+          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/e083d671a5b5e6a03a390ec5545f0389b6ab3212"
+        },
+        {
           "name": "The Bao Le",
           "login": "The-Bao-Le",
           "kind": "human",
-          "commits": 9,
+          "commits": 7,
           "latest_date": "2026-08-01 03:30",
           "latest_msg": "Delete charts/W31 directory",
           "latest_sha": "9f6d60d",
           "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/9f6d60dac765d9aadf421aa5ca2d0bcfff067c50"
         },
         {
-          "name": "Guanyu Lu",
-          "login": "Guanyu-Lu",
-          "kind": "human",
+          "name": "Team2 Calibration Bot",
+          "login": "",
+          "kind": "bot",
           "commits": 4,
-          "latest_date": "2026-08-02 06:55",
-          "latest_msg": "Merge pull request #31 from LuJunwen212/week-9",
-          "latest_sha": "093f2c4",
-          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/093f2c4a3439e85a62e565a9e8770f453f5ad64a"
+          "latest_date": "2026-08-02 07:41",
+          "latest_msg": "chore(r10): automate calibration for W30",
+          "latest_sha": "702dfd7",
+          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/702dfd7057c6501797949c3c2a66802ea7cc15fe"
         },
         {
           "name": "Hamzah \"Opal\" Nutt",
@@ -467,16 +477,6 @@
           "latest_msg": "Add display of strongest sector in R6 section",
           "latest_sha": "0d173ed",
           "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/0d173ed9ea68b535d01f83e1baae465867f1356d"
-        },
-        {
-          "name": "Team2 Calibration Bot",
-          "login": "",
-          "kind": "bot",
-          "commits": 2,
-          "latest_date": "2026-08-02 07:00",
-          "latest_msg": "chore(r10): automate calibration for W30",
-          "latest_sha": "ec52b6a",
-          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/ec52b6a9c24794ce2b6834cecbc4d9b8ee710b83"
         },
         {
           "name": "LuJunwen212",
@@ -692,7 +692,7 @@
       "midweek_artefact": {
         "present": true,
         "path": "evidence/progress_logs/standup_midweek_W30.md",
-        "url": "https://github.com/LuJunwen212/CP3405-Project/blob/ec52b6a9c24794ce2b6834cecbc4d9b8ee710b83/evidence/progress_logs/standup_midweek_W30.md"
+        "url": "https://github.com/LuJunwen212/CP3405-Project/blob/effa344ba1adb8d33c3a49a46e35849c35d73373/evidence/progress_logs/standup_midweek_W30.md"
       },
       "repo_url": "https://github.com/LuJunwen212/CP3405-Project"
     },
