@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-02 17:37 UTC",
+  "updated": "2026-08-02 18:42 UTC",
   "sprint_tag": "vW30",
   "sprint_deadline_utc": "2026-07-26T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W30",
@@ -823,11 +823,11 @@
       "repo": "wintwah-lwin/CP3405_Group_4",
       "prac": "B",
       "is_ultra": false,
-      "last_commit_sha": "9a45373",
-      "last_commit_msg": "Add file",
-      "last_commit_date": "2026-08-02 16:08",
-      "last_commit_author": "Arisa",
-      "last_commit_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/9a45373c0a62006cde8a8535ba7c271a502efa1d",
+      "last_commit_sha": "0e58bb5",
+      "last_commit_msg": "Polish TradeKyaMal dashboard UI for presentation prototype.",
+      "last_commit_date": "2026-08-02 17:57",
+      "last_commit_author": "louishan42",
+      "last_commit_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/0e58bb5558e85a66c7264868d9264c5e2e705d68",
       "tags": [
         "vW31",
         "vW30",
@@ -875,11 +875,11 @@
           "name": "louishan42",
           "login": "louishan42",
           "kind": "human",
-          "commits": 12,
-          "latest_date": "2026-08-02 10:08",
-          "latest_msg": "Merge branch 'main' of https://github.com/wintwah-lwin/CP3405_Group_4",
-          "latest_sha": "1ef251c",
-          "latest_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/1ef251cb440e7527d359e3b779eab2caa4eca82d"
+          "commits": 14,
+          "latest_date": "2026-08-02 17:57",
+          "latest_msg": "Polish TradeKyaMal dashboard UI for presentation prototype.",
+          "latest_sha": "0e58bb5",
+          "latest_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/0e58bb5558e85a66c7264868d9264c5e2e705d68"
         },
         {
           "name": "Mingyu-Cai",
