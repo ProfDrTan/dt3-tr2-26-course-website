@@ -1,5 +1,5 @@
 {
-  "generated": "Sunday 02 August 2026 12:34 SGT",
+  "generated": "Sunday 02 August 2026 15:18 SGT",
   "teams": {
     "Team 1": {
       "blockers": []
@@ -32,12 +32,6 @@
           "content": "Hi everyone, Thank you for the updates.\n\nPlease make sure any code changes are committed before the scheduled automation run.\n\nAfter the automation finishes, please update the team if there are any is",
           "ts_str": "2026-07-31 09:48:06",
           "url": "https://discord.com/channels/1505861202444816455/1505883200151490660/1532686284072554517"
-        },
-        {
-          "author": "vince3331",
-          "content": "Can someone help me Update R5 code, I just do some fix to the code is that possible to change before the market close? use the new code to run for this week.",
-          "ts_str": "2026-07-31 06:56:08",
-          "url": "https://discord.com/channels/1505861202444816455/1505883200151490660/1532643009282314371"
         }
       ]
     },
@@ -45,7 +39,14 @@
       "blockers": []
     },
     "Team 5": {
-      "blockers": []
+      "blockers": [
+        {
+          "author": "fiery_courgette_94143",
+          "content": "Also <@1508337441445118062> did you host the website? I can't do that since I'm not the admin",
+          "ts_str": "2026-08-02 04:35:44",
+          "url": "https://discord.com/channels/1505861202444816455/1505883282993315890/1533332451638902804"
+        }
+      ]
     }
   }
 }
