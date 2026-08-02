@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-02 15:21 UTC",
+  "updated": "2026-08-02 16:28 UTC",
   "sprint_tag": "vW30",
   "sprint_deadline_utc": "2026-07-26T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W30",
@@ -10,12 +10,13 @@
       "repo": "sinder38/Team-1-Prac-A-Project",
       "prac": "A",
       "is_ultra": false,
-      "last_commit_sha": "d54d844",
-      "last_commit_msg": "chore: pipeline artifacts 2026-08-01 (#113)",
-      "last_commit_date": "2026-08-02 15:18",
-      "last_commit_author": "github-actions[bot]",
-      "last_commit_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/d54d8448f123177c77f1ff14f84ca8acd409620f",
+      "last_commit_sha": "a8c7a31",
+      "last_commit_msg": "Scrum master week 10 (#123)",
+      "last_commit_date": "2026-08-02 15:35",
+      "last_commit_author": "PanHsuMyat",
+      "last_commit_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/a8c7a31d34371931d01c6fd9c6ca8ba998502d6f",
       "tags": [
+        "vW31",
         "vW30",
         "vW29",
         "vW28",
@@ -25,20 +26,18 @@
         "vW22"
       ],
       "sprint_tag_present": true,
-      "last_run_name": "agent-checks",
+      "last_run_name": "frontend-checks",
       "last_run_conclusion": "success",
-      "last_run_date": "2026-08-02 15:18",
-      "last_run_url": "https://github.com/sinder38/Team-1-Prac-A-Project/actions/runs/30754056983",
+      "last_run_date": "2026-08-02 15:37",
+      "last_run_url": "https://github.com/sinder38/Team-1-Prac-A-Project/actions/runs/30754751663",
       "last_run_was_filtered": true,
-      "open_prs": 7,
+      "open_prs": 5,
       "pr_titles": [
         "Create prediction_2026_W31_Team1.md",
         "Create human_score_W31.md",
-        "Scrum master week 10",
         "refactor: update LLM render_md call to use output only",
         "refactor: remove prediction_date from BaseAgent render_md",
-        "refactor: read prediction date from LLM output",
-        "fix(delta): file Delta artifacts under the completed actuals"
+        "refactor: read prediction date from LLM output"
       ],
       "pr_links": [
         {
@@ -52,12 +51,6 @@
           "number": 125,
           "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/125",
           "author": "Aeron03"
-        },
-        {
-          "title": "Scrum master week 10",
-          "number": 123,
-          "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/123",
-          "author": "panhsumyat0179-pixel"
         },
         {
           "title": "refactor: update LLM render_md call to use output only",
@@ -76,12 +69,6 @@
           "number": 118,
           "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/118",
           "author": "Tobias778"
-        },
-        {
-          "title": "fix(delta): file Delta artifacts under the completed actuals",
-          "number": 115,
-          "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/115",
-          "author": "sun9226066"
         }
       ],
       "days_since_commit": 0,
@@ -110,11 +97,21 @@
           "name": "PanHsuMyat",
           "login": "panhsumyat0179-pixel",
           "kind": "human",
-          "commits": 5,
-          "latest_date": "2026-07-30 14:29",
-          "latest_msg": "Create standup_midweek_W31.md (#108)",
-          "latest_sha": "b62302f",
-          "latest_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/b62302fde0e5b1cd3ad2c0c171adbf1605bdbe8d"
+          "commits": 6,
+          "latest_date": "2026-08-02 15:35",
+          "latest_msg": "Scrum master week 10 (#123)",
+          "latest_sha": "a8c7a31",
+          "latest_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/a8c7a31d34371931d01c6fd9c6ca8ba998502d6f"
+        },
+        {
+          "name": "Charles",
+          "login": "sun9226066",
+          "kind": "human",
+          "commits": 4,
+          "latest_date": "2026-08-02 15:33",
+          "latest_msg": "fix(delta): migrate run-week artifacts safely (#115)",
+          "latest_sha": "c36e85f",
+          "latest_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/c36e85fcad5a8cdfa04da7ea7932be988e082bfd"
         },
         {
           "name": "github-actions[bot]",
@@ -145,16 +142,6 @@
           "latest_msg": "fix: isolate delta runs and add admin auth (#112)",
           "latest_sha": "3a17a00",
           "latest_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/3a17a00a40410d2e37071f8c47f0f2e228d4d734"
-        },
-        {
-          "name": "Charles",
-          "login": "sun9226066",
-          "kind": "human",
-          "commits": 3,
-          "latest_date": "2026-08-02 11:19",
-          "latest_msg": "README Update and Server Pipeline Slug Correction (#117)",
-          "latest_sha": "9b6d47c",
-          "latest_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/9b6d47c391e50eaab1cffbb76fb15aeafb5caebb"
         },
         {
           "name": "saikokokyaw",
@@ -189,13 +176,13 @@
       ],
       "pr_history": {
         "total": 126,
-        "merged": 88,
-        "open": 7,
+        "merged": 90,
+        "open": 5,
         "abandoned": 31,
         "weekly": {
           "2026-07-27": {
-            "merged": 12,
-            "open": 7,
+            "merged": 14,
+            "open": 5,
             "abandoned": 1
           },
           "2026-07-20": {
@@ -272,7 +259,7 @@
           {
             "number": 123,
             "title": "Scrum master week 10",
-            "status": "open",
+            "status": "merged",
             "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/123",
             "created_at": "2026-08-02",
             "author": "panhsumyat0179-pixel"
@@ -336,7 +323,7 @@
           {
             "number": 115,
             "title": "fix(delta): file Delta artifacts under the completed actuals week",
-            "status": "open",
+            "status": "merged",
             "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/115",
             "created_at": "2026-08-02",
             "author": "sun9226066"
@@ -370,7 +357,7 @@
       "midweek_artefact": {
         "present": true,
         "path": "sprints/standup_midweek_W30.md",
-        "url": "https://github.com/sinder38/Team-1-Prac-A-Project/blob/89b75612c9ce56e249b8432deccf836b8e9f145a/sprints/standup_midweek_W30.md"
+        "url": "https://github.com/sinder38/Team-1-Prac-A-Project/blob/a8c7a31d34371931d01c6fd9c6ca8ba998502d6f/sprints/standup_midweek_W30.md"
       },
       "repo_url": "https://github.com/sinder38/Team-1-Prac-A-Project"
     },
@@ -836,12 +823,13 @@
       "repo": "wintwah-lwin/CP3405_Group_4",
       "prac": "B",
       "is_ultra": false,
-      "last_commit_sha": "ec2d0f3",
-      "last_commit_msg": "Add files via upload",
-      "last_commit_date": "2026-08-02 15:12",
-      "last_commit_author": "AJIN-TheHuman",
-      "last_commit_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/ec2d0f3db267ff7adf60afd58e9b9e8e1e5d5910",
+      "last_commit_sha": "9a45373",
+      "last_commit_msg": "Add file",
+      "last_commit_date": "2026-08-02 16:08",
+      "last_commit_author": "Arisa",
+      "last_commit_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/9a45373c0a62006cde8a8535ba7c271a502efa1d",
       "tags": [
+        "vW31",
         "vW30",
         "vW29",
         "v1.0.0",
@@ -867,17 +855,17 @@
           "name": "Arisa",
           "login": "wintwah-lwin",
           "kind": "human",
-          "commits": 38,
-          "latest_date": "2026-07-29 22:47",
-          "latest_msg": "Add files via upload",
-          "latest_sha": "c1258c8",
-          "latest_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/c1258c806b055eca22fd2eaa5e419806055c3b13"
+          "commits": 39,
+          "latest_date": "2026-08-02 16:08",
+          "latest_msg": "Add file",
+          "latest_sha": "9a45373",
+          "latest_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/9a45373c0a62006cde8a8535ba7c271a502efa1d"
         },
         {
           "name": "github-actions[bot]",
           "login": "github-actions[bot]",
           "kind": "bot",
-          "commits": 17,
+          "commits": 16,
           "latest_date": "2026-07-31 21:05",
           "latest_msg": "Auto-commit: Pipeline execution (Week 10)",
           "latest_sha": "c4e6f07",
