@@ -1,5 +1,5 @@
 {
-  "generated": "Sunday 02 August 2026 15:18 SGT",
+  "generated": "Sunday 02 August 2026 17:28 SGT",
   "teams": {
     "Team 1": {
       "blockers": []
@@ -9,6 +9,12 @@
     },
     "Team 3": {
       "blockers": [
+        {
+          "author": "zhangjiale_81292",
+          "content": "Final Submission Reminder\n\nHi team,\n\nPlease make sure all final tasks are completed before the deadline today.\n\nChecklist:\n\u2022 All work committed to GitHub\n\u2022 Final tag (vW31) created\n\u2022 Retrospective com",
+          "ts_str": "2026-08-02 08:49:47",
+          "url": "https://discord.com/channels/1505861202444816455/1505883200151490660/1533396387230912613"
+        },
         {
           "author": "noah_071127",
           "content": "<@1508279197657993288> Pay attention to how you format your standup files on GitHub. There are no blockers this week; \u201cWaiting to run\u201d should be listed as a status.",
