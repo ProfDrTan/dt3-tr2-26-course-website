@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-02 04:34 UTC",
+  "updated": "2026-08-02 07:19 UTC",
   "sprint_tag": "vW30",
   "sprint_deadline_utc": "2026-07-26T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W30",
@@ -10,11 +10,11 @@
       "repo": "sinder38/Team-1-Prac-A-Project",
       "prac": "A",
       "is_ultra": false,
-      "last_commit_sha": "91fe8d1",
-      "last_commit_msg": "Feat/deployment (#114)",
-      "last_commit_date": "2026-08-01 19:03",
-      "last_commit_author": "sinder",
-      "last_commit_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/91fe8d1fba4d112cd4b73138c9cf4fbd580b64b1",
+      "last_commit_sha": "c4ac5f7",
+      "last_commit_msg": "Macro raise error (#116)",
+      "last_commit_date": "2026-08-02 06:07",
+      "last_commit_author": "NaingPhonePyae",
+      "last_commit_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/c4ac5f77175ab6c7ffc36c0501098a8b5357072d",
       "tags": [
         "vW30",
         "vW29",
@@ -26,12 +26,16 @@
       ],
       "sprint_tag_present": true,
       "last_run_name": "python-checks",
-      "last_run_conclusion": "success",
-      "last_run_date": "2026-08-02 01:30",
-      "last_run_url": "https://github.com/sinder38/Team-1-Prac-A-Project/actions/runs/30727185928",
+      "last_run_conclusion": "failure",
+      "last_run_date": "2026-08-02 07:17",
+      "last_run_url": "https://github.com/sinder38/Team-1-Prac-A-Project/actions/runs/30737535586",
       "last_run_was_filtered": true,
-      "open_prs": 5,
+      "open_prs": 9,
       "pr_titles": [
+        "refactor: update LLM render_md call to use output only",
+        "refactor: remove prediction_date from BaseAgent render_md",
+        "refactor: read prediction date from LLM output",
+        "README Update and Server Pipeline Slug Correction",
         "fix(delta): file Delta artifacts under the completed actuals",
         "chore: pipeline artifacts 2026-08-01",
         "feat: Charts week context, actuals, and About refresh",
@@ -39,6 +43,30 @@
         "Implement regression tests for TechnicalAgent"
       ],
       "pr_links": [
+        {
+          "title": "refactor: update LLM render_md call to use output only",
+          "number": 120,
+          "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/120",
+          "author": "Tobias778"
+        },
+        {
+          "title": "refactor: remove prediction_date from BaseAgent render_md",
+          "number": 119,
+          "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/119",
+          "author": "Tobias778"
+        },
+        {
+          "title": "refactor: read prediction date from LLM output",
+          "number": 118,
+          "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/118",
+          "author": "Tobias778"
+        },
+        {
+          "title": "README Update and Server Pipeline Slug Correction",
+          "number": 117,
+          "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/117",
+          "author": "sun9226066"
+        },
         {
           "title": "fix(delta): file Delta artifacts under the completed actuals",
           "number": 115,
@@ -86,11 +114,11 @@
           "name": "NaingPhonePyae",
           "login": "NaingPhonePyae",
           "kind": "human",
-          "commits": 6,
-          "latest_date": "2026-07-26 13:59",
-          "latest_msg": "Fix failing test (#106)",
-          "latest_sha": "95781c5",
-          "latest_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/95781c5787d897500f4e65214f8905530df29cd7"
+          "commits": 7,
+          "latest_date": "2026-08-02 06:07",
+          "latest_msg": "Macro raise error (#116)",
+          "latest_sha": "c4ac5f7",
+          "latest_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/c4ac5f77175ab6c7ffc36c0501098a8b5357072d"
         },
         {
           "name": "PanHsuMyat",
@@ -174,14 +202,14 @@
         }
       ],
       "pr_history": {
-        "total": 115,
-        "merged": 80,
-        "open": 5,
+        "total": 120,
+        "merged": 81,
+        "open": 9,
         "abandoned": 30,
         "weekly": {
           "2026-07-27": {
-            "merged": 5,
-            "open": 3,
+            "merged": 6,
+            "open": 7,
             "abandoned": 1
           },
           "2026-07-20": {
@@ -231,6 +259,46 @@
           }
         },
         "recent": [
+          {
+            "number": 120,
+            "title": "refactor: update LLM render_md call to use output only",
+            "status": "open",
+            "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/120",
+            "created_at": "2026-08-02",
+            "author": "Tobias778"
+          },
+          {
+            "number": 119,
+            "title": "refactor: remove prediction_date from BaseAgent render_md",
+            "status": "open",
+            "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/119",
+            "created_at": "2026-08-02",
+            "author": "Tobias778"
+          },
+          {
+            "number": 118,
+            "title": "refactor: read prediction date from LLM output",
+            "status": "open",
+            "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/118",
+            "created_at": "2026-08-02",
+            "author": "Tobias778"
+          },
+          {
+            "number": 117,
+            "title": "README Update and Server Pipeline Slug Correction",
+            "status": "open",
+            "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/117",
+            "created_at": "2026-08-02",
+            "author": "sun9226066"
+          },
+          {
+            "number": 116,
+            "title": "Macro raise error",
+            "status": "merged",
+            "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/116",
+            "created_at": "2026-08-02",
+            "author": "NaingPhonePyae"
+          },
           {
             "number": 115,
             "title": "fix(delta): file Delta artifacts under the completed actuals week",
@@ -310,53 +378,13 @@
             "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/106",
             "created_at": "2026-07-26",
             "author": "NaingPhonePyae"
-          },
-          {
-            "number": 105,
-            "title": "Update Almanac Data",
-            "status": "merged",
-            "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/105",
-            "created_at": "2026-07-26",
-            "author": "NaingPhonePyae"
-          },
-          {
-            "number": 104,
-            "title": "Scrum master week 9",
-            "status": "merged",
-            "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/104",
-            "created_at": "2026-07-26",
-            "author": "panhsumyat0179-pixel"
-          },
-          {
-            "number": 103,
-            "title": "Add W30 PO stuff",
-            "status": "merged",
-            "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/103",
-            "created_at": "2026-07-26",
-            "author": "sinder38"
-          },
-          {
-            "number": 102,
-            "title": "fix: restore partial pipeline progress from history",
-            "status": "merged",
-            "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/102",
-            "created_at": "2026-07-26",
-            "author": "JasonEran"
-          },
-          {
-            "number": 101,
-            "title": "feat: export Delta report from SQLite",
-            "status": "merged",
-            "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/101",
-            "created_at": "2026-07-25",
-            "author": "JasonEran"
           }
         ]
       },
       "midweek_artefact": {
         "present": true,
         "path": "sprints/standup_midweek_W30.md",
-        "url": "https://github.com/sinder38/Team-1-Prac-A-Project/blob/91fe8d1fba4d112cd4b73138c9cf4fbd580b64b1/sprints/standup_midweek_W30.md"
+        "url": "https://github.com/sinder38/Team-1-Prac-A-Project/blob/c4ac5f77175ab6c7ffc36c0501098a8b5357072d/sprints/standup_midweek_W30.md"
       },
       "repo_url": "https://github.com/sinder38/Team-1-Prac-A-Project"
     },
@@ -365,11 +393,11 @@
       "repo": "LuJunwen212/CP3405-Project",
       "prac": "A",
       "is_ultra": false,
-      "last_commit_sha": "ed858ff",
-      "last_commit_msg": "docs(r8): updated free open-source multi-model matrix [skip ",
-      "last_commit_date": "2026-08-01 09:55",
-      "last_commit_author": "Team2 R8 LLM Operato",
-      "last_commit_url": "https://github.com/LuJunwen212/CP3405-Project/commit/ed858ffcfa5883f64ea954b62570761cb9df8e88",
+      "last_commit_sha": "ec52b6a",
+      "last_commit_msg": "chore(r10): automate calibration for W30",
+      "last_commit_date": "2026-08-02 07:00",
+      "last_commit_author": "Team2 Calibration Bo",
+      "last_commit_url": "https://github.com/LuJunwen212/CP3405-Project/commit/ec52b6a9c24794ce2b6834cecbc4d9b8ee710b83",
       "tags": [
         "vW30",
         "vW29",
@@ -382,8 +410,8 @@
       "sprint_tag_present": true,
       "last_run_name": "Team 2 Webpage & Dashboard Automation Pi",
       "last_run_conclusion": "success",
-      "last_run_date": "2026-08-01 14:42",
-      "last_run_url": "https://github.com/LuJunwen212/CP3405-Project/actions/runs/30704340025",
+      "last_run_date": "2026-08-02 07:13",
+      "last_run_url": "https://github.com/LuJunwen212/CP3405-Project/actions/runs/30737397790",
       "last_run_was_filtered": true,
       "open_prs": 0,
       "pr_titles": [],
@@ -394,21 +422,11 @@
           "name": "ZhengZaikun",
           "login": "ZhengZaikun",
           "kind": "human",
-          "commits": 64,
+          "commits": 61,
           "latest_date": "2026-08-01 04:18",
           "latest_msg": "Update webpage_auto_pipeline.yml",
           "latest_sha": "40ad156",
           "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/40ad15682e8d4b3963099be7bd74cf3f3d74ff97"
-        },
-        {
-          "name": "The Bao Le",
-          "login": "The-Bao-Le",
-          "kind": "human",
-          "commits": 11,
-          "latest_date": "2026-08-01 03:30",
-          "latest_msg": "Delete charts/W31 directory",
-          "latest_sha": "9f6d60d",
-          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/9f6d60dac765d9aadf421aa5ca2d0bcfff067c50"
         },
         {
           "name": "Team2 Data Automation Bot",
@@ -421,6 +439,26 @@
           "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/a30e16806137911ce6785cedff1958ca62c51e7d"
         },
         {
+          "name": "The Bao Le",
+          "login": "The-Bao-Le",
+          "kind": "human",
+          "commits": 9,
+          "latest_date": "2026-08-01 03:30",
+          "latest_msg": "Delete charts/W31 directory",
+          "latest_sha": "9f6d60d",
+          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/9f6d60dac765d9aadf421aa5ca2d0bcfff067c50"
+        },
+        {
+          "name": "Guanyu Lu",
+          "login": "Guanyu-Lu",
+          "kind": "human",
+          "commits": 4,
+          "latest_date": "2026-08-02 06:55",
+          "latest_msg": "Merge pull request #31 from LuJunwen212/week-9",
+          "latest_sha": "093f2c4",
+          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/093f2c4a3439e85a62e565a9e8770f453f5ad64a"
+        },
+        {
           "name": "Hamzah \"Opal\" Nutt",
           "login": "hamzah-opal-n",
           "kind": "human",
@@ -431,14 +469,34 @@
           "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/0d173ed9ea68b535d01f83e1baae465867f1356d"
         },
         {
-          "name": "Guanyu Lu",
-          "login": "Guanyu-Lu",
+          "name": "Team2 Calibration Bot",
+          "login": "",
+          "kind": "bot",
+          "commits": 2,
+          "latest_date": "2026-08-02 07:00",
+          "latest_msg": "chore(r10): automate calibration for W30",
+          "latest_sha": "ec52b6a",
+          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/ec52b6a9c24794ce2b6834cecbc4d9b8ee710b83"
+        },
+        {
+          "name": "LuJunwen212",
+          "login": "LuJunwen212",
           "kind": "human",
-          "commits": 3,
-          "latest_date": "2026-07-30 01:22",
-          "latest_msg": "Update standup_midweek_W31.md",
-          "latest_sha": "2e3ddb2",
-          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/2e3ddb2800e293937dc289f4333ad5eb6fe420fa"
+          "commits": 2,
+          "latest_date": "2026-08-02 06:52",
+          "latest_msg": "Update README with current structure, progress and dashboard",
+          "latest_sha": "db75cf1",
+          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/db75cf18c7e7367a71c6efaee1736a5585200634"
+        },
+        {
+          "name": "swan002",
+          "login": "swan002",
+          "kind": "human",
+          "commits": 2,
+          "latest_date": "2026-08-02 06:07",
+          "latest_msg": "Add prediction_2026-W31_team2.md",
+          "latest_sha": "a4ed748",
+          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/a4ed748c6d0e74e3647af7560cd835a96c19b062"
         },
         {
           "name": "Team2 R8 LLM Operator",
@@ -459,46 +517,16 @@
           "latest_msg": "chore(auto): synchronized dashboard and multi-role assets for active s",
           "latest_sha": "fb9dbee",
           "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/fb9dbee174d82112bc5e639e965083e6efee2e7d"
-        },
-        {
-          "name": "Team 2 Almanac Automation Bot",
-          "login": "",
-          "kind": "bot",
-          "commits": 2,
-          "latest_date": "2026-07-28 05:19",
-          "latest_msg": "chore(data): automated R3 next-week forecast execution matrix [skip ci",
-          "latest_sha": "ba73b26",
-          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/ba73b2683f6d543047a7ef5f475435fde2e58d84"
-        },
-        {
-          "name": "Team2 R4 Automation Bot",
-          "login": "github-actions[bot]",
-          "kind": "bot",
-          "commits": 1,
-          "latest_date": "2026-08-01 08:14",
-          "latest_msg": "chore(r4): weekly macro report [skip ci]",
-          "latest_sha": "e465c39",
-          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/e465c399d1b8d41f7c76fcdfba9cb6a60fd6f71b"
-        },
-        {
-          "name": "LuJunwen212",
-          "login": "LuJunwen212",
-          "kind": "human",
-          "commits": 1,
-          "latest_date": "2026-08-01 03:31",
-          "latest_msg": "Merge pull request #30 from LuJunwen212/week-9",
-          "latest_sha": "8508f3b",
-          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/8508f3b34eedc3ca43f10b552a26825947f2d644"
         }
       ],
       "pr_history": {
-        "total": 30,
-        "merged": 24,
+        "total": 31,
+        "merged": 25,
         "open": 0,
         "abandoned": 6,
         "weekly": {
           "2026-07-27": {
-            "merged": 2,
+            "merged": 3,
             "open": 0,
             "abandoned": 2
           },
@@ -539,6 +567,14 @@
           }
         },
         "recent": [
+          {
+            "number": 31,
+            "title": "Week 9",
+            "status": "merged",
+            "url": "https://github.com/LuJunwen212/CP3405-Project/pull/31",
+            "created_at": "2026-08-02",
+            "author": "Guanyu-Lu"
+          },
           {
             "number": 30,
             "title": "Week 9",
@@ -650,21 +686,13 @@
             "url": "https://github.com/LuJunwen212/CP3405-Project/pull/17",
             "created_at": "2026-07-16",
             "author": "The-Bao-Le"
-          },
-          {
-            "number": 16,
-            "title": "Week 06",
-            "status": "merged",
-            "url": "https://github.com/LuJunwen212/CP3405-Project/pull/16",
-            "created_at": "2026-07-12",
-            "author": "LuJunwen212"
           }
         ]
       },
       "midweek_artefact": {
         "present": true,
         "path": "evidence/progress_logs/standup_midweek_W30.md",
-        "url": "https://github.com/LuJunwen212/CP3405-Project/blob/ed858ffcfa5883f64ea954b62570761cb9df8e88/evidence/progress_logs/standup_midweek_W30.md"
+        "url": "https://github.com/LuJunwen212/CP3405-Project/blob/ec52b6a9c24794ce2b6834cecbc4d9b8ee710b83/evidence/progress_logs/standup_midweek_W30.md"
       },
       "repo_url": "https://github.com/LuJunwen212/CP3405-Project"
     },
