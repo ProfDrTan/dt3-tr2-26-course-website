@@ -1,5 +1,5 @@
 {
-  "generated": "Sunday 02 August 2026 20:15 SGT",
+  "generated": "Sunday 02 August 2026 22:04 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
@@ -17,6 +17,18 @@
     "Team 3": {
       "blockers": [
         {
+          "author": "vandarkray",
+          "content": "Since it needs to be sent out before 12 o'clock today, I filled it in. If there are any errors, please let me know.",
+          "ts_str": "2026-08-02 13:23:03",
+          "url": "https://discord.com/channels/1505861202444816455/1505883200151490660/1533465155244134613"
+        },
+        {
+          "author": "vandarkray",
+          "content": "\u2501\u2501\u2501 AGENTS (all committed before R8 synthesis) \u2501\u2501\u2501\nAlmanac R3 committed by Thu: Y\nMacro R4 committed by Thu: Y\nTechnical R5 committed by Thu: Y\n\n\u2501\u2501\u2501 AI SYNTHESIS \u2501\u2501\u2501\nLLM 1 via API: Y \u00b7 model:OpenRoute",
+          "ts_str": "2026-08-02 13:22:41",
+          "url": "https://discord.com/channels/1505861202444816455/1505883200151490660/1533465063426494475"
+        },
+        {
           "author": "juninho3",
           "content": "the final human judgment has been uploaded.\nmeanwhile the frontend dashboard is still in progress, almost finished, i still need to combine all of those automation scripts, making some good prompt for",
           "ts_str": "2026-08-02 10:26:44",
@@ -33,18 +45,6 @@
           "content": "<@1508279197657993288> Pay attention to how you format your standup files on GitHub. There are no blockers this week; \u201cWaiting to run\u201d should be listed as a status.",
           "ts_str": "2026-08-01 13:20:08",
           "url": "https://discord.com/channels/1505861202444816455/1505883200151490660/1533102035040338133"
-        },
-        {
-          "author": "wc251537931",
-          "content": "Two api calls fail, The file has been manually completed and llm_comparison.md has been modified. R7 can be used directly.",
-          "ts_str": "2026-08-01 13:11:23",
-          "url": "https://discord.com/channels/1505861202444816455/1505883200151490660/1533099830946168833"
-        },
-        {
-          "author": "zhangjiale_81292",
-          "content": "Hi, everyone, check your results.\nConfirm your work has been committed.\nMake sure your demo day presentation is ready.\nLet me know immediately if there are any blockers.\nTomorrow is our final submissi",
-          "ts_str": "2026-08-01 11:42:21",
-          "url": "https://discord.com/channels/1505861202444816455/1505883200151490660/1533077425678713003"
         }
       ]
     },
