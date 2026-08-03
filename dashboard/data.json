@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-03 08:15 UTC",
+  "updated": "2026-08-03 11:52 UTC",
   "sprint_tag": "vW30",
   "sprint_deadline_utc": "2026-07-26T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W30",
@@ -402,7 +402,7 @@
       "open_prs": 0,
       "pr_titles": [],
       "pr_links": [],
-      "days_since_commit": 0,
+      "days_since_commit": 1,
       "contributors": [
         {
           "name": "ZhengZaikun",
@@ -1258,23 +1258,33 @@
       "repo": "ProfDrTan/market-prediction-engine",
       "prac": "Instructor",
       "is_ultra": true,
-      "last_commit_sha": "4919284",
-      "last_commit_msg": "Add Fed rhetoric-vs-substance divergence signal to Macro Age",
-      "last_commit_date": "2026-08-01 15:15",
-      "last_commit_author": "ProfDrTan",
-      "last_commit_url": "https://github.com/ProfDrTan/market-prediction-engine/commit/491928450ffc4d3db5373aea9e6629a060edc1e4",
+      "last_commit_sha": "2e3a9d6",
+      "last_commit_msg": "Weekly pipeline run: 2026-08-03",
+      "last_commit_date": "2026-08-03 09:59",
+      "last_commit_author": "market-prediction-en",
+      "last_commit_url": "https://github.com/ProfDrTan/market-prediction-engine/commit/2e3a9d6d426f16bc7736d3086bfdeb6cb56b3d0b",
       "tags": [],
       "sprint_tag_present": false,
       "last_run_name": "Weekly Prediction Pipeline",
       "last_run_conclusion": "success",
-      "last_run_date": "2026-08-01 15:13",
-      "last_run_url": "https://github.com/ProfDrTan/market-prediction-engine/actions/runs/30705435209",
+      "last_run_date": "2026-08-03 09:55",
+      "last_run_url": "https://github.com/ProfDrTan/market-prediction-engine/actions/runs/30803473750",
       "last_run_was_filtered": true,
       "open_prs": 0,
       "pr_titles": [],
       "pr_links": [],
-      "days_since_commit": 1,
+      "days_since_commit": 0,
       "contributors": [
+        {
+          "name": "market-prediction-engine-bot",
+          "login": "actions",
+          "kind": "bot",
+          "commits": 7,
+          "latest_date": "2026-08-03 09:59",
+          "latest_msg": "Weekly pipeline run: 2026-08-03",
+          "latest_sha": "2e3a9d6",
+          "latest_url": "https://github.com/ProfDrTan/market-prediction-engine/commit/2e3a9d6d426f16bc7736d3086bfdeb6cb56b3d0b"
+        },
         {
           "name": "ProfDrTan",
           "login": "ProfDrTan",
@@ -1284,16 +1294,6 @@
           "latest_msg": "Add Fed rhetoric-vs-substance divergence signal to Macro Agent",
           "latest_sha": "4919284",
           "latest_url": "https://github.com/ProfDrTan/market-prediction-engine/commit/491928450ffc4d3db5373aea9e6629a060edc1e4"
-        },
-        {
-          "name": "market-prediction-engine-bot",
-          "login": "actions",
-          "kind": "bot",
-          "commits": 6,
-          "latest_date": "2026-07-27 10:09",
-          "latest_msg": "Weekly pipeline run: 2026-07-27",
-          "latest_sha": "561af8a",
-          "latest_url": "https://github.com/ProfDrTan/market-prediction-engine/commit/561af8aa2d17474c908a98b75d5221664d2fc665"
         }
       ],
       "pr_history": {
