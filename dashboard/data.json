@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-03 04:42 UTC",
+  "updated": "2026-08-03 08:15 UTC",
   "sprint_tag": "vW30",
   "sprint_deadline_utc": "2026-07-26T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W30",
@@ -84,7 +84,7 @@
           "name": "sinder",
           "login": "sinder38",
           "kind": "human",
-          "commits": 17,
+          "commits": 16,
           "latest_date": "2026-08-03 01:15",
           "latest_msg": "WIP: quick fix for delta engine and Docker deployment",
           "latest_sha": "c443534",
@@ -121,16 +121,6 @@
           "latest_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/c36e85fcad5a8cdfa04da7ea7932be988e082bfd"
         },
         {
-          "name": "Oakkar Phyoe",
-          "login": "oakkar-cm",
-          "kind": "human",
-          "commits": 4,
-          "latest_date": "2026-08-02 14:23",
-          "latest_msg": "feat: Charts week context, actuals, and About refresh (#109)",
-          "latest_sha": "89b7561",
-          "latest_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/89b75612c9ce56e249b8432deccf836b8e9f145a"
-        },
-        {
           "name": "JasonEran",
           "login": "JasonEran",
           "kind": "human",
@@ -149,6 +139,16 @@
           "latest_msg": "chore: pipeline artifacts 2026-08-01 (#113)",
           "latest_sha": "d54d844",
           "latest_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/d54d8448f123177c77f1ff14f84ca8acd409620f"
+        },
+        {
+          "name": "Oakkar Phyoe",
+          "login": "oakkar-cm",
+          "kind": "human",
+          "commits": 3,
+          "latest_date": "2026-08-02 14:23",
+          "latest_msg": "feat: Charts week context, actuals, and About refresh (#109)",
+          "latest_sha": "89b7561",
+          "latest_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/89b75612c9ce56e249b8432deccf836b8e9f145a"
         },
         {
           "name": "Zaw Latt Naung",
@@ -835,11 +835,11 @@
       "repo": "wintwah-lwin/CP3405_Group_4",
       "prac": "B",
       "is_ultra": false,
-      "last_commit_sha": "912f7d7",
-      "last_commit_msg": "Fix human score live updates and calibration summary display",
-      "last_commit_date": "2026-08-03 04:39",
-      "last_commit_author": "louishan42",
-      "last_commit_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/912f7d737f04d3f8db2be8945bf523d7344fa904",
+      "last_commit_sha": "7bd59fe",
+      "last_commit_msg": "Auto-commit: Pipeline execution (Week 10)",
+      "last_commit_date": "2026-08-03 05:46",
+      "last_commit_author": "github-actions[bot]",
+      "last_commit_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/7bd59fee83f1f08abe9f82c08495fb8378e8dfe5",
       "tags": [
         "vW31",
         "vW30",
@@ -855,8 +855,8 @@
       "sprint_tag_present": true,
       "last_run_name": "Auto Prediction",
       "last_run_conclusion": "success",
-      "last_run_date": "2026-07-31 21:03",
-      "last_run_url": "https://github.com/wintwah-lwin/CP3405_Group_4/actions/runs/30665209811",
+      "last_run_date": "2026-08-03 05:44",
+      "last_run_url": "https://github.com/wintwah-lwin/CP3405_Group_4/actions/runs/30788032973",
       "last_run_was_filtered": true,
       "open_prs": 0,
       "pr_titles": [],
@@ -867,7 +867,7 @@
           "name": "Arisa",
           "login": "wintwah-lwin",
           "kind": "human",
-          "commits": 39,
+          "commits": 34,
           "latest_date": "2026-08-02 16:08",
           "latest_msg": "Add file",
           "latest_sha": "9a45373",
@@ -887,11 +887,11 @@
           "name": "github-actions[bot]",
           "login": "github-actions[bot]",
           "kind": "bot",
-          "commits": 16,
-          "latest_date": "2026-07-31 21:05",
+          "commits": 15,
+          "latest_date": "2026-08-03 05:46",
           "latest_msg": "Auto-commit: Pipeline execution (Week 10)",
-          "latest_sha": "c4e6f07",
-          "latest_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/c4e6f07042bef72ecca301882c62d6c281679bed"
+          "latest_sha": "7bd59fe",
+          "latest_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/7bd59fee83f1f08abe9f82c08495fb8378e8dfe5"
         },
         {
           "name": "Mingyu-Cai",
@@ -1289,7 +1289,7 @@
           "name": "market-prediction-engine-bot",
           "login": "actions",
           "kind": "bot",
-          "commits": 7,
+          "commits": 6,
           "latest_date": "2026-07-27 10:09",
           "latest_msg": "Weekly pipeline run: 2026-07-27",
           "latest_sha": "561af8a",
