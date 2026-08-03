@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-03 14:34 UTC",
+  "updated": "2026-08-03 17:00 UTC",
   "sprint_tag": "vW30",
   "sprint_deadline_utc": "2026-07-26T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W30",
@@ -1258,11 +1258,11 @@
       "repo": "ProfDrTan/market-prediction-engine",
       "prac": "Instructor",
       "is_ultra": true,
-      "last_commit_sha": "2e3a9d6",
-      "last_commit_msg": "Weekly pipeline run: 2026-08-03",
-      "last_commit_date": "2026-08-03 09:59",
-      "last_commit_author": "market-prediction-en",
-      "last_commit_url": "https://github.com/ProfDrTan/market-prediction-engine/commit/2e3a9d6d426f16bc7736d3086bfdeb6cb56b3d0b",
+      "last_commit_sha": "83ae295",
+      "last_commit_msg": "Auto-regenerate data/manifest.json every pipeline run so the",
+      "last_commit_date": "2026-08-03 15:25",
+      "last_commit_author": "ProfDrTan",
+      "last_commit_url": "https://github.com/ProfDrTan/market-prediction-engine/commit/83ae295f1e83037fdd90b55f10280a7152caea00",
       "tags": [],
       "sprint_tag_present": false,
       "last_run_name": "Weekly Prediction Pipeline",
@@ -1276,6 +1276,16 @@
       "days_since_commit": 0,
       "contributors": [
         {
+          "name": "ProfDrTan",
+          "login": "ProfDrTan",
+          "kind": "human",
+          "commits": 13,
+          "latest_date": "2026-08-03 15:25",
+          "latest_msg": "Auto-regenerate data/manifest.json every pipeline run so the front end",
+          "latest_sha": "83ae295",
+          "latest_url": "https://github.com/ProfDrTan/market-prediction-engine/commit/83ae295f1e83037fdd90b55f10280a7152caea00"
+        },
+        {
           "name": "market-prediction-engine-bot",
           "login": "actions",
           "kind": "bot",
@@ -1284,16 +1294,6 @@
           "latest_msg": "Weekly pipeline run: 2026-08-03",
           "latest_sha": "2e3a9d6",
           "latest_url": "https://github.com/ProfDrTan/market-prediction-engine/commit/2e3a9d6d426f16bc7736d3086bfdeb6cb56b3d0b"
-        },
-        {
-          "name": "ProfDrTan",
-          "login": "ProfDrTan",
-          "kind": "human",
-          "commits": 7,
-          "latest_date": "2026-08-01 15:15",
-          "latest_msg": "Add Fed rhetoric-vs-substance divergence signal to Macro Agent",
-          "latest_sha": "4919284",
-          "latest_url": "https://github.com/ProfDrTan/market-prediction-engine/commit/491928450ffc4d3db5373aea9e6629a060edc1e4"
         }
       ],
       "pr_history": {
