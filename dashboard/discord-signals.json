@@ -1,5 +1,5 @@
 {
-  "generated": "Tuesday 04 August 2026 19:36 SGT",
+  "generated": "Tuesday 04 August 2026 21:24 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
@@ -21,20 +21,7 @@
       "blockers": []
     },
     "Team 3": {
-      "blockers": [
-        {
-          "author": "vandarkray",
-          "content": "Since it needs to be sent out before 12 o'clock today, I filled it in. If there are any errors, please let me know.",
-          "ts_str": "2026-08-02 13:23:03",
-          "url": "https://discord.com/channels/1505861202444816455/1505883200151490660/1533465155244134613"
-        },
-        {
-          "author": "vandarkray",
-          "content": "\u2501\u2501\u2501 AGENTS (all committed before R8 synthesis) \u2501\u2501\u2501\nAlmanac R3 committed by Thu: Y\nMacro R4 committed by Thu: Y\nTechnical R5 committed by Thu: Y\n\n\u2501\u2501\u2501 AI SYNTHESIS \u2501\u2501\u2501\nLLM 1 via API: Y \u00b7 model:OpenRoute",
-          "ts_str": "2026-08-02 13:22:41",
-          "url": "https://discord.com/channels/1505861202444816455/1505883200151490660/1533465063426494475"
-        }
-      ]
+      "blockers": []
     },
     "Team 4": {
       "blockers": []
