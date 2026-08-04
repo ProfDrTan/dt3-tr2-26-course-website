@@ -1,5 +1,5 @@
 {
-  "generated": "Tuesday 04 August 2026 14:15 SGT",
+  "generated": "Tuesday 04 August 2026 17:17 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
@@ -45,12 +45,6 @@
           "content": "the final human judgment has been uploaded.\nmeanwhile the frontend dashboard is still in progress, almost finished, i still need to combine all of those automation scripts, making some good prompt for",
           "ts_str": "2026-08-02 10:26:44",
           "url": "https://discord.com/channels/1505861202444816455/1505883200151490660/1533420782380646482"
-        },
-        {
-          "author": "zhangjiale_81292",
-          "content": "Final Submission Reminder\n\nHi team,\n\nPlease make sure all final tasks are completed before the deadline today.\n\nChecklist:\n\u2022 All work committed to GitHub\n\u2022 Final tag (vW31) created\n\u2022 Retrospective com",
-          "ts_str": "2026-08-02 08:49:47",
-          "url": "https://discord.com/channels/1505861202444816455/1505883200151490660/1533396387230912613"
         }
       ]
     },
