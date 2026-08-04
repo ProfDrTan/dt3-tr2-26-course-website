@@ -1,5 +1,5 @@
 {
-  "generated": "Tuesday 04 August 2026 17:17 SGT",
+  "generated": "Tuesday 04 August 2026 19:36 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
@@ -14,12 +14,6 @@
           "content": "Yes, not only hes terribly late, hes output is the wrong place, and is also \"manufactured\"- meaning its fake",
           "ts_str": "2026-08-02 14:26:51",
           "url": "https://discord.com/channels/1505861202444816455/1505883026771677366/1533481209970167918"
-        },
-        {
-          "author": "whitley_90776",
-          "content": "Hi everyone, could you please answer these questions when u r done?\n\n\nWhat have you completed or contributed so far?\n\nDid you face any blockers or challenges?\n\nWhat went well during this sprint?\n\nIs t",
-          "ts_str": "2026-08-02 10:03:51",
-          "url": "https://discord.com/channels/1505861202444816455/1505883026771677366/1533415026839257128"
         }
       ]
     },
@@ -39,12 +33,6 @@
           "content": "\u2501\u2501\u2501 AGENTS (all committed before R8 synthesis) \u2501\u2501\u2501\nAlmanac R3 committed by Thu: Y\nMacro R4 committed by Thu: Y\nTechnical R5 committed by Thu: Y\n\n\u2501\u2501\u2501 AI SYNTHESIS \u2501\u2501\u2501\nLLM 1 via API: Y \u00b7 model:OpenRoute",
           "ts_str": "2026-08-02 13:22:41",
           "url": "https://discord.com/channels/1505861202444816455/1505883200151490660/1533465063426494475"
-        },
-        {
-          "author": "juninho3",
-          "content": "the final human judgment has been uploaded.\nmeanwhile the frontend dashboard is still in progress, almost finished, i still need to combine all of those automation scripts, making some good prompt for",
-          "ts_str": "2026-08-02 10:26:44",
-          "url": "https://discord.com/channels/1505861202444816455/1505883200151490660/1533420782380646482"
         }
       ]
     },
