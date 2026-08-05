@@ -1,5 +1,5 @@
 {
-  "generated": "Thursday 06 August 2026 00:22 SGT",
+  "generated": "Thursday 06 August 2026 02:04 SGT",
   "teams": {
     "Team 1": {
       "blockers": []
@@ -9,6 +9,12 @@
     },
     "Team 3": {
       "blockers": [
+        {
+          "author": "t0kisakikurum1",
+          "content": "I find an issues is this two picture are the same picture.",
+          "ts_str": "2026-08-05 16:41:31",
+          "url": "https://discord.com/channels/1505861202444816455/1505883200151490660/1534602266022248480"
+        },
         {
           "author": "vandarkray",
           "content": "This is a team report for Assignment 2 that I wrote based on the records left in the GitHub repository each week and the PPTs presented every time. Please take a look and let me know if there are any ",
