@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-04 23:36 UTC",
+  "updated": "2026-08-05 01:06 UTC",
   "sprint_tag": "vW30",
   "sprint_deadline_utc": "2026-07-26T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W30",
@@ -914,16 +914,6 @@
           "latest_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/f0f30cddada4576f1326664d58b8624eaa52a93e"
         },
         {
-          "name": "MojunZheng",
-          "login": "MojunZheng",
-          "kind": "human",
-          "commits": 4,
-          "latest_date": "2026-07-30 02:55",
-          "latest_msg": "Review and correct R3 Almanac Agent report for Week 10",
-          "latest_sha": "5573486",
-          "latest_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/5573486474b663a2f830e4f3cdb2bda8c7daaf5c"
-        },
-        {
           "name": "AJIN-TheHuman",
           "login": "AJIN-TheHuman",
           "kind": "human",
@@ -942,6 +932,16 @@
           "latest_msg": "Update technical_agent_2026-W10.md",
           "latest_sha": "cdf898a",
           "latest_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/cdf898a26f798abdb9b6c148a66997bc1b683489"
+        },
+        {
+          "name": "MojunZheng",
+          "login": "MojunZheng",
+          "kind": "human",
+          "commits": 3,
+          "latest_date": "2026-07-30 02:55",
+          "latest_msg": "Review and correct R3 Almanac Agent report for Week 10",
+          "latest_sha": "5573486",
+          "latest_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/5573486474b663a2f830e4f3cdb2bda8c7daaf5c"
         },
         {
           "name": "peter8028zy-prog",
