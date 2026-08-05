@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-05 10:04 UTC",
+  "updated": "2026-08-05 12:17 UTC",
   "sprint_tag": "vW30",
   "sprint_deadline_utc": "2026-07-26T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W30",
@@ -28,11 +28,12 @@
       "sprint_tag_present": true,
       "last_run_name": "python-checks",
       "last_run_conclusion": "failure",
-      "last_run_date": "2026-08-03 01:34",
-      "last_run_url": "https://github.com/sinder38/Team-1-Prac-A-Project/actions/runs/30777205261",
+      "last_run_date": "2026-08-05 11:44",
+      "last_run_url": "https://github.com/sinder38/Team-1-Prac-A-Project/actions/runs/31002649462",
       "last_run_was_filtered": true,
-      "open_prs": 6,
+      "open_prs": 7,
       "pr_titles": [
+        "fix(llm): fix retry spelling at the pipeline",
         "docs(delta): backfill historical reports",
         "Create prediction_2026_W31_Team1.md",
         "Create human_score_W31.md",
@@ -41,6 +42,12 @@
         "refactor: read prediction date from LLM output"
       ],
       "pr_links": [
+        {
+          "title": "fix(llm): fix retry spelling at the pipeline",
+          "number": 128,
+          "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/128",
+          "author": "sun9226066"
+        },
         {
           "title": "docs(delta): backfill historical reports",
           "number": 127,
@@ -182,14 +189,14 @@
         }
       ],
       "pr_history": {
-        "total": 127,
+        "total": 128,
         "merged": 90,
-        "open": 6,
+        "open": 7,
         "abandoned": 31,
         "weekly": {
           "2026-08-03": {
             "merged": 0,
-            "open": 1,
+            "open": 2,
             "abandoned": 0
           },
           "2026-07-27": {
@@ -244,6 +251,14 @@
           }
         },
         "recent": [
+          {
+            "number": 128,
+            "title": "fix(llm): fix retry spelling at the pipeline",
+            "status": "open",
+            "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/128",
+            "created_at": "2026-08-05",
+            "author": "sun9226066"
+          },
           {
             "number": 127,
             "title": "docs(delta): backfill historical reports",
@@ -355,14 +370,6 @@
             "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/114",
             "created_at": "2026-08-01",
             "author": "sinder38"
-          },
-          {
-            "number": 113,
-            "title": "chore: pipeline artifacts 2026-08-01",
-            "status": "merged",
-            "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/113",
-            "created_at": "2026-08-01",
-            "author": "github-actions[bot]"
           }
         ]
       },
@@ -867,7 +874,7 @@
           "name": "Arisa",
           "login": "wintwah-lwin",
           "kind": "human",
-          "commits": 34,
+          "commits": 32,
           "latest_date": "2026-08-02 16:08",
           "latest_msg": "Add file",
           "latest_sha": "9a45373",
