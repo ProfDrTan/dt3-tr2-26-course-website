@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-06 12:19 UTC",
+  "updated": "2026-08-06 14:48 UTC",
   "sprint_tag": "vW30",
   "sprint_deadline_utc": "2026-07-26T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W30",
@@ -10,11 +10,11 @@
       "repo": "sinder38/Team-1-Prac-A-Project",
       "prac": "A",
       "is_ultra": false,
-      "last_commit_sha": "c443534",
-      "last_commit_msg": "WIP: quick fix for delta engine and Docker deployment",
-      "last_commit_date": "2026-08-03 01:34",
-      "last_commit_author": "sinder",
-      "last_commit_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/c4435349b0feb09cf3a5d660f9ed143abafd3c86",
+      "last_commit_sha": "2d47749",
+      "last_commit_msg": "fix(llm): fix retry spelling at the pipeline (#128)",
+      "last_commit_date": "2026-08-06 14:48",
+      "last_commit_author": "Charles",
+      "last_commit_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/2d4774938e301c841c8941a112047ce9a3937533",
       "tags": [
         "vW31",
         "vW30",
@@ -27,13 +27,12 @@
       ],
       "sprint_tag_present": true,
       "last_run_name": "python-checks",
-      "last_run_conclusion": "failure",
-      "last_run_date": "2026-08-05 11:44",
-      "last_run_url": "https://github.com/sinder38/Team-1-Prac-A-Project/actions/runs/31002649462",
+      "last_run_conclusion": "in_progress",
+      "last_run_date": "2026-08-06 14:48",
+      "last_run_url": "https://github.com/sinder38/Team-1-Prac-A-Project/actions/runs/31112663759",
       "last_run_was_filtered": true,
-      "open_prs": 7,
+      "open_prs": 6,
       "pr_titles": [
-        "fix(llm): fix retry spelling at the pipeline",
         "docs(delta): backfill historical reports",
         "Create prediction_2026_W31_Team1.md",
         "Create human_score_W31.md",
@@ -42,12 +41,6 @@
         "refactor: read prediction date from LLM output"
       ],
       "pr_links": [
-        {
-          "title": "fix(llm): fix retry spelling at the pipeline",
-          "number": 128,
-          "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/128",
-          "author": "sun9226066"
-        },
         {
           "title": "docs(delta): backfill historical reports",
           "number": 127,
@@ -85,7 +78,7 @@
           "author": "Tobias778"
         }
       ],
-      "days_since_commit": 3,
+      "days_since_commit": 0,
       "contributors": [
         {
           "name": "sinder",
@@ -94,8 +87,8 @@
           "commits": 16,
           "latest_date": "2026-08-03 01:15",
           "latest_msg": "WIP: quick fix for delta engine and Docker deployment",
-          "latest_sha": "c443534",
-          "latest_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/c4435349b0feb09cf3a5d660f9ed143abafd3c86"
+          "latest_sha": "3811cff",
+          "latest_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/3811cff341f032729c20aeae341434b22ab85b3c"
         },
         {
           "name": "NaingPhonePyae",
@@ -108,6 +101,16 @@
           "latest_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/ded05b2cc68af3a58acc676b199e261f0ac953fc"
         },
         {
+          "name": "Charles",
+          "login": "sun9226066",
+          "kind": "human",
+          "commits": 5,
+          "latest_date": "2026-08-06 14:48",
+          "latest_msg": "fix(llm): fix retry spelling at the pipeline (#128)",
+          "latest_sha": "2d47749",
+          "latest_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/2d4774938e301c841c8941a112047ce9a3937533"
+        },
+        {
           "name": "PanHsuMyat",
           "login": "panhsumyat0179-pixel",
           "kind": "human",
@@ -116,16 +119,6 @@
           "latest_msg": "Scrum master week 10 (#123)",
           "latest_sha": "a8c7a31",
           "latest_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/a8c7a31d34371931d01c6fd9c6ca8ba998502d6f"
-        },
-        {
-          "name": "Charles",
-          "login": "sun9226066",
-          "kind": "human",
-          "commits": 4,
-          "latest_date": "2026-08-02 15:33",
-          "latest_msg": "fix(delta): migrate run-week artifacts safely (#115)",
-          "latest_sha": "c36e85f",
-          "latest_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/c36e85fcad5a8cdfa04da7ea7932be988e082bfd"
         },
         {
           "name": "JasonEran",
@@ -190,13 +183,13 @@
       ],
       "pr_history": {
         "total": 128,
-        "merged": 90,
-        "open": 7,
+        "merged": 91,
+        "open": 6,
         "abandoned": 31,
         "weekly": {
           "2026-08-03": {
-            "merged": 0,
-            "open": 2,
+            "merged": 1,
+            "open": 1,
             "abandoned": 0
           },
           "2026-07-27": {
@@ -254,7 +247,7 @@
           {
             "number": 128,
             "title": "fix(llm): fix retry spelling at the pipeline",
-            "status": "open",
+            "status": "merged",
             "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/128",
             "created_at": "2026-08-05",
             "author": "sun9226066"
@@ -409,7 +402,7 @@
       "open_prs": 0,
       "pr_titles": [],
       "pr_links": [],
-      "days_since_commit": 2,
+      "days_since_commit": 3,
       "contributors": [
         {
           "name": "ZhengZaikun",
