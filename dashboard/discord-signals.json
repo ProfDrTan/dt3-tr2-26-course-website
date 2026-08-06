@@ -1,5 +1,5 @@
 {
-  "generated": "Thursday 06 August 2026 20:19 SGT",
+  "generated": "Thursday 06 August 2026 22:43 SGT",
   "teams": {
     "Team 1": {
       "blockers": []
@@ -33,14 +33,7 @@
       "blockers": []
     },
     "Team 5": {
-      "blockers": [
-        {
-          "author": "yh03472",
-          "content": "I drafted out the group work for assessment 2, i unfortunately have some issues finding evidence for product owner and scrum master of the first sprint (week 6 where we presented without slides). othe",
-          "ts_str": "2026-08-04 13:37:01",
-          "url": "https://discord.com/channels/1505861202444816455/1505883282993315890/1534193448251297812"
-        }
-      ]
+      "blockers": []
     }
   }
 }
