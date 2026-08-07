@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-07 21:57 UTC",
+  "updated": "2026-08-07 22:49 UTC",
   "sprint_tag": "vW30",
   "sprint_deadline_utc": "2026-07-26T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W30",
@@ -989,11 +989,11 @@
       "repo": "Gong-yinxuan/CP3405",
       "prac": "B",
       "is_ultra": false,
-      "last_commit_sha": "01982e0",
-      "last_commit_msg": "Amend synthesis_deepseek_W09.json",
-      "last_commit_date": "2026-08-03 04:05",
-      "last_commit_author": "HYH-design-bot",
-      "last_commit_url": "https://github.com/Gong-yinxuan/CP3405/commit/01982e08451c545715565169db80d3ec9da1413d",
+      "last_commit_sha": "1e43050",
+      "last_commit_msg": "chore: update Prism data 2026-08-07",
+      "last_commit_date": "2026-08-07 22:29",
+      "last_commit_author": "github-actions[bot]",
+      "last_commit_url": "https://github.com/Gong-yinxuan/CP3405/commit/1e430507646ae599738c0ea41a83cfec09c45cd6",
       "tags": [
         "vW31",
         "vW30",
@@ -1006,13 +1006,13 @@
       "sprint_tag_present": true,
       "last_run_name": "Update Market Data",
       "last_run_conclusion": "success",
-      "last_run_date": "2026-08-03 02:49",
-      "last_run_url": "https://github.com/Gong-yinxuan/CP3405/actions/runs/30780232261",
+      "last_run_date": "2026-08-07 22:28",
+      "last_run_url": "https://github.com/Gong-yinxuan/CP3405/actions/runs/31223929765",
       "last_run_was_filtered": true,
       "open_prs": 0,
       "pr_titles": [],
       "pr_links": [],
-      "days_since_commit": 4,
+      "days_since_commit": 0,
       "contributors": [
         {
           "name": "ToHoangGia",
@@ -1058,7 +1058,7 @@
           "name": "HYH-design-bot",
           "login": "HYH-design-bot",
           "kind": "bot",
-          "commits": 8,
+          "commits": 7,
           "latest_date": "2026-08-03 04:05",
           "latest_msg": "Amend synthesis_deepseek_W09.json",
           "latest_sha": "01982e0",
@@ -1068,11 +1068,11 @@
           "name": "github-actions[bot]",
           "login": "github-actions[bot]",
           "kind": "bot",
-          "commits": 5,
-          "latest_date": "2026-08-03 02:50",
-          "latest_msg": "chore: update Prism data 2026-08-03",
-          "latest_sha": "e6dda12",
-          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/e6dda12eff43d64129a597010727ad7865495f49"
+          "commits": 6,
+          "latest_date": "2026-08-07 22:29",
+          "latest_msg": "chore: update Prism data 2026-08-07",
+          "latest_sha": "1e43050",
+          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/1e430507646ae599738c0ea41a83cfec09c45cd6"
         },
         {
           "name": "Kherlenbayar Sukhbaatar",
@@ -1205,7 +1205,7 @@
       "midweek_artefact": {
         "present": true,
         "path": "Week8/R2_Scrum_Master/standup_midweek_W30.md",
-        "url": "https://github.com/Gong-yinxuan/CP3405/blob/01982e08451c545715565169db80d3ec9da1413d/Week8/R2_Scrum_Master/standup_midweek_W30.md"
+        "url": "https://github.com/Gong-yinxuan/CP3405/blob/1e430507646ae599738c0ea41a83cfec09c45cd6/Week8/R2_Scrum_Master/standup_midweek_W30.md"
       },
       "repo_url": "https://github.com/Gong-yinxuan/CP3405"
     },
