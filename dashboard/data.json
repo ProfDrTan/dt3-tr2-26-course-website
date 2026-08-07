@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-07 05:18 UTC",
+  "updated": "2026-08-07 06:39 UTC",
   "sprint_tag": "vW30",
   "sprint_deadline_utc": "2026-07-26T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W30",
@@ -31,46 +31,9 @@
       "last_run_date": "2026-08-06 14:48",
       "last_run_url": "https://github.com/sinder38/Team-1-Prac-A-Project/actions/runs/31112663759",
       "last_run_was_filtered": true,
-      "open_prs": 5,
-      "pr_titles": [
-        "Create prediction_2026_W31_Team1.md",
-        "Create human_score_W31.md",
-        "refactor: update LLM render_md call to use output only",
-        "refactor: remove prediction_date from BaseAgent render_md",
-        "refactor: read prediction date from LLM output"
-      ],
-      "pr_links": [
-        {
-          "title": "Create prediction_2026_W31_Team1.md",
-          "number": 126,
-          "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/126",
-          "author": "Aeron03"
-        },
-        {
-          "title": "Create human_score_W31.md",
-          "number": 125,
-          "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/125",
-          "author": "Aeron03"
-        },
-        {
-          "title": "refactor: update LLM render_md call to use output only",
-          "number": 120,
-          "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/120",
-          "author": "Tobias778"
-        },
-        {
-          "title": "refactor: remove prediction_date from BaseAgent render_md",
-          "number": 119,
-          "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/119",
-          "author": "Tobias778"
-        },
-        {
-          "title": "refactor: read prediction date from LLM output",
-          "number": 118,
-          "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/118",
-          "author": "Tobias778"
-        }
-      ],
+      "open_prs": 0,
+      "pr_titles": [],
+      "pr_links": [],
       "days_since_commit": 0,
       "contributors": [
         {
@@ -177,8 +140,8 @@
       "pr_history": {
         "total": 128,
         "merged": 92,
-        "open": 5,
-        "abandoned": 31,
+        "open": 0,
+        "abandoned": 36,
         "weekly": {
           "2026-08-03": {
             "merged": 2,
@@ -187,8 +150,8 @@
           },
           "2026-07-27": {
             "merged": 14,
-            "open": 5,
-            "abandoned": 1
+            "open": 0,
+            "abandoned": 6
           },
           "2026-07-20": {
             "merged": 13,
@@ -256,7 +219,7 @@
           {
             "number": 126,
             "title": "Create prediction_2026_W31_Team1.md",
-            "status": "open",
+            "status": "abandoned",
             "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/126",
             "created_at": "2026-08-02",
             "author": "Aeron03"
@@ -264,7 +227,7 @@
           {
             "number": 125,
             "title": "Create human_score_W31.md",
-            "status": "open",
+            "status": "abandoned",
             "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/125",
             "created_at": "2026-08-02",
             "author": "Aeron03"
@@ -304,7 +267,7 @@
           {
             "number": 120,
             "title": "refactor: update LLM render_md call to use output only",
-            "status": "open",
+            "status": "abandoned",
             "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/120",
             "created_at": "2026-08-02",
             "author": "Tobias778"
@@ -312,7 +275,7 @@
           {
             "number": 119,
             "title": "refactor: remove prediction_date from BaseAgent render_md",
-            "status": "open",
+            "status": "abandoned",
             "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/119",
             "created_at": "2026-08-02",
             "author": "Tobias778"
@@ -320,7 +283,7 @@
           {
             "number": 118,
             "title": "refactor: read prediction date from LLM output",
-            "status": "open",
+            "status": "abandoned",
             "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/118",
             "created_at": "2026-08-02",
             "author": "Tobias778"
@@ -854,7 +817,7 @@
       "open_prs": 0,
       "pr_titles": [],
       "pr_links": [],
-      "days_since_commit": 3,
+      "days_since_commit": 4,
       "contributors": [
         {
           "name": "Arisa",
