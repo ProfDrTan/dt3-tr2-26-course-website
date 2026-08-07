@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-06 14:48 UTC",
+  "updated": "2026-08-07 00:20 UTC",
   "sprint_tag": "vW30",
   "sprint_deadline_utc": "2026-07-26T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W30",
@@ -10,11 +10,11 @@
       "repo": "sinder38/Team-1-Prac-A-Project",
       "prac": "A",
       "is_ultra": false,
-      "last_commit_sha": "2d47749",
-      "last_commit_msg": "fix(llm): fix retry spelling at the pipeline (#128)",
-      "last_commit_date": "2026-08-06 14:48",
-      "last_commit_author": "Charles",
-      "last_commit_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/2d4774938e301c841c8941a112047ce9a3937533",
+      "last_commit_sha": "db6af0f",
+      "last_commit_msg": "docs(delta): backfill historical reports (#127)",
+      "last_commit_date": "2026-08-06 14:52",
+      "last_commit_author": "JasonEran",
+      "last_commit_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/db6af0f44c2096aac4682a63932d5ac8836ec966",
       "tags": [
         "vW31",
         "vW30",
@@ -27,13 +27,12 @@
       ],
       "sprint_tag_present": true,
       "last_run_name": "python-checks",
-      "last_run_conclusion": "in_progress",
+      "last_run_conclusion": "success",
       "last_run_date": "2026-08-06 14:48",
       "last_run_url": "https://github.com/sinder38/Team-1-Prac-A-Project/actions/runs/31112663759",
       "last_run_was_filtered": true,
-      "open_prs": 6,
+      "open_prs": 5,
       "pr_titles": [
-        "docs(delta): backfill historical reports",
         "Create prediction_2026_W31_Team1.md",
         "Create human_score_W31.md",
         "refactor: update LLM render_md call to use output only",
@@ -41,12 +40,6 @@
         "refactor: read prediction date from LLM output"
       ],
       "pr_links": [
-        {
-          "title": "docs(delta): backfill historical reports",
-          "number": 127,
-          "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/127",
-          "author": "JasonEran"
-        },
         {
           "title": "Create prediction_2026_W31_Team1.md",
           "number": 126,
@@ -101,6 +94,16 @@
           "latest_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/ded05b2cc68af3a58acc676b199e261f0ac953fc"
         },
         {
+          "name": "JasonEran",
+          "login": "JasonEran",
+          "kind": "human",
+          "commits": 5,
+          "latest_date": "2026-08-06 14:52",
+          "latest_msg": "docs(delta): backfill historical reports (#127)",
+          "latest_sha": "db6af0f",
+          "latest_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/db6af0f44c2096aac4682a63932d5ac8836ec966"
+        },
+        {
           "name": "Charles",
           "login": "sun9226066",
           "kind": "human",
@@ -119,16 +122,6 @@
           "latest_msg": "Scrum master week 10 (#123)",
           "latest_sha": "a8c7a31",
           "latest_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/a8c7a31d34371931d01c6fd9c6ca8ba998502d6f"
-        },
-        {
-          "name": "JasonEran",
-          "login": "JasonEran",
-          "kind": "human",
-          "commits": 4,
-          "latest_date": "2026-08-01 15:00",
-          "latest_msg": "fix: isolate delta runs and add admin auth (#112)",
-          "latest_sha": "3a17a00",
-          "latest_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/3a17a00a40410d2e37071f8c47f0f2e228d4d734"
         },
         {
           "name": "github-actions[bot]",
@@ -183,13 +176,13 @@
       ],
       "pr_history": {
         "total": 128,
-        "merged": 91,
-        "open": 6,
+        "merged": 92,
+        "open": 5,
         "abandoned": 31,
         "weekly": {
           "2026-08-03": {
-            "merged": 1,
-            "open": 1,
+            "merged": 2,
+            "open": 0,
             "abandoned": 0
           },
           "2026-07-27": {
@@ -255,7 +248,7 @@
           {
             "number": 127,
             "title": "docs(delta): backfill historical reports",
-            "status": "open",
+            "status": "merged",
             "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/127",
             "created_at": "2026-08-03",
             "author": "JasonEran"
@@ -369,7 +362,7 @@
       "midweek_artefact": {
         "present": true,
         "path": "sprints/standup_midweek_W30.md",
-        "url": "https://github.com/sinder38/Team-1-Prac-A-Project/blob/c4435349b0feb09cf3a5d660f9ed143abafd3c86/sprints/standup_midweek_W30.md"
+        "url": "https://github.com/sinder38/Team-1-Prac-A-Project/blob/db6af0f44c2096aac4682a63932d5ac8836ec966/sprints/standup_midweek_W30.md"
       },
       "repo_url": "https://github.com/sinder38/Team-1-Prac-A-Project"
     },
@@ -907,7 +900,7 @@
           "name": "AmiePhyo",
           "login": "AmiePhyo",
           "kind": "human",
-          "commits": 5,
+          "commits": 4,
           "latest_date": "2026-07-22 16:38",
           "latest_msg": "Add standup_midweek_W30.md",
           "latest_sha": "f0f30cd",
@@ -1273,7 +1266,7 @@
       "open_prs": 0,
       "pr_titles": [],
       "pr_links": [],
-      "days_since_commit": 2,
+      "days_since_commit": 3,
       "contributors": [
         {
           "name": "ProfDrTan",
