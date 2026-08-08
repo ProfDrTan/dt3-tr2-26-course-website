@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-08 14:16 UTC",
+  "updated": "2026-08-08 14:55 UTC",
   "sprint_tag": "vW30",
   "sprint_deadline_utc": "2026-07-26T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W30",
@@ -34,13 +34,13 @@
       "open_prs": 0,
       "pr_titles": [],
       "pr_links": [],
-      "days_since_commit": 1,
+      "days_since_commit": 2,
       "contributors": [
         {
           "name": "sinder",
           "login": "sinder38",
           "kind": "human",
-          "commits": 16,
+          "commits": 15,
           "latest_date": "2026-08-03 01:15",
           "latest_msg": "WIP: quick fix for delta engine and Docker deployment",
           "latest_sha": "3811cff",
