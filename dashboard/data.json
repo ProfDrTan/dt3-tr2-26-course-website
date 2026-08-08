@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-07 23:25 UTC",
+  "updated": "2026-08-08 00:02 UTC",
   "sprint_tag": "vW30",
   "sprint_deadline_utc": "2026-07-26T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W30",
@@ -334,11 +334,11 @@
       "repo": "LuJunwen212/CP3405-Project",
       "prac": "A",
       "is_ultra": false,
-      "last_commit_sha": "0e31f99",
-      "last_commit_msg": "chore(data): automated market ledger alignment [skip ci]",
-      "last_commit_date": "2026-08-07 22:55",
+      "last_commit_sha": "e08c673",
+      "last_commit_msg": "chore(r5): update technical outputs 2026-W32 [skip ci]",
+      "last_commit_date": "2026-08-07 23:34",
       "last_commit_author": "Team2 Data Automatio",
-      "last_commit_url": "https://github.com/LuJunwen212/CP3405-Project/commit/0e31f99e83b786765c00d1a810ed658f48e43642",
+      "last_commit_url": "https://github.com/LuJunwen212/CP3405-Project/commit/e08c673e6bef70586279ac82f414c047c146d692",
       "tags": [
         "vW31",
         "vW30",
@@ -350,10 +350,10 @@
         "vW22"
       ],
       "sprint_tag_present": true,
-      "last_run_name": "R6 Automated Cross-Asset Market Audit Pi",
+      "last_run_name": "Automated Technical Agent",
       "last_run_conclusion": "success",
-      "last_run_date": "2026-08-07 22:54",
-      "last_run_url": "https://github.com/LuJunwen212/CP3405-Project/actions/runs/31225399638",
+      "last_run_date": "2026-08-07 23:34",
+      "last_run_url": "https://github.com/LuJunwen212/CP3405-Project/actions/runs/31227529234",
       "last_run_was_filtered": true,
       "open_prs": 0,
       "pr_titles": [],
@@ -364,7 +364,7 @@
           "name": "ZhengZaikun",
           "login": "ZhengZaikun",
           "kind": "human",
-          "commits": 51,
+          "commits": 50,
           "latest_date": "2026-08-02 08:58",
           "latest_msg": "Update DECISION_2026-W31.md",
           "latest_sha": "effa344",
@@ -374,11 +374,11 @@
           "name": "Team2 Data Automation Bot",
           "login": "",
           "kind": "bot",
-          "commits": 11,
-          "latest_date": "2026-08-07 22:55",
-          "latest_msg": "chore(data): automated market ledger alignment [skip ci]",
-          "latest_sha": "0e31f99",
-          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/0e31f99e83b786765c00d1a810ed658f48e43642"
+          "commits": 12,
+          "latest_date": "2026-08-07 23:34",
+          "latest_msg": "chore(r5): update technical outputs 2026-W32 [skip ci]",
+          "latest_sha": "e08c673",
+          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/e08c673e6bef70586279ac82f414c047c146d692"
         },
         {
           "name": "Guanyu Lu",
@@ -634,7 +634,7 @@
       "midweek_artefact": {
         "present": true,
         "path": "evidence/progress_logs/standup_midweek_W30.md",
-        "url": "https://github.com/LuJunwen212/CP3405-Project/blob/0e31f99e83b786765c00d1a810ed658f48e43642/evidence/progress_logs/standup_midweek_W30.md"
+        "url": "https://github.com/LuJunwen212/CP3405-Project/blob/e08c673e6bef70586279ac82f414c047c146d692/evidence/progress_logs/standup_midweek_W30.md"
       },
       "repo_url": "https://github.com/LuJunwen212/CP3405-Project"
     },
