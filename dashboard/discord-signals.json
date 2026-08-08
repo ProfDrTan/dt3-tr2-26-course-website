@@ -1,5 +1,5 @@
 {
-  "generated": "Saturday 08 August 2026 10:18 SGT",
+  "generated": "Saturday 08 August 2026 11:48 SGT",
   "teams": {
     "Team 1": {
       "blockers": []
@@ -8,14 +8,7 @@
       "blockers": []
     },
     "Team 3": {
-      "blockers": [
-        {
-          "author": "wc251537931",
-          "content": "I created a new version based on his file, fixing errors and changing some text. Does anyone know Chadric's student ID?",
-          "ts_str": "2026-08-06 02:41:38",
-          "url": "https://discord.com/channels/1505861202444816455/1505883200151490660/1534753287528644638"
-        }
-      ]
+      "blockers": []
     },
     "Team 4": {
       "blockers": []
