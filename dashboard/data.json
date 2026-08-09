@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-09 02:23 UTC",
+  "updated": "2026-08-09 03:58 UTC",
   "sprint_tag": "vW30",
   "sprint_deadline_utc": "2026-07-26T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W30",
@@ -31,11 +31,18 @@
       "last_run_date": "2026-08-08 15:21",
       "last_run_url": "https://github.com/sinder38/Team-1-Prac-A-Project/actions/runs/31264254798",
       "last_run_was_filtered": true,
-      "open_prs": 1,
+      "open_prs": 2,
       "pr_titles": [
+        "Backfill all slides.",
         "chore: pipeline artifacts 2026-08-08"
       ],
       "pr_links": [
+        {
+          "title": "Backfill all slides.",
+          "number": 130,
+          "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/130",
+          "author": "sun9226066"
+        },
         {
           "title": "chore: pipeline artifacts 2026-08-08",
           "number": 129,
@@ -147,14 +154,14 @@
         }
       ],
       "pr_history": {
-        "total": 129,
+        "total": 130,
         "merged": 92,
-        "open": 1,
+        "open": 2,
         "abandoned": 36,
         "weekly": {
           "2026-08-03": {
             "merged": 2,
-            "open": 1,
+            "open": 2,
             "abandoned": 0
           },
           "2026-07-27": {
@@ -209,6 +216,14 @@
           }
         },
         "recent": [
+          {
+            "number": 130,
+            "title": "Backfill all slides.",
+            "status": "open",
+            "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/130",
+            "created_at": "2026-08-09",
+            "author": "sun9226066"
+          },
           {
             "number": 129,
             "title": "chore: pipeline artifacts 2026-08-08",
@@ -320,14 +335,6 @@
             "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/116",
             "created_at": "2026-08-02",
             "author": "NaingPhonePyae"
-          },
-          {
-            "number": 115,
-            "title": "fix(delta): file Delta artifacts under the completed actuals week",
-            "status": "merged",
-            "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/115",
-            "created_at": "2026-08-02",
-            "author": "sun9226066"
           }
         ]
       },
