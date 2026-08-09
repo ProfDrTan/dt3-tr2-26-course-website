@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-09 08:05 UTC",
+  "updated": "2026-08-09 09:02 UTC",
   "sprint_tag": "vW30",
   "sprint_deadline_utc": "2026-07-26T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W30",
@@ -367,7 +367,7 @@
       "open_prs": 0,
       "pr_titles": [],
       "pr_links": [],
-      "days_since_commit": 0,
+      "days_since_commit": 1,
       "contributors": [
         {
           "name": "ZhengZaikun",
@@ -832,7 +832,7 @@
           "name": "Arisa",
           "login": "wintwah-lwin",
           "kind": "human",
-          "commits": 31,
+          "commits": 29,
           "latest_date": "2026-08-02 16:08",
           "latest_msg": "Add file",
           "latest_sha": "9a45373",
@@ -869,16 +869,6 @@
           "latest_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/a3289ed4d358157473280bb930741e57ef0a9cfc"
         },
         {
-          "name": "AmiePhyo",
-          "login": "AmiePhyo",
-          "kind": "human",
-          "commits": 4,
-          "latest_date": "2026-07-22 16:38",
-          "latest_msg": "Add standup_midweek_W30.md",
-          "latest_sha": "f0f30cd",
-          "latest_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/f0f30cddada4576f1326664d58b8624eaa52a93e"
-        },
-        {
           "name": "AJIN-TheHuman",
           "login": "AJIN-TheHuman",
           "kind": "human",
@@ -907,6 +897,16 @@
           "latest_msg": "Review and correct R3 Almanac Agent report for Week 10",
           "latest_sha": "5573486",
           "latest_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/5573486474b663a2f830e4f3cdb2bda8c7daaf5c"
+        },
+        {
+          "name": "AmiePhyo",
+          "login": "AmiePhyo",
+          "kind": "human",
+          "commits": 3,
+          "latest_date": "2026-07-22 16:38",
+          "latest_msg": "Add standup_midweek_W30.md",
+          "latest_sha": "f0f30cd",
+          "latest_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/f0f30cddada4576f1326664d58b8624eaa52a93e"
         },
         {
           "name": "peter8028zy-prog",
