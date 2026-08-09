@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-09 06:04 UTC",
+  "updated": "2026-08-09 07:16 UTC",
   "sprint_tag": "vW30",
   "sprint_deadline_utc": "2026-07-26T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W30",
@@ -10,11 +10,11 @@
       "repo": "sinder38/Team-1-Prac-A-Project",
       "prac": "A",
       "is_ultra": false,
-      "last_commit_sha": "944bc54",
-      "last_commit_msg": "Remove no longer free ling3",
-      "last_commit_date": "2026-08-08 15:20",
-      "last_commit_author": "sinder",
-      "last_commit_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/944bc549462de97e7e6d00e6206ef9802b32f5aa",
+      "last_commit_sha": "5c19cde",
+      "last_commit_msg": "Replenish Slides for the rest of sprints (#130)",
+      "last_commit_date": "2026-08-09 06:50",
+      "last_commit_author": "Charles",
+      "last_commit_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/5c19cde5ee762cd9d86bb3c29befb1dbad4bea83",
       "tags": [
         "vW31",
         "vW30",
@@ -31,18 +31,11 @@
       "last_run_date": "2026-08-08 15:21",
       "last_run_url": "https://github.com/sinder38/Team-1-Prac-A-Project/actions/runs/31264254798",
       "last_run_was_filtered": true,
-      "open_prs": 2,
+      "open_prs": 1,
       "pr_titles": [
-        "Backfill all slides.",
         "chore: pipeline artifacts 2026-08-08"
       ],
       "pr_links": [
-        {
-          "title": "Backfill all slides.",
-          "number": 130,
-          "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/130",
-          "author": "sun9226066"
-        },
         {
           "title": "chore: pipeline artifacts 2026-08-08",
           "number": 129,
@@ -73,6 +66,16 @@
           "latest_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/ded05b2cc68af3a58acc676b199e261f0ac953fc"
         },
         {
+          "name": "Charles",
+          "login": "sun9226066",
+          "kind": "human",
+          "commits": 6,
+          "latest_date": "2026-08-09 06:50",
+          "latest_msg": "Replenish Slides for the rest of sprints (#130)",
+          "latest_sha": "5c19cde",
+          "latest_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/5c19cde5ee762cd9d86bb3c29befb1dbad4bea83"
+        },
+        {
           "name": "JasonEran",
           "login": "JasonEran",
           "kind": "human",
@@ -81,16 +84,6 @@
           "latest_msg": "docs(delta): backfill historical reports (#127)",
           "latest_sha": "db6af0f",
           "latest_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/db6af0f44c2096aac4682a63932d5ac8836ec966"
-        },
-        {
-          "name": "Charles",
-          "login": "sun9226066",
-          "kind": "human",
-          "commits": 5,
-          "latest_date": "2026-08-06 14:48",
-          "latest_msg": "fix(llm): fix retry spelling at the pipeline (#128)",
-          "latest_sha": "2d47749",
-          "latest_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/2d4774938e301c841c8941a112047ce9a3937533"
         },
         {
           "name": "PanHsuMyat",
@@ -155,13 +148,13 @@
       ],
       "pr_history": {
         "total": 130,
-        "merged": 92,
-        "open": 2,
+        "merged": 93,
+        "open": 1,
         "abandoned": 36,
         "weekly": {
           "2026-08-03": {
-            "merged": 2,
-            "open": 2,
+            "merged": 3,
+            "open": 1,
             "abandoned": 0
           },
           "2026-07-27": {
@@ -219,7 +212,7 @@
           {
             "number": 130,
             "title": "Backfill all slides.",
-            "status": "open",
+            "status": "merged",
             "url": "https://github.com/sinder38/Team-1-Prac-A-Project/pull/130",
             "created_at": "2026-08-09",
             "author": "sun9226066"
@@ -341,7 +334,7 @@
       "midweek_artefact": {
         "present": true,
         "path": "sprints/standup_midweek_W30.md",
-        "url": "https://github.com/sinder38/Team-1-Prac-A-Project/blob/944bc549462de97e7e6d00e6206ef9802b32f5aa/sprints/standup_midweek_W30.md"
+        "url": "https://github.com/sinder38/Team-1-Prac-A-Project/blob/5c19cde5ee762cd9d86bb3c29befb1dbad4bea83/sprints/standup_midweek_W30.md"
       },
       "repo_url": "https://github.com/sinder38/Team-1-Prac-A-Project"
     },
@@ -839,7 +832,7 @@
           "name": "Arisa",
           "login": "wintwah-lwin",
           "kind": "human",
-          "commits": 32,
+          "commits": 31,
           "latest_date": "2026-08-02 16:08",
           "latest_msg": "Add file",
           "latest_sha": "9a45373",
