@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-09 12:29 UTC",
+  "updated": "2026-08-09 13:33 UTC",
   "sprint_tag": "vW30",
   "sprint_deadline_utc": "2026-07-26T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W30",
@@ -49,7 +49,7 @@
           "name": "sinder",
           "login": "sinder38",
           "kind": "human",
-          "commits": 16,
+          "commits": 15,
           "latest_date": "2026-08-08 15:20",
           "latest_msg": "Remove no longer free ling3",
           "latest_sha": "944bc54",
@@ -79,7 +79,7 @@
           "name": "JasonEran",
           "login": "JasonEran",
           "kind": "human",
-          "commits": 5,
+          "commits": 4,
           "latest_date": "2026-08-06 14:52",
           "latest_msg": "docs(delta): backfill historical reports (#127)",
           "latest_sha": "db6af0f",
@@ -129,7 +129,7 @@
           "name": "saikokokyaw",
           "login": "saikokokyaw",
           "kind": "human",
-          "commits": 2,
+          "commits": 1,
           "latest_date": "2026-08-02 11:16",
           "latest_msg": "Implement regression tests for TechnicalAgent (#49)",
           "latest_sha": "287b561",
@@ -641,9 +641,9 @@
         ]
       },
       "midweek_artefact": {
-        "present": false,
-        "path": null,
-        "url": null
+        "present": true,
+        "path": "evidence/progress_logs/standup_midweek_W30.md",
+        "url": "https://github.com/LuJunwen212/CP3405-Project/blob/7bee4217bac7500aa61b5c23928630414c7cf960/evidence/progress_logs/standup_midweek_W30.md"
       },
       "repo_url": "https://github.com/LuJunwen212/CP3405-Project"
     },
@@ -789,9 +789,9 @@
         "recent": []
       },
       "midweek_artefact": {
-        "present": false,
-        "path": null,
-        "url": null
+        "present": true,
+        "path": "vW30/standup_midweek_W30.md",
+        "url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/blob/5a23ab8765a7bf51ccfe891aaab85f61892bbefa/vW30/standup_midweek_W30.md"
       },
       "repo_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405"
     },
