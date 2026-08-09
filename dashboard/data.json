@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-09 14:19 UTC",
+  "updated": "2026-08-09 14:59 UTC",
   "sprint_tag": "vW30",
   "sprint_deadline_utc": "2026-07-26T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W30",
@@ -56,16 +56,6 @@
           "latest_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/944bc549462de97e7e6d00e6206ef9802b32f5aa"
         },
         {
-          "name": "NaingPhonePyae",
-          "login": "NaingPhonePyae",
-          "kind": "human",
-          "commits": 7,
-          "latest_date": "2026-08-02 08:57",
-          "latest_msg": "Update llm max_retries (#121)",
-          "latest_sha": "ded05b2",
-          "latest_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/ded05b2cc68af3a58acc676b199e261f0ac953fc"
-        },
-        {
           "name": "Charles",
           "login": "sun9226066",
           "kind": "human",
@@ -74,6 +64,16 @@
           "latest_msg": "Replenish Slides for the rest of sprints (#130)",
           "latest_sha": "5c19cde",
           "latest_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/5c19cde5ee762cd9d86bb3c29befb1dbad4bea83"
+        },
+        {
+          "name": "NaingPhonePyae",
+          "login": "NaingPhonePyae",
+          "kind": "human",
+          "commits": 6,
+          "latest_date": "2026-08-02 08:57",
+          "latest_msg": "Update llm max_retries (#121)",
+          "latest_sha": "ded05b2",
+          "latest_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/ded05b2cc68af3a58acc676b199e261f0ac953fc"
         },
         {
           "name": "JasonEran",
@@ -332,9 +332,9 @@
         ]
       },
       "midweek_artefact": {
-        "present": true,
-        "path": "sprints/standup_midweek_W30.md",
-        "url": "https://github.com/sinder38/Team-1-Prac-A-Project/blob/5c19cde5ee762cd9d86bb3c29befb1dbad4bea83/sprints/standup_midweek_W30.md"
+        "present": false,
+        "path": null,
+        "url": null
       },
       "repo_url": "https://github.com/sinder38/Team-1-Prac-A-Project"
     },
@@ -789,9 +789,9 @@
         "recent": []
       },
       "midweek_artefact": {
-        "present": true,
-        "path": "vW30/standup_midweek_W30.md",
-        "url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/blob/5a23ab8765a7bf51ccfe891aaab85f61892bbefa/vW30/standup_midweek_W30.md"
+        "present": false,
+        "path": null,
+        "url": null
       },
       "repo_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405"
     },
