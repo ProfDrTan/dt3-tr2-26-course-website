@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-10 14:44 UTC",
+  "updated": "2026-08-10 15:47 UTC",
   "sprint_tag": "vW30",
   "sprint_deadline_utc": "2026-07-26T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W30",
@@ -869,16 +869,6 @@
           "latest_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/a3289ed4d358157473280bb930741e57ef0a9cfc"
         },
         {
-          "name": "AJIN-TheHuman",
-          "login": "AJIN-TheHuman",
-          "kind": "human",
-          "commits": 3,
-          "latest_date": "2026-08-02 15:12",
-          "latest_msg": "Add files via upload",
-          "latest_sha": "ec2d0f3",
-          "latest_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/ec2d0f3db267ff7adf60afd58e9b9e8e1e5d5910"
-        },
-        {
           "name": "tiantian09091",
           "login": "tiantian09091",
           "kind": "human",
@@ -907,6 +897,16 @@
           "latest_msg": "Add standup_midweek_W30.md",
           "latest_sha": "f0f30cd",
           "latest_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/f0f30cddada4576f1326664d58b8624eaa52a93e"
+        },
+        {
+          "name": "AJIN-TheHuman",
+          "login": "AJIN-TheHuman",
+          "kind": "human",
+          "commits": 2,
+          "latest_date": "2026-08-02 15:12",
+          "latest_msg": "Add files via upload",
+          "latest_sha": "ec2d0f3",
+          "latest_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/ec2d0f3db267ff7adf60afd58e9b9e8e1e5d5910"
         },
         {
           "name": "peter8028zy-prog",
