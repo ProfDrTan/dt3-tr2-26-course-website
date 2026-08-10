@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-10 06:05 UTC",
+  "updated": "2026-08-10 08:04 UTC",
   "sprint_tag": "vW30",
   "sprint_deadline_utc": "2026-07-26T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W30",
@@ -43,7 +43,7 @@
           "author": "github-actions[bot]"
         }
       ],
-      "days_since_commit": 0,
+      "days_since_commit": 1,
       "contributors": [
         {
           "name": "sinder",
@@ -852,7 +852,7 @@
           "name": "github-actions[bot]",
           "login": "github-actions[bot]",
           "kind": "bot",
-          "commits": 14,
+          "commits": 12,
           "latest_date": "2026-08-03 05:46",
           "latest_msg": "Auto-commit: Pipeline execution (Week 10)",
           "latest_sha": "7bd59fe",
