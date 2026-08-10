@@ -1,15 +1,8 @@
 {
-  "generated": "Monday 10 August 2026 16:04 SGT",
+  "generated": "Monday 10 August 2026 17:47 SGT",
   "teams": {
     "Team 1": {
-      "blockers": [
-        {
-          "author": "sinder38",
-          "content": "<@1374025806933790741>, can you please manage this process?\nWe effectively just need to upload all our artifacts in one place: GitHub, Figma, presentations. We also need to make sure all of these 3 ar",
-          "ts_str": "2026-08-08 09:02:35",
-          "url": "https://discord.com/channels/1505861202444816455/1505883026771677366/1535573935784075265"
-        }
-      ]
+      "blockers": []
     },
     "Team 2": {
       "blockers": []
