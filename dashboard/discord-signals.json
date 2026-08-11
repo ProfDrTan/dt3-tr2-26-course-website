@@ -1,5 +1,5 @@
 {
-  "generated": "Tuesday 11 August 2026 13:41 SGT",
+  "generated": "Tuesday 11 August 2026 14:38 SGT",
   "teams": {
     "Team 1": {
       "blockers": []
@@ -20,12 +20,6 @@
           "content": "all done, no problems now",
           "ts_str": "2026-08-09 12:10:35",
           "url": "https://discord.com/channels/1505861202444816455/1505883282993315890/1535983634660597771"
-        },
-        {
-          "author": "noahjiang_61203",
-          "content": "Check if there are any issues; if not, I'll submit it.",
-          "ts_str": "2026-08-09 06:12:26",
-          "url": "https://discord.com/channels/1505861202444816455/1505883282993315890/1535893503035441182"
         }
       ]
     }
