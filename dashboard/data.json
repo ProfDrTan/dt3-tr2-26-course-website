@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-11 07:57 UTC",
+  "updated": "2026-08-11 09:10 UTC",
   "sprint_tag": "vW30",
   "sprint_deadline_utc": "2026-07-26T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W30",
@@ -730,16 +730,6 @@
           "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/5a23ab8765a7bf51ccfe891aaab85f61892bbefa"
         },
         {
-          "name": "141242-l",
-          "login": "141242-l",
-          "kind": "human",
-          "commits": 7,
-          "latest_date": "2026-07-25 14:45",
-          "latest_msg": "Update R9 contact in README",
-          "latest_sha": "a8369b1",
-          "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/a8369b13d4ca6445f1c2e3a3a3a0d5eeded65b48"
-        },
-        {
           "name": "ZhangJiayu0201",
           "login": "ZhangJiayu0201",
           "kind": "human",
@@ -758,6 +748,16 @@
           "latest_msg": "update week31's sprint_goal",
           "latest_sha": "3f87d99",
           "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/3f87d995961f9421abc450d8d614c22a0a8607bb"
+        },
+        {
+          "name": "141242-l",
+          "login": "141242-l",
+          "kind": "human",
+          "commits": 5,
+          "latest_date": "2026-07-25 14:45",
+          "latest_msg": "Update R9 contact in README",
+          "latest_sha": "a8369b1",
+          "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/a8369b13d4ca6445f1c2e3a3a3a0d5eeded65b48"
         },
         {
           "name": "Juninho",
