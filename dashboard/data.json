@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-12 15:50 UTC",
+  "updated": "2026-08-12 16:52 UTC",
   "sprint_tag": "vW30",
   "sprint_deadline_utc": "2026-07-26T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W30",
@@ -867,16 +867,6 @@
           "latest_msg": "Update macro report with earnings note and remove articles",
           "latest_sha": "a3289ed",
           "latest_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/a3289ed4d358157473280bb930741e57ef0a9cfc"
-        },
-        {
-          "name": "AmiePhyo",
-          "login": "AmiePhyo",
-          "kind": "human",
-          "commits": 3,
-          "latest_date": "2026-07-22 16:38",
-          "latest_msg": "Add standup_midweek_W30.md",
-          "latest_sha": "f0f30cd",
-          "latest_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/f0f30cddada4576f1326664d58b8624eaa52a93e"
         },
         {
           "name": "AJIN-TheHuman",
