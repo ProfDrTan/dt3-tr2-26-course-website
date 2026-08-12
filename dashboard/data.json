@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-12 11:14 UTC",
+  "updated": "2026-08-12 12:04 UTC",
   "sprint_tag": "vW30",
   "sprint_deadline_utc": "2026-07-26T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W30",
@@ -367,7 +367,7 @@
       "open_prs": 0,
       "pr_titles": [],
       "pr_links": [],
-      "days_since_commit": 1,
+      "days_since_commit": 2,
       "contributors": [
         {
           "name": "ZhengZaikun",
@@ -869,16 +869,6 @@
           "latest_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/a3289ed4d358157473280bb930741e57ef0a9cfc"
         },
         {
-          "name": "tiantian09091",
-          "login": "tiantian09091",
-          "kind": "human",
-          "commits": 3,
-          "latest_date": "2026-07-30 07:50",
-          "latest_msg": "Update technical_agent_2026-W10.md",
-          "latest_sha": "cdf898a",
-          "latest_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/cdf898a26f798abdb9b6c148a66997bc1b683489"
-        },
-        {
           "name": "AmiePhyo",
           "login": "AmiePhyo",
           "kind": "human",
@@ -907,6 +897,16 @@
           "latest_msg": "Add files via upload",
           "latest_sha": "8fabaeb",
           "latest_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/8fabaeb5ead05282652c1901f723b02917b70036"
+        },
+        {
+          "name": "tiantian09091",
+          "login": "tiantian09091",
+          "kind": "human",
+          "commits": 1,
+          "latest_date": "2026-07-30 07:50",
+          "latest_msg": "Update technical_agent_2026-W10.md",
+          "latest_sha": "cdf898a",
+          "latest_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/cdf898a26f798abdb9b6c148a66997bc1b683489"
         },
         {
           "name": "MojunZheng",
