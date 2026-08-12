@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-12 04:28 UTC",
+  "updated": "2026-08-12 06:03 UTC",
   "sprint_tag": "vW30",
   "sprint_deadline_utc": "2026-07-26T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W30",
@@ -826,7 +826,7 @@
       "open_prs": 0,
       "pr_titles": [],
       "pr_links": [],
-      "days_since_commit": 8,
+      "days_since_commit": 9,
       "contributors": [
         {
           "name": "Arisa",
