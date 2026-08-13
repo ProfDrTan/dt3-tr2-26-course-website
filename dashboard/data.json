@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-13 01:56 UTC",
+  "updated": "2026-08-13 04:19 UTC",
   "sprint_tag": "vW30",
   "sprint_deadline_utc": "2026-07-26T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W30",
@@ -683,7 +683,7 @@
           "name": "Li-Haoyao",
           "login": "Li-Haoyao",
           "kind": "human",
-          "commits": 28,
+          "commits": 24,
           "latest_date": "2026-08-03 01:48",
           "latest_msg": "Add files via upload",
           "latest_sha": "0c06ea2",
