@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-13 09:00 UTC",
+  "updated": "2026-08-13 10:18 UTC",
   "sprint_tag": "vW30",
   "sprint_deadline_utc": "2026-07-26T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W30",
@@ -1024,16 +1024,6 @@
           "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/0424944b12ce24470f42d6a4fbbee0f0fdeef695"
         },
         {
-          "name": "wujinrui2004",
-          "login": "wujinrui2004",
-          "kind": "human",
-          "commits": 13,
-          "latest_date": "2026-08-02 22:25",
-          "latest_msg": "R7: add prediction.md",
-          "latest_sha": "6536ce5",
-          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/6536ce52ee247847424124e9cf9dc56d304014c5"
-        },
-        {
           "name": "Gong-yinxuan",
           "login": "Gong-yinxuan",
           "kind": "human",
@@ -1062,6 +1052,16 @@
           "latest_msg": "Amend synthesis_deepseek_W09.json",
           "latest_sha": "01982e0",
           "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/01982e08451c545715565169db80d3ec9da1413d"
+        },
+        {
+          "name": "wujinrui2004",
+          "login": "wujinrui2004",
+          "kind": "human",
+          "commits": 5,
+          "latest_date": "2026-08-02 22:25",
+          "latest_msg": "R7: add prediction.md",
+          "latest_sha": "6536ce5",
+          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/6536ce52ee247847424124e9cf9dc56d304014c5"
         },
         {
           "name": "JiangJinsong",
