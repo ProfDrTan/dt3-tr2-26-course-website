@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-13 05:53 UTC",
+  "updated": "2026-08-13 07:47 UTC",
   "sprint_tag": "vW30",
   "sprint_deadline_utc": "2026-07-26T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W30",
@@ -43,7 +43,7 @@
           "author": "github-actions[bot]"
         }
       ],
-      "days_since_commit": 3,
+      "days_since_commit": 4,
       "contributors": [
         {
           "name": "sinder",
