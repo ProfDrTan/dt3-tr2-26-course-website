@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-13 11:14 UTC",
+  "updated": "2026-08-13 12:04 UTC",
   "sprint_tag": "vW30",
   "sprint_deadline_utc": "2026-07-26T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W30",
@@ -367,7 +367,7 @@
       "open_prs": 0,
       "pr_titles": [],
       "pr_links": [],
-      "days_since_commit": 2,
+      "days_since_commit": 3,
       "contributors": [
         {
           "name": "ZhengZaikun",
