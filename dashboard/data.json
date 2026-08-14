@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14 01:46 UTC",
+  "updated": "2026-08-14 03:54 UTC",
   "sprint_tag": "vW30",
   "sprint_deadline_utc": "2026-07-26T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W30",
@@ -1001,7 +1001,7 @@
       "open_prs": 0,
       "pr_titles": [],
       "pr_links": [],
-      "days_since_commit": 3,
+      "days_since_commit": 4,
       "contributors": [
         {
           "name": "ToHoangGia",
@@ -1022,16 +1022,6 @@
           "latest_msg": "rename files",
           "latest_sha": "0424944",
           "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/0424944b12ce24470f42d6a4fbbee0f0fdeef695"
-        },
-        {
-          "name": "Gong-yinxuan",
-          "login": "Gong-yinxuan",
-          "kind": "human",
-          "commits": 10,
-          "latest_date": "2026-07-29 12:51",
-          "latest_msg": "Update macro_agent_W09.md",
-          "latest_sha": "25946db",
-          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/25946dbf35ba1a93e97b590a9a9d1e3b1bf76314"
         },
         {
           "name": "github-actions[bot]",
@@ -1062,6 +1052,16 @@
           "latest_msg": "R7: add prediction.md",
           "latest_sha": "6536ce5",
           "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/6536ce52ee247847424124e9cf9dc56d304014c5"
+        },
+        {
+          "name": "Gong-yinxuan",
+          "login": "Gong-yinxuan",
+          "kind": "human",
+          "commits": 5,
+          "latest_date": "2026-07-29 12:51",
+          "latest_msg": "Update macro_agent_W09.md",
+          "latest_sha": "25946db",
+          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/25946dbf35ba1a93e97b590a9a9d1e3b1bf76314"
         },
         {
           "name": "JiangJinsong",
