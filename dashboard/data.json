@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14 12:28 UTC",
+  "updated": "2026-08-14 13:58 UTC",
   "sprint_tag": "vW30",
   "sprint_deadline_utc": "2026-07-26T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W30",
@@ -743,7 +743,7 @@
           "name": "vandarkray",
           "login": "vandarkray",
           "kind": "human",
-          "commits": 5,
+          "commits": 4,
           "latest_date": "2026-07-27 12:11",
           "latest_msg": "update week31's sprint_goal",
           "latest_sha": "3f87d99",
