@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14 22:36 UTC",
+  "updated": "2026-08-14 23:00 UTC",
   "sprint_tag": "vW30",
   "sprint_deadline_utc": "2026-07-26T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W30",
@@ -343,11 +343,11 @@
       "repo": "LuJunwen212/CP3405-Project",
       "prac": "A",
       "is_ultra": false,
-      "last_commit_sha": "64fcf72",
-      "last_commit_msg": "chore(data): automated R3 next-week forecast execution matri",
-      "last_commit_date": "2026-08-10 11:44",
-      "last_commit_author": "Team 2 Almanac Autom",
-      "last_commit_url": "https://github.com/LuJunwen212/CP3405-Project/commit/64fcf7289290da2326e23144eec0a9febf59443b",
+      "last_commit_sha": "fc5f9ea",
+      "last_commit_msg": "chore(data): automated market ledger alignment [skip ci]",
+      "last_commit_date": "2026-08-14 22:39",
+      "last_commit_author": "Team2 Data Automatio",
+      "last_commit_url": "https://github.com/LuJunwen212/CP3405-Project/commit/fc5f9ea8f5b82b01aece2b5450b544dc91e0b899",
       "tags": [
         "vW31",
         "vW30",
@@ -359,21 +359,21 @@
         "vW22"
       ],
       "sprint_tag_present": true,
-      "last_run_name": "R3 Almanac Agent Multi-Week Automation P",
+      "last_run_name": "R6 Automated Cross-Asset Market Audit Pi",
       "last_run_conclusion": "success",
-      "last_run_date": "2026-08-10 11:43",
-      "last_run_url": "https://github.com/LuJunwen212/CP3405-Project/actions/runs/31384795642",
+      "last_run_date": "2026-08-14 22:39",
+      "last_run_url": "https://github.com/LuJunwen212/CP3405-Project/actions/runs/31847442088",
       "last_run_was_filtered": true,
       "open_prs": 0,
       "pr_titles": [],
       "pr_links": [],
-      "days_since_commit": 4,
+      "days_since_commit": 0,
       "contributors": [
         {
           "name": "ZhengZaikun",
           "login": "ZhengZaikun",
           "kind": "human",
-          "commits": 48,
+          "commits": 47,
           "latest_date": "2026-08-02 08:58",
           "latest_msg": "Update DECISION_2026-W31.md",
           "latest_sha": "effa344",
@@ -383,11 +383,11 @@
           "name": "Team2 Data Automation Bot",
           "login": "",
           "kind": "bot",
-          "commits": 10,
-          "latest_date": "2026-08-07 23:34",
-          "latest_msg": "chore(r5): update technical outputs 2026-W32 [skip ci]",
-          "latest_sha": "e08c673",
-          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/e08c673e6bef70586279ac82f414c047c146d692"
+          "commits": 11,
+          "latest_date": "2026-08-14 22:39",
+          "latest_msg": "chore(data): automated market ledger alignment [skip ci]",
+          "latest_sha": "fc5f9ea",
+          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/fc5f9ea8f5b82b01aece2b5450b544dc91e0b899"
         },
         {
           "name": "Guanyu Lu",
@@ -643,7 +643,7 @@
       "midweek_artefact": {
         "present": true,
         "path": "evidence/progress_logs/standup_midweek_W30.md",
-        "url": "https://github.com/LuJunwen212/CP3405-Project/blob/64fcf7289290da2326e23144eec0a9febf59443b/evidence/progress_logs/standup_midweek_W30.md"
+        "url": "https://github.com/LuJunwen212/CP3405-Project/blob/fc5f9ea8f5b82b01aece2b5450b544dc91e0b899/evidence/progress_logs/standup_midweek_W30.md"
       },
       "repo_url": "https://github.com/LuJunwen212/CP3405-Project"
     },
@@ -652,11 +652,11 @@
       "repo": "juninho4/Team-3-Practical-A-CP3405",
       "prac": "A",
       "is_ultra": false,
-      "last_commit_sha": "5a23ab8",
+      "last_commit_sha": "fbac126",
       "last_commit_msg": "chore: update weekly market output [skip ci]",
-      "last_commit_date": "2026-08-07 23:05",
+      "last_commit_date": "2026-08-14 22:49",
       "last_commit_author": "github-actions[bot]",
-      "last_commit_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/5a23ab8765a7bf51ccfe891aaab85f61892bbefa",
+      "last_commit_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/fbac126042eaa51e014fac2ec4a8f5d27becc4f6",
       "tags": [
         "vW31",
         "vW30",
@@ -671,13 +671,13 @@
       "sprint_tag_present": true,
       "last_run_name": "Run Market Intelligence",
       "last_run_conclusion": "success",
-      "last_run_date": "2026-08-07 23:04",
-      "last_run_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/actions/runs/31225930686",
+      "last_run_date": "2026-08-14 22:47",
+      "last_run_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/actions/runs/31848001388",
       "last_run_was_filtered": true,
       "open_prs": 0,
       "pr_titles": [],
       "pr_links": [],
-      "days_since_commit": 6,
+      "days_since_commit": 0,
       "contributors": [
         {
           "name": "Li-Haoyao",
@@ -723,11 +723,11 @@
           "name": "github-actions[bot]",
           "login": "github-actions[bot]",
           "kind": "bot",
-          "commits": 7,
-          "latest_date": "2026-08-07 23:05",
+          "commits": 8,
+          "latest_date": "2026-08-14 22:49",
           "latest_msg": "chore: update weekly market output [skip ci]",
-          "latest_sha": "5a23ab8",
-          "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/5a23ab8765a7bf51ccfe891aaab85f61892bbefa"
+          "latest_sha": "fbac126",
+          "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/fbac126042eaa51e014fac2ec4a8f5d27becc4f6"
         },
         {
           "name": "ZhangJiayu0201",
@@ -791,7 +791,7 @@
       "midweek_artefact": {
         "present": true,
         "path": "vW30/standup_midweek_W30.md",
-        "url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/blob/5a23ab8765a7bf51ccfe891aaab85f61892bbefa/vW30/standup_midweek_W30.md"
+        "url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/blob/fbac126042eaa51e014fac2ec4a8f5d27becc4f6/vW30/standup_midweek_W30.md"
       },
       "repo_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405"
     },
@@ -1027,7 +1027,7 @@
           "name": "github-actions[bot]",
           "login": "github-actions[bot]",
           "kind": "bot",
-          "commits": 8,
+          "commits": 7,
           "latest_date": "2026-08-14 22:16",
           "latest_msg": "chore: update Prism data 2026-08-14",
           "latest_sha": "7e8417e",
