@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15 19:50 UTC",
+  "updated": "2026-08-15 20:15 UTC",
   "sprint_tag": "vW30",
   "sprint_deadline_utc": "2026-07-26T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W30",
@@ -852,7 +852,7 @@
           "name": "Mingyu-Cai",
           "login": "Mingyu-Cai",
           "kind": "human",
-          "commits": 7,
+          "commits": 4,
           "latest_date": "2026-07-30 11:08",
           "latest_msg": "Update macro report with earnings note and remove articles",
           "latest_sha": "a3289ed",
