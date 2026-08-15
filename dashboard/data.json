@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15 04:06 UTC",
+  "updated": "2026-08-15 04:47 UTC",
   "sprint_tag": "vW30",
   "sprint_deadline_utc": "2026-07-26T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W30",
@@ -49,7 +49,7 @@
           "name": "sinder",
           "login": "sinder38",
           "kind": "human",
-          "commits": 13,
+          "commits": 11,
           "latest_date": "2026-08-08 15:20",
           "latest_msg": "Remove no longer free ling3",
           "latest_sha": "944bc54",
@@ -690,26 +690,6 @@
           "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/500e54cf57ac88e1a19753dfd45dae7c75d43255"
         },
         {
-          "name": "Vince-1206",
-          "login": "Vince-1206",
-          "kind": "human",
-          "commits": 14,
-          "latest_date": "2026-08-01 05:40",
-          "latest_msg": "Create Prediction_2026_W31.md",
-          "latest_sha": "30413b5",
-          "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/30413b5c7b2b5133f264da0b8e8094404fb46e16"
-        },
-        {
-          "name": "Li-Haoyao",
-          "login": "Li-Haoyao",
-          "kind": "human",
-          "commits": 12,
-          "latest_date": "2026-08-03 01:48",
-          "latest_msg": "Add files via upload",
-          "latest_sha": "0c06ea2",
-          "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/0c06ea2e604d4455e7b8eceec5cb6e1b829c81cf"
-        },
-        {
           "name": "souyashiinamahiru",
           "login": "souyashiinamahiru",
           "kind": "human",
@@ -720,14 +700,24 @@
           "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/671418df84d9868bb87807ac981a9e2e1ee370f6"
         },
         {
-          "name": "github-actions[bot]",
-          "login": "github-actions[bot]",
-          "kind": "bot",
-          "commits": 6,
-          "latest_date": "2026-08-14 22:49",
-          "latest_msg": "chore: update weekly market output [skip ci]",
-          "latest_sha": "fbac126",
-          "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/fbac126042eaa51e014fac2ec4a8f5d27becc4f6"
+          "name": "Vince-1206",
+          "login": "Vince-1206",
+          "kind": "human",
+          "commits": 11,
+          "latest_date": "2026-08-01 05:40",
+          "latest_msg": "Create Prediction_2026_W31.md",
+          "latest_sha": "30413b5",
+          "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/30413b5c7b2b5133f264da0b8e8094404fb46e16"
+        },
+        {
+          "name": "Li-Haoyao",
+          "login": "Li-Haoyao",
+          "kind": "human",
+          "commits": 7,
+          "latest_date": "2026-08-03 01:48",
+          "latest_msg": "Add files via upload",
+          "latest_sha": "0c06ea2",
+          "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/0c06ea2e604d4455e7b8eceec5cb6e1b829c81cf"
         },
         {
           "name": "ZhangJiayu0201",
@@ -738,6 +728,16 @@
           "latest_msg": "Update llm_comparison.md",
           "latest_sha": "282a3a9",
           "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/282a3a91f94e48a20a69181eff259e929d1d2210"
+        },
+        {
+          "name": "github-actions[bot]",
+          "login": "github-actions[bot]",
+          "kind": "bot",
+          "commits": 4,
+          "latest_date": "2026-08-14 22:49",
+          "latest_msg": "chore: update weekly market output [skip ci]",
+          "latest_sha": "fbac126",
+          "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/fbac126042eaa51e014fac2ec4a8f5d27becc4f6"
         },
         {
           "name": "vandarkray",
@@ -1017,7 +1017,7 @@
           "name": "ToHoangGia",
           "login": "ToHoangGia",
           "kind": "human",
-          "commits": 19,
+          "commits": 16,
           "latest_date": "2026-08-03 01:30",
           "latest_msg": "update data manually",
           "latest_sha": "aeafa17",
