@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15 14:42 UTC",
+  "updated": "2026-08-15 15:01 UTC",
   "sprint_tag": "vW30",
   "sprint_deadline_utc": "2026-07-26T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W30",
@@ -768,16 +768,6 @@
           "latest_msg": "Update vW31_almanac.md",
           "latest_sha": "335e649",
           "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/335e64932e9a33a41a6ead0e04ff7a8a45294dce"
-        },
-        {
-          "name": "141242-l",
-          "login": "141242-l",
-          "kind": "human",
-          "commits": 1,
-          "latest_date": "2026-07-25 14:45",
-          "latest_msg": "Update R9 contact in README",
-          "latest_sha": "a8369b1",
-          "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/a8369b13d4ca6445f1c2e3a3a3a0d5eeded65b48"
         }
       ],
       "pr_history": {
@@ -1017,7 +1007,7 @@
           "name": "Asus",
           "login": "EkaTiuJCU",
           "kind": "human",
-          "commits": 15,
+          "commits": 14,
           "latest_date": "2026-08-02 12:16",
           "latest_msg": "rename files",
           "latest_sha": "0424944",
