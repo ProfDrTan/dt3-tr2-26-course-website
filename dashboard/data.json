@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15 11:30 UTC",
+  "updated": "2026-08-15 11:52 UTC",
   "sprint_tag": "vW30",
   "sprint_deadline_utc": "2026-07-26T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W30",
@@ -49,7 +49,7 @@
           "name": "sinder",
           "login": "sinder38",
           "kind": "human",
-          "commits": 10,
+          "commits": 9,
           "latest_date": "2026-08-08 15:20",
           "latest_msg": "Remove no longer free ling3",
           "latest_sha": "944bc54",
