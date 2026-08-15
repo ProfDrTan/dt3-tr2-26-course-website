@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15 07:04 UTC",
+  "updated": "2026-08-15 07:44 UTC",
   "sprint_tag": "vW30",
   "sprint_deadline_utc": "2026-07-26T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W30",
@@ -1007,7 +1007,7 @@
           "name": "Asus",
           "login": "EkaTiuJCU",
           "kind": "human",
-          "commits": 21,
+          "commits": 18,
           "latest_date": "2026-08-02 12:16",
           "latest_msg": "rename files",
           "latest_sha": "0424944",
