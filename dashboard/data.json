@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15 02:42 UTC",
+  "updated": "2026-08-15 03:25 UTC",
   "sprint_tag": "vW30",
   "sprint_deadline_utc": "2026-07-26T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W30",
@@ -49,7 +49,7 @@
           "name": "sinder",
           "login": "sinder38",
           "kind": "human",
-          "commits": 15,
+          "commits": 14,
           "latest_date": "2026-08-08 15:20",
           "latest_msg": "Remove no longer free ling3",
           "latest_sha": "944bc54",
@@ -683,7 +683,7 @@
           "name": "Li-Haoyao",
           "login": "Li-Haoyao",
           "kind": "human",
-          "commits": 24,
+          "commits": 18,
           "latest_date": "2026-08-03 01:48",
           "latest_msg": "Add files via upload",
           "latest_sha": "0c06ea2",
@@ -1054,16 +1054,6 @@
           "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/6536ce52ee247847424124e9cf9dc56d304014c5"
         },
         {
-          "name": "Gong-yinxuan",
-          "login": "Gong-yinxuan",
-          "kind": "human",
-          "commits": 5,
-          "latest_date": "2026-07-29 12:51",
-          "latest_msg": "Update macro_agent_W09.md",
-          "latest_sha": "25946db",
-          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/25946dbf35ba1a93e97b590a9a9d1e3b1bf76314"
-        },
-        {
           "name": "JiangJinsong",
           "login": "JiangJinsong",
           "kind": "human",
@@ -1072,6 +1062,16 @@
           "latest_msg": "Add files via upload",
           "latest_sha": "bf2b756",
           "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/bf2b756424ae319e2b5f6266a91d4259c97731a5"
+        },
+        {
+          "name": "Gong-yinxuan",
+          "login": "Gong-yinxuan",
+          "kind": "human",
+          "commits": 4,
+          "latest_date": "2026-07-29 12:51",
+          "latest_msg": "Update macro_agent_W09.md",
+          "latest_sha": "25946db",
+          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/25946dbf35ba1a93e97b590a9a9d1e3b1bf76314"
         },
         {
           "name": "Kherlenbayar Sukhbaatar",
