@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15 03:25 UTC",
+  "updated": "2026-08-15 04:06 UTC",
   "sprint_tag": "vW30",
   "sprint_deadline_utc": "2026-07-26T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W30",
@@ -49,7 +49,7 @@
           "name": "sinder",
           "login": "sinder38",
           "kind": "human",
-          "commits": 14,
+          "commits": 13,
           "latest_date": "2026-08-08 15:20",
           "latest_msg": "Remove no longer free ling3",
           "latest_sha": "944bc54",
@@ -680,26 +680,6 @@
       "days_since_commit": 0,
       "contributors": [
         {
-          "name": "Li-Haoyao",
-          "login": "Li-Haoyao",
-          "kind": "human",
-          "commits": 18,
-          "latest_date": "2026-08-03 01:48",
-          "latest_msg": "Add files via upload",
-          "latest_sha": "0c06ea2",
-          "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/0c06ea2e604d4455e7b8eceec5cb6e1b829c81cf"
-        },
-        {
-          "name": "Vince-1206",
-          "login": "Vince-1206",
-          "kind": "human",
-          "commits": 17,
-          "latest_date": "2026-08-01 05:40",
-          "latest_msg": "Create Prediction_2026_W31.md",
-          "latest_sha": "30413b5",
-          "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/30413b5c7b2b5133f264da0b8e8094404fb46e16"
-        },
-        {
           "name": "Jiale Zhang",
           "login": "ZHANGJIALELLLLL",
           "kind": "human",
@@ -708,6 +688,26 @@
           "latest_msg": "Create retrospective_W31.md",
           "latest_sha": "500e54c",
           "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/500e54cf57ac88e1a19753dfd45dae7c75d43255"
+        },
+        {
+          "name": "Vince-1206",
+          "login": "Vince-1206",
+          "kind": "human",
+          "commits": 14,
+          "latest_date": "2026-08-01 05:40",
+          "latest_msg": "Create Prediction_2026_W31.md",
+          "latest_sha": "30413b5",
+          "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/30413b5c7b2b5133f264da0b8e8094404fb46e16"
+        },
+        {
+          "name": "Li-Haoyao",
+          "login": "Li-Haoyao",
+          "kind": "human",
+          "commits": 12,
+          "latest_date": "2026-08-03 01:48",
+          "latest_msg": "Add files via upload",
+          "latest_sha": "0c06ea2",
+          "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/0c06ea2e604d4455e7b8eceec5cb6e1b829c81cf"
         },
         {
           "name": "souyashiinamahiru",
@@ -723,7 +723,7 @@
           "name": "github-actions[bot]",
           "login": "github-actions[bot]",
           "kind": "bot",
-          "commits": 8,
+          "commits": 6,
           "latest_date": "2026-08-14 22:49",
           "latest_msg": "chore: update weekly market output [skip ci]",
           "latest_sha": "fbac126",
@@ -1004,16 +1004,6 @@
       "days_since_commit": 0,
       "contributors": [
         {
-          "name": "ToHoangGia",
-          "login": "ToHoangGia",
-          "kind": "human",
-          "commits": 22,
-          "latest_date": "2026-08-03 01:30",
-          "latest_msg": "update data manually",
-          "latest_sha": "aeafa17",
-          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/aeafa1783fdc732baced1b01ba7ef93dec1d89e5"
-        },
-        {
           "name": "Asus",
           "login": "EkaTiuJCU",
           "kind": "human",
@@ -1022,6 +1012,16 @@
           "latest_msg": "rename files",
           "latest_sha": "0424944",
           "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/0424944b12ce24470f42d6a4fbbee0f0fdeef695"
+        },
+        {
+          "name": "ToHoangGia",
+          "login": "ToHoangGia",
+          "kind": "human",
+          "commits": 19,
+          "latest_date": "2026-08-03 01:30",
+          "latest_msg": "update data manually",
+          "latest_sha": "aeafa17",
+          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/aeafa1783fdc732baced1b01ba7ef93dec1d89e5"
         },
         {
           "name": "github-actions[bot]",
