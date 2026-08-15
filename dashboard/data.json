@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15 15:53 UTC",
+  "updated": "2026-08-15 16:25 UTC",
   "sprint_tag": "vW30",
   "sprint_deadline_utc": "2026-07-26T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W30",
@@ -79,7 +79,7 @@
           "name": "JasonEran",
           "login": "JasonEran",
           "kind": "human",
-          "commits": 4,
+          "commits": 3,
           "latest_date": "2026-08-06 14:52",
           "latest_msg": "docs(delta): backfill historical reports (#127)",
           "latest_sha": "db6af0f",
