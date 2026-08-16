@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16 16:36 UTC",
+  "updated": "2026-08-16 17:00 UTC",
   "sprint_tag": "vW30",
   "sprint_deadline_utc": "2026-07-26T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W30",
@@ -753,7 +753,7 @@
           "name": "Juninho",
           "login": "juninho4",
           "kind": "human",
-          "commits": 3,
+          "commits": 2,
           "latest_date": "2026-08-02 10:21",
           "latest_msg": "added final human judgment for w31",
           "latest_sha": "27dbaed",
