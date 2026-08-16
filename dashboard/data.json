@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15 23:51 UTC",
+  "updated": "2026-08-16 00:59 UTC",
   "sprint_tag": "vW30",
   "sprint_deadline_utc": "2026-07-26T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W30",
@@ -994,16 +994,6 @@
       "days_since_commit": 1,
       "contributors": [
         {
-          "name": "ToHoangGia",
-          "login": "ToHoangGia",
-          "kind": "human",
-          "commits": 16,
-          "latest_date": "2026-08-03 01:30",
-          "latest_msg": "update data manually",
-          "latest_sha": "aeafa17",
-          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/aeafa1783fdc732baced1b01ba7ef93dec1d89e5"
-        },
-        {
           "name": "Asus",
           "login": "EkaTiuJCU",
           "kind": "human",
@@ -1012,6 +1002,16 @@
           "latest_msg": "rename files",
           "latest_sha": "0424944",
           "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/0424944b12ce24470f42d6a4fbbee0f0fdeef695"
+        },
+        {
+          "name": "ToHoangGia",
+          "login": "ToHoangGia",
+          "kind": "human",
+          "commits": 12,
+          "latest_date": "2026-08-03 01:30",
+          "latest_msg": "update data manually",
+          "latest_sha": "aeafa17",
+          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/aeafa1783fdc732baced1b01ba7ef93dec1d89e5"
         },
         {
           "name": "github-actions[bot]",
