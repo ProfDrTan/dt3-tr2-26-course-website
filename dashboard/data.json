@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16 09:15 UTC",
+  "updated": "2026-08-16 09:48 UTC",
   "sprint_tag": "vW30",
   "sprint_deadline_utc": "2026-07-26T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W30",
@@ -109,7 +109,7 @@
           "name": "Oakkar Phyoe",
           "login": "oakkar-cm",
           "kind": "human",
-          "commits": 2,
+          "commits": 1,
           "latest_date": "2026-08-02 14:23",
           "latest_msg": "feat: Charts week context, actuals, and About refresh (#109)",
           "latest_sha": "89b7561",
@@ -680,16 +680,6 @@
       "days_since_commit": 1,
       "contributors": [
         {
-          "name": "Jiale Zhang",
-          "login": "ZHANGJIALELLLLL",
-          "kind": "human",
-          "commits": 14,
-          "latest_date": "2026-08-02 13:29",
-          "latest_msg": "Create retrospective_W31.md",
-          "latest_sha": "500e54c",
-          "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/500e54cf57ac88e1a19753dfd45dae7c75d43255"
-        },
-        {
           "name": "souyashiinamahiru",
           "login": "souyashiinamahiru",
           "kind": "human",
@@ -698,6 +688,16 @@
           "latest_msg": "Add files via upload",
           "latest_sha": "671418d",
           "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/671418df84d9868bb87807ac981a9e2e1ee370f6"
+        },
+        {
+          "name": "Jiale Zhang",
+          "login": "ZHANGJIALELLLLL",
+          "kind": "human",
+          "commits": 11,
+          "latest_date": "2026-08-02 13:29",
+          "latest_msg": "Create retrospective_W31.md",
+          "latest_sha": "500e54c",
+          "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/500e54cf57ac88e1a19753dfd45dae7c75d43255"
         },
         {
           "name": "Vince-1206",
