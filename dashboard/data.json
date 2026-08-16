@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16 17:30 UTC",
+  "updated": "2026-08-16 17:51 UTC",
   "sprint_tag": "vW30",
   "sprint_deadline_utc": "2026-07-26T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W30",
@@ -332,9 +332,9 @@
         ]
       },
       "midweek_artefact": {
-        "present": true,
-        "path": "sprints/standup_midweek_W30.md",
-        "url": "https://github.com/sinder38/Team-1-Prac-A-Project/blob/5c19cde5ee762cd9d86bb3c29befb1dbad4bea83/sprints/standup_midweek_W30.md"
+        "present": false,
+        "path": null,
+        "url": null
       },
       "repo_url": "https://github.com/sinder38/Team-1-Prac-A-Project"
     },
@@ -641,9 +641,9 @@
         ]
       },
       "midweek_artefact": {
-        "present": true,
-        "path": "evidence/progress_logs/standup_midweek_W30.md",
-        "url": "https://github.com/LuJunwen212/CP3405-Project/blob/6d5cc63cce42083b2ac0f5e26ab51c9f719e974c/evidence/progress_logs/standup_midweek_W30.md"
+        "present": false,
+        "path": null,
+        "url": null
       },
       "repo_url": "https://github.com/LuJunwen212/CP3405-Project"
     },
@@ -779,9 +779,9 @@
         "recent": []
       },
       "midweek_artefact": {
-        "present": true,
-        "path": "vW30/standup_midweek_W30.md",
-        "url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/blob/fbac126042eaa51e014fac2ec4a8f5d27becc4f6/vW30/standup_midweek_W30.md"
+        "present": false,
+        "path": null,
+        "url": null
       },
       "repo_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405"
     },
@@ -1182,9 +1182,9 @@
         ]
       },
       "midweek_artefact": {
-        "present": true,
-        "path": "Week8/R2_Scrum_Master/standup_midweek_W30.md",
-        "url": "https://github.com/Gong-yinxuan/CP3405/blob/7e8417ea3264a4c3d37857457f5f921949cfa9ef/Week8/R2_Scrum_Master/standup_midweek_W30.md"
+        "present": false,
+        "path": null,
+        "url": null
       },
       "repo_url": "https://github.com/Gong-yinxuan/CP3405"
     },
