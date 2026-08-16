@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16 13:50 UTC",
+  "updated": "2026-08-16 14:16 UTC",
   "sprint_tag": "vW30",
   "sprint_deadline_utc": "2026-07-26T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W30",
@@ -66,16 +66,6 @@
           "latest_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/5c19cde5ee762cd9d86bb3c29befb1dbad4bea83"
         },
         {
-          "name": "NaingPhonePyae",
-          "login": "NaingPhonePyae",
-          "kind": "human",
-          "commits": 3,
-          "latest_date": "2026-08-02 08:57",
-          "latest_msg": "Update llm max_retries (#121)",
-          "latest_sha": "ded05b2",
-          "latest_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/ded05b2cc68af3a58acc676b199e261f0ac953fc"
-        },
-        {
           "name": "JasonEran",
           "login": "JasonEran",
           "kind": "human",
@@ -94,6 +84,16 @@
           "latest_msg": "Scrum master week 10 (#123)",
           "latest_sha": "a8c7a31",
           "latest_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/a8c7a31d34371931d01c6fd9c6ca8ba998502d6f"
+        },
+        {
+          "name": "NaingPhonePyae",
+          "login": "NaingPhonePyae",
+          "kind": "human",
+          "commits": 2,
+          "latest_date": "2026-08-02 08:57",
+          "latest_msg": "Update llm max_retries (#121)",
+          "latest_sha": "ded05b2",
+          "latest_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/ded05b2cc68af3a58acc676b199e261f0ac953fc"
         },
         {
           "name": "github-actions[bot]",
