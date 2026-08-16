@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16 08:01 UTC",
+  "updated": "2026-08-16 08:43 UTC",
   "sprint_tag": "vW30",
   "sprint_deadline_utc": "2026-07-26T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W30",
@@ -367,7 +367,7 @@
       "open_prs": 0,
       "pr_titles": [],
       "pr_links": [],
-      "days_since_commit": 0,
+      "days_since_commit": 1,
       "contributors": [
         {
           "name": "ZhengZaikun",
@@ -1044,16 +1044,6 @@
           "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/6536ce52ee247847424124e9cf9dc56d304014c5"
         },
         {
-          "name": "JiangJinsong",
-          "login": "JiangJinsong",
-          "kind": "human",
-          "commits": 4,
-          "latest_date": "2026-08-03 01:36",
-          "latest_msg": "Add files via upload",
-          "latest_sha": "bf2b756",
-          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/bf2b756424ae319e2b5f6266a91d4259c97731a5"
-        },
-        {
           "name": "Gong-yinxuan",
           "login": "Gong-yinxuan",
           "kind": "human",
@@ -1072,6 +1062,16 @@
           "latest_msg": ".",
           "latest_sha": "60d89ef",
           "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/60d89effc12f52e57907d17f74a9d11f3059f68c"
+        },
+        {
+          "name": "JiangJinsong",
+          "login": "JiangJinsong",
+          "kind": "human",
+          "commits": 3,
+          "latest_date": "2026-08-03 01:36",
+          "latest_msg": "Add files via upload",
+          "latest_sha": "bf2b756",
+          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/bf2b756424ae319e2b5f6266a91d4259c97731a5"
         },
         {
           "name": "darwin",
