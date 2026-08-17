@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17 01:07 UTC",
+  "updated": "2026-08-17 02:34 UTC",
   "sprint_tag": "vW30",
   "sprint_deadline_utc": "2026-07-26T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W30",
@@ -134,16 +134,6 @@
           "latest_msg": "Implement regression tests for TechnicalAgent (#49)",
           "latest_sha": "287b561",
           "latest_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/287b56144e24ad3ede625a9ba8ac84ce8ad2182e"
-        },
-        {
-          "name": "Tobias778",
-          "login": "Tobias778",
-          "kind": "human",
-          "commits": 1,
-          "latest_date": "2026-07-27 01:57",
-          "latest_msg": "Readme.md update ( week 8 )  (#92)",
-          "latest_sha": "d5b0b01",
-          "latest_url": "https://github.com/sinder38/Team-1-Prac-A-Project/commit/d5b0b01187ad71ba42256ce42608249400a8f0c5"
         }
       ],
       "pr_history": {
@@ -680,16 +670,6 @@
       "days_since_commit": 2,
       "contributors": [
         {
-          "name": "Jiale Zhang",
-          "login": "ZHANGJIALELLLLL",
-          "kind": "human",
-          "commits": 11,
-          "latest_date": "2026-08-02 13:29",
-          "latest_msg": "Create retrospective_W31.md",
-          "latest_sha": "500e54c",
-          "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/500e54cf57ac88e1a19753dfd45dae7c75d43255"
-        },
-        {
           "name": "Vince-1206",
           "login": "Vince-1206",
           "kind": "human",
@@ -700,10 +680,20 @@
           "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/30413b5c7b2b5133f264da0b8e8094404fb46e16"
         },
         {
+          "name": "Jiale Zhang",
+          "login": "ZHANGJIALELLLLL",
+          "kind": "human",
+          "commits": 10,
+          "latest_date": "2026-08-02 13:29",
+          "latest_msg": "Create retrospective_W31.md",
+          "latest_sha": "500e54c",
+          "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/500e54cf57ac88e1a19753dfd45dae7c75d43255"
+        },
+        {
           "name": "souyashiinamahiru",
           "login": "souyashiinamahiru",
           "kind": "human",
-          "commits": 8,
+          "commits": 7,
           "latest_date": "2026-08-02 16:56",
           "latest_msg": "Add files via upload",
           "latest_sha": "671418d",
@@ -968,11 +958,11 @@
       "repo": "Gong-yinxuan/CP3405",
       "prac": "B",
       "is_ultra": false,
-      "last_commit_sha": "7e8417e",
-      "last_commit_msg": "chore: update Prism data 2026-08-14",
-      "last_commit_date": "2026-08-14 22:16",
+      "last_commit_sha": "790fa2e",
+      "last_commit_msg": "chore: update Prism data 2026-08-17",
+      "last_commit_date": "2026-08-17 01:20",
       "last_commit_author": "github-actions[bot]",
-      "last_commit_url": "https://github.com/Gong-yinxuan/CP3405/commit/7e8417ea3264a4c3d37857457f5f921949cfa9ef",
+      "last_commit_url": "https://github.com/Gong-yinxuan/CP3405/commit/790fa2e0af59daaeb63bab353854871c952df377",
       "tags": [
         "vW31",
         "vW30",
@@ -985,13 +975,13 @@
       "sprint_tag_present": true,
       "last_run_name": "Update Market Data",
       "last_run_conclusion": "success",
-      "last_run_date": "2026-08-14 22:16",
-      "last_run_url": "https://github.com/Gong-yinxuan/CP3405/actions/runs/31845959968",
+      "last_run_date": "2026-08-17 01:15",
+      "last_run_url": "https://github.com/Gong-yinxuan/CP3405/actions/runs/31984447591",
       "last_run_was_filtered": true,
       "open_prs": 0,
       "pr_titles": [],
       "pr_links": [],
-      "days_since_commit": 2,
+      "days_since_commit": 0,
       "contributors": [
         {
           "name": "Asus",
@@ -1017,11 +1007,11 @@
           "name": "github-actions[bot]",
           "login": "github-actions[bot]",
           "kind": "bot",
-          "commits": 7,
-          "latest_date": "2026-08-14 22:16",
-          "latest_msg": "chore: update Prism data 2026-08-14",
-          "latest_sha": "7e8417e",
-          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/7e8417ea3264a4c3d37857457f5f921949cfa9ef"
+          "commits": 8,
+          "latest_date": "2026-08-17 01:20",
+          "latest_msg": "chore: update Prism data 2026-08-17",
+          "latest_sha": "790fa2e",
+          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/790fa2e0af59daaeb63bab353854871c952df377"
         },
         {
           "name": "HYH-design-bot",
