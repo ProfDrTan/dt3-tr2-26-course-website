@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17 11:35 UTC",
+  "updated": "2026-08-17 11:59 UTC",
   "sprint_tag": "vW30",
   "sprint_deadline_utc": "2026-07-26T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W30",
@@ -733,7 +733,7 @@
           "name": "vandarkray",
           "login": "vandarkray",
           "kind": "human",
-          "commits": 3,
+          "commits": 2,
           "latest_date": "2026-07-27 12:11",
           "latest_msg": "update week31's sprint_goal",
           "latest_sha": "3f87d99",
@@ -1014,16 +1014,6 @@
           "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/790fa2e0af59daaeb63bab353854871c952df377"
         },
         {
-          "name": "HYH-design-bot",
-          "login": "HYH-design-bot",
-          "kind": "bot",
-          "commits": 5,
-          "latest_date": "2026-08-03 04:05",
-          "latest_msg": "Amend synthesis_deepseek_W09.json",
-          "latest_sha": "01982e0",
-          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/01982e08451c545715565169db80d3ec9da1413d"
-        },
-        {
           "name": "wujinrui2004",
           "login": "wujinrui2004",
           "kind": "human",
@@ -1032,6 +1022,16 @@
           "latest_msg": "R7: add prediction.md",
           "latest_sha": "6536ce5",
           "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/6536ce52ee247847424124e9cf9dc56d304014c5"
+        },
+        {
+          "name": "HYH-design-bot",
+          "login": "HYH-design-bot",
+          "kind": "bot",
+          "commits": 4,
+          "latest_date": "2026-08-03 04:05",
+          "latest_msg": "Amend synthesis_deepseek_W09.json",
+          "latest_sha": "01982e0",
+          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/01982e08451c545715565169db80d3ec9da1413d"
         },
         {
           "name": "Kherlenbayar Sukhbaatar",
