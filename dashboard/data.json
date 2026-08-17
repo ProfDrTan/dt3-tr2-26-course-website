@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17 02:34 UTC",
+  "updated": "2026-08-17 03:33 UTC",
   "sprint_tag": "vW30",
   "sprint_deadline_utc": "2026-07-26T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W30",
@@ -812,7 +812,7 @@
           "name": "Arisa",
           "login": "wintwah-lwin",
           "kind": "human",
-          "commits": 25,
+          "commits": 20,
           "latest_date": "2026-08-02 16:08",
           "latest_msg": "Add file",
           "latest_sha": "9a45373",
@@ -1007,7 +1007,7 @@
           "name": "github-actions[bot]",
           "login": "github-actions[bot]",
           "kind": "bot",
-          "commits": 8,
+          "commits": 7,
           "latest_date": "2026-08-17 01:20",
           "latest_msg": "chore: update Prism data 2026-08-17",
           "latest_sha": "790fa2e",
@@ -1034,16 +1034,6 @@
           "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/6536ce52ee247847424124e9cf9dc56d304014c5"
         },
         {
-          "name": "Gong-yinxuan",
-          "login": "Gong-yinxuan",
-          "kind": "human",
-          "commits": 4,
-          "latest_date": "2026-07-29 12:51",
-          "latest_msg": "Update macro_agent_W09.md",
-          "latest_sha": "25946db",
-          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/25946dbf35ba1a93e97b590a9a9d1e3b1bf76314"
-        },
-        {
           "name": "Kherlenbayar Sukhbaatar",
           "login": "kherlen31",
           "kind": "human",
@@ -1062,6 +1052,16 @@
           "latest_msg": "Add files via upload",
           "latest_sha": "bf2b756",
           "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/bf2b756424ae319e2b5f6266a91d4259c97731a5"
+        },
+        {
+          "name": "Gong-yinxuan",
+          "login": "Gong-yinxuan",
+          "kind": "human",
+          "commits": 2,
+          "latest_date": "2026-07-29 12:51",
+          "latest_msg": "Update macro_agent_W09.md",
+          "latest_sha": "25946db",
+          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/25946dbf35ba1a93e97b590a9a9d1e3b1bf76314"
         },
         {
           "name": "darwin",
