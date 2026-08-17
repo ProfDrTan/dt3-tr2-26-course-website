@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17 03:33 UTC",
+  "updated": "2026-08-17 04:26 UTC",
   "sprint_tag": "vW30",
   "sprint_deadline_utc": "2026-07-26T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W30",
@@ -809,20 +809,10 @@
       "days_since_commit": 13,
       "contributors": [
         {
-          "name": "Arisa",
-          "login": "wintwah-lwin",
-          "kind": "human",
-          "commits": 20,
-          "latest_date": "2026-08-02 16:08",
-          "latest_msg": "Add file",
-          "latest_sha": "9a45373",
-          "latest_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/9a45373c0a62006cde8a8535ba7c271a502efa1d"
-        },
-        {
           "name": "louishan42",
           "login": "louishan42",
           "kind": "human",
-          "commits": 16,
+          "commits": 12,
           "latest_date": "2026-08-03 04:39",
           "latest_msg": "Fix human score live updates and calibration summary display.",
           "latest_sha": "912f7d7",
@@ -832,11 +822,21 @@
           "name": "github-actions[bot]",
           "login": "github-actions[bot]",
           "kind": "bot",
-          "commits": 11,
+          "commits": 8,
           "latest_date": "2026-08-03 05:46",
           "latest_msg": "Auto-commit: Pipeline execution (Week 10)",
           "latest_sha": "7bd59fe",
           "latest_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/7bd59fee83f1f08abe9f82c08495fb8378e8dfe5"
+        },
+        {
+          "name": "Arisa",
+          "login": "wintwah-lwin",
+          "kind": "human",
+          "commits": 3,
+          "latest_date": "2026-08-02 16:08",
+          "latest_msg": "Add file",
+          "latest_sha": "9a45373",
+          "latest_url": "https://github.com/wintwah-lwin/CP3405_Group_4/commit/9a45373c0a62006cde8a8535ba7c271a502efa1d"
         },
         {
           "name": "AJIN-TheHuman",
