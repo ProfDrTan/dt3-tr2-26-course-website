@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17 11:59 UTC",
+  "updated": "2026-08-17 13:02 UTC",
   "sprint_tag": "vW30",
   "sprint_deadline_utc": "2026-07-26T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W30",
@@ -728,16 +728,6 @@
           "latest_msg": "chore: update weekly market output [skip ci]",
           "latest_sha": "fbac126",
           "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/fbac126042eaa51e014fac2ec4a8f5d27becc4f6"
-        },
-        {
-          "name": "vandarkray",
-          "login": "vandarkray",
-          "kind": "human",
-          "commits": 2,
-          "latest_date": "2026-07-27 12:11",
-          "latest_msg": "update week31's sprint_goal",
-          "latest_sha": "3f87d99",
-          "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/3f87d995961f9421abc450d8d614c22a0a8607bb"
         },
         {
           "name": "Juninho",
