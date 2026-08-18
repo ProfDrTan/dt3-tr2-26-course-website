@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18 06:03 UTC",
+  "updated": "2026-08-18 07:04 UTC",
   "sprint_tag": "vW30",
   "sprint_deadline_utc": "2026-07-26T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W30",
@@ -43,7 +43,7 @@
           "author": "github-actions[bot]"
         }
       ],
-      "days_since_commit": 8,
+      "days_since_commit": 9,
       "contributors": [
         {
           "name": "sinder",
@@ -363,7 +363,7 @@
           "name": "ZhengZaikun",
           "login": "ZhengZaikun",
           "kind": "human",
-          "commits": 20,
+          "commits": 14,
           "latest_date": "2026-08-02 08:58",
           "latest_msg": "Update DECISION_2026-W31.md",
           "latest_sha": "effa344",
@@ -398,16 +398,6 @@
           "latest_msg": "chore(r5): update technical outputs 2026-W33 [skip ci]",
           "latest_sha": "29bf89d",
           "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/29bf89d882370d52ae60683c4d51093aca3bd29d"
-        },
-        {
-          "name": "Team 2 Webpage Automation Bot",
-          "login": "",
-          "kind": "bot",
-          "commits": 4,
-          "latest_date": "2026-08-16 16:15",
-          "latest_msg": "chore(auto): synchronized dashboard and multi-role assets for active s",
-          "latest_sha": "6d5cc63",
-          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/6d5cc63cce42083b2ac0f5e26ab51c9f719e974c"
         },
         {
           "name": "Team2 R8 LLM Operator",
@@ -458,6 +448,16 @@
           "latest_msg": "Merge pull request #32 from LuJunwen212/week-9",
           "latest_sha": "0fdd487",
           "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/0fdd4878169d544645fc42c0752653e2d80fe922"
+        },
+        {
+          "name": "hao-wang7",
+          "login": "hao-wang7",
+          "kind": "human",
+          "commits": 3,
+          "latest_date": "2026-08-02 07:40",
+          "latest_msg": "Add files via upload",
+          "latest_sha": "263e3af",
+          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/263e3afb20f601c9ffe9b8d792411b1be694592e"
         }
       ],
       "pr_history": {
