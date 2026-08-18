@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18 05:40 UTC",
+  "updated": "2026-08-18 06:03 UTC",
   "sprint_tag": "vW30",
   "sprint_deadline_utc": "2026-07-26T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W30",
@@ -363,7 +363,7 @@
           "name": "ZhengZaikun",
           "login": "ZhengZaikun",
           "kind": "human",
-          "commits": 25,
+          "commits": 20,
           "latest_date": "2026-08-02 08:58",
           "latest_msg": "Update DECISION_2026-W31.md",
           "latest_sha": "effa344",
@@ -796,7 +796,7 @@
       "open_prs": 0,
       "pr_titles": [],
       "pr_links": [],
-      "days_since_commit": 14,
+      "days_since_commit": 15,
       "contributors": [
         {
           "name": "louishan42",
