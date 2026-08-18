@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18 03:34 UTC",
+  "updated": "2026-08-18 04:20 UTC",
   "sprint_tag": "vW30",
   "sprint_deadline_utc": "2026-07-26T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W30",
@@ -1014,16 +1014,6 @@
           "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/01982e08451c545715565169db80d3ec9da1413d"
         },
         {
-          "name": "ToHoangGia",
-          "login": "ToHoangGia",
-          "kind": "human",
-          "commits": 4,
-          "latest_date": "2026-08-03 01:30",
-          "latest_msg": "update data manually",
-          "latest_sha": "aeafa17",
-          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/aeafa1783fdc732baced1b01ba7ef93dec1d89e5"
-        },
-        {
           "name": "Kherlenbayar Sukhbaatar",
           "login": "kherlen31",
           "kind": "human",
@@ -1052,6 +1042,16 @@
           "latest_msg": "Update macro_agent_W09.md",
           "latest_sha": "25946db",
           "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/25946dbf35ba1a93e97b590a9a9d1e3b1bf76314"
+        },
+        {
+          "name": "ToHoangGia",
+          "login": "ToHoangGia",
+          "kind": "human",
+          "commits": 1,
+          "latest_date": "2026-08-03 01:30",
+          "latest_msg": "update data manually",
+          "latest_sha": "aeafa17",
+          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/aeafa1783fdc732baced1b01ba7ef93dec1d89e5"
         },
         {
           "name": "darwin",
