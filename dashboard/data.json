@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-01 10:15 UTC",
+  "updated": "2026-09-01 15:00 UTC",
   "sprint_tag": "vW30",
   "sprint_deadline_utc": "2026-07-26T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W30",
@@ -490,9 +490,9 @@
         ]
       },
       "midweek_artefact": {
-        "present": true,
-        "path": "evidence/progress_logs/standup_midweek_W30.md",
-        "url": "https://github.com/LuJunwen212/CP3405-Project/blob/277cfaa35552afac5c03f553d78cf4fa372f3023/evidence/progress_logs/standup_midweek_W30.md"
+        "present": false,
+        "path": null,
+        "url": null
       },
       "repo_url": "https://github.com/LuJunwen212/CP3405-Project"
     },
