@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-05 05:13 UTC",
+  "updated": "2026-09-05 09:10 UTC",
   "sprint_tag": "vW30",
   "sprint_deadline_utc": "2026-07-26T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W30",
@@ -43,7 +43,7 @@
           "author": "github-actions[bot]"
         }
       ],
-      "days_since_commit": 26,
+      "days_since_commit": 27,
       "contributors": [],
       "pr_history": {
         "total": 130,
@@ -279,10 +279,20 @@
           "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/277cfaa35552afac5c03f553d78cf4fa372f3023"
         },
         {
+          "name": "Team2 Data Automation Bot",
+          "login": "",
+          "kind": "bot",
+          "commits": 3,
+          "latest_date": "2026-08-29 03:42",
+          "latest_msg": "chore(data): automated market ledger alignment [skip ci]",
+          "latest_sha": "8bd7ae1",
+          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/8bd7ae18d604a6891e3ac3aac67301bfd3be4e56"
+        },
+        {
           "name": "Team2 R8 LLM Operator",
           "login": "",
           "kind": "human",
-          "commits": 3,
+          "commits": 2,
           "latest_date": "2026-08-29 13:34",
           "latest_msg": "docs(r8): updated free open-source multi-model matrix [skip ci]",
           "latest_sha": "dea2172",
@@ -292,21 +302,11 @@
           "name": "Team2 R4 Automation Bot",
           "login": "github-actions[bot]",
           "kind": "bot",
-          "commits": 3,
+          "commits": 2,
           "latest_date": "2026-08-29 12:13",
           "latest_msg": "chore(r4): weekly macro report [skip ci]",
           "latest_sha": "12b71c0",
           "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/12b71c0fd7f8a126ed5c5f129b4ef92ab2822a35"
-        },
-        {
-          "name": "Team2 Data Automation Bot",
-          "login": "",
-          "kind": "bot",
-          "commits": 3,
-          "latest_date": "2026-08-29 03:42",
-          "latest_msg": "chore(data): automated market ledger alignment [skip ci]",
-          "latest_sha": "8bd7ae1",
-          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/8bd7ae18d604a6891e3ac3aac67301bfd3be4e56"
         },
         {
           "name": "Team 2 Almanac Automation Bot",
@@ -585,7 +585,7 @@
       "open_prs": 0,
       "pr_titles": [],
       "pr_links": [],
-      "days_since_commit": 32,
+      "days_since_commit": 33,
       "contributors": [],
       "pr_history": {
         "total": 4,
