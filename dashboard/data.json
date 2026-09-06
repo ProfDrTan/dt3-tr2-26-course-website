@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-06 14:06 UTC",
+  "updated": "2026-09-06 17:03 UTC",
   "sprint_tag": "vW30",
   "sprint_deadline_utc": "2026-07-26T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W30",
@@ -269,16 +269,6 @@
       "days_since_commit": 6,
       "contributors": [
         {
-          "name": "Team 2 Webpage Automation Bot",
-          "login": "",
-          "kind": "bot",
-          "commits": 3,
-          "latest_date": "2026-08-30 18:58",
-          "latest_msg": "chore(auto): synchronized dashboard and multi-role assets for active s",
-          "latest_sha": "277cfaa",
-          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/277cfaa35552afac5c03f553d78cf4fa372f3023"
-        },
-        {
           "name": "Team2 Data Automation Bot",
           "login": "",
           "kind": "bot",
@@ -287,6 +277,16 @@
           "latest_msg": "chore(data): automated market ledger alignment [skip ci]",
           "latest_sha": "8bd7ae1",
           "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/8bd7ae18d604a6891e3ac3aac67301bfd3be4e56"
+        },
+        {
+          "name": "Team 2 Webpage Automation Bot",
+          "login": "",
+          "kind": "bot",
+          "commits": 2,
+          "latest_date": "2026-08-30 18:58",
+          "latest_msg": "chore(auto): synchronized dashboard and multi-role assets for active s",
+          "latest_sha": "277cfaa",
+          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/277cfaa35552afac5c03f553d78cf4fa372f3023"
         },
         {
           "name": "Team2 R8 LLM Operator",
