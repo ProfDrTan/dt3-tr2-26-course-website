@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-07 17:49 UTC",
+  "updated": "2026-09-07 20:53 UTC",
   "sprint_tag": "vW30",
   "sprint_deadline_utc": "2026-07-26T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W30",
@@ -242,11 +242,11 @@
       "repo": "LuJunwen212/CP3405-Project",
       "prac": "A",
       "is_ultra": false,
-      "last_commit_sha": "277cfaa",
-      "last_commit_msg": "chore(auto): synchronized dashboard and multi-role assets fo",
-      "last_commit_date": "2026-08-30 18:58",
-      "last_commit_author": "Team 2 Webpage Autom",
-      "last_commit_url": "https://github.com/LuJunwen212/CP3405-Project/commit/277cfaa35552afac5c03f553d78cf4fa372f3023",
+      "last_commit_sha": "db321ad",
+      "last_commit_msg": "Update webpage_auto_pipeline.yml",
+      "last_commit_date": "2026-09-07 19:12",
+      "last_commit_author": "The Bao Le",
+      "last_commit_url": "https://github.com/LuJunwen212/CP3405-Project/commit/db321adc887d1149e389761b12306ee6315a5d26",
       "tags": [
         "vW31",
         "vW30",
@@ -266,8 +266,18 @@
       "open_prs": 0,
       "pr_titles": [],
       "pr_links": [],
-      "days_since_commit": 7,
+      "days_since_commit": 0,
       "contributors": [
+        {
+          "name": "The Bao Le",
+          "login": "The-Bao-Le",
+          "kind": "human",
+          "commits": 6,
+          "latest_date": "2026-09-07 19:12",
+          "latest_msg": "Update webpage_auto_pipeline.yml",
+          "latest_sha": "db321ad",
+          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/db321adc887d1149e389761b12306ee6315a5d26"
+        },
         {
           "name": "Team2 Data Automation Bot",
           "login": "",
@@ -492,7 +502,7 @@
       "midweek_artefact": {
         "present": true,
         "path": "evidence/progress_logs/standup_midweek_W30.md",
-        "url": "https://github.com/LuJunwen212/CP3405-Project/blob/277cfaa35552afac5c03f553d78cf4fa372f3023/evidence/progress_logs/standup_midweek_W30.md"
+        "url": "https://github.com/LuJunwen212/CP3405-Project/blob/db321adc887d1149e389761b12306ee6315a5d26/evidence/progress_logs/standup_midweek_W30.md"
       },
       "repo_url": "https://github.com/LuJunwen212/CP3405-Project"
     },
