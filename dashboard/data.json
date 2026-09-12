@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-12 05:06 UTC",
+  "updated": "2026-09-12 09:22 UTC",
   "sprint_tag": "vW30",
   "sprint_deadline_utc": "2026-07-26T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W30",
@@ -43,7 +43,7 @@
           "author": "github-actions[bot]"
         }
       ],
-      "days_since_commit": 33,
+      "days_since_commit": 34,
       "contributors": [],
       "pr_history": {
         "total": 130,
@@ -292,7 +292,7 @@
           "name": "Team2 R8 LLM Operator",
           "login": "",
           "kind": "human",
-          "commits": 2,
+          "commits": 1,
           "latest_date": "2026-08-29 13:34",
           "latest_msg": "docs(r8): updated free open-source multi-model matrix [skip ci]",
           "latest_sha": "dea2172",
@@ -302,7 +302,7 @@
           "name": "Team2 R4 Automation Bot",
           "login": "github-actions[bot]",
           "kind": "bot",
-          "commits": 2,
+          "commits": 1,
           "latest_date": "2026-08-29 12:13",
           "latest_msg": "chore(r4): weekly macro report [skip ci]",
           "latest_sha": "12b71c0",
@@ -595,7 +595,7 @@
       "open_prs": 0,
       "pr_titles": [],
       "pr_links": [],
-      "days_since_commit": 39,
+      "days_since_commit": 40,
       "contributors": [],
       "pr_history": {
         "total": 4,
