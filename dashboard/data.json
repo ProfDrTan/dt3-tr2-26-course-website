@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14 10:45 UTC",
+  "updated": "2026-09-14 16:40 UTC",
   "sprint_tag": "vW30",
   "sprint_deadline_utc": "2026-07-26T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W30",
@@ -317,16 +317,6 @@
           "latest_msg": "chore(data): automated market ledger alignment [skip ci]",
           "latest_sha": "8bd7ae1",
           "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/8bd7ae18d604a6891e3ac3aac67301bfd3be4e56"
-        },
-        {
-          "name": "Team 2 Almanac Automation Bot",
-          "login": "",
-          "kind": "bot",
-          "commits": 1,
-          "latest_date": "2026-08-24 11:24",
-          "latest_msg": "chore(data): automated R3 next-week forecast execution matrix [skip ci",
-          "latest_sha": "e629172",
-          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/e6291729a7b52811424199f7e67a7be3af7f4004"
         }
       ],
       "pr_history": {
