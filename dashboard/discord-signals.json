@@ -1,5 +1,5 @@
 {
-  "generated": "Friday 18 September 2026 17:39 SGT",
+  "generated": "Friday 18 September 2026 21:52 SGT",
   "teams": {
     "Team 1": {
       "blockers": []
@@ -8,7 +8,14 @@
       "blockers": []
     },
     "Team 3": {
-      "blockers": []
+      "blockers": [
+        {
+          "author": "wendilin_39493_15226",
+          "content": "<@1390282790314184808> Hi Dr Tan, I have joined Discord and the GitHub repo, but I cannot access the Team Setup Sheet. My JCU email is not recognised as a Google account. Could you please grant access",
+          "ts_str": "2026-09-18 11:59:24",
+          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1550476332692017296"
+        }
+      ]
     },
     "Team 4": {
       "blockers": [
