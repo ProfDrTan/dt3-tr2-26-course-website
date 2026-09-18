@@ -1,5 +1,5 @@
 {
-  "generated": "Friday 18 September 2026 13:00 SGT",
+  "generated": "Friday 18 September 2026 17:39 SGT",
   "teams": {
     "Team 1": {
       "blockers": []
@@ -11,10 +11,24 @@
       "blockers": []
     },
     "Team 4": {
-      "blockers": []
+      "blockers": [
+        {
+          "author": "profdrtktan",
+          "content": "Axel that is precisely why we want to see discussions in Discord. what  you just reveal is that there is zero activity on Discord but there are some other private channel communication going on elsewh",
+          "ts_str": "2026-09-18 09:37:42",
+          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1550440673587630131"
+        }
+      ]
     },
     "Team 5": {
-      "blockers": []
+      "blockers": [
+        {
+          "author": "profdrtktan",
+          "content": "this is exactly the wrong thing to do as I mentioned in class the school will only monitor communications on the authorized channels such as discord. if you choose to communicate on your own private c",
+          "ts_str": "2026-09-18 07:54:52",
+          "url": "https://discord.com/channels/1548703733813088256/1548705512517013564/1550414794434023467"
+        }
+      ]
     }
   }
 }
