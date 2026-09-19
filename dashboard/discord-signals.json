@@ -1,42 +1,48 @@
 {
-  "generated": "Saturday 19 September 2026 17:31 SGT",
+  "generated": "Saturday 19 September 2026 21:22 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
         {
-          "author": "sololeveller233637",
-          "content": "And pls be more involved with ur inputs in the meeting and talk out whatever ur thinking as if we have a lot of ideas on the table and inputs better for us and if u feel anywhere I am doing wrong pls ",
-          "ts_str": "2026-09-19 07:01:57",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1550763865191747696"
-        },
-        {
-          "author": "zhang_41520",
-          "content": "Thanks, I\u2019ll first look into what my R4 role is supposed to do in this sprint. If there\u2019s anything I can help with, just let me know.",
-          "ts_str": "2026-09-19 07:01:10",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1550763668315177011"
+          "author": "busy_swan_05684",
+          "content": "<@710506116441702504> But don't worry. I will help him. As long as you can get the data ready by 4 am before I go to bed.\ud83e\udd2a",
+          "ts_str": "2026-09-19 13:03:46",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1550854918347300918"
         },
         {
           "author": "sololeveller233637",
-          "content": "Once again since that\u2019s being an issue in distributing work",
-          "ts_str": "2026-09-19 07:01:07",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1550763656646500353"
+          "content": "the only changes in the git hub right now is the layout and <@927069413088309298> will do that ik so not an issue for u thanks for the concern",
+          "ts_str": "2026-09-19 12:03:39",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1550839793045475329"
         },
         {
           "author": "hawlermathew",
-          "content": "if u does make research about what ur role is, u can share it to the team. it would help",
-          "ts_str": "2026-09-19 06:57:34",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1550762761326297200"
+          "content": "may need <@997121495371358290> help for this too if u want",
+          "ts_str": "2026-09-19 10:23:47",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1550814657219010582"
         },
         {
-          "author": "hawlermathew",
-          "content": "i will help with it",
-          "ts_str": "2026-09-19 06:53:24",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1550761713895219241"
+          "author": "sololeveller233637",
+          "content": "I have gone through the web didn\u2019t see anything",
+          "ts_str": "2026-09-19 10:23:16",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1550814530706219089"
+        },
+        {
+          "author": "sololeveller233637",
+          "content": "<@927069413088309298> we will have to change the repo style so take help of <@997121495371358290> to do it",
+          "ts_str": "2026-09-19 10:17:48",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1550813152940265525"
         }
       ]
     },
     "Team 2": {
       "blockers": [
+        {
+          "author": "naing_26",
+          "content": "Right now can u help with R6 <@738757785013190676> <@805335742925635615> for wrapping up the Economic part and validate their LLM result by giving ur human score.\nOnce it's done, please update the pre",
+          "ts_str": "2026-09-19 11:35:46",
+          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1550832776297713778"
+        },
         {
           "author": "mufor.",
           "content": "that's ok, I help u to update",
@@ -47,6 +53,12 @@
     },
     "Team 3": {
       "blockers": [
+        {
+          "author": "profdrtktan",
+          "content": "Team 3 \u2014 two things need to be corrected today, not eventually.\n\n1. **Delete the separate FigJam board and move all work into your section of the master file.** The master board (the one link I gave t",
+          "ts_str": "2026-09-19 10:06:41",
+          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1550810356878803025"
+        },
         {
           "author": "wendilin_39493_15226",
           "content": "<@1390282790314184808> Hi Dr Tan, I have joined Discord and the GitHub repo, but I cannot access the Team Setup Sheet. My JCU email is not recognised as a Google account. Could you please grant access",
@@ -67,6 +79,12 @@
     },
     "Team 5": {
       "blockers": [
+        {
+          "author": "alanmusk_01429",
+          "content": "I\u2019d like to ask if you can finish your work tonight\u2014including the data and the slides. If you aren't sure how to submit them to GitHub, I can help.",
+          "ts_str": "2026-09-19 10:32:32",
+          "url": "https://discord.com/channels/1548703733813088256/1548705512517013564/1550816862638710906"
+        },
         {
           "author": "profdrtktan",
           "content": "this is exactly the wrong thing to do as I mentioned in class the school will only monitor communications on the authorized channels such as discord. if you choose to communicate on your own private c",
