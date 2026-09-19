@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19 00:35 UTC",
+  "updated": "2026-09-19 05:06 UTC",
   "sprint_tag": "vW30",
   "sprint_deadline_utc": "2026-07-26T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W30",
@@ -307,16 +307,6 @@
           "latest_msg": "chore(r4): weekly macro report [skip ci]",
           "latest_sha": "12b71c0",
           "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/12b71c0fd7f8a126ed5c5f129b4ef92ab2822a35"
-        },
-        {
-          "name": "Team2 Data Automation Bot",
-          "login": "",
-          "kind": "bot",
-          "commits": 1,
-          "latest_date": "2026-08-29 03:42",
-          "latest_msg": "chore(data): automated market ledger alignment [skip ci]",
-          "latest_sha": "8bd7ae1",
-          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/8bd7ae18d604a6891e3ac3aac67301bfd3be4e56"
         }
       ],
       "pr_history": {
@@ -532,7 +522,7 @@
           "name": "github-actions[bot]",
           "login": "github-actions[bot]",
           "kind": "bot",
-          "commits": 4,
+          "commits": 3,
           "latest_date": "2026-09-19 00:29",
           "latest_msg": "chore: update weekly market output [skip ci]",
           "latest_sha": "5d8f60e",
@@ -550,7 +540,7 @@
       "midweek_artefact": {
         "present": true,
         "path": "vW30/standup_midweek_W30.md",
-        "url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/blob/2472c481011003abdec1ab4b1d5227b004e77f47/vW30/standup_midweek_W30.md"
+        "url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/blob/5d8f60e509056645b7987f5f8d7d38b58db3a888/vW30/standup_midweek_W30.md"
       },
       "repo_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405"
     },
@@ -685,7 +675,7 @@
           "name": "github-actions[bot]",
           "login": "github-actions[bot]",
           "kind": "bot",
-          "commits": 8,
+          "commits": 7,
           "latest_date": "2026-09-18 23:48",
           "latest_msg": "chore: update Prism data 2026-09-18",
           "latest_sha": "b19fbff",
