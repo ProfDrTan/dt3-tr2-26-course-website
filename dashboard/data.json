@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19 13:22 UTC",
+  "updated": "2026-09-19 16:40 UTC",
   "sprint_tag": "vW30",
   "sprint_deadline_utc": "2026-07-26T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W30",
@@ -287,16 +287,6 @@
           "latest_msg": "chore(auto): synchronized dashboard and multi-role assets for active s",
           "latest_sha": "277cfaa",
           "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/277cfaa35552afac5c03f553d78cf4fa372f3023"
-        },
-        {
-          "name": "Team2 R8 LLM Operator",
-          "login": "",
-          "kind": "human",
-          "commits": 1,
-          "latest_date": "2026-08-29 13:34",
-          "latest_msg": "docs(r8): updated free open-source multi-model matrix [skip ci]",
-          "latest_sha": "dea2172",
-          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/dea217260669e738e102e98fd004360f17f8c1be"
         }
       ],
       "pr_history": {
