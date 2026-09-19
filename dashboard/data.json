@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19 09:31 UTC",
+  "updated": "2026-09-19 13:22 UTC",
   "sprint_tag": "vW30",
   "sprint_deadline_utc": "2026-07-26T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W30",
@@ -297,16 +297,6 @@
           "latest_msg": "docs(r8): updated free open-source multi-model matrix [skip ci]",
           "latest_sha": "dea2172",
           "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/dea217260669e738e102e98fd004360f17f8c1be"
-        },
-        {
-          "name": "Team2 R4 Automation Bot",
-          "login": "github-actions[bot]",
-          "kind": "bot",
-          "commits": 1,
-          "latest_date": "2026-08-29 12:13",
-          "latest_msg": "chore(r4): weekly macro report [skip ci]",
-          "latest_sha": "12b71c0",
-          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/12b71c0fd7f8a126ed5c5f129b4ef92ab2822a35"
         }
       ],
       "pr_history": {
