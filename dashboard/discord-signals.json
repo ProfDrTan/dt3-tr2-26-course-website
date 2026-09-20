@@ -1,37 +1,37 @@
 {
-  "generated": "Sunday 20 September 2026 14:57 SGT",
+  "generated": "Sunday 20 September 2026 20:14 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
         {
-          "author": "hawlermathew",
-          "content": "N me wanna help too",
-          "ts_str": "2026-09-19 15:25:49",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1550890669612990536"
-        },
-        {
-          "author": "hawlermathew",
-          "content": "Everybody would like to help",
-          "ts_str": "2026-09-19 15:25:39",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1550890625417871453"
-        },
-        {
-          "author": "hawlermathew",
-          "content": "Yeah if ya need help then just ping everyone",
-          "ts_str": "2026-09-19 15:25:31",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1550890592957894656"
+          "author": "sololeveller233637",
+          "content": "no issues moving forward we will have the framework in mind so that no one is overstressed and we can work togethor",
+          "ts_str": "2026-09-20 10:53:15",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1551184463520735314"
         },
         {
           "author": "sololeveller233637",
-          "content": "It\u2019s fine not an issue we are just understanding how this project works and each other we will go through this together and it\u2019s better to go through these obstacles as soon as possible",
-          "ts_str": "2026-09-19 13:35:35",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1550862926103974060"
+          "content": "need ur help",
+          "ts_str": "2026-09-20 10:37:04",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1551180390717460692"
+        },
+        {
+          "author": "zhang_41520",
+          "content": "Sorry, I'm not at home right now and can't attend today's meeting. Is there anything I need to do tonight?",
+          "ts_str": "2026-09-20 10:12:01",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1551174085457739908"
         },
         {
           "author": "sololeveller233637",
-          "content": "@jq if u need any help let me know",
-          "ts_str": "2026-09-19 13:31:03",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1550861786746720257"
+          "content": "okay no issues",
+          "ts_str": "2026-09-20 10:08:32",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1551173208391032875"
+        },
+        {
+          "author": "qiu0181",
+          "content": "Sorry, I'm afraid I can't attend today's meeting. I have other homework to finish. Then as for the PPT of Jiaqi and me, I sent it to the group at more than 11:00 last night. You can go and have a look",
+          "ts_str": "2026-09-20 10:08:03",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1551173087016386603"
         }
       ]
     },
@@ -58,24 +58,11 @@
           "content": "Team 3 \u2014 two things need to be corrected today, not eventually.\n\n1. **Delete the separate FigJam board and move all work into your section of the master file.** The master board (the one link I gave t",
           "ts_str": "2026-09-19 10:06:41",
           "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1550810356878803025"
-        },
-        {
-          "author": "wendilin_39493_15226",
-          "content": "<@1390282790314184808> Hi Dr Tan, I have joined Discord and the GitHub repo, but I cannot access the Team Setup Sheet. My JCU email is not recognised as a Google account. Could you please grant access",
-          "ts_str": "2026-09-18 11:59:24",
-          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1550476332692017296"
         }
       ]
     },
     "Team 4": {
-      "blockers": [
-        {
-          "author": "profdrtktan",
-          "content": "Axel that is precisely why we want to see discussions in Discord. what  you just reveal is that there is zero activity on Discord but there are some other private channel communication going on elsewh",
-          "ts_str": "2026-09-18 09:37:42",
-          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1550440673587630131"
-        }
-      ]
+      "blockers": []
     },
     "Team 5": {
       "blockers": [
@@ -90,12 +77,6 @@
           "content": "I\u2019d like to ask if you can finish your work tonight\u2014including the data and the slides. If you aren't sure how to submit them to GitHub, I can help.",
           "ts_str": "2026-09-19 10:32:32",
           "url": "https://discord.com/channels/1548703733813088256/1548705512517013564/1550816862638710906"
-        },
-        {
-          "author": "profdrtktan",
-          "content": "this is exactly the wrong thing to do as I mentioned in class the school will only monitor communications on the authorized channels such as discord. if you choose to communicate on your own private c",
-          "ts_str": "2026-09-18 07:54:52",
-          "url": "https://discord.com/channels/1548703733813088256/1548705512517013564/1550414794434023467"
         }
       ]
     }
