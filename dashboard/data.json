@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20 18:55 UTC",
+  "updated": "2026-09-20 21:27 UTC",
   "sprint_tag": "vW30",
   "sprint_deadline_utc": "2026-07-26T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W30",
@@ -266,7 +266,7 @@
       "open_prs": 0,
       "pr_titles": [],
       "pr_links": [],
-      "days_since_commit": 12,
+      "days_since_commit": 13,
       "contributors": [
         {
           "name": "The Bao Le",
@@ -277,16 +277,6 @@
           "latest_msg": "Update webpage_auto_pipeline.yml",
           "latest_sha": "db321ad",
           "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/db321adc887d1149e389761b12306ee6315a5d26"
-        },
-        {
-          "name": "Team 2 Webpage Automation Bot",
-          "login": "",
-          "kind": "bot",
-          "commits": 1,
-          "latest_date": "2026-08-30 18:58",
-          "latest_msg": "chore(auto): synchronized dashboard and multi-role assets for active s",
-          "latest_sha": "277cfaa",
-          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/277cfaa35552afac5c03f553d78cf4fa372f3023"
         }
       ],
       "pr_history": {
