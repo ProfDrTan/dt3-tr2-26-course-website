@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21 14:10 UTC",
+  "updated": "2026-09-21 19:31 UTC",
   "sprint_tag": "vW30",
   "sprint_deadline_utc": "2026-07-26T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W30",
@@ -266,7 +266,7 @@
       "open_prs": 0,
       "pr_titles": [],
       "pr_links": [],
-      "days_since_commit": 13,
+      "days_since_commit": 14,
       "contributors": [
         {
           "name": "The Bao Le",
