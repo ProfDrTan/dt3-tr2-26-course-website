@@ -1,5 +1,5 @@
 {
-  "generated": "Monday 21 September 2026 22:09 SGT",
+  "generated": "Tuesday 22 September 2026 03:30 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
@@ -52,14 +52,7 @@
       ]
     },
     "Team 5": {
-      "blockers": [
-        {
-          "author": "alanmusk_01429",
-          "content": "Is there anyway I can help you, like which kind of source",
-          "ts_str": "2026-09-19 15:38:46",
-          "url": "https://discord.com/channels/1548703733813088256/1548705512517013564/1550893929312817418"
-        }
-      ]
+      "blockers": []
     }
   }
 }
