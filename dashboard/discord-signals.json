@@ -1,8 +1,20 @@
 {
-  "generated": "Monday 21 September 2026 15:07 SGT",
+  "generated": "Monday 21 September 2026 22:09 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
+        {
+          "author": "sololeveller233637",
+          "content": "Physically\nSo that we can help each other",
+          "ts_str": "2026-09-21 10:07:38",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1551535370817114224"
+        },
+        {
+          "author": "ayephyuss",
+          "content": "please let me help for R1 if ur free <@776049160369209355>",
+          "ts_str": "2026-09-21 10:07:11",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1551535257474302045"
+        },
         {
           "author": "sololeveller233637",
           "content": "Okay no issues",
@@ -20,46 +32,14 @@
           "content": "need ur help",
           "ts_str": "2026-09-20 10:37:04",
           "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1551180390717460692"
-        },
-        {
-          "author": "zhang_41520",
-          "content": "Sorry, I'm not at home right now and can't attend today's meeting. Is there anything I need to do tonight?",
-          "ts_str": "2026-09-20 10:12:01",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1551174085457739908"
-        },
-        {
-          "author": "sololeveller233637",
-          "content": "okay no issues",
-          "ts_str": "2026-09-20 10:08:32",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1551173208391032875"
         }
       ]
     },
     "Team 2": {
-      "blockers": [
-        {
-          "author": "naing_26",
-          "content": "Right now can u help with R6 <@738757785013190676> <@805335742925635615> for wrapping up the Economic part and validate their LLM result by giving ur human score.\nOnce it's done, please update the pre",
-          "ts_str": "2026-09-19 11:35:46",
-          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1550832776297713778"
-        },
-        {
-          "author": "mufor.",
-          "content": "that's ok, I help u to update",
-          "ts_str": "2026-09-19 07:10:09",
-          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1550765928147460129"
-        }
-      ]
+      "blockers": []
     },
     "Team 3": {
-      "blockers": [
-        {
-          "author": "profdrtktan",
-          "content": "Team 3 \u2014 two things need to be corrected today, not eventually.\n\n1. **Delete the separate FigJam board and move all work into your section of the master file.** The master board (the one link I gave t",
-          "ts_str": "2026-09-19 10:06:41",
-          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1550810356878803025"
-        }
-      ]
+      "blockers": []
     },
     "Team 4": {
       "blockers": [
@@ -78,12 +58,6 @@
           "content": "Is there anyway I can help you, like which kind of source",
           "ts_str": "2026-09-19 15:38:46",
           "url": "https://discord.com/channels/1548703733813088256/1548705512517013564/1550893929312817418"
-        },
-        {
-          "author": "alanmusk_01429",
-          "content": "I\u2019d like to ask if you can finish your work tonight\u2014including the data and the slides. If you aren't sure how to submit them to GitHub, I can help.",
-          "ts_str": "2026-09-19 10:32:32",
-          "url": "https://discord.com/channels/1548703733813088256/1548705512517013564/1550816862638710906"
         }
       ]
     }
