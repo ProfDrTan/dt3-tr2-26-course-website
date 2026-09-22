@@ -1,5 +1,5 @@
 {
-  "generated": "Tuesday 22 September 2026 09:19 SGT",
+  "generated": "Tuesday 22 September 2026 14:28 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
@@ -39,7 +39,14 @@
       "blockers": []
     },
     "Team 3": {
-      "blockers": []
+      "blockers": [
+        {
+          "author": "alexlee149",
+          "content": "Could you let me know if you are available after 7 PM tonight? If anyone cannot come to school, we can hold the meeting online.",
+          "ts_str": "2026-09-22 04:42:44",
+          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1551815994354303042"
+        }
+      ]
     },
     "Team 4": {
       "blockers": [
