@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22 01:20 UTC",
+  "updated": "2026-09-22 06:29 UTC",
   "sprint_tag": "vW30",
   "sprint_deadline_utc": "2026-07-26T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W30",
@@ -545,7 +545,7 @@
       "open_prs": 0,
       "pr_titles": [],
       "pr_links": [],
-      "days_since_commit": 49,
+      "days_since_commit": 50,
       "contributors": [],
       "pr_history": {
         "total": 4,
@@ -639,13 +639,13 @@
       "open_prs": 0,
       "pr_titles": [],
       "pr_links": [],
-      "days_since_commit": 0,
+      "days_since_commit": 1,
       "contributors": [
         {
           "name": "github-actions[bot]",
           "login": "github-actions[bot]",
           "kind": "bot",
-          "commits": 7,
+          "commits": 6,
           "latest_date": "2026-09-21 03:42",
           "latest_msg": "chore: update Prism data 2026-09-21",
           "latest_sha": "becf4e1",
