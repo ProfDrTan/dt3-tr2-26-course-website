@@ -1,5 +1,5 @@
 {
-  "generated": "Tuesday 22 September 2026 20:00 SGT",
+  "generated": "Wednesday 23 September 2026 00:50 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
@@ -14,17 +14,24 @@
           "content": "please let me help for R1 if ur free <@776049160369209355>",
           "ts_str": "2026-09-21 10:07:11",
           "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1551535257474302045"
-        },
-        {
-          "author": "sololeveller233637",
-          "content": "Okay no issues",
-          "ts_str": "2026-09-20 14:13:17",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1551234801405657210"
         }
       ]
     },
     "Team 2": {
-      "blockers": []
+      "blockers": [
+        {
+          "author": "1nonlyneon",
+          "content": "I think it\u2019s already good. Maybe add error handling and compare the latest debt with the previous value to show the trend. Also, separate the automated data from the Almanac context so it\u2019s clearer...",
+          "ts_str": "2026-09-22 14:44:11",
+          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1551967353447784550"
+        },
+        {
+          "author": "mufor.",
+          "content": "<@738757785013190676> u can check first, if any problem, lmk",
+          "ts_str": "2026-09-22 12:30:15",
+          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1551933649111220236"
+        }
+      ]
     },
     "Team 3": {
       "blockers": [
