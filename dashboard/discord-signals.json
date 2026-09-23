@@ -1,5 +1,5 @@
 {
-  "generated": "Wednesday 23 September 2026 20:13 SGT",
+  "generated": "Thursday 24 September 2026 01:17 SGT",
   "teams": {
     "Team 1": {
       "blockers": []
@@ -22,6 +22,12 @@
     },
     "Team 3": {
       "blockers": [
+        {
+          "author": "alexlee149",
+          "content": "Hi Dr Tan, I\u2019m LI HAOYANG from Team 3, and I\u2019m taking the R1 role this week. I\u2019ve requested access to the shared FigJam board for Sprint 3, but it\u2019s still pending. When you have a moment tomorrow, cou",
+          "ts_str": "2026-09-23 16:23:07",
+          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1552354641407123629"
+        },
         {
           "author": "alexlee149",
           "content": "Could you let me know if you are available after 7 PM tonight? If anyone cannot come to school, we can hold the meeting online.",
