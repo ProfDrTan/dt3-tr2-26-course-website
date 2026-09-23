@@ -1,5 +1,5 @@
 {
-  "generated": "Wednesday 23 September 2026 09:25 SGT",
+  "generated": "Wednesday 23 September 2026 14:35 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
@@ -44,14 +44,7 @@
       ]
     },
     "Team 4": {
-      "blockers": [
-        {
-          "author": "axey_125",
-          "content": "fixed some errors",
-          "ts_str": "2026-09-21 05:00:35",
-          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1551458098680565912"
-        }
-      ]
+      "blockers": []
     },
     "Team 5": {
       "blockers": []
