@@ -1,5 +1,5 @@
 {
-  "generated": "Thursday 24 September 2026 20:18 SGT",
+  "generated": "Friday 25 September 2026 01:22 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
@@ -12,20 +12,7 @@
       ]
     },
     "Team 2": {
-      "blockers": [
-        {
-          "author": "1nonlyneon",
-          "content": "I think it\u2019s already good. Maybe add error handling and compare the latest debt with the previous value to show the trend. Also, separate the automated data from the Almanac context so it\u2019s clearer...",
-          "ts_str": "2026-09-22 14:44:11",
-          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1551967353447784550"
-        },
-        {
-          "author": "mufor.",
-          "content": "<@738757785013190676> u can check first, if any problem, lmk",
-          "ts_str": "2026-09-22 12:30:15",
-          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1551933649111220236"
-        }
-      ]
+      "blockers": []
     },
     "Team 3": {
       "blockers": [
