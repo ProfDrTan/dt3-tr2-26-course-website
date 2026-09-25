@@ -1,5 +1,5 @@
 {
-  "generated": "Saturday 26 September 2026 01:36 SGT",
+  "generated": "Saturday 26 September 2026 04:45 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
@@ -13,6 +13,12 @@
     },
     "Team 2": {
       "blockers": [
+        {
+          "author": "iaknauxoet",
+          "content": "lmk if there's any mistake in it i'll fix it asap",
+          "ts_str": "2026-09-25 19:09:23",
+          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1553121258218979400"
+        },
         {
           "author": "mufor.",
           "content": "if u have any improvements and find any problems, lmk. If not, we can prepare presentation",
@@ -31,7 +37,14 @@
       "blockers": []
     },
     "Team 4": {
-      "blockers": []
+      "blockers": [
+        {
+          "author": "hjy987._44307",
+          "content": "Why can't I edit in Figma?",
+          "ts_str": "2026-09-25 18:20:10",
+          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1553108873383248073"
+        }
+      ]
     },
     "Team 5": {
       "blockers": []
