@@ -1,5 +1,5 @@
 {
-  "generated": "Friday 25 September 2026 15:06 SGT",
+  "generated": "Friday 25 September 2026 20:46 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
@@ -13,6 +13,12 @@
     },
     "Team 2": {
       "blockers": [
+        {
+          "author": "mufor.",
+          "content": "if u have any improvements and find any problems, lmk. If not, we can prepare presentation",
+          "ts_str": "2026-09-25 08:45:35",
+          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1552964274350194789"
+        },
         {
           "author": "mufor.",
           "content": "<@738757785013190676> powerpoint I'm done, can u check? if u have any improvements and find any problems. plz lmk",
