@@ -1,5 +1,5 @@
 {
-  "generated": "Sunday 27 September 2026 00:42 SGT",
+  "generated": "Sunday 27 September 2026 03:26 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
@@ -63,6 +63,18 @@
     "Team 4": {
       "blockers": [
         {
+          "author": "shiro_0272902",
+          "content": "Cuz some cannot use it there is no permission for them to edit",
+          "ts_str": "2026-09-26 18:41:34",
+          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1553476646017830934"
+        },
+        {
+          "author": "axey_125",
+          "content": "I can't give you the access because I'm not the admin",
+          "ts_str": "2026-09-26 17:27:13",
+          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1553457936045580388"
+        },
+        {
           "author": "axey_125",
           "content": "Table Data:\n\nChatGPT: Call = Bullish (Target: ~7,790.00), Confidence = Medium-High (75%)\n\nGemini: Call = Bullish (Target: 7,780.00 \u2014 Team Final), Confidence = High (80%)\n\nDeepSeek: Call = Slightly Bul",
           "ts_str": "2026-09-26 09:12:55",
@@ -79,12 +91,6 @@
           "content": "I understand that not everyone checks Discord frequently. Could you please add me on WhatsApp? That way, I can try to reach you if there is any urgent information.",
           "ts_str": "2026-09-26 05:49:02",
           "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1553282229793202328"
-        },
-        {
-          "author": "hjy987._44307",
-          "content": "Why can't I edit in Figma?",
-          "ts_str": "2026-09-25 18:20:10",
-          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1553108873383248073"
         }
       ]
     },
