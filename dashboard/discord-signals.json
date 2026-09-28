@@ -1,5 +1,5 @@
 {
-  "generated": "Monday 28 September 2026 14:55 SGT",
+  "generated": "Monday 28 September 2026 23:18 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
@@ -51,6 +51,12 @@
     "Team 4": {
       "blockers": [
         {
+          "author": "axey_125",
+          "content": "Hello <@1390282790314184808>, Where are the Sprint 4 tasks in the sprint website? I still can't see it",
+          "ts_str": "2026-09-28 07:13:07",
+          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1554028168552120361"
+        },
+        {
           "author": "estelle_wen_05110",
           "content": "Sorry I also can\u2019t edit the FigJam. Could you help me to add my R4 card and name for me? Thanks!",
           "ts_str": "2026-09-27 06:42:16",
@@ -73,12 +79,6 @@
           "content": "I can't give you the access because I'm not the admin",
           "ts_str": "2026-09-26 17:27:13",
           "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1553457936045580388"
-        },
-        {
-          "author": "axey_125",
-          "content": "Table Data:\n\nChatGPT: Call = Bullish (Target: ~7,790.00), Confidence = Medium-High (75%)\n\nGemini: Call = Bullish (Target: 7,780.00 \u2014 Team Final), Confidence = High (80%)\n\nDeepSeek: Call = Slightly Bul",
-          "ts_str": "2026-09-26 09:12:55",
-          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1553333542031728731"
         }
       ]
     },
