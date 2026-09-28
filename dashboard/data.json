@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28 15:19 UTC",
+  "updated": "2026-09-28 21:18 UTC",
   "sprint_tag": "vW30",
   "sprint_deadline_utc": "2026-07-26T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W30",
@@ -266,19 +266,8 @@
       "open_prs": 0,
       "pr_titles": [],
       "pr_links": [],
-      "days_since_commit": 20,
-      "contributors": [
-        {
-          "name": "The Bao Le",
-          "login": "The-Bao-Le",
-          "kind": "human",
-          "commits": 6,
-          "latest_date": "2026-09-07 19:12",
-          "latest_msg": "Update webpage_auto_pipeline.yml",
-          "latest_sha": "db321ad",
-          "latest_url": "https://github.com/LuJunwen212/CP3405-Project/commit/db321adc887d1149e389761b12306ee6315a5d26"
-        }
-      ],
+      "days_since_commit": 21,
+      "contributors": [],
       "pr_history": {
         "total": 32,
         "merged": 26,
