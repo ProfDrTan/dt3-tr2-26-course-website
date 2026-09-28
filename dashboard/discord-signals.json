@@ -1,8 +1,14 @@
 {
-  "generated": "Monday 28 September 2026 06:23 SGT",
+  "generated": "Monday 28 September 2026 09:06 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
+        {
+          "author": "ayephyuss",
+          "content": "No problem. Takecare of urself. Get well soon teammate",
+          "ts_str": "2026-09-28 00:11:54",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1553922163797528657"
+        },
         {
           "author": "qiu0181",
           "content": "<@710506116441702504>I'm stuck on that annoying \"verification required\" step; I tried to verify, but for some reason, it failed. Could you please move R6 to the final \"Done\" section for me? Thanks.",
@@ -26,12 +32,6 @@
           "content": "I think the issue is that you opened index.html directly as a local file.\nPlease open the whole project in VS Code and use Live Server to open frontend/index.html.\nThe URL should look like http://127.",
           "ts_str": "2026-09-27 06:08:30",
           "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1553649518199709736"
-        },
-        {
-          "author": "hawlermathew",
-          "content": "i will help",
-          "ts_str": "2026-09-26 12:25:01",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1553381882719244349"
         }
       ]
     },
