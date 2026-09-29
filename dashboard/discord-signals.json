@@ -1,5 +1,5 @@
 {
-  "generated": "Tuesday 29 September 2026 09:04 SGT",
+  "generated": "Tuesday 29 September 2026 14:55 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
@@ -8,30 +8,6 @@
           "content": "No problem. Takecare of urself. Get well soon teammate",
           "ts_str": "2026-09-28 00:11:54",
           "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1553922163797528657"
-        },
-        {
-          "author": "qiu0181",
-          "content": "<@710506116441702504>I'm stuck on that annoying \"verification required\" step; I tried to verify, but for some reason, it failed. Could you please move R6 to the final \"Done\" section for me? Thanks.",
-          "ts_str": "2026-09-27 06:28:43",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1553654607379562568"
-        },
-        {
-          "author": "qiu0181",
-          "content": "<@710506116441702504>I want to add some information, but I can't edit it.",
-          "ts_str": "2026-09-27 06:18:46",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1553652100028956745"
-        },
-        {
-          "author": "zhang_41520",
-          "content": "<@927069413088309298>You can download my R5 branch from GitHub by clicking Code \u2192 Download ZIP, as shown in the screenshot.\nAfter downloading, unzip the folder and open the whole project folder in VS ",
-          "ts_str": "2026-09-27 06:16:52",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1553651623098716220"
-        },
-        {
-          "author": "zhang_41520",
-          "content": "I think the issue is that you opened index.html directly as a local file.\nPlease open the whole project in VS Code and use Live Server to open frontend/index.html.\nThe URL should look like http://127.",
-          "ts_str": "2026-09-27 06:08:30",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1553649518199709736"
         }
       ]
     },
@@ -46,7 +22,14 @@
       ]
     },
     "Team 3": {
-      "blockers": []
+      "blockers": [
+        {
+          "author": "ying73",
+          "content": "u send to the wrong server man",
+          "ts_str": "2026-09-29 05:54:35",
+          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1554370789384658975"
+        }
+      ]
     },
     "Team 4": {
       "blockers": [
@@ -55,18 +38,6 @@
           "content": "Hello <@1390282790314184808>, Where are the Sprint 4 tasks in the sprint website? I still can't see it",
           "ts_str": "2026-09-28 07:13:07",
           "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1554028168552120361"
-        },
-        {
-          "author": "estelle_wen_05110",
-          "content": "Sorry I also can\u2019t edit the FigJam. Could you help me to add my R4 card and name for me? Thanks!",
-          "ts_str": "2026-09-27 06:42:16",
-          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1553658017524752425"
-        },
-        {
-          "author": "alanmusk_01429",
-          "content": "OK, I still can not edit the figjam, could you help me to write these card, I will direct message to you",
-          "ts_str": "2026-09-27 06:35:23",
-          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1553656281955434560"
         }
       ]
     },
