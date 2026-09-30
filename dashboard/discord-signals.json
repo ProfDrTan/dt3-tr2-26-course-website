@@ -1,31 +1,37 @@
 {
-  "generated": "Wednesday 30 September 2026 10:08 SGT",
+  "generated": "Wednesday 30 September 2026 16:34 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
         {
+          "author": "qiu0181",
+          "content": "<@927069413088309298>## R5 \u2014 Shihao Qiu\n- Done so far:\n  - Refactored and cleaned up the file structure for `ui/index.html` to serve as the main dashboard.\n  - Built and refreshed panels for Roles, Gi",
+          "ts_str": "2026-09-30 08:29:35",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1554772185308995626"
+        },
+        {
+          "author": "wailinnthaw",
+          "content": "pls check is it okay or not???  if i did wrong, can advise",
+          "ts_str": "2026-09-30 07:13:43",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1554753093441163277"
+        },
+        {
           "author": "ayephyuss",
-          "content": "I am also doing Almanac_Analysis. \n\nR2 tasks like \"macro outputs covering all three markets, committed before the LLMs are queried.\" could be done by Friday\n\nJQ can you help me to do with the other R2",
-          "ts_str": "2026-09-29 14:25:54",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1554499468156739706"
+          "content": "Yes I think u should push \n<@776049160369209355> and\n<@1549710124292251683> \n\nCan you 2 help to change ?\nif we have to change something else in the predictions/vW4.\n\nI\u2019m not good at health condition b",
+          "ts_str": "2026-09-30 06:05:53",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1554736023013953586"
         },
         {
-          "author": "hawlermathew",
-          "content": "the ui is the most urgent now",
-          "ts_str": "2026-09-29 14:06:37",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1554494615183163433"
+          "author": "busy_swan_05684",
+          "content": "Should I put it on GitHub? Or will some kind person help me fill it in?",
+          "ts_str": "2026-09-30 05:57:28",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1554733905272242258"
         },
         {
-          "author": "hawlermathew",
-          "content": "|| ask AI for help in coding if it does not help then ask me hehe ||",
-          "ts_str": "2026-09-29 13:44:33",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1554489063644332167"
-        },
-        {
-          "author": "hawlermathew",
-          "content": "due to the urgent of this sprint",
-          "ts_str": "2026-09-29 11:01:38",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1554448063987454083"
+          "author": "busy_swan_05684",
+          "content": "## R2 \u2014 jiaqiwang214\n\nCompleted the Almanac and Macro analysis for S&P 500, Nasdaq-100, and Gold. We have identified the main seasonal and macro signals for all three markets.\n\nThe final S&P 500 Frida",
+          "ts_str": "2026-09-30 05:56:47",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1554733734568132739"
         }
       ]
     },
@@ -43,14 +49,7 @@
       ]
     },
     "Team 4": {
-      "blockers": [
-        {
-          "author": "axey_125",
-          "content": "Hello <@1390282790314184808>, Where are the Sprint 4 tasks in the sprint website? I still can't see it",
-          "ts_str": "2026-09-28 07:13:07",
-          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1554028168552120361"
-        }
-      ]
+      "blockers": []
     },
     "Team 5": {
       "blockers": []
