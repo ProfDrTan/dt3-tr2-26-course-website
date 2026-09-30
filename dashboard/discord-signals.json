@@ -1,37 +1,37 @@
 {
-  "generated": "Wednesday 30 September 2026 16:34 SGT",
+  "generated": "Wednesday 30 September 2026 23:20 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
+        {
+          "author": "hawlermathew",
+          "content": "i will help with updating the predictions",
+          "ts_str": "2026-09-30 13:13:58",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1554843753703809079"
+        },
+        {
+          "author": "sololeveller233637",
+          "content": "for pinky but not an issue though",
+          "ts_str": "2026-09-30 12:44:57",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1554836452079046707"
+        },
+        {
+          "author": "hawlermathew",
+          "content": "the backend and frontend was a bit wrong move of mine lol...",
+          "ts_str": "2026-09-30 12:35:04",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1554833965804683386"
+        },
+        {
+          "author": "wailinnthaw",
+          "content": "Can\u2019t login for now got error",
+          "ts_str": "2026-09-30 11:33:38",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1554818502492299346"
+        },
         {
           "author": "qiu0181",
           "content": "<@927069413088309298>## R5 \u2014 Shihao Qiu\n- Done so far:\n  - Refactored and cleaned up the file structure for `ui/index.html` to serve as the main dashboard.\n  - Built and refreshed panels for Roles, Gi",
           "ts_str": "2026-09-30 08:29:35",
           "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1554772185308995626"
-        },
-        {
-          "author": "wailinnthaw",
-          "content": "pls check is it okay or not???  if i did wrong, can advise",
-          "ts_str": "2026-09-30 07:13:43",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1554753093441163277"
-        },
-        {
-          "author": "ayephyuss",
-          "content": "Yes I think u should push \n<@776049160369209355> and\n<@1549710124292251683> \n\nCan you 2 help to change ?\nif we have to change something else in the predictions/vW4.\n\nI\u2019m not good at health condition b",
-          "ts_str": "2026-09-30 06:05:53",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1554736023013953586"
-        },
-        {
-          "author": "busy_swan_05684",
-          "content": "Should I put it on GitHub? Or will some kind person help me fill it in?",
-          "ts_str": "2026-09-30 05:57:28",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1554733905272242258"
-        },
-        {
-          "author": "busy_swan_05684",
-          "content": "## R2 \u2014 jiaqiwang214\n\nCompleted the Almanac and Macro analysis for S&P 500, Nasdaq-100, and Gold. We have identified the main seasonal and macro signals for all three markets.\n\nThe final S&P 500 Frida",
-          "ts_str": "2026-09-30 05:56:47",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1554733734568132739"
         }
       ]
     },
@@ -40,6 +40,12 @@
     },
     "Team 3": {
       "blockers": [
+        {
+          "author": "27ccc_",
+          "content": "Nasdaq-100 prediction: 30,400. Reason: The Nasdaq-100 failed to stay above the recent 30,700 resistance area and fell back toward 30,300, which shows weaker short-term momentum, so I expect the index ",
+          "ts_str": "2026-09-30 11:14:05",
+          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1554813586054844457"
+        },
         {
           "author": "ying73",
           "content": "u send to the wrong server man",
