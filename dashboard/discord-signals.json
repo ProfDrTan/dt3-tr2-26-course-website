@@ -1,5 +1,5 @@
 {
-  "generated": "Thursday 01 October 2026 19:49 SGT",
+  "generated": "Friday 02 October 2026 01:46 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
@@ -56,7 +56,14 @@
       ]
     },
     "Team 4": {
-      "blockers": []
+      "blockers": [
+        {
+          "author": "jahanvi.10_37766",
+          "content": "lemme know if you need any kind of help",
+          "ts_str": "2026-10-01 13:11:24",
+          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1555205495243931700"
+        }
+      ]
     },
     "Team 5": {
       "blockers": []
