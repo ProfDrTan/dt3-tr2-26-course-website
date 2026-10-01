@@ -1,8 +1,14 @@
 {
-  "generated": "Thursday 01 October 2026 13:39 SGT",
+  "generated": "Thursday 01 October 2026 19:49 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
+        {
+          "author": "hawlermathew",
+          "content": "no problem",
+          "ts_str": "2026-10-01 06:24:12",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1555103021413834803"
+        },
         {
           "author": "zhang_41520",
           "content": "Okay, we will resolve this issue.",
@@ -26,17 +32,18 @@
           "content": "for jason to make more commit i think u can help with R6s",
           "ts_str": "2026-10-01 04:34:38",
           "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1555075447098974430"
-        },
-        {
-          "author": "hawlermathew",
-          "content": "i would also suggest this workflow since it will help R1s a lot",
-          "ts_str": "2026-10-01 04:08:13",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1555068799479193621"
         }
       ]
     },
     "Team 2": {
-      "blockers": []
+      "blockers": [
+        {
+          "author": "haewon00_95831",
+          "content": "SPX was 7790 predicted vs 7743.41 actual, so the error was 46.59 points (0.60%) and the direction was correct.",
+          "ts_str": "2026-10-01 10:40:10",
+          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1555167438453346356"
+        }
+      ]
     },
     "Team 3": {
       "blockers": [
@@ -45,12 +52,6 @@
           "content": "Nasdaq-100 prediction: 30,400. Reason: The Nasdaq-100 failed to stay above the recent 30,700 resistance area and fell back toward 30,300, which shows weaker short-term momentum, so I expect the index ",
           "ts_str": "2026-09-30 11:14:05",
           "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1554813586054844457"
-        },
-        {
-          "author": "ying73",
-          "content": "u send to the wrong server man",
-          "ts_str": "2026-09-29 05:54:35",
-          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1554370789384658975"
         }
       ]
     },
