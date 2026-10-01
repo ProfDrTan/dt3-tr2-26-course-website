@@ -1,37 +1,37 @@
 {
-  "generated": "Thursday 01 October 2026 07:55 SGT",
+  "generated": "Thursday 01 October 2026 13:39 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
         {
-          "author": "hawlermathew",
-          "content": "i will help with updating the predictions",
-          "ts_str": "2026-09-30 13:13:58",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1554843753703809079"
-        },
-        {
-          "author": "sololeveller233637",
-          "content": "for pinky but not an issue though",
-          "ts_str": "2026-09-30 12:44:57",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1554836452079046707"
+          "author": "zhang_41520",
+          "content": "Okay, we will resolve this issue.",
+          "ts_str": "2026-10-01 05:25:33",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1555088259032555524"
         },
         {
           "author": "hawlermathew",
-          "content": "the backend and frontend was a bit wrong move of mine lol...",
-          "ts_str": "2026-09-30 12:35:04",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1554833965804683386"
+          "content": "the second issue is that the updated date is the same everytime u update github_activity.json daily (it should be different!)",
+          "ts_str": "2026-10-01 05:15:53",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1555085827980132366"
         },
         {
-          "author": "wailinnthaw",
-          "content": "Can\u2019t login for now got error",
-          "ts_str": "2026-09-30 11:33:38",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1554818502492299346"
+          "author": "hawlermathew",
+          "content": "hey <@1549946386441699400> and <@1550140586340913235>, i noticed some errors in github_activity.json output",
+          "ts_str": "2026-10-01 05:13:23",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1555085197169532970"
         },
         {
-          "author": "qiu0181",
-          "content": "<@927069413088309298>## R5 \u2014 Shihao Qiu\n- Done so far:\n  - Refactored and cleaned up the file structure for `ui/index.html` to serve as the main dashboard.\n  - Built and refreshed panels for Roles, Gi",
-          "ts_str": "2026-09-30 08:29:35",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1554772185308995626"
+          "author": "hawlermathew",
+          "content": "for jason to make more commit i think u can help with R6s",
+          "ts_str": "2026-10-01 04:34:38",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1555075447098974430"
+        },
+        {
+          "author": "hawlermathew",
+          "content": "i would also suggest this workflow since it will help R1s a lot",
+          "ts_str": "2026-10-01 04:08:13",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1555068799479193621"
         }
       ]
     },
