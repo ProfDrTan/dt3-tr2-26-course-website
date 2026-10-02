@@ -1,8 +1,14 @@
 {
-  "generated": "Friday 02 October 2026 22:07 SGT",
+  "generated": "Saturday 03 October 2026 03:19 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
+        {
+          "author": "sololeveller233637",
+          "content": "<@927069413088309298> can u do the commit my laptop is not working idk why",
+          "ts_str": "2026-10-02 15:16:49",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1555599447143092265"
+        },
         {
           "author": "ayephyuss",
           "content": "Hey guys, I haven\u2019t been feeling well since Tuesday. I\u2019ve got a really bad flu and cold, along with anaemia. I thought medicine would help, but I\u2019m still unwell and need to go to the hospital tonight.",
@@ -26,12 +32,6 @@
           "content": "the second issue is that the updated date is the same everytime u update github_activity.json daily (it should be different!)",
           "ts_str": "2026-10-01 05:15:53",
           "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1555085827980132366"
-        },
-        {
-          "author": "hawlermathew",
-          "content": "hey <@1549946386441699400> and <@1550140586340913235>, i noticed some errors in github_activity.json output",
-          "ts_str": "2026-10-01 05:13:23",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1555085197169532970"
         }
       ]
     },
@@ -50,6 +50,12 @@
     },
     "Team 4": {
       "blockers": [
+        {
+          "author": "alanmusk_01429",
+          "content": "Hi everyone, I\u2019ve pushed the Sprint 4 dashboard. I need the following files to complete the Human Score and connect the dashboard panels.\n\nChen LiDan \u2014 R2: Please share your SPX prediction and reasoni",
+          "ts_str": "2026-10-02 17:28:29",
+          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1555632582098686054"
+        },
         {
           "author": "jahanvi.10_37766",
           "content": "lemme know if you need any kind of help",
