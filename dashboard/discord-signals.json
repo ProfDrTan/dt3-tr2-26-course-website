@@ -1,37 +1,37 @@
 {
-  "generated": "Saturday 03 October 2026 09:58 SGT",
+  "generated": "Saturday 03 October 2026 15:58 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
         {
-          "author": "sololeveller233637",
-          "content": "<@927069413088309298> can u do the commit my laptop is not working idk why",
-          "ts_str": "2026-10-02 15:16:49",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1555599447143092265"
-        },
-        {
-          "author": "ayephyuss",
-          "content": "Hey guys, I haven\u2019t been feeling well since Tuesday. I\u2019ve got a really bad flu and cold, along with anaemia. I thought medicine would help, but I\u2019m still unwell and need to go to the hospital tonight.",
-          "ts_str": "2026-10-02 10:20:19",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1555524829048868896"
+          "author": "qiu0181",
+          "content": "I have updated the GitHub activity data. As for the \"unexpected token\" error, it was caused by two extra commas in a .json file; I encountered the same issue earlier but have since resolved it.",
+          "ts_str": "2026-10-03 03:28:25",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1555783559086604351"
         },
         {
           "author": "hawlermathew",
-          "content": "no problem",
-          "ts_str": "2026-10-01 06:24:12",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1555103021413834803"
-        },
-        {
-          "author": "zhang_41520",
-          "content": "Okay, we will resolve this issue.",
-          "ts_str": "2026-10-01 05:25:33",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1555088259032555524"
+          "content": "i will help commit with delta and prescription",
+          "ts_str": "2026-10-03 03:17:35",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1555780834206814219"
         },
         {
           "author": "hawlermathew",
-          "content": "the second issue is that the updated date is the same everytime u update github_activity.json daily (it should be different!)",
-          "ts_str": "2026-10-01 05:15:53",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1555085827980132366"
+          "content": "then ig from that u see error soon",
+          "ts_str": "2026-10-03 02:16:22",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1555765427064283196"
+        },
+        {
+          "author": "hawlermathew",
+          "content": "i think the issue here is that",
+          "ts_str": "2026-10-03 02:14:16",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1555764898632568833"
+        },
+        {
+          "author": "hawlermathew",
+          "content": "predictions, human score and llm-synthesis just gone too \ud83d\ude2d",
+          "ts_str": "2026-10-03 02:07:58",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1555763313940631654"
         }
       ]
     },
