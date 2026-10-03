@@ -1,5 +1,5 @@
 {
-  "generated": "Saturday 03 October 2026 15:58 SGT",
+  "generated": "Saturday 03 October 2026 21:17 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
@@ -38,15 +38,22 @@
     "Team 2": {
       "blockers": [
         {
-          "author": "haewon00_95831",
-          "content": "SPX was 7790 predicted vs 7743.41 actual, so the error was 46.59 points (0.60%) and the direction was correct.",
-          "ts_str": "2026-10-01 10:40:10",
-          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1555167438453346356"
+          "author": "mufor.",
+          "content": "<@1551423722689265805> your file first line of the file cannot be the word 'JSON'",
+          "ts_str": "2026-10-03 11:14:58",
+          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1555900969735430175"
         }
       ]
     },
     "Team 3": {
-      "blockers": []
+      "blockers": [
+        {
+          "author": "persitatu",
+          "content": "R2 Review \u2014 Sprint 4\nR2 completed the seasonal and macro analysis and proposed an SPX closing level of 7,630 with low confidence. Rising yields supported a cautious outlook, while improving October se",
+          "ts_str": "2026-10-03 12:04:10",
+          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1555913350573985884"
+        }
+      ]
     },
     "Team 4": {
       "blockers": [
@@ -55,12 +62,6 @@
           "content": "Hi everyone, I\u2019ve pushed the Sprint 4 dashboard. I need the following files to complete the Human Score and connect the dashboard panels.\n\nChen LiDan \u2014 R2: Please share your SPX prediction and reasoni",
           "ts_str": "2026-10-02 17:28:29",
           "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1555632582098686054"
-        },
-        {
-          "author": "jahanvi.10_37766",
-          "content": "lemme know if you need any kind of help",
-          "ts_str": "2026-10-01 13:11:24",
-          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1555205495243931700"
         }
       ]
     },
