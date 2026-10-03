@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02 23:06 UTC",
+  "updated": "2026-10-03 01:58 UTC",
   "sprint_tag": "vW30",
   "sprint_deadline_utc": "2026-07-26T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W30",
@@ -450,11 +450,11 @@
       "repo": "juninho4/Team-3-Practical-A-CP3405",
       "prac": "A",
       "is_ultra": false,
-      "last_commit_sha": "ef6d649",
+      "last_commit_sha": "4521379",
       "last_commit_msg": "chore: update weekly market output [skip ci]",
-      "last_commit_date": "2026-09-26 00:46",
+      "last_commit_date": "2026-10-03 01:18",
       "last_commit_author": "github-actions[bot]",
-      "last_commit_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/ef6d6492e6cc5be0cf5f46c87426e093d8f7cf15",
+      "last_commit_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/45213798cf77247fd527c581f3ad14a1d85d8a7a",
       "tags": [
         "vW31",
         "vW30",
@@ -469,23 +469,23 @@
       "sprint_tag_present": true,
       "last_run_name": "Run Market Intelligence",
       "last_run_conclusion": "success",
-      "last_run_date": "2026-09-26 00:44",
-      "last_run_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/actions/runs/36205960975",
+      "last_run_date": "2026-10-03 01:16",
+      "last_run_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/actions/runs/37085473409",
       "last_run_was_filtered": true,
       "open_prs": 0,
       "pr_titles": [],
       "pr_links": [],
-      "days_since_commit": 6,
+      "days_since_commit": 0,
       "contributors": [
         {
           "name": "github-actions[bot]",
           "login": "github-actions[bot]",
           "kind": "bot",
           "commits": 3,
-          "latest_date": "2026-09-26 00:46",
+          "latest_date": "2026-10-03 01:18",
           "latest_msg": "chore: update weekly market output [skip ci]",
-          "latest_sha": "ef6d649",
-          "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/ef6d6492e6cc5be0cf5f46c87426e093d8f7cf15"
+          "latest_sha": "4521379",
+          "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/45213798cf77247fd527c581f3ad14a1d85d8a7a"
         }
       ],
       "pr_history": {
@@ -499,7 +499,7 @@
       "midweek_artefact": {
         "present": true,
         "path": "vW30/standup_midweek_W30.md",
-        "url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/blob/ef6d6492e6cc5be0cf5f46c87426e093d8f7cf15/vW30/standup_midweek_W30.md"
+        "url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/blob/45213798cf77247fd527c581f3ad14a1d85d8a7a/vW30/standup_midweek_W30.md"
       },
       "repo_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405"
     },
@@ -528,8 +528,8 @@
       "sprint_tag_present": true,
       "last_run_name": "Auto Prediction",
       "last_run_conclusion": "failure",
-      "last_run_date": "2026-09-25 23:06",
-      "last_run_url": "https://github.com/wintwah-lwin/CP3405_Group_4/actions/runs/36199700845",
+      "last_run_date": "2026-10-02 23:33",
+      "last_run_url": "https://github.com/wintwah-lwin/CP3405_Group_4/actions/runs/37078183529",
       "last_run_was_filtered": true,
       "open_prs": 0,
       "pr_titles": [],
@@ -605,11 +605,11 @@
       "repo": "Gong-yinxuan/CP3405",
       "prac": "B",
       "is_ultra": false,
-      "last_commit_sha": "90c2a9d",
-      "last_commit_msg": "chore: update Prism data 2026-10-01",
-      "last_commit_date": "2026-10-01 04:59",
+      "last_commit_sha": "18dbc2d",
+      "last_commit_msg": "chore: update Prism data 2026-10-03",
+      "last_commit_date": "2026-10-03 00:52",
       "last_commit_author": "github-actions[bot]",
-      "last_commit_url": "https://github.com/Gong-yinxuan/CP3405/commit/90c2a9dcb01571a9531fb3429b2fd6ecf3a7336c",
+      "last_commit_url": "https://github.com/Gong-yinxuan/CP3405/commit/18dbc2d4e294255406e787b935fcd89214dd9d45",
       "tags": [
         "vW31",
         "vW30",
@@ -622,23 +622,23 @@
       "sprint_tag_present": true,
       "last_run_name": "Update Market Data",
       "last_run_conclusion": "success",
-      "last_run_date": "2026-10-01 04:58",
-      "last_run_url": "https://github.com/Gong-yinxuan/CP3405/actions/runs/36817615156",
+      "last_run_date": "2026-10-03 00:52",
+      "last_run_url": "https://github.com/Gong-yinxuan/CP3405/actions/runs/37083857122",
       "last_run_was_filtered": true,
       "open_prs": 0,
       "pr_titles": [],
       "pr_links": [],
-      "days_since_commit": 1,
+      "days_since_commit": 0,
       "contributors": [
         {
           "name": "github-actions[bot]",
           "login": "github-actions[bot]",
           "kind": "bot",
           "commits": 7,
-          "latest_date": "2026-10-01 04:59",
-          "latest_msg": "chore: update Prism data 2026-10-01",
-          "latest_sha": "90c2a9d",
-          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/90c2a9dcb01571a9531fb3429b2fd6ecf3a7336c"
+          "latest_date": "2026-10-03 00:52",
+          "latest_msg": "chore: update Prism data 2026-10-03",
+          "latest_sha": "18dbc2d",
+          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/18dbc2d4e294255406e787b935fcd89214dd9d45"
         }
       ],
       "pr_history": {
@@ -741,7 +741,7 @@
       "midweek_artefact": {
         "present": true,
         "path": "Week8/R2_Scrum_Master/standup_midweek_W30.md",
-        "url": "https://github.com/Gong-yinxuan/CP3405/blob/90c2a9dcb01571a9531fb3429b2fd6ecf3a7336c/Week8/R2_Scrum_Master/standup_midweek_W30.md"
+        "url": "https://github.com/Gong-yinxuan/CP3405/blob/18dbc2d4e294255406e787b935fcd89214dd9d45/Week8/R2_Scrum_Master/standup_midweek_W30.md"
       },
       "repo_url": "https://github.com/Gong-yinxuan/CP3405"
     },
