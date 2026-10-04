@@ -1,5 +1,5 @@
 {
-  "generated": "Sunday 04 October 2026 16:50 SGT",
+  "generated": "Sunday 04 October 2026 22:32 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
@@ -60,6 +60,24 @@
     "Team 3": {
       "blockers": [
         {
+          "author": "wilil_20",
+          "content": "But the problem is I can\u2019t join you guys for presentation,",
+          "ts_str": "2026-10-04 13:47:41",
+          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1556301790297981019"
+        },
+        {
+          "author": "alexlee149",
+          "content": "I can help you to finish thepresentation",
+          "ts_str": "2026-10-04 13:46:24",
+          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1556301469009846398"
+        },
+        {
+          "author": "wilil_20",
+          "content": "Hi Guys, I apologize for not being able to join the presentation tomorrow due to I got a personal family problem, so  I\u2019m currently still in Indonesia and won't arrive in Singapore until tomorrow even",
+          "ts_str": "2026-10-04 13:44:02",
+          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1556300872282275903"
+        },
+        {
           "author": "persitatu",
           "content": "R5 \u2014 To Do (YU WENHAO), Sprint 4. My tasks are to review the team\u2019s market predictions, write the human score reasoning and wild card, and prepare the R5 dashboard sections for roles, predictions, mod",
           "ts_str": "2026-10-03 15:12:58",
@@ -75,6 +93,30 @@
     },
     "Team 4": {
       "blockers": [
+        {
+          "author": "shiro_0272902",
+          "content": "i just want to delete my commit and recommit again and i did the wrong part",
+          "ts_str": "2026-10-04 13:49:08",
+          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1556302156305530971"
+        },
+        {
+          "author": "estelle_wen_05110",
+          "content": "How can I help you? Do you still have the original file on your computer",
+          "ts_str": "2026-10-04 13:48:59",
+          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1556302117352902746"
+        },
+        {
+          "author": "shiro_0272902",
+          "content": "i deleted wrong part",
+          "ts_str": "2026-10-04 13:47:59",
+          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1556301865862430744"
+        },
+        {
+          "author": "shiro_0272902",
+          "content": "can u guys help me to recreate and put the data again i deleted wrong file",
+          "ts_str": "2026-10-04 13:44:46",
+          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1556301055522902067"
+        },
         {
           "author": "alanmusk_01429",
           "content": "Hi everyone, I\u2019ve pushed the Sprint 4 dashboard. I need the following files to complete the Human Score and connect the dashboard panels.\n\nChen LiDan \u2014 R2: Please share your SPX prediction and reasoni",
