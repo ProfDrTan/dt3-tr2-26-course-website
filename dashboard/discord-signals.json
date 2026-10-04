@@ -1,5 +1,5 @@
 {
-  "generated": "Sunday 04 October 2026 22:32 SGT",
+  "generated": "Monday 05 October 2026 02:20 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
@@ -94,6 +94,12 @@
     "Team 4": {
       "blockers": [
         {
+          "author": "alanmusk_01429",
+          "content": "I will help you",
+          "ts_str": "2026-10-04 15:27:14",
+          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1556326840807719015"
+        },
+        {
           "author": "shiro_0272902",
           "content": "i just want to delete my commit and recommit again and i did the wrong part",
           "ts_str": "2026-10-04 13:49:08",
@@ -116,12 +122,6 @@
           "content": "can u guys help me to recreate and put the data again i deleted wrong file",
           "ts_str": "2026-10-04 13:44:46",
           "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1556301055522902067"
-        },
-        {
-          "author": "alanmusk_01429",
-          "content": "Hi everyone, I\u2019ve pushed the Sprint 4 dashboard. I need the following files to complete the Human Score and connect the dashboard panels.\n\nChen LiDan \u2014 R2: Please share your SPX prediction and reasoni",
-          "ts_str": "2026-10-02 17:28:29",
-          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1555632582098686054"
         }
       ]
     },
