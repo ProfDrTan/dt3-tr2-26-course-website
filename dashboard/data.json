@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05 14:25 UTC",
+  "updated": "2026-10-05 21:36 UTC",
   "sprint_tag": "vW30",
   "sprint_deadline_utc": "2026-07-26T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W30",
@@ -266,7 +266,7 @@
       "open_prs": 0,
       "pr_titles": [],
       "pr_links": [],
-      "days_since_commit": 27,
+      "days_since_commit": 28,
       "contributors": [],
       "pr_history": {
         "total": 32,
