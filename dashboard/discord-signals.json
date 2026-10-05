@@ -1,39 +1,8 @@
 {
-  "generated": "Monday 05 October 2026 08:16 SGT",
+  "generated": "Monday 05 October 2026 13:57 SGT",
   "teams": {
     "Team 1": {
-      "blockers": [
-        {
-          "author": "qiu0181",
-          "content": "I have updated the GitHub activity data. As for the \"unexpected token\" error, it was caused by two extra commas in a .json file; I encountered the same issue earlier but have since resolved it.",
-          "ts_str": "2026-10-03 03:28:25",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1555783559086604351"
-        },
-        {
-          "author": "hawlermathew",
-          "content": "i will help commit with delta and prescription",
-          "ts_str": "2026-10-03 03:17:35",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1555780834206814219"
-        },
-        {
-          "author": "hawlermathew",
-          "content": "then ig from that u see error soon",
-          "ts_str": "2026-10-03 02:16:22",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1555765427064283196"
-        },
-        {
-          "author": "hawlermathew",
-          "content": "i think the issue here is that",
-          "ts_str": "2026-10-03 02:14:16",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1555764898632568833"
-        },
-        {
-          "author": "hawlermathew",
-          "content": "predictions, human score and llm-synthesis just gone too \ud83d\ude2d",
-          "ts_str": "2026-10-03 02:07:58",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1555763313940631654"
-        }
-      ]
+      "blockers": []
     },
     "Team 2": {
       "blockers": [
@@ -94,34 +63,34 @@
     "Team 4": {
       "blockers": [
         {
+          "author": "jahanvi.10_37766",
+          "content": "if anyone needs any help lemme know, i am free right now...",
+          "ts_str": "2026-10-05 02:55:07",
+          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1556499955961565306"
+        },
+        {
+          "author": "jahanvi.10_37766",
+          "content": "The current Slide 6 is mainly talking about Gold, including the Gold weekly change and Gold review.\nBut according to the professor's Sprint 4 instructions, R4's required delta task is:\nTake our Sprint",
+          "ts_str": "2026-10-05 02:41:43",
+          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1556496580121464904"
+        },
+        {
+          "author": "jahanvi.10_37766",
+          "content": "reply asap",
+          "ts_str": "2026-10-05 02:40:11",
+          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1556496197093556305"
+        },
+        {
+          "author": "axey_125",
+          "content": "You're using the wrong template <@1548926510398840902>",
+          "ts_str": "2026-10-05 01:04:03",
+          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1556472004113207348"
+        },
+        {
           "author": "alanmusk_01429",
           "content": "I will help you",
           "ts_str": "2026-10-04 15:27:14",
           "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1556326840807719015"
-        },
-        {
-          "author": "shiro_0272902",
-          "content": "i just want to delete my commit and recommit again and i did the wrong part",
-          "ts_str": "2026-10-04 13:49:08",
-          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1556302156305530971"
-        },
-        {
-          "author": "estelle_wen_05110",
-          "content": "How can I help you? Do you still have the original file on your computer",
-          "ts_str": "2026-10-04 13:48:59",
-          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1556302117352902746"
-        },
-        {
-          "author": "shiro_0272902",
-          "content": "i deleted wrong part",
-          "ts_str": "2026-10-04 13:47:59",
-          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1556301865862430744"
-        },
-        {
-          "author": "shiro_0272902",
-          "content": "can u guys help me to recreate and put the data again i deleted wrong file",
-          "ts_str": "2026-10-04 13:44:46",
-          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1556301055522902067"
         }
       ]
     },
