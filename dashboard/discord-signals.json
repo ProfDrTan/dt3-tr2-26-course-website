@@ -1,5 +1,5 @@
 {
-  "generated": "Monday 05 October 2026 13:57 SGT",
+  "generated": "Monday 05 October 2026 22:24 SGT",
   "teams": {
     "Team 1": {
       "blockers": []
@@ -17,12 +17,6 @@
           "content": "I don't know why i can't edit this",
           "ts_str": "2026-10-04 02:13:17",
           "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1556127037599522967"
-        },
-        {
-          "author": "mufor.",
-          "content": "<@1551423722689265805> your file first line of the file cannot be the word 'JSON'",
-          "ts_str": "2026-10-03 11:14:58",
-          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1555900969735430175"
         }
       ]
     },
@@ -51,17 +45,17 @@
           "content": "R5 \u2014 To Do (YU WENHAO), Sprint 4. My tasks are to review the team\u2019s market predictions, write the human score reasoning and wild card, and prepare the R5 dashboard sections for roles, predictions, mod",
           "ts_str": "2026-10-03 15:12:58",
           "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1555960864350277877"
-        },
-        {
-          "author": "persitatu",
-          "content": "R2 Review \u2014 Sprint 4\nR2 completed the seasonal and macro analysis and proposed an SPX closing level of 7,630 with low confidence. Rising yields supported a cautious outlook, while improving October se",
-          "ts_str": "2026-10-03 12:04:10",
-          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1555913350573985884"
         }
       ]
     },
     "Team 4": {
       "blockers": [
+        {
+          "author": "axey_125",
+          "content": "Hello guys, I'm taking R1 this time and If you guys need some help or have any questions please contact me anytime \n\nFor the roles for each member, The sprint 5 detail is not out yet so we're going to",
+          "ts_str": "2026-10-05 07:03:06",
+          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1556562361480118303"
+        },
         {
           "author": "jahanvi.10_37766",
           "content": "if anyone needs any help lemme know, i am free right now...",
@@ -85,12 +79,6 @@
           "content": "You're using the wrong template <@1548926510398840902>",
           "ts_str": "2026-10-05 01:04:03",
           "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1556472004113207348"
-        },
-        {
-          "author": "alanmusk_01429",
-          "content": "I will help you",
-          "ts_str": "2026-10-04 15:27:14",
-          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1556326840807719015"
         }
       ]
     },
