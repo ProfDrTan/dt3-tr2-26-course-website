@@ -1,5 +1,5 @@
 {
-  "generated": "Tuesday 06 October 2026 16:52 SGT",
+  "generated": "Tuesday 06 October 2026 23:42 SGT",
   "teams": {
     "Team 1": {
       "blockers": []
@@ -21,29 +21,16 @@
       ]
     },
     "Team 3": {
-      "blockers": [
-        {
-          "author": "wilil_20",
-          "content": "But the problem is I can\u2019t join you guys for presentation,",
-          "ts_str": "2026-10-04 13:47:41",
-          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1556301790297981019"
-        },
-        {
-          "author": "alexlee149",
-          "content": "I can help you to finish thepresentation",
-          "ts_str": "2026-10-04 13:46:24",
-          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1556301469009846398"
-        },
-        {
-          "author": "wilil_20",
-          "content": "Hi Guys, I apologize for not being able to join the presentation tomorrow due to I got a personal family problem, so  I\u2019m currently still in Indonesia and won't arrive in Singapore until tomorrow even",
-          "ts_str": "2026-10-04 13:44:02",
-          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1556300872282275903"
-        }
-      ]
+      "blockers": []
     },
     "Team 4": {
       "blockers": [
+        {
+          "author": "axey_125",
+          "content": "Hi Dr. Tan <@1390282790314184808> , I noticed that our GitHub Actions deployment is failing on the repository because GitHub Pages isn't configured for it yet. Could you please help us update the repo",
+          "ts_str": "2026-10-06 13:53:37",
+          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1557028058152702052"
+        },
         {
           "author": "axey_125",
           "content": "Hello guys, I'm taking R1 this time and If you guys need some help or have any questions please contact me anytime \n\nFor the roles for each member, The sprint 5 detail is not out yet so we're going to",
@@ -67,12 +54,6 @@
           "content": "reply asap",
           "ts_str": "2026-10-05 02:40:11",
           "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1556496197093556305"
-        },
-        {
-          "author": "axey_125",
-          "content": "You're using the wrong template <@1548926510398840902>",
-          "ts_str": "2026-10-05 01:04:03",
-          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1556472004113207348"
         }
       ]
     },
