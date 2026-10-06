@@ -1,5 +1,5 @@
 {
-  "generated": "Tuesday 06 October 2026 09:55 SGT",
+  "generated": "Tuesday 06 October 2026 16:52 SGT",
   "teams": {
     "Team 1": {
       "blockers": []
@@ -7,16 +7,16 @@
     "Team 2": {
       "blockers": [
         {
-          "author": "mufor.",
-          "content": "Can u help me to edit? Im limited by sheer ID, cant do anything",
-          "ts_str": "2026-10-04 04:17:43",
-          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1556158354051833929"
+          "author": "zhangyuxuan0333",
+          "content": "@Sorry, I tagged the wrong person.",
+          "ts_str": "2026-10-06 08:20:40",
+          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1556944271016460379"
         },
         {
-          "author": "mufor.",
-          "content": "I don't know why i can't edit this",
-          "ts_str": "2026-10-04 02:13:17",
-          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1556127037599522967"
+          "author": "1nonlyneon",
+          "content": "Hey guys, just a reminder for our Sprint 5 deadlines so we don't miss anything\n\n\ud83d\udccc Today \u2014 Tue 6 Oct, 11:59 PM\n- R2: Catalyst calendar\n- R1/R5: Roles, GitHub activity/FigJam status and dashboard-relate",
+          "ts_str": "2026-10-06 06:34:49",
+          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1556917630244225135"
         }
       ]
     },
