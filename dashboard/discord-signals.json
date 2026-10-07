@@ -1,5 +1,5 @@
 {
-  "generated": "Wednesday 07 October 2026 21:25 SGT",
+  "generated": "Thursday 08 October 2026 03:28 SGT",
   "teams": {
     "Team 1": {
       "blockers": []
@@ -44,22 +44,34 @@
     "Team 4": {
       "blockers": [
         {
+          "author": "axey_125",
+          "content": "Hello Guys, This is what we're going to do next (Just for double checking all of your work):\n\n# R2 (Catalysts) \u00b7 Thant Zin Tun (Kevin)\n\n1. Deliverables: Created and published the real US economic even",
+          "ts_str": "2026-10-07 17:33:16",
+          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1557445725686865951"
+        },
+        {
+          "author": "meeowoaw",
+          "content": "help me update it. thx \ud83d\ude36",
+          "ts_str": "2026-10-07 16:37:31",
+          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1557431695777468448"
+        },
+        {
+          "author": "axey_125",
+          "content": "<@1298826886188761192> You need any help?",
+          "ts_str": "2026-10-07 16:32:00",
+          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1557430304270979193"
+        },
+        {
+          "author": "axey_125",
+          "content": "oh btw bro you forgot to put your memo in the figjam, if you can't edit it there i can make it for you",
+          "ts_str": "2026-10-07 16:20:28",
+          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1557427402756464714"
+        },
+        {
           "author": "estelle_wen_05110",
           "content": "r4 update: I uploaded Gold prediction to `predictions/vW5.json`, the Sprint 4 error and direction review to `delta/vW5.json`, and weighting recommendations to `prescriptions/vW5.json` on the Team 4 re",
           "ts_str": "2026-10-07 07:15:25",
           "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1557290236344668212"
-        },
-        {
-          "author": "axey_125",
-          "content": "Morning guys, quick briefing for what to do in phases for today:\n\n# PHASE 1:\n# R2 \u00b7 <@622045340098494466>  Kevin (Thant Zin Tun): \n1. Finalize and publish the Catalyst Calendar (catalysts/vW5.json).\n2",
-          "ts_str": "2026-10-06 22:45:14",
-          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1557161844932874332"
-        },
-        {
-          "author": "axey_125",
-          "content": "Hi Dr. Tan <@1390282790314184808> , I noticed that our GitHub Actions deployment is failing on the repository because GitHub Pages isn't configured for it yet. Could you please help us update the repo",
-          "ts_str": "2026-10-06 13:53:37",
-          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1557028058152702052"
         }
       ]
     },
