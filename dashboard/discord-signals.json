@@ -1,5 +1,5 @@
 {
-  "generated": "Wednesday 07 October 2026 04:35 SGT",
+  "generated": "Wednesday 07 October 2026 08:09 SGT",
   "teams": {
     "Team 1": {
       "blockers": []
@@ -27,6 +27,12 @@
       "blockers": [
         {
           "author": "axey_125",
+          "content": "Morning guys, quick briefing for what to do in phases for today:\n\nPHASE 1:\n1. R2 \u00b7 <@622045340098494466>  Kevin (Thant Zin Tun): \n- Finalize and publish the Catalyst Calendar (catalysts/vW5.json).\n- G",
+          "ts_str": "2026-10-06 22:45:14",
+          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1557161844932874332"
+        },
+        {
+          "author": "axey_125",
           "content": "Hi Dr. Tan <@1390282790314184808> , I noticed that our GitHub Actions deployment is failing on the repository because GitHub Pages isn't configured for it yet. Could you please help us update the repo",
           "ts_str": "2026-10-06 13:53:37",
           "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1557028058152702052"
@@ -48,12 +54,6 @@
           "content": "The current Slide 6 is mainly talking about Gold, including the Gold weekly change and Gold review.\nBut according to the professor's Sprint 4 instructions, R4's required delta task is:\nTake our Sprint",
           "ts_str": "2026-10-05 02:41:43",
           "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1556496580121464904"
-        },
-        {
-          "author": "jahanvi.10_37766",
-          "content": "reply asap",
-          "ts_str": "2026-10-05 02:40:11",
-          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1556496197093556305"
         }
       ]
     },
