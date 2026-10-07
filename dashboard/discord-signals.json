@@ -1,11 +1,23 @@
 {
-  "generated": "Wednesday 07 October 2026 14:03 SGT",
+  "generated": "Wednesday 07 October 2026 21:25 SGT",
   "teams": {
     "Team 1": {
       "blockers": []
     },
     "Team 2": {
       "blockers": [
+        {
+          "author": "zhangyuxuan0333",
+          "content": "R2 (SPX): 7810.50     With the S&P 500 having reached actual market highs of 7,773.95 and 7,818.93 on October 5 and 6, 2026, market expectations that the upcoming FOMC meeting minutes would signal a d",
+          "ts_str": "2026-10-07 12:41:04",
+          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1557372187369803808"
+        },
+        {
+          "author": "iaknauxoet",
+          "content": "Role \u2014 R6\nName: Xuan Kai Teo\nGitHub username: xuank0202\nCurrent status: In progress \u2014 reviewing and organizing R2 and R3 outputs. Currently waiting for R2 to fix an issue in their output before procee",
+          "ts_str": "2026-10-07 06:47:38",
+          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1557283245215977587"
+        },
         {
           "author": "haewon00_95831",
           "content": "Role \u2014 R6\nName: Haewon Park\nGitHub username: haewon-1105\nCurrent status: In progress \u2014 reviewing and organizing R2 and R3 outputs. Currently waiting for R2 to fix an issue in their output before proce",
@@ -23,12 +35,6 @@
           "content": "@Sorry, I tagged the wrong person.",
           "ts_str": "2026-10-06 08:20:40",
           "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1556944271016460379"
-        },
-        {
-          "author": "1nonlyneon",
-          "content": "Hey guys, just a reminder for our Sprint 5 deadlines so we don't miss anything\n\n\ud83d\udccc Today \u2014 Tue 6 Oct, 11:59 PM\n- R2: Catalyst calendar\n- R1/R5: Roles, GitHub activity/FigJam status and dashboard-relate",
-          "ts_str": "2026-10-06 06:34:49",
-          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1556917630244225135"
         }
       ]
     },
@@ -37,6 +43,12 @@
     },
     "Team 4": {
       "blockers": [
+        {
+          "author": "estelle_wen_05110",
+          "content": "r4 update: I uploaded Gold prediction to `predictions/vW5.json`, the Sprint 4 error and direction review to `delta/vW5.json`, and weighting recommendations to `prescriptions/vW5.json` on the Team 4 re",
+          "ts_str": "2026-10-07 07:15:25",
+          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1557290236344668212"
+        },
         {
           "author": "axey_125",
           "content": "Morning guys, quick briefing for what to do in phases for today:\n\n# PHASE 1:\n# R2 \u00b7 <@622045340098494466>  Kevin (Thant Zin Tun): \n1. Finalize and publish the Catalyst Calendar (catalysts/vW5.json).\n2",
@@ -48,12 +60,6 @@
           "content": "Hi Dr. Tan <@1390282790314184808> , I noticed that our GitHub Actions deployment is failing on the repository because GitHub Pages isn't configured for it yet. Could you please help us update the repo",
           "ts_str": "2026-10-06 13:53:37",
           "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1557028058152702052"
-        },
-        {
-          "author": "axey_125",
-          "content": "Hello guys, I'm taking R1 this time and If you guys need some help or have any questions please contact me anytime \n\nFor the roles for each member, The sprint 5 detail is not out yet so we're going to",
-          "ts_str": "2026-10-05 07:03:06",
-          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1556562361480118303"
         }
       ]
     },
