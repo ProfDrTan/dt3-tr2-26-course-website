@@ -1,11 +1,23 @@
 {
-  "generated": "Wednesday 07 October 2026 08:09 SGT",
+  "generated": "Wednesday 07 October 2026 14:03 SGT",
   "teams": {
     "Team 1": {
       "blockers": []
     },
     "Team 2": {
       "blockers": [
+        {
+          "author": "haewon00_95831",
+          "content": "Role \u2014 R6\nName: Haewon Park\nGitHub username: haewon-1105\nCurrent status: In progress \u2014 reviewing and organizing R2 and R3 outputs. Currently waiting for R2 to fix an issue in their output before proce",
+          "ts_str": "2026-10-07 03:51:11",
+          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1557238838940794893"
+        },
+        {
+          "author": "1nonlyneon",
+          "content": "Hey guys, just a quick reminder to send me your progress and any blockers for today\u2019s Wednesday check-in by 12 PM. Thanks!",
+          "ts_str": "2026-10-07 03:06:05",
+          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1557227491486343191"
+        },
         {
           "author": "zhangyuxuan0333",
           "content": "@Sorry, I tagged the wrong person.",
@@ -27,7 +39,7 @@
       "blockers": [
         {
           "author": "axey_125",
-          "content": "Morning guys, quick briefing for what to do in phases for today:\n\nPHASE 1:\n1. R2 \u00b7 <@622045340098494466>  Kevin (Thant Zin Tun): \n- Finalize and publish the Catalyst Calendar (catalysts/vW5.json).\n- G",
+          "content": "Morning guys, quick briefing for what to do in phases for today:\n\n# PHASE 1:\n# R2 \u00b7 <@622045340098494466>  Kevin (Thant Zin Tun): \n1. Finalize and publish the Catalyst Calendar (catalysts/vW5.json).\n2",
           "ts_str": "2026-10-06 22:45:14",
           "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1557161844932874332"
         },
@@ -42,18 +54,6 @@
           "content": "Hello guys, I'm taking R1 this time and If you guys need some help or have any questions please contact me anytime \n\nFor the roles for each member, The sprint 5 detail is not out yet so we're going to",
           "ts_str": "2026-10-05 07:03:06",
           "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1556562361480118303"
-        },
-        {
-          "author": "jahanvi.10_37766",
-          "content": "if anyone needs any help lemme know, i am free right now...",
-          "ts_str": "2026-10-05 02:55:07",
-          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1556499955961565306"
-        },
-        {
-          "author": "jahanvi.10_37766",
-          "content": "The current Slide 6 is mainly talking about Gold, including the Gold weekly change and Gold review.\nBut according to the professor's Sprint 4 instructions, R4's required delta task is:\nTake our Sprint",
-          "ts_str": "2026-10-05 02:41:43",
-          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1556496580121464904"
         }
       ]
     },
