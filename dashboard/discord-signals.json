@@ -1,5 +1,5 @@
 {
-  "generated": "Thursday 08 October 2026 18:46 SGT",
+  "generated": "Friday 09 October 2026 01:37 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
@@ -64,10 +64,35 @@
       ]
     },
     "Team 3": {
-      "blockers": []
+      "blockers": [
+        {
+          "author": "27ccc_",
+          "content": "R4 \u2014 Done (LIU QUANDA)\n\nCompleted the Sprint 4 prediction error analysis and calibration.\n\nRecorded the actual market results, calculated the prediction delta and percentage error, and identified whet",
+          "ts_str": "2026-10-08 14:01:51",
+          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1557754905563766785"
+        },
+        {
+          "author": "27ccc_",
+          "content": "R4 \u2014 Review (LIU QUANDA)\n\nSprint 4 error analysis and calibration are complete.\n\nThe calculated delta, percentage error and direction result are ready for team review.\n\nThe evidence is ready for R1 to",
+          "ts_str": "2026-10-08 14:01:48",
+          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1557754892628664411"
+        },
+        {
+          "author": "27ccc_",
+          "content": "R4 \u2014 To Do (LIU QUANDA)\n\nComplete the Sprint 4 prediction error analysis using the previous prediction and actual closing value.\n\nPrepare the Sprint 5 actual market data after Friday\u2019s close.\n\nWork wi",
+          "ts_str": "2026-10-08 14:01:43",
+          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1557754871988494501"
+        }
+      ]
     },
     "Team 4": {
       "blockers": [
+        {
+          "author": "axey_125",
+          "content": "<@1548926510398840902> When I checked your UI, I spotted there's an error there but I fixed it already and I need you to renew/update the index.html in GitHub using my codes",
+          "ts_str": "2026-10-08 15:02:17",
+          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1557770113862733914"
+        },
         {
           "author": "alanmusk_01429",
           "content": "<@816496998588350516> I've run the tracking script and pushed the updated data/github_activity.json to main. Commit: 7494aea.\n\nThe file was already committed, but it now contains the latest activity. ",
@@ -91,12 +116,6 @@
           "content": "<@1298826886188761192> You need any help?",
           "ts_str": "2026-10-07 16:32:00",
           "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1557430304270979193"
-        },
-        {
-          "author": "axey_125",
-          "content": "oh btw bro you forgot to put your memo in the figjam, if you can't edit it there i can make it for you",
-          "ts_str": "2026-10-07 16:20:28",
-          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1557427402756464714"
         }
       ]
     },
