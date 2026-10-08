@@ -1,8 +1,39 @@
 {
-  "generated": "Thursday 08 October 2026 11:16 SGT",
+  "generated": "Thursday 08 October 2026 18:46 SGT",
   "teams": {
     "Team 1": {
-      "blockers": []
+      "blockers": [
+        {
+          "author": "hawlermathew",
+          "content": "now i will do my presentation part and help others with commits if needed",
+          "ts_str": "2026-10-08 10:14:14",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1557697626554507295"
+        },
+        {
+          "author": "sololeveller233637",
+          "content": "R6 \u2014 JQ and Jason, with limited help from Ang: AI comparison, yield and release\nMissing: Sprint 5 synthesis, current contribution tracking and completed yield reasoning. The tracking configuration and",
+          "ts_str": "2026-10-08 08:39:27",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1557673772289359873"
+        },
+        {
+          "author": "sololeveller233637",
+          "content": "R5 \u2014 Ang, with Yuvraj helping: review the calls and fix the dashboard\nAlready started: the dashboard has the panels and a file counter.\nMissing or broken: Human Score is empty; the catalyst path is wr",
+          "ts_str": "2026-10-08 08:39:06",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1557673683546542131"
+        },
+        {
+          "author": "sololeveller233637",
+          "content": "R4 \u2014 Pinky: check the data and measure last sprint\u2019s mistakes\nMissing: actuals/vW5.json, delta/vW5.json, prescriptions/vW5.json and a script that calculates the required Sprint 4 comparison.\nYour task",
+          "ts_str": "2026-10-08 08:38:45",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1557673597139554324"
+        },
+        {
+          "author": "sololeveller233637",
+          "content": "R3 \u2014 Shihao: support the calls with charts\nAlready started: evidence/R3/technical-vW5.md covers four markets.\nMissing: dated charts/data supporting its indicator values and conclusions.\nYour tasks:\n1.",
+          "ts_str": "2026-10-08 08:38:19",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1557673488691757101"
+        }
+      ]
     },
     "Team 2": {
       "blockers": [
@@ -29,12 +60,6 @@
           "content": "Hey guys, just a quick reminder to send me your progress and any blockers for today\u2019s Wednesday check-in by 12 PM. Thanks!",
           "ts_str": "2026-10-07 03:06:05",
           "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1557227491486343191"
-        },
-        {
-          "author": "zhangyuxuan0333",
-          "content": "@Sorry, I tagged the wrong person.",
-          "ts_str": "2026-10-06 08:20:40",
-          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1556944271016460379"
         }
       ]
     },
@@ -43,6 +68,12 @@
     },
     "Team 4": {
       "blockers": [
+        {
+          "author": "alanmusk_01429",
+          "content": "<@816496998588350516> I've run the tracking script and pushed the updated data/github_activity.json to main. Commit: 7494aea.\n\nThe file was already committed, but it now contains the latest activity. ",
+          "ts_str": "2026-10-08 06:07:19",
+          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1557635488532135987"
+        },
         {
           "author": "axey_125",
           "content": "Hello Guys, This is what we're going to do next (Just for double checking all of your work):\n\n# R2 (Catalysts) \u00b7 Thant Zin Tun (Kevin)\n\n1. Deliverables: Created and published the real US economic even",
@@ -66,12 +97,6 @@
           "content": "oh btw bro you forgot to put your memo in the figjam, if you can't edit it there i can make it for you",
           "ts_str": "2026-10-07 16:20:28",
           "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1557427402756464714"
-        },
-        {
-          "author": "estelle_wen_05110",
-          "content": "r4 update: I uploaded Gold prediction to `predictions/vW5.json`, the Sprint 4 error and direction review to `delta/vW5.json`, and weighting recommendations to `prescriptions/vW5.json` on the Team 4 re",
-          "ts_str": "2026-10-07 07:15:25",
-          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1557290236344668212"
         }
       ]
     },
