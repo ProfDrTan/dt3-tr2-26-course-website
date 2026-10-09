@@ -1,5 +1,5 @@
 {
-  "generated": "Saturday 10 October 2026 00:37 SGT",
+  "generated": "Saturday 10 October 2026 05:19 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
@@ -74,18 +74,6 @@
           "content": "<@816496998588350516> I've run the tracking script and pushed the updated data/github_activity.json to main. Commit: 7494aea.\n\nThe file was already committed, but it now contains the latest activity. ",
           "ts_str": "2026-10-08 06:07:19",
           "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1557635488532135987"
-        },
-        {
-          "author": "axey_125",
-          "content": "Hello Guys, This is what we're going to do next (Just for double checking all of your work):\n\n# R2 (Catalysts) \u00b7 Thant Zin Tun (Kevin)\n\n1. Deliverables: Created and published the real US economic even",
-          "ts_str": "2026-10-07 17:33:16",
-          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1557445725686865951"
-        },
-        {
-          "author": "meeowoaw",
-          "content": "help me update it. thx \ud83d\ude36",
-          "ts_str": "2026-10-07 16:37:31",
-          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1557431695777468448"
         }
       ]
     },
