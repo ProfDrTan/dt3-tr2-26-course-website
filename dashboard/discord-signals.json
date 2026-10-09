@@ -1,65 +1,53 @@
 {
-  "generated": "Friday 09 October 2026 10:31 SGT",
+  "generated": "Friday 09 October 2026 17:35 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
         {
+          "author": "busy_swan_05684",
+          "content": "<@927069413088309298> Help me, I'm a bit confused right now.\ud83e\udd79",
+          "ts_str": "2026-10-09 06:50:06",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1558008640688889857"
+        },
+        {
+          "author": "busy_swan_05684",
+          "content": "<@927069413088309298>  I checked the Sprint 5 UI code for R6 integration and found two JSON compatibility issues.\n\nIn renderPredictions() (around lines 626\u2013658), the UI reads data.team_call, data.why,",
+          "ts_str": "2026-10-09 06:48:39",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1558008277877399573"
+        },
+        {
           "author": "hawlermathew",
-          "content": "now i will do my presentation part and help others with commits if needed",
-          "ts_str": "2026-10-08 10:14:14",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1557697626554507295"
+          "content": "@everyone \nuv asked me to announce u this:\n\nSprint 1 tasks:\nhttps://dt3-tr3-26-course-website.pages.dev/sprint1/\n\nSprint 2 tasks:\nhttps://dt3-tr3-26-course-website.pages.dev/sprint2/\n\nSprint 3 tasks:\n",
+          "ts_str": "2026-10-09 06:03:56",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1557997024278749204"
         },
         {
           "author": "sololeveller233637",
-          "content": "R6 \u2014 JQ and Jason, with limited help from Ang: AI comparison, yield and release\nMissing: Sprint 5 synthesis, current contribution tracking and completed yield reasoning. The tracking configuration and",
-          "ts_str": "2026-10-08 08:39:27",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1557673772289359873"
+          "content": "No issues",
+          "ts_str": "2026-10-09 04:08:14",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1557967907370045471"
         },
         {
-          "author": "sololeveller233637",
-          "content": "R5 \u2014 Ang, with Yuvraj helping: review the calls and fix the dashboard\nAlready started: the dashboard has the panels and a file counter.\nMissing or broken: Human Score is empty; the catalyst path is wr",
-          "ts_str": "2026-10-08 08:39:06",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1557673683546542131"
-        },
-        {
-          "author": "sololeveller233637",
-          "content": "R4 \u2014 Pinky: check the data and measure last sprint\u2019s mistakes\nMissing: actuals/vW5.json, delta/vW5.json, prescriptions/vW5.json and a script that calculates the required Sprint 4 comparison.\nYour task",
-          "ts_str": "2026-10-08 08:38:45",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1557673597139554324"
-        },
-        {
-          "author": "sololeveller233637",
-          "content": "R3 \u2014 Shihao: support the calls with charts\nAlready started: evidence/R3/technical-vW5.md covers four markets.\nMissing: dated charts/data supporting its indicator values and conclusions.\nYour tasks:\n1.",
-          "ts_str": "2026-10-08 08:38:19",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1557673488691757101"
+          "author": "hawlermathew",
+          "content": "I can help u merging file to github dw",
+          "ts_str": "2026-10-09 02:42:18",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1557946281224175619"
         }
       ]
     },
     "Team 2": {
       "blockers": [
         {
+          "author": "mufor.",
+          "content": "<@805335742925635615> can u put delta vW5 on delta folder not only sprint5 folder? cuz index.html may cannot detect it on sprint5 folder",
+          "ts_str": "2026-10-09 04:50:31",
+          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1557978547836952657"
+        },
+        {
           "author": "zhangyuxuan0333",
           "content": "R2 (SPX): 7810.50     With the S&P 500 having reached actual market highs of 7,773.95 and 7,818.93 on October 5 and 6, 2026, market expectations that the upcoming FOMC meeting minutes would signal a d",
           "ts_str": "2026-10-07 12:41:04",
           "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1557372187369803808"
-        },
-        {
-          "author": "iaknauxoet",
-          "content": "Role \u2014 R6\nName: Xuan Kai Teo\nGitHub username: xuank0202\nCurrent status: In progress \u2014 reviewing and organizing R2 and R3 outputs. Currently waiting for R2 to fix an issue in their output before procee",
-          "ts_str": "2026-10-07 06:47:38",
-          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1557283245215977587"
-        },
-        {
-          "author": "haewon00_95831",
-          "content": "Role \u2014 R6\nName: Haewon Park\nGitHub username: haewon-1105\nCurrent status: In progress \u2014 reviewing and organizing R2 and R3 outputs. Currently waiting for R2 to fix an issue in their output before proce",
-          "ts_str": "2026-10-07 03:51:11",
-          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1557238838940794893"
-        },
-        {
-          "author": "1nonlyneon",
-          "content": "Hey guys, just a quick reminder to send me your progress and any blockers for today\u2019s Wednesday check-in by 12 PM. Thanks!",
-          "ts_str": "2026-10-07 03:06:05",
-          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1557227491486343191"
         }
       ]
     },
@@ -88,12 +76,6 @@
     "Team 4": {
       "blockers": [
         {
-          "author": "axey_125",
-          "content": "<@1548926510398840902> When I checked your UI, I spotted there's an error there but I fixed it already and I need you to renew/update the index.html in GitHub using my codes",
-          "ts_str": "2026-10-08 15:02:17",
-          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1557770113862733914"
-        },
-        {
           "author": "alanmusk_01429",
           "content": "<@816496998588350516> I've run the tracking script and pushed the updated data/github_activity.json to main. Commit: 7494aea.\n\nThe file was already committed, but it now contains the latest activity. ",
           "ts_str": "2026-10-08 06:07:19",
@@ -116,6 +98,12 @@
           "content": "<@1298826886188761192> You need any help?",
           "ts_str": "2026-10-07 16:32:00",
           "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1557430304270979193"
+        },
+        {
+          "author": "axey_125",
+          "content": "oh btw bro you forgot to put your memo in the figjam, if you can't edit it there i can make it for you",
+          "ts_str": "2026-10-07 16:20:28",
+          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1557427402756464714"
         }
       ]
     },
