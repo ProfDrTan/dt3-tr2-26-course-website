@@ -1,5 +1,5 @@
 {
-  "generated": "Saturday 10 October 2026 21:34 SGT",
+  "generated": "Sunday 11 October 2026 02:01 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
@@ -39,9 +39,9 @@
       "blockers": [
         {
           "author": "mufor.",
-          "content": "<@746230844771008552> can u commit this one on github? last one u committed has problem with format",
-          "ts_str": "2026-10-10 08:40:23",
-          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1558398781484175363"
+          "content": "<@738757785013190676> Can u help to update this?",
+          "ts_str": "2026-10-10 15:46:28",
+          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1558506009880694905"
         },
         {
           "author": "mufor.",
@@ -58,26 +58,7 @@
       ]
     },
     "Team 3": {
-      "blockers": [
-        {
-          "author": "27ccc_",
-          "content": "R4 \u2014 Done (LIU QUANDA)\n\nCompleted the Sprint 4 prediction error analysis and calibration.\n\nRecorded the actual market results, calculated the prediction delta and percentage error, and identified whet",
-          "ts_str": "2026-10-08 14:01:51",
-          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1557754905563766785"
-        },
-        {
-          "author": "27ccc_",
-          "content": "R4 \u2014 Review (LIU QUANDA)\n\nSprint 4 error analysis and calibration are complete.\n\nThe calculated delta, percentage error and direction result are ready for team review.\n\nThe evidence is ready for R1 to",
-          "ts_str": "2026-10-08 14:01:48",
-          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1557754892628664411"
-        },
-        {
-          "author": "27ccc_",
-          "content": "R4 \u2014 To Do (LIU QUANDA)\n\nComplete the Sprint 4 prediction error analysis using the previous prediction and actual closing value.\n\nPrepare the Sprint 5 actual market data after Friday\u2019s close.\n\nWork wi",
-          "ts_str": "2026-10-08 14:01:43",
-          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1557754871988494501"
-        }
-      ]
+      "blockers": []
     },
     "Team 4": {
       "blockers": [
