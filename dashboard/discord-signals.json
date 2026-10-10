@@ -1,5 +1,5 @@
 {
-  "generated": "Saturday 10 October 2026 09:03 SGT",
+  "generated": "Saturday 10 October 2026 15:00 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
@@ -39,6 +39,12 @@
       "blockers": [
         {
           "author": "mufor.",
+          "content": "<@746230844771008552> can u put github_data json on data folder not only sprint5 folder? cuz index.html may cannot detect it on sprint5 folder",
+          "ts_str": "2026-10-10 03:28:34",
+          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1558320313538969611"
+        },
+        {
+          "author": "mufor.",
           "content": "<@805335742925635615> can u put delta vW5 on delta folder not only sprint5 folder? cuz index.html may cannot detect it on sprint5 folder",
           "ts_str": "2026-10-09 04:50:31",
           "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1557978547836952657"
@@ -70,10 +76,10 @@
     "Team 4": {
       "blockers": [
         {
-          "author": "alanmusk_01429",
-          "content": "<@816496998588350516> I've run the tracking script and pushed the updated data/github_activity.json to main. Commit: 7494aea.\n\nThe file was already committed, but it now contains the latest activity. ",
-          "ts_str": "2026-10-08 06:07:19",
-          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1557635488532135987"
+          "author": "axey_125",
+          "content": "<@1390282790314184808> Hi, I noticed since 4 days ago that our GitHub Actions deployment (dashboard-pages.yml) is currently failing with the error:\n\n\"Get Pages site failed. Please verify that the repo",
+          "ts_str": "2026-10-10 05:39:11",
+          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1558353183934259362"
         }
       ]
     },
