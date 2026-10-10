@@ -1,8 +1,26 @@
 {
-  "generated": "Saturday 10 October 2026 15:00 SGT",
+  "generated": "Saturday 10 October 2026 21:34 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
+        {
+          "author": "busy_swan_05684",
+          "content": "I can help u fix evidence with ur docx.file that u send",
+          "ts_str": "2026-10-10 12:48:32",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1558461231877070922"
+        },
+        {
+          "author": "sololeveller233637",
+          "content": "It\u2019s okay not a big deal all small\nIssues and fixes",
+          "ts_str": "2026-10-10 12:46:03",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1558460607710105601"
+        },
+        {
+          "author": "sololeveller233637",
+          "content": "It seems like there are issues from each role",
+          "ts_str": "2026-10-10 12:45:43",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1558460524365094924"
+        },
         {
           "author": "busy_swan_05684",
           "content": "<@927069413088309298> Help me, I'm a bit confused right now.\ud83e\udd79",
@@ -14,29 +32,17 @@
           "content": "<@927069413088309298>  I checked the Sprint 5 UI code for R6 integration and found two JSON compatibility issues.\n\nIn renderPredictions() (around lines 626\u2013658), the UI reads data.team_call, data.why,",
           "ts_str": "2026-10-09 06:48:39",
           "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1558008277877399573"
-        },
-        {
-          "author": "hawlermathew",
-          "content": "@everyone \nuv asked me to announce u this:\n\nSprint 1 tasks:\nhttps://dt3-tr3-26-course-website.pages.dev/sprint1/\n\nSprint 2 tasks:\nhttps://dt3-tr3-26-course-website.pages.dev/sprint2/\n\nSprint 3 tasks:\n",
-          "ts_str": "2026-10-09 06:03:56",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1557997024278749204"
-        },
-        {
-          "author": "sololeveller233637",
-          "content": "No issues",
-          "ts_str": "2026-10-09 04:08:14",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1557967907370045471"
-        },
-        {
-          "author": "hawlermathew",
-          "content": "I can help u merging file to github dw",
-          "ts_str": "2026-10-09 02:42:18",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1557946281224175619"
         }
       ]
     },
     "Team 2": {
       "blockers": [
+        {
+          "author": "mufor.",
+          "content": "<@746230844771008552> can u commit this one on github? last one u committed has problem with format",
+          "ts_str": "2026-10-10 08:40:23",
+          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1558398781484175363"
+        },
         {
           "author": "mufor.",
           "content": "<@746230844771008552> can u put github_data json on data folder not only sprint5 folder? cuz index.html may cannot detect it on sprint5 folder",
@@ -75,6 +81,18 @@
     },
     "Team 4": {
       "blockers": [
+        {
+          "author": "axey_125",
+          "content": "There's an error there, I fixed it already back then. Please use the codes that are in the GitHub already",
+          "ts_str": "2026-10-10 12:16:52",
+          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1558453263647514666"
+        },
+        {
+          "author": "hjy987._44307",
+          "content": "Hi team, I've fixed the dashboard link issue by deploying our Sprint 5 Dashboard on Netlify.\n\nHere is the link:\nhttps://symphonious-salmiakki-477c94.netlify.app/ui/\n\nAll 9 files are loading successful",
+          "ts_str": "2026-10-10 11:05:47",
+          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1558435374978699337"
+        },
         {
           "author": "axey_125",
           "content": "<@1390282790314184808> Hi, I noticed since 4 days ago that our GitHub Actions deployment (dashboard-pages.yml) is currently failing with the error:\n\n\"Get Pages site failed. Please verify that the repo",
