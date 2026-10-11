@@ -1,8 +1,20 @@
 {
-  "generated": "Sunday 11 October 2026 08:30 SGT",
+  "generated": "Sunday 11 October 2026 14:22 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
+        {
+          "author": "sololeveller233637",
+          "content": "We can fix them later on or I can fix them for us not an issue",
+          "ts_str": "2026-10-11 04:58:02",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1558705214079373313"
+        },
+        {
+          "author": "sololeveller233637",
+          "content": "There are not any big issues",
+          "ts_str": "2026-10-11 04:57:54",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1558705179073974273"
+        },
         {
           "author": "busy_swan_05684",
           "content": "I can help u fix evidence with ur docx.file that u send",
@@ -20,18 +32,6 @@
           "content": "It seems like there are issues from each role",
           "ts_str": "2026-10-10 12:45:43",
           "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1558460524365094924"
-        },
-        {
-          "author": "busy_swan_05684",
-          "content": "<@927069413088309298> Help me, I'm a bit confused right now.\ud83e\udd79",
-          "ts_str": "2026-10-09 06:50:06",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1558008640688889857"
-        },
-        {
-          "author": "busy_swan_05684",
-          "content": "<@927069413088309298>  I checked the Sprint 5 UI code for R6 integration and found two JSON compatibility issues.\n\nIn renderPredictions() (around lines 626\u2013658), the UI reads data.team_call, data.why,",
-          "ts_str": "2026-10-09 06:48:39",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1558008277877399573"
         }
       ]
     },
@@ -48,12 +48,6 @@
           "content": "<@746230844771008552> can u put github_data json on data folder not only sprint5 folder? cuz index.html may cannot detect it on sprint5 folder",
           "ts_str": "2026-10-10 03:28:34",
           "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1558320313538969611"
-        },
-        {
-          "author": "mufor.",
-          "content": "<@805335742925635615> can u put delta vW5 on delta folder not only sprint5 folder? cuz index.html may cannot detect it on sprint5 folder",
-          "ts_str": "2026-10-09 04:50:31",
-          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1557978547836952657"
         }
       ]
     },
@@ -62,6 +56,18 @@
     },
     "Team 4": {
       "blockers": [
+        {
+          "author": "axey_125",
+          "content": "Ah got it, thanks for clearing that Dr Tan, We won't touch the deployment settings and will just run it locally for our presentation. Thank you for turning off that failing workflow too",
+          "ts_str": "2026-10-11 06:13:29",
+          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1558724202079457283"
+        },
+        {
+          "author": "profdrtktan",
+          "content": "Hi Axel, thanks for flagging the failing deployment. I won't be enabling GitHub Pages, and here's why. Team repos are private, and our GitHub organisation doesn't support Pages on private repos, so th",
+          "ts_str": "2026-10-11 03:28:53",
+          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1558682779976204394"
+        },
         {
           "author": "axey_125",
           "content": "There's an error there, I fixed it already back then. Please use the codes that are in the GitHub already",
