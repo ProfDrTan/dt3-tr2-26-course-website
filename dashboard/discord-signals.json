@@ -1,5 +1,5 @@
 {
-  "generated": "Monday 12 October 2026 09:20 SGT",
+  "generated": "Monday 12 October 2026 15:38 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
@@ -48,12 +48,6 @@
           "content": "<@738757785013190676> Can u help to update this?",
           "ts_str": "2026-10-10 15:46:28",
           "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1558506009880694905"
-        },
-        {
-          "author": "mufor.",
-          "content": "<@746230844771008552> can u put github_data json on data folder not only sprint5 folder? cuz index.html may cannot detect it on sprint5 folder",
-          "ts_str": "2026-10-10 03:28:34",
-          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1558320313538969611"
         }
       ]
     },
@@ -85,12 +79,6 @@
           "content": "Hi team, I've fixed the dashboard link issue by deploying our Sprint 5 Dashboard on Netlify.\n\nHere is the link:\nhttps://symphonious-salmiakki-477c94.netlify.app/ui/\n\nAll 9 files are loading successful",
           "ts_str": "2026-10-10 11:05:47",
           "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1558435374978699337"
-        },
-        {
-          "author": "axey_125",
-          "content": "<@1390282790314184808> Hi, I noticed since 4 days ago that our GitHub Actions deployment (dashboard-pages.yml) is currently failing with the error:\n\n\"Get Pages site failed. Please verify that the repo",
-          "ts_str": "2026-10-10 05:39:11",
-          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1558353183934259362"
         }
       ]
     },
