@@ -1,8 +1,20 @@
 {
-  "generated": "Monday 12 October 2026 15:38 SGT",
+  "generated": "Tuesday 13 October 2026 01:01 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
+        {
+          "author": "busy_swan_05684",
+          "content": "To R6: I've completed the six R3 functions for the Sprint 6 gold technical engine and uploaded the files to the engine/ folder on main.\n\nThe R3-specific checks passed. You can now work on your eight i",
+          "ts_str": "2026-10-12 12:16:23",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1559177916506443777"
+        },
+        {
+          "author": "wailinnthaw",
+          "content": "Okay no problem",
+          "ts_str": "2026-10-12 11:16:45",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1559162907525390397"
+        },
         {
           "author": "busy_swan_05684",
           "content": "I have attempted to help you correct the issues and unfinished tasks you encountered, but I'm not sure if this is entirely correct.",
@@ -20,18 +32,6 @@
           "content": "We can fix them later on or I can fix them for us not an issue",
           "ts_str": "2026-10-11 04:58:02",
           "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1558705214079373313"
-        },
-        {
-          "author": "sololeveller233637",
-          "content": "There are not any big issues",
-          "ts_str": "2026-10-11 04:57:54",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1558705179073974273"
-        },
-        {
-          "author": "busy_swan_05684",
-          "content": "I can help u fix evidence with ur docx.file that u send",
-          "ts_str": "2026-10-10 12:48:32",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1558461231877070922"
         }
       ]
     },
@@ -42,12 +42,6 @@
           "content": "i think the tag is wrong but everything else correct",
           "ts_str": "2026-10-11 09:07:33",
           "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1558768007684161628"
-        },
-        {
-          "author": "mufor.",
-          "content": "<@738757785013190676> Can u help to update this?",
-          "ts_str": "2026-10-10 15:46:28",
-          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1558506009880694905"
         }
       ]
     },
@@ -67,18 +61,6 @@
           "content": "Hi Axel, thanks for flagging the failing deployment. I won't be enabling GitHub Pages, and here's why. Team repos are private, and our GitHub organisation doesn't support Pages on private repos, so th",
           "ts_str": "2026-10-11 03:28:53",
           "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1558682779976204394"
-        },
-        {
-          "author": "axey_125",
-          "content": "There's an error there, I fixed it already back then. Please use the codes that are in the GitHub already",
-          "ts_str": "2026-10-10 12:16:52",
-          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1558453263647514666"
-        },
-        {
-          "author": "hjy987._44307",
-          "content": "Hi team, I've fixed the dashboard link issue by deploying our Sprint 5 Dashboard on Netlify.\n\nHere is the link:\nhttps://symphonious-salmiakki-477c94.netlify.app/ui/\n\nAll 9 files are loading successful",
-          "ts_str": "2026-10-10 11:05:47",
-          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1558435374978699337"
         }
       ]
     },
