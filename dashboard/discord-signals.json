@@ -1,5 +1,5 @@
 {
-  "generated": "Wednesday 14 October 2026 02:31 SGT",
+  "generated": "Wednesday 14 October 2026 07:05 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
@@ -24,7 +24,14 @@
       ]
     },
     "Team 2": {
-      "blockers": []
+      "blockers": [
+        {
+          "author": "haewon00_95831",
+          "content": "<@1551423722689265805> <@1265503745593049118>  could u upload data /github_activity.json to GitHub main ASAP? it was due yday",
+          "ts_str": "2026-10-13 19:58:10",
+          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1559656516896821281"
+        }
+      ]
     },
     "Team 3": {
       "blockers": []
