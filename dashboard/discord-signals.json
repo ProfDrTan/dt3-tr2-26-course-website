@@ -1,5 +1,5 @@
 {
-  "generated": "Tuesday 13 October 2026 07:35 SGT",
+  "generated": "Tuesday 13 October 2026 11:53 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
@@ -55,12 +55,6 @@
           "content": "Ah got it, thanks for clearing that Dr Tan, We won't touch the deployment settings and will just run it locally for our presentation. Thank you for turning off that failing workflow too",
           "ts_str": "2026-10-11 06:13:29",
           "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1558724202079457283"
-        },
-        {
-          "author": "profdrtktan",
-          "content": "Hi Axel, thanks for flagging the failing deployment. I won't be enabling GitHub Pages, and here's why. Team repos are private, and our GitHub organisation doesn't support Pages on private repos, so th",
-          "ts_str": "2026-10-11 03:28:53",
-          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1558682779976204394"
         }
       ]
     },
