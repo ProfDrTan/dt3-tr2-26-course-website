@@ -1,8 +1,14 @@
 {
-  "generated": "Tuesday 13 October 2026 11:53 SGT",
+  "generated": "Tuesday 13 October 2026 19:40 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
+        {
+          "author": "qiu0181",
+          "content": "Hi everyone, please post your own Sprint 6 check-in in this Discord channel before 12:00 noon tomorrow . Include what you have completed, what you will do next, and any problems or blockers. I will co",
+          "ts_str": "2026-10-13 07:44:04",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1559471775396536331"
+        },
         {
           "author": "busy_swan_05684",
           "content": "To R6: I've completed the six R3 functions for the Sprint 6 gold technical engine and uploaded the files to the engine/ folder on main.\n\nThe R3-specific checks passed. You can now work on your eight i",
@@ -14,36 +20,11 @@
           "content": "Okay no problem",
           "ts_str": "2026-10-12 11:16:45",
           "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1559162907525390397"
-        },
-        {
-          "author": "busy_swan_05684",
-          "content": "I have attempted to help you correct the issues and unfinished tasks you encountered, but I'm not sure if this is entirely correct.",
-          "ts_str": "2026-10-11 10:47:27",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1558793148141015042"
-        },
-        {
-          "author": "ayephyuss",
-          "content": "Can u help me this? I\u2019m not fully understanding with that one",
-          "ts_str": "2026-10-11 10:22:42",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1558786918978949202"
-        },
-        {
-          "author": "sololeveller233637",
-          "content": "We can fix them later on or I can fix them for us not an issue",
-          "ts_str": "2026-10-11 04:58:02",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1558705214079373313"
         }
       ]
     },
     "Team 2": {
-      "blockers": [
-        {
-          "author": "1nonlyneon",
-          "content": "i think the tag is wrong but everything else correct",
-          "ts_str": "2026-10-11 09:07:33",
-          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1558768007684161628"
-        }
-      ]
+      "blockers": []
     },
     "Team 3": {
       "blockers": []
@@ -51,10 +32,10 @@
     "Team 4": {
       "blockers": [
         {
-          "author": "axey_125",
-          "content": "Ah got it, thanks for clearing that Dr Tan, We won't touch the deployment settings and will just run it locally for our presentation. Thank you for turning off that failing workflow too",
-          "ts_str": "2026-10-11 06:13:29",
-          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1558724202079457283"
+          "author": "estelle_wen_05110",
+          "content": "<@&1548709517083279360> \nhi team, i already put everyones tasks and deadlines in figjam board, please try to finish it before ddl, and move it after you're done. If you have any questions with figjam,",
+          "ts_str": "2026-10-13 05:31:01",
+          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1559438290610814987"
         }
       ]
     },
