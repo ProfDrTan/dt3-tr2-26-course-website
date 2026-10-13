@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13 11:40 UTC",
+  "updated": "2026-10-13 18:31 UTC",
   "sprint_tag": "vW30",
   "sprint_deadline_utc": "2026-07-26T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W30",
@@ -450,44 +450,19 @@
       "repo": "juninho4/Team-3-Practical-A-CP3405",
       "prac": "A",
       "is_ultra": false,
-      "last_commit_sha": "15d9afd",
-      "last_commit_msg": "chore: update weekly market output [skip ci]",
-      "last_commit_date": "2026-10-10 01:52",
-      "last_commit_author": "github-actions[bot]",
-      "last_commit_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/15d9afdd4b6af648c88060d52a77d6bea34f9142",
-      "tags": [
-        "vW31",
-        "vW30",
-        "vW29",
-        "vW28",
-        "vW25",
-        "vW24",
-        "vW23",
-        "vW22",
-        "W25"
-      ],
-      "sprint_tag_present": true,
-      "last_run_name": "Run Market Intelligence",
-      "last_run_conclusion": "success",
-      "last_run_date": "2026-10-10 01:50",
-      "last_run_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/actions/runs/38014731759",
-      "last_run_was_filtered": true,
+      "last_commit_sha": "?",
+      "last_commit_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405",
+      "tags": [],
+      "sprint_tag_present": false,
+      "last_run_name": "none",
+      "last_run_conclusion": "none",
+      "last_run_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/actions",
+      "last_run_was_filtered": false,
       "open_prs": 0,
       "pr_titles": [],
       "pr_links": [],
-      "days_since_commit": 3,
-      "contributors": [
-        {
-          "name": "github-actions[bot]",
-          "login": "github-actions[bot]",
-          "kind": "bot",
-          "commits": 3,
-          "latest_date": "2026-10-10 01:52",
-          "latest_msg": "chore: update weekly market output [skip ci]",
-          "latest_sha": "15d9afd",
-          "latest_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/commit/15d9afdd4b6af648c88060d52a77d6bea34f9142"
-        }
-      ],
+      "days_since_commit": "?",
+      "contributors": [],
       "pr_history": {
         "total": 0,
         "merged": 0,
@@ -497,9 +472,9 @@
         "recent": []
       },
       "midweek_artefact": {
-        "present": true,
-        "path": "vW30/standup_midweek_W30.md",
-        "url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/blob/15d9afdd4b6af648c88060d52a77d6bea34f9142/vW30/standup_midweek_W30.md"
+        "present": false,
+        "path": null,
+        "url": null
       },
       "repo_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405"
     },
