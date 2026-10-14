@@ -1,41 +1,71 @@
 {
-  "generated": "Wednesday 14 October 2026 09:54 SGT",
+  "generated": "Wednesday 14 October 2026 15:28 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
         {
-          "author": "qiu0181",
-          "content": "Hi everyone, please post your own Sprint 6 check-in in this Discord channel before 12:00 noon tomorrow . Include what you have completed, what you will do next, and any problems or blockers. I will co",
-          "ts_str": "2026-10-13 07:44:04",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1559471775396536331"
+          "author": "ayephyuss",
+          "content": "<@1549946386441699400> Can you please do this one as R6 . BcozI've full of class tdy so I can't.\ud83d\udc40",
+          "ts_str": "2026-10-14 05:56:34",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1559807108965208105"
         },
         {
           "author": "busy_swan_05684",
-          "content": "To R6: I've completed the six R3 functions for the Sprint 6 gold technical engine and uploaded the files to the engine/ folder on main.\n\nThe R3-specific checks passed. You can now work on your eight i",
-          "ts_str": "2026-10-12 12:16:23",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1559177916506443777"
+          "content": "<@1550051897354752052> **R3 \u2013 Sprint 6 (vW6) Progress Update**\n\n**Completed:**\n- Completed all six R3 functions in `engine/tech_summary.py`.\n- Uploaded the engine files and test data to GitHub.\n- Fixe",
+          "ts_str": "2026-10-14 05:16:05",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1559796920325775411"
         },
         {
-          "author": "wailinnthaw",
-          "content": "Okay no problem",
-          "ts_str": "2026-10-12 11:16:45",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1559162907525390397"
+          "author": "busy_swan_05684",
+          "content": "I checked our `engine/tech_summary.py` and found a small syntax issue. There was a missing closing triple quote (`\"\"\"`) at the beginning of the file.\n\nI fixed it without changing your indicator functi",
+          "ts_str": "2026-10-14 05:10:51",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1559795601963618366"
+        },
+        {
+          "author": "xuan087394",
+          "content": "<@1550051897354752052> R4 \u2014 Sprint 6 Wednesday Check-in\n\nCompleted:\n\u2022 Prepared a draft gold forecast of USD 4,190 per ounce for GCZ26.CMX on 16 October, with reasons and the US Producer Price Index re",
+          "ts_str": "2026-10-14 04:58:12",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1559792420382580877"
+        },
+        {
+          "author": "zhang_41520",
+          "content": "<@1550051897354752052> R6 \u2014 Sprint 6 Wednesday Check-in\nCompleted:  \n- Coordinated R6 responsibilities with Pinky.\n- Reviewed the current Sprint 6 R6 tasks and Gold Technical Engine progress.\nNext Ste",
+          "ts_str": "2026-10-14 03:44:00",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1559773748079366205"
         }
       ]
     },
     "Team 2": {
       "blockers": [
         {
-          "author": "haewon00_95831",
-          "content": "Sprint 6 Check-in \u2014 Wed 14 Oct\nName / Role:\nDone:\nPlan for today:\nBlockers (or \"none\"):",
-          "ts_str": "2026-10-14 00:06:37",
-          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1559719041638211776"
+          "author": "1nonlyneon",
+          "content": "Name: Bhone Myat Kyaw Thu\nRole: R4\nDone: Reviewed the Sprint 6 R4 requirements with Junyi and discussed how we can split the tasks, including the Gold call, replay, and Sprint 5 delta.\nPlan for today:",
+          "ts_str": "2026-10-14 05:40:25",
+          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1559803045095800833"
+        },
+        {
+          "author": "iaknauxoet",
+          "content": "Sprint 6 Check-in \u2014 Wed 14 Oct\nName / Role: Xuan Kai Teo\nDone: engine-tests in the checks folder\nPlan for today: Make NDX 100 prediction and a reason\nBlockers (or \"none\"): None",
+          "ts_str": "2026-10-14 04:59:15",
+          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1559792683755765821"
+        },
+        {
+          "author": "liangjinghong_97317",
+          "content": "Name: Liang Jinghong\nRole: R5\nDone: Prepared the Sprint 6 update to ui/index.html with the \u201cX / 10 files loaded\u201d counter and Gold Technical panel. The changes have not been submitted or tested in Prev",
+          "ts_str": "2026-10-14 03:53:37",
+          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1559776165605015615"
         },
         {
           "author": "haewon00_95831",
-          "content": "<@1551423722689265805> <@1265503745593049118>  could u upload data /github_activity.json to GitHub main ASAP? it was due yday",
-          "ts_str": "2026-10-13 19:58:10",
-          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1559656516896821281"
+          "content": "before 12? Sprint 6 Check-in \u2014 Wed 14 Oct\nName / Role:\nDone:\nPlan for today:\nBlockers (or \"none\"):",
+          "ts_str": "2026-10-14 03:49:47",
+          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1559775202534101143"
+        },
+        {
+          "author": "naing_26",
+          "content": "sure no rush. u can take ur time until this evening. just asking if u need any help",
+          "ts_str": "2026-10-14 03:36:40",
+          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1559771900123811882"
         }
       ]
     },
