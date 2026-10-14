@@ -1,5 +1,5 @@
 {
-  "generated": "Wednesday 14 October 2026 07:05 SGT",
+  "generated": "Wednesday 14 October 2026 09:54 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
@@ -27,6 +27,12 @@
       "blockers": [
         {
           "author": "haewon00_95831",
+          "content": "Sprint 6 Check-in \u2014 Wed 14 Oct\nName / Role:\nDone:\nPlan for today:\nBlockers (or \"none\"):",
+          "ts_str": "2026-10-14 00:06:37",
+          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1559719041638211776"
+        },
+        {
+          "author": "haewon00_95831",
           "content": "<@1551423722689265805> <@1265503745593049118>  could u upload data /github_activity.json to GitHub main ASAP? it was due yday",
           "ts_str": "2026-10-13 19:58:10",
           "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1559656516896821281"
@@ -38,6 +44,12 @@
     },
     "Team 4": {
       "blockers": [
+        {
+          "author": "alanmusk_01429",
+          "content": "R2 \u2014 Wednesday Check-in | Fan Zhang (Charles)\nCompleted: I researched 13 US events and pushed the catalyst calendar, source notes and selection criteria to main. Commit: b4d3c64.\nToday\u2019s plan: Verify ",
+          "ts_str": "2026-10-14 01:12:34",
+          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1559735636414562407"
+        },
         {
           "author": "estelle_wen_05110",
           "content": "<@&1548709517083279360> \nhi team, i already put everyones tasks and deadlines in figjam board, please try to finish it before ddl, and move it after you're done. If you have any questions with figjam,",
