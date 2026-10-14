@@ -1,5 +1,5 @@
 {
-  "generated": "Wednesday 14 October 2026 15:28 SGT",
+  "generated": "Wednesday 14 October 2026 21:02 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
@@ -70,7 +70,20 @@
       ]
     },
     "Team 3": {
-      "blockers": []
+      "blockers": [
+        {
+          "author": "ying73",
+          "content": "we cannot aprove only teacher\ud83d\ude02",
+          "ts_str": "2026-10-14 08:26:00",
+          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1559844715967545448"
+        },
+        {
+          "author": "wilil_20",
+          "content": "Hi Guys anyone can help me on fijam, I can\u2019t acess figjam.",
+          "ts_str": "2026-10-14 08:05:23",
+          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1559839527009263637"
+        }
+      ]
     },
     "Team 4": {
       "blockers": [
