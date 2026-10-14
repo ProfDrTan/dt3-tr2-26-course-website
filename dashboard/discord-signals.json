@@ -1,5 +1,5 @@
 {
-  "generated": "Wednesday 14 October 2026 21:02 SGT",
+  "generated": "Thursday 15 October 2026 01:58 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
@@ -38,6 +38,12 @@
     "Team 2": {
       "blockers": [
         {
+          "author": "haewon00_95831",
+          "content": "thx for helping albert out,  have a good night \ud83e\udef6",
+          "ts_str": "2026-10-14 13:51:24",
+          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1559926603985719350"
+        },
+        {
           "author": "1nonlyneon",
           "content": "Name: Bhone Myat Kyaw Thu\nRole: R4\nDone: Reviewed the Sprint 6 R4 requirements with Junyi and discussed how we can split the tasks, including the Gold call, replay, and Sprint 5 delta.\nPlan for today:",
           "ts_str": "2026-10-14 05:40:25",
@@ -60,28 +66,40 @@
           "content": "before 12? Sprint 6 Check-in \u2014 Wed 14 Oct\nName / Role:\nDone:\nPlan for today:\nBlockers (or \"none\"):",
           "ts_str": "2026-10-14 03:49:47",
           "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1559775202534101143"
-        },
-        {
-          "author": "naing_26",
-          "content": "sure no rush. u can take ur time until this evening. just asking if u need any help",
-          "ts_str": "2026-10-14 03:36:40",
-          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1559771900123811882"
         }
       ]
     },
     "Team 3": {
       "blockers": [
         {
-          "author": "ying73",
-          "content": "we cannot aprove only teacher\ud83d\ude02",
-          "ts_str": "2026-10-14 08:26:00",
-          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1559844715967545448"
+          "author": "wilil_20",
+          "content": "Please anyone help me to contack R5, at least any respon.\ud83d\ude4f",
+          "ts_str": "2026-10-14 16:05:36",
+          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1559960377855320176"
         },
         {
           "author": "wilil_20",
-          "content": "Hi Guys anyone can help me on fijam, I can\u2019t acess figjam.",
-          "ts_str": "2026-10-14 08:05:23",
-          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1559839527009263637"
+          "content": "Anyone help ask to R5",
+          "ts_str": "2026-10-14 15:43:53",
+          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1559954909661765685"
+        },
+        {
+          "author": "persitatu",
+          "content": "I can't get in touch with him anymore. Should I upload this part now or what?",
+          "ts_str": "2026-10-14 15:37:55",
+          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1559953412072808459"
+        },
+        {
+          "author": "persitatu",
+          "content": "I asked my co-worker to update this part, which is his content. Once he finishes the update, I will help him upload it.",
+          "ts_str": "2026-10-14 15:35:26",
+          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1559952786806804572"
+        },
+        {
+          "author": "persitatu",
+          "content": "Can someone view sprint6 and help me update it?",
+          "ts_str": "2026-10-14 14:36:01",
+          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1559937832934572103"
         }
       ]
     },
