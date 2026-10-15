@@ -1,5 +1,5 @@
 {
-  "generated": "Thursday 15 October 2026 17:27 SGT",
+  "generated": "Thursday 15 October 2026 22:21 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
@@ -39,6 +39,12 @@
       "blockers": [
         {
           "author": "haewon00_95831",
+          "content": "Hey everyone! Just a quick update about our GitHub repository.\n\nI noticed that some of our Sprint 6 files and commit history had disappeared from the main branch, so I contacted Prof Tan to check what",
+          "ts_str": "2026-10-15 09:50:01",
+          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1560228245058625636"
+        },
+        {
+          "author": "haewon00_95831",
           "content": "thx for helping albert out,  have a good night \ud83e\udef6",
           "ts_str": "2026-10-14 13:51:24",
           "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1559926603985719350"
@@ -60,17 +66,29 @@
           "content": "Name: Liang Jinghong\nRole: R5\nDone: Prepared the Sprint 6 update to ui/index.html with the \u201cX / 10 files loaded\u201d counter and Gold Technical panel. The changes have not been submitted or tested in Prev",
           "ts_str": "2026-10-14 03:53:37",
           "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1559776165605015615"
-        },
-        {
-          "author": "haewon00_95831",
-          "content": "before 12? Sprint 6 Check-in \u2014 Wed 14 Oct\nName / Role:\nDone:\nPlan for today:\nBlockers (or \"none\"):",
-          "ts_str": "2026-10-14 03:49:47",
-          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1559775202534101143"
         }
       ]
     },
     "Team 3": {
       "blockers": [
+        {
+          "author": "27ccc_",
+          "content": "R5 (Liu Quanda) \u2014 Sprint 6 Update\nTo Do\nVerify the Gold Engine data and technical indicators, test the Gold Technical Dashboard to ensure all 10 repository files load correctly, check that the Hourly,",
+          "ts_str": "2026-10-15 11:44:52",
+          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1560257148779233362"
+        },
+        {
+          "author": "27ccc_",
+          "content": "bro I can't see anything on vW6 here",
+          "ts_str": "2026-10-15 11:07:31",
+          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1560247748891119616"
+        },
+        {
+          "author": "27ccc_",
+          "content": "\u201cSorry, I had some internet issues on my computer yesterday. I\u2019ll get back to you before 10.\u201d",
+          "ts_str": "2026-10-15 10:51:16",
+          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1560243661734674493"
+        },
         {
           "author": "persitatu",
           "content": "I am currently dealing with this issue.",
@@ -82,24 +100,6 @@
           "content": "My Figma is having issues.",
           "ts_str": "2026-10-15 07:24:36",
           "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1560191649248714793"
-        },
-        {
-          "author": "wilil_20",
-          "content": "Please anyone help me to contack R5, at least any respon.\ud83d\ude4f",
-          "ts_str": "2026-10-14 16:05:36",
-          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1559960377855320176"
-        },
-        {
-          "author": "wilil_20",
-          "content": "Anyone help ask to R5",
-          "ts_str": "2026-10-14 15:43:53",
-          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1559954909661765685"
-        },
-        {
-          "author": "persitatu",
-          "content": "I can't get in touch with him anymore. Should I upload this part now or what?",
-          "ts_str": "2026-10-14 15:37:55",
-          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1559953412072808459"
         }
       ]
     },
