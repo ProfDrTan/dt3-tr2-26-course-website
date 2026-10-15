@@ -1,5 +1,5 @@
 {
-  "generated": "Thursday 15 October 2026 12:40 SGT",
+  "generated": "Thursday 15 October 2026 17:27 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
@@ -72,6 +72,18 @@
     "Team 3": {
       "blockers": [
         {
+          "author": "persitatu",
+          "content": "I am currently dealing with this issue.",
+          "ts_str": "2026-10-15 07:24:40",
+          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1560191666399215689"
+        },
+        {
+          "author": "persitatu",
+          "content": "My Figma is having issues.",
+          "ts_str": "2026-10-15 07:24:36",
+          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1560191649248714793"
+        },
+        {
           "author": "wilil_20",
           "content": "Please anyone help me to contack R5, at least any respon.\ud83d\ude4f",
           "ts_str": "2026-10-14 16:05:36",
@@ -88,34 +100,22 @@
           "content": "I can't get in touch with him anymore. Should I upload this part now or what?",
           "ts_str": "2026-10-14 15:37:55",
           "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1559953412072808459"
-        },
-        {
-          "author": "persitatu",
-          "content": "I asked my co-worker to update this part, which is his content. Once he finishes the update, I will help him upload it.",
-          "ts_str": "2026-10-14 15:35:26",
-          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1559952786806804572"
-        },
-        {
-          "author": "persitatu",
-          "content": "Can someone view sprint6 and help me update it?",
-          "ts_str": "2026-10-14 14:36:01",
-          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1559937832934572103"
         }
       ]
     },
     "Team 4": {
       "blockers": [
         {
+          "author": "shiro_0272902",
+          "content": "<@1390282790314184808> hello Professor my laptop cannot start Windows, so I\u2019m currently unable to use it for project work. I have attached a photo of the error. And I also need to take it to a repair ",
+          "ts_str": "2026-10-15 09:23:48",
+          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1560221647905099856"
+        },
+        {
           "author": "alanmusk_01429",
           "content": "R2 \u2014 Wednesday Check-in | Fan Zhang (Charles)\nCompleted: I researched 13 US events and pushed the catalyst calendar, source notes and selection criteria to main. Commit: b4d3c64.\nToday\u2019s plan: Verify ",
           "ts_str": "2026-10-14 01:12:34",
           "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1559735636414562407"
-        },
-        {
-          "author": "estelle_wen_05110",
-          "content": "<@&1548709517083279360> \nhi team, i already put everyones tasks and deadlines in figjam board, please try to finish it before ddl, and move it after you're done. If you have any questions with figjam,",
-          "ts_str": "2026-10-13 05:31:01",
-          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1559438290610814987"
         }
       ]
     },
