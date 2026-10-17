@@ -1,5 +1,5 @@
 {
-  "generated": "Saturday 17 October 2026 21:58 SGT",
+  "generated": "Sunday 18 October 2026 01:02 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
@@ -19,6 +19,12 @@
     },
     "Team 2": {
       "blockers": [
+        {
+          "author": "liangjinghong_97317",
+          "content": "This is the dashboard. Could you take a look and see if anything\u2019s wrong?",
+          "ts_str": "2026-10-17 15:47:25",
+          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1561042962513666139"
+        },
         {
           "author": "haewon00_95831",
           "content": "could u change the TNX error from 0.02 to +2 bp and make sure the dashboard shows the correct unit?",
