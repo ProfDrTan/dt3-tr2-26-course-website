@@ -1,8 +1,15 @@
 {
-  "generated": "Saturday 17 October 2026 09:29 SGT",
+  "generated": "Saturday 17 October 2026 14:05 SGT",
   "teams": {
     "Team 1": {
-      "blockers": []
+      "blockers": [
+        {
+          "author": "xuan087394",
+          "content": "I\u2019ve updated actuals/vW6.json, delta/vW6.json and prescriptions/vW6.json. The replay now includes 65 historical predictions using completed data through 16 October. Direction accuracy was 45.45%, 50.0",
+          "ts_str": "2026-10-17 05:53:09",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1560893410842247199"
+        }
+      ]
     },
     "Team 2": {
       "blockers": [
