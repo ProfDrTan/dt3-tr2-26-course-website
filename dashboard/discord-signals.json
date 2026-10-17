@@ -1,8 +1,14 @@
 {
-  "generated": "Saturday 17 October 2026 14:05 SGT",
+  "generated": "Saturday 17 October 2026 18:45 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
+        {
+          "author": "qiu0181",
+          "content": "<@1550140586340913235>Hi Chen, thanks for the updates! The Sprint 5 prediction record I provided is SPX 7770, NDX 31050, Gold DOWN, and TNX 5.32%. Please use these values for scoring, but the lock tim",
+          "ts_str": "2026-10-17 09:08:24",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1560942547663331380"
+        },
         {
           "author": "xuan087394",
           "content": "I\u2019ve updated actuals/vW6.json, delta/vW6.json and prescriptions/vW6.json. The replay now includes 65 historical predictions using completed data through 16 October. Direction accuracy was 45.45%, 50.0",
@@ -12,14 +18,7 @@
       ]
     },
     "Team 2": {
-      "blockers": [
-        {
-          "author": "haewon00_95831",
-          "content": "Hey everyone! Just a quick update about our GitHub repository.\n\nI noticed that some of our Sprint 6 files and commit history had disappeared from the main branch, so I contacted Prof Tan to check what",
-          "ts_str": "2026-10-15 09:50:01",
-          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1560228245058625636"
-        }
-      ]
+      "blockers": []
     },
     "Team 3": {
       "blockers": [
@@ -40,18 +39,6 @@
           "content": "\u201cSorry, I had some internet issues on my computer yesterday. I\u2019ll get back to you before 10.\u201d",
           "ts_str": "2026-10-15 10:51:16",
           "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1560243661734674493"
-        },
-        {
-          "author": "persitatu",
-          "content": "I am currently dealing with this issue.",
-          "ts_str": "2026-10-15 07:24:40",
-          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1560191666399215689"
-        },
-        {
-          "author": "persitatu",
-          "content": "My Figma is having issues.",
-          "ts_str": "2026-10-15 07:24:36",
-          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1560191649248714793"
         }
       ]
     },
@@ -62,12 +49,6 @@
           "content": "<@1550773438669389825>  R2 \u2014 Late Wednesday Check-in | Fan Zhang (Charles)\nSorry, I missed Wednesday\u2019s personal check-in deadline. My R2 calendar, SPX target and CPI review were committed before their",
           "ts_str": "2026-10-16 06:14:01",
           "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1560536273926627390"
-        },
-        {
-          "author": "shiro_0272902",
-          "content": "<@1390282790314184808> hello Professor my laptop cannot start Windows, so I\u2019m currently unable to use it for project work. I have attached a photo of the error. And I also need to take it to a repair ",
-          "ts_str": "2026-10-15 09:23:48",
-          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1560221647905099856"
         }
       ]
     },
