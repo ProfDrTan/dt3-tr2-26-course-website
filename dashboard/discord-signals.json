@@ -1,8 +1,20 @@
 {
-  "generated": "Sunday 18 October 2026 14:31 SGT",
+  "generated": "Sunday 18 October 2026 19:39 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
+        {
+          "author": "ayephyuss",
+          "content": "No problem! U really did well the others parts. Take care of urself first. <@1549946386441699400>",
+          "ts_str": "2026-10-18 09:23:52",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1561308827498840066"
+        },
+        {
+          "author": "zhang_41520",
+          "content": "Thank you so much, Pinky. I really appreciate you taking over the R6 presentation parts for me. I\u2019m really sorry again that I can\u2019t be there tomorrow because of my illness. Thank you for understanding",
+          "ts_str": "2026-10-18 09:22:43",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1561308537416843285"
+        },
         {
           "author": "qiu0181",
           "content": "<@1550140586340913235>Hi Chen, thanks for the updates! The Sprint 5 prediction record I provided is SPX 7770, NDX 31050, Gold DOWN, and TNX 5.32%. Please use these values for scoring, but the lock tim",
@@ -48,16 +60,34 @@
     "Team 3": {
       "blockers": [
         {
+          "author": "alexlee149",
+          "content": "Ok I\u2019m outside rn if you are in hurry could you plz help me to upload it ,thank you bro",
+          "ts_str": "2026-10-18 11:27:13",
+          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1561339870608236615"
+        },
+        {
+          "author": "wilil_20",
+          "content": "Can you upload that file bro we are run of time bro, we don't have time anymore, If you can\u2019t and I will help you guys to upload.",
+          "ts_str": "2026-10-18 11:25:47",
+          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1561339510858719263"
+        },
+        {
+          "author": "27ccc_",
+          "content": "<@1342031020081418240>can you help me check what else I need to do? I think I've finished my part, except for the PPT.",
+          "ts_str": "2026-10-18 11:16:59",
+          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1561337296618262620"
+        },
+        {
+          "author": "wendilin_39493_15226",
+          "content": "Is there anyone who cannot attend class tomorrow?",
+          "ts_str": "2026-10-18 06:45:05",
+          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1561268869887168593"
+        },
+        {
           "author": "wilil_20",
           "content": "Yes bro i still waiting that.\n\nHi R3 and R6, I reran the Sprint 6 Gold Engine self-test today (17 Oct).\n\n**Result: 3 CHECKS FAILED** (1h, 1d, 1w).\n\nAll three checks show: `NOT DONE: macd() still needs",
           "ts_str": "2026-10-17 13:57:24",
           "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1561015276483379272"
-        },
-        {
-          "author": "27ccc_",
-          "content": "Hi Matthew, I checked the latest Team 3 repository and updated my R5 Human Score using all four confirmed predictions: SPX 7790, NDX 30500, Gold 4100, and TNX 4.08%.\n\nI also checked the Dashboard and ",
-          "ts_str": "2026-10-17 13:54:23",
-          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1561014518757331047"
         }
       ]
     },
