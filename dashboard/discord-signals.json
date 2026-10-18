@@ -1,5 +1,5 @@
 {
-  "generated": "Sunday 18 October 2026 09:28 SGT",
+  "generated": "Sunday 18 October 2026 14:31 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
@@ -62,14 +62,7 @@
       ]
     },
     "Team 4": {
-      "blockers": [
-        {
-          "author": "alanmusk_01429",
-          "content": "<@1550773438669389825>  R2 \u2014 Late Wednesday Check-in | Fan Zhang (Charles)\nSorry, I missed Wednesday\u2019s personal check-in deadline. My R2 calendar, SPX target and CPI review were committed before their",
-          "ts_str": "2026-10-16 06:14:01",
-          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1560536273926627390"
-        }
-      ]
+      "blockers": []
     },
     "Team 5": {
       "blockers": []
