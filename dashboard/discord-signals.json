@@ -1,5 +1,5 @@
 {
-  "generated": "Sunday 18 October 2026 19:39 SGT",
+  "generated": "Sunday 18 October 2026 22:51 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
@@ -60,6 +60,24 @@
     "Team 3": {
       "blockers": [
         {
+          "author": "wilil_20",
+          "content": "Hi Ying, I've reviewed our Sprint 6 presentation.\n\nYour R4 slide (Slide 7 \u2014 Delta & Prescription) still contains placeholders and needs to be completed before tomorrow's presentation.\n\nPlease update t",
+          "ts_str": "2026-10-18 14:26:27",
+          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1561384975780151357"
+        },
+        {
+          "author": "persitatu",
+          "content": "Could you please help me combine them?",
+          "ts_str": "2026-10-18 14:11:14",
+          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1561381147370586194"
+        },
+        {
+          "author": "persitatu",
+          "content": "R6 \u2014 To Do (YU WENHAO)\n- Commit the final R6 files, including llm-synthesis/vW6.json, prediction evidence and Gold engine output, to the team GitHub repository.\n- Verify the committed files and update",
+          "ts_str": "2026-10-18 12:55:54",
+          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1561362188323786903"
+        },
+        {
           "author": "alexlee149",
           "content": "Ok I\u2019m outside rn if you are in hurry could you plz help me to upload it ,thank you bro",
           "ts_str": "2026-10-18 11:27:13",
@@ -70,29 +88,24 @@
           "content": "Can you upload that file bro we are run of time bro, we don't have time anymore, If you can\u2019t and I will help you guys to upload.",
           "ts_str": "2026-10-18 11:25:47",
           "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1561339510858719263"
-        },
-        {
-          "author": "27ccc_",
-          "content": "<@1342031020081418240>can you help me check what else I need to do? I think I've finished my part, except for the PPT.",
-          "ts_str": "2026-10-18 11:16:59",
-          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1561337296618262620"
-        },
-        {
-          "author": "wendilin_39493_15226",
-          "content": "Is there anyone who cannot attend class tomorrow?",
-          "ts_str": "2026-10-18 06:45:05",
-          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1561268869887168593"
-        },
-        {
-          "author": "wilil_20",
-          "content": "Yes bro i still waiting that.\n\nHi R3 and R6, I reran the Sprint 6 Gold Engine self-test today (17 Oct).\n\n**Result: 3 CHECKS FAILED** (1h, 1d, 1w).\n\nAll three checks show: `NOT DONE: macd() still needs",
-          "ts_str": "2026-10-17 13:57:24",
-          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1561015276483379272"
         }
       ]
     },
     "Team 4": {
-      "blockers": []
+      "blockers": [
+        {
+          "author": "axey_125",
+          "content": "no problem bro",
+          "ts_str": "2026-10-18 14:01:37",
+          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1561378726124454080"
+        },
+        {
+          "author": "shiro_0272902",
+          "content": "And thx for helping me\ud83d\ude4f\ud83c\udffb",
+          "ts_str": "2026-10-18 12:27:15",
+          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1561354979577569414"
+        }
+      ]
     },
     "Team 5": {
       "blockers": []
