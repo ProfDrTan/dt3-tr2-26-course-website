@@ -1,5 +1,5 @@
 {
-  "generated": "Sunday 18 October 2026 22:51 SGT",
+  "generated": "Monday 19 October 2026 01:47 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
@@ -93,6 +93,12 @@
     },
     "Team 4": {
       "blockers": [
+        {
+          "author": "estelle_wen_05110",
+          "content": "everyone please check your ppt and make sure nothings are wrong",
+          "ts_str": "2026-10-18 15:22:07",
+          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1561398983988092948"
+        },
         {
           "author": "axey_125",
           "content": "no problem bro",
