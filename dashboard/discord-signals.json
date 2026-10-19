@@ -1,5 +1,5 @@
 {
-  "generated": "Monday 19 October 2026 18:19 SGT",
+  "generated": "Tuesday 20 October 2026 01:03 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
@@ -30,32 +30,7 @@
       ]
     },
     "Team 2": {
-      "blockers": [
-        {
-          "author": "liangjinghong_97317",
-          "content": "This is the dashboard. Could you take a look and see if anything\u2019s wrong?",
-          "ts_str": "2026-10-17 15:47:25",
-          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1561042962513666139"
-        },
-        {
-          "author": "haewon00_95831",
-          "content": "could u change the TNX error from 0.02 to +2 bp and make sure the dashboard shows the correct unit?",
-          "ts_str": "2026-10-17 12:58:34",
-          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1561000473287331980"
-        },
-        {
-          "author": "mufor.",
-          "content": "only delta/vW6.json can't match?",
-          "ts_str": "2026-10-17 12:39:49",
-          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1560995752023433437"
-        },
-        {
-          "author": "haewon00_95831",
-          "content": "hey R4! I checked delta/vW6.json, and the calculations look correct, but I noticed one issue.",
-          "ts_str": "2026-10-17 11:26:24",
-          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1560977277091840073"
-        }
-      ]
+      "blockers": []
     },
     "Team 3": {
       "blockers": [
