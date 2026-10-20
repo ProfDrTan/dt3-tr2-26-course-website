@@ -1,5 +1,5 @@
 {
-  "generated": "Tuesday 20 October 2026 23:12 SGT",
+  "generated": "Wednesday 21 October 2026 03:21 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
@@ -25,6 +25,12 @@
     },
     "Team 2": {
       "blockers": [
+        {
+          "author": "naing_26",
+          "content": "<@738757785013190676> I did a first draft of the ui and commited to the github already. U can check it to see if anything is missing or wrong. \nThe data is currently using the same as signals/latest.j",
+          "ts_str": "2026-10-20 15:41:32",
+          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1562128645399519308"
+        },
         {
           "author": "mufor.",
           "content": "@everyone who can help me to build a new Figjam Sprint 7, I can't edit",
@@ -56,12 +62,6 @@
           "content": "Lemme know if you guys need any kind of help!",
           "ts_str": "2026-10-20 03:02:03",
           "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1561937518440611971"
-        },
-        {
-          "author": "estelle_wen_05110",
-          "content": "everyone please check your ppt and make sure nothings are wrong",
-          "ts_str": "2026-10-18 15:22:07",
-          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1561398983988092948"
         }
       ]
     },
