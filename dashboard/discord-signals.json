@@ -1,5 +1,5 @@
 {
-  "generated": "Tuesday 20 October 2026 13:20 SGT",
+  "generated": "Tuesday 20 October 2026 18:15 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
@@ -14,23 +14,18 @@
           "content": "The main issue is <@927069413088309298> it takes data from other folders in the file",
           "ts_str": "2026-10-19 02:36:15",
           "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1561568638073446431"
-        },
-        {
-          "author": "ayephyuss",
-          "content": "No problem! U really did well the others parts. Take care of urself first. <@1549946386441699400>",
-          "ts_str": "2026-10-18 09:23:52",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1561308827498840066"
-        },
-        {
-          "author": "zhang_41520",
-          "content": "Thank you so much, Pinky. I really appreciate you taking over the R6 presentation parts for me. I\u2019m really sorry again that I can\u2019t be there tomorrow because of my illness. Thank you for understanding",
-          "ts_str": "2026-10-18 09:22:43",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1561308537416843285"
         }
       ]
     },
     "Team 2": {
-      "blockers": []
+      "blockers": [
+        {
+          "author": "mufor.",
+          "content": "@everyone who can help me to build a new Figjam Sprint 7, I can't edit",
+          "ts_str": "2026-10-20 10:12:09",
+          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1562045755106009189"
+        }
+      ]
     },
     "Team 3": {
       "blockers": [
