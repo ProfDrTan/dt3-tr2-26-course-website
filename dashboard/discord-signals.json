@@ -1,5 +1,5 @@
 {
-  "generated": "Wednesday 21 October 2026 08:50 SGT",
+  "generated": "Wednesday 21 October 2026 13:40 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
@@ -8,34 +8,40 @@
           "content": "jiaqi told me that he is not in Singapore now and cannot use discord. If he acts as r1, communication will be very troublesome",
           "ts_str": "2026-10-20 14:37:54",
           "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1562112634520604743"
-        },
-        {
-          "author": "ayephyuss",
-          "content": "Sorry for the inconvenience, and I hope you understand. Thank you R1 and the whole team who help R6\ud83e\udd7a",
-          "ts_str": "2026-10-19 04:25:59",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1561596253924495461"
-        },
-        {
-          "author": "sololeveller233637",
-          "content": "The main issue is <@927069413088309298> it takes data from other folders in the file",
-          "ts_str": "2026-10-19 02:36:15",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1561568638073446431"
         }
       ]
     },
     "Team 2": {
       "blockers": [
         {
-          "author": "naing_26",
-          "content": "<@738757785013190676> I did a first draft of the ui and commited to the github already. U can check it to see if anything is missing or wrong. \nThe data is currently using the same as signals/latest.j",
-          "ts_str": "2026-10-20 15:41:32",
-          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1562128645399519308"
+          "author": "mufor.",
+          "content": "Name / Role: Junyi Fan / R1\nDone: \n- Completed 1-on-1 check-ins (verified R6's data is ready).\n- Notified team of Prof Tan's urgent update (keep index.html, link to gold.html).\nPlan for today: \n- Subm",
+          "ts_str": "2026-10-21 03:38:41",
+          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1562309126242050151"
+        },
+        {
+          "author": "zhangyuxuan0333",
+          "content": "Name / Role: Zhang Yuxuan / R6\n\nDone: Completed dashboard_data.py with haewon , successfully generated ui/data.json for all 7 timeframes, and confirmed the data displays on the dashboard.\n\nPlan for to",
+          "ts_str": "2026-10-21 03:25:29",
+          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1562305802319040643"
+        },
+        {
+          "author": "aliceinsomewhere",
+          "content": "Name / Role: Phoo Pwint Myint Mo/ R4 \u2013 Verification\nDone: Checked the R4 requirements and prepared the verify.md template.\nPlan for today: Get the 30 Min, Hourly and Daily results from the team and st",
+          "ts_str": "2026-10-21 03:23:15",
+          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1562305238738935830"
         },
         {
           "author": "mufor.",
-          "content": "@everyone who can help me to build a new Figjam Sprint 7, I can't edit",
-          "ts_str": "2026-10-20 10:12:09",
-          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1562045755106009189"
+          "content": "@everyone before 12pm Sprint 7 Check-in \u2014 Wed 21 Oct Oct\nName / Role:\nDone:\nPlan for today:\nBlockers (or \"none\"):",
+          "ts_str": "2026-10-21 03:14:53",
+          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1562303133470826498"
+        },
+        {
+          "author": "naing_26",
+          "content": "Name / Role: Naing / R5\nDone: first draft of the ui/gold.html and 4 timeframes present\nPlan for today: compile the ui with actual data from R6 and link the index.html with gold.html\nBlockers (or \"none",
+          "ts_str": "2026-10-21 02:54:56",
+          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1562298113358561411"
         }
       ]
     },
