@@ -1,5 +1,5 @@
 {
-  "generated": "Wednesday 21 October 2026 13:40 SGT",
+  "generated": "Wednesday 21 October 2026 18:36 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
@@ -15,6 +15,24 @@
       "blockers": [
         {
           "author": "mufor.",
+          "content": "dont overwrite index.html on github, because requirements indicate that keep the previous version",
+          "ts_str": "2026-10-21 08:04:19",
+          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1562375972999790663"
+        },
+        {
+          "author": "iaknauxoet",
+          "content": "Name / Role: Xuan Kai Teo ID:14999357 / R2\nDone: Started the Gold price line and reviewed the latest close, daily change and percentage change requirements.\nPlan for today: Finish and verify the price",
+          "ts_str": "2026-10-21 07:50:56",
+          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1562372604776423455"
+        },
+        {
+          "author": "1nonlyneon",
+          "content": "Name / Role: Bhone Myat Kyaw Thu (R5)\nDone: Worked on the Sprint 7 UI checkpoint and added all 7 timeframes. Waiting for R6\u2019s dashboard_data.py\nPlan for today:  Finish the UI checkpoint and push ui/in",
+          "ts_str": "2026-10-21 06:28:55",
+          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1562351963096481863"
+        },
+        {
+          "author": "mufor.",
           "content": "Name / Role: Junyi Fan / R1\nDone: \n- Completed 1-on-1 check-ins (verified R6's data is ready).\n- Notified team of Prof Tan's urgent update (keep index.html, link to gold.html).\nPlan for today: \n- Subm",
           "ts_str": "2026-10-21 03:38:41",
           "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1562309126242050151"
@@ -24,24 +42,6 @@
           "content": "Name / Role: Zhang Yuxuan / R6\n\nDone: Completed dashboard_data.py with haewon , successfully generated ui/data.json for all 7 timeframes, and confirmed the data displays on the dashboard.\n\nPlan for to",
           "ts_str": "2026-10-21 03:25:29",
           "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1562305802319040643"
-        },
-        {
-          "author": "aliceinsomewhere",
-          "content": "Name / Role: Phoo Pwint Myint Mo/ R4 \u2013 Verification\nDone: Checked the R4 requirements and prepared the verify.md template.\nPlan for today: Get the 30 Min, Hourly and Daily results from the team and st",
-          "ts_str": "2026-10-21 03:23:15",
-          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1562305238738935830"
-        },
-        {
-          "author": "mufor.",
-          "content": "@everyone before 12pm Sprint 7 Check-in \u2014 Wed 21 Oct Oct\nName / Role:\nDone:\nPlan for today:\nBlockers (or \"none\"):",
-          "ts_str": "2026-10-21 03:14:53",
-          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1562303133470826498"
-        },
-        {
-          "author": "naing_26",
-          "content": "Name / Role: Naing / R5\nDone: first draft of the ui/gold.html and 4 timeframes present\nPlan for today: compile the ui with actual data from R6 and link the index.html with gold.html\nBlockers (or \"none",
-          "ts_str": "2026-10-21 02:54:56",
-          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1562298113358561411"
         }
       ]
     },
