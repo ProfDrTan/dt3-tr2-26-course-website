@@ -1,8 +1,26 @@
 {
-  "generated": "Wednesday 21 October 2026 18:36 SGT",
+  "generated": "Wednesday 21 October 2026 23:38 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
+        {
+          "author": "hawlermathew",
+          "content": "need any of my help?",
+          "ts_str": "2026-10-21 14:31:01",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1562473288838676571"
+        },
+        {
+          "author": "zhang_41520",
+          "content": "Nice work! If you need any help with anything, just let me know.",
+          "ts_str": "2026-10-21 12:29:51",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1562442797167153256"
+        },
+        {
+          "author": "zhang_41520",
+          "content": "Hi An,  Could you let me know what you\u2019ve already completed and what you still need help with?",
+          "ts_str": "2026-10-21 11:33:56",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1562428725382086697"
+        },
         {
           "author": "qiu0181",
           "content": "jiaqi told me that he is not in Singapore now and cannot use discord. If he acts as r1, communication will be very troublesome",
@@ -14,34 +32,34 @@
     "Team 2": {
       "blockers": [
         {
-          "author": "mufor.",
-          "content": "dont overwrite index.html on github, because requirements indicate that keep the previous version",
-          "ts_str": "2026-10-21 08:04:19",
-          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1562375972999790663"
+          "author": "naing_26",
+          "content": "I'll be working on the update for sprint 7. <@738757785013190676> can you update the gold.html as ur previous version but change the layout grid.\nBut please don't commit yet to github. I'll finish my ",
+          "ts_str": "2026-10-21 14:55:02",
+          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1562479332771766354"
         },
         {
-          "author": "iaknauxoet",
-          "content": "Name / Role: Xuan Kai Teo ID:14999357 / R2\nDone: Started the Gold price line and reviewed the latest close, daily change and percentage change requirements.\nPlan for today: Finish and verify the price",
-          "ts_str": "2026-10-21 07:50:56",
-          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1562372604776423455"
-        },
-        {
-          "author": "1nonlyneon",
-          "content": "Name / Role: Bhone Myat Kyaw Thu (R5)\nDone: Worked on the Sprint 7 UI checkpoint and added all 7 timeframes. Waiting for R6\u2019s dashboard_data.py\nPlan for today:  Finish the UI checkpoint and push ui/in",
-          "ts_str": "2026-10-21 06:28:55",
-          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1562351963096481863"
+          "author": "naing_26",
+          "content": "oh no my bad. It is the cmd problem. We should be running the cmd in the root folder",
+          "ts_str": "2026-10-21 14:42:15",
+          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1562476116633976853"
         },
         {
           "author": "mufor.",
-          "content": "Name / Role: Junyi Fan / R1\nDone: \n- Completed 1-on-1 check-ins (verified R6's data is ready).\n- Notified team of Prof Tan's urgent update (keep index.html, link to gold.html).\nPlan for today: \n- Subm",
-          "ts_str": "2026-10-21 03:38:41",
-          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1562309126242050151"
+          "content": "i think it is folder link problems?",
+          "ts_str": "2026-10-21 14:40:38",
+          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1562475708452704319"
         },
         {
-          "author": "zhangyuxuan0333",
-          "content": "Name / Role: Zhang Yuxuan / R6\n\nDone: Completed dashboard_data.py with haewon , successfully generated ui/data.json for all 7 timeframes, and confirmed the data displays on the dashboard.\n\nPlan for to",
-          "ts_str": "2026-10-21 03:25:29",
-          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1562305802319040643"
+          "author": "naing_26",
+          "content": "oh and btw the index.html (the ususal ui) is not loading any file on my local. Does anyone have the same problem?",
+          "ts_str": "2026-10-21 14:21:06",
+          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1562470793840173239"
+        },
+        {
+          "author": "naing_26",
+          "content": "could you commit that file and overwrite gold.html so we can see if it works well with the technical indicators",
+          "ts_str": "2026-10-21 14:19:36",
+          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1562470416822304903"
         }
       ]
     },
@@ -50,6 +68,18 @@
     },
     "Team 4": {
       "blockers": [
+        {
+          "author": "shiro_0272902",
+          "content": "Bro can u help me to put my data in figma?",
+          "ts_str": "2026-10-21 14:05:22",
+          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1562466834987483177"
+        },
+        {
+          "author": "jahanvi.10_37766",
+          "content": "lemme know if you need any kind of help.",
+          "ts_str": "2026-10-21 10:39:06",
+          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1562414926620786689"
+        },
         {
           "author": "estelle_wen_05110",
           "content": "Could you please help me to check it out? Thanks~ <@1548926121058369609>",
