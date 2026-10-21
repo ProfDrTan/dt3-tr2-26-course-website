@@ -1,8 +1,14 @@
 {
-  "generated": "Wednesday 21 October 2026 23:38 SGT",
+  "generated": "Thursday 22 October 2026 03:38 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
+        {
+          "author": "xuan087394",
+          "content": "@everyone Please post your individual Sprint 7 progress updates in this Discord channel by 20:00 on Thursday. Your update should include: work completed, plans for the next steps, and any issues or bl",
+          "ts_str": "2026-10-21 16:04:37",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1562496843747954741"
+        },
         {
           "author": "hawlermathew",
           "content": "need any of my help?",
@@ -32,6 +38,12 @@
     "Team 2": {
       "blockers": [
         {
+          "author": "haewon00_95831",
+          "content": "The function looks compatible with my dashboard_data.py, but there's a syntax error at the top of tech_summary.py. Could you add the opening triple quotes (\"\"\") before the first line?",
+          "ts_str": "2026-10-21 16:51:11",
+          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1562508563618730119"
+        },
+        {
           "author": "naing_26",
           "content": "I'll be working on the update for sprint 7. <@738757785013190676> can you update the gold.html as ur previous version but change the layout grid.\nBut please don't commit yet to github. I'll finish my ",
           "ts_str": "2026-10-21 14:55:02",
@@ -54,12 +66,6 @@
           "content": "oh and btw the index.html (the ususal ui) is not loading any file on my local. Does anyone have the same problem?",
           "ts_str": "2026-10-21 14:21:06",
           "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1562470793840173239"
-        },
-        {
-          "author": "naing_26",
-          "content": "could you commit that file and overwrite gold.html so we can see if it works well with the technical indicators",
-          "ts_str": "2026-10-21 14:19:36",
-          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1562470416822304903"
         }
       ]
     },
