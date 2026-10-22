@@ -1,5 +1,5 @@
 {
-  "generated": "Thursday 22 October 2026 19:53 SGT",
+  "generated": "Friday 23 October 2026 01:03 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
@@ -74,6 +74,12 @@
     },
     "Team 4": {
       "blockers": [
+        {
+          "author": "jahanvi.10_37766",
+          "content": "<@1550773438669389825> R2, please update the SPX and NDX predictions in predictions/vW7.json ASAP, as Charles is waiting for the targets. Let me know if you need any help!",
+          "ts_str": "2026-10-22 14:09:33",
+          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1562830274587394161"
+        },
         {
           "author": "shiro_0272902",
           "content": "can u help me to put it for tdy activities in figjam pls",
