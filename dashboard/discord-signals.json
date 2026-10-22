@@ -1,5 +1,5 @@
 {
-  "generated": "Thursday 22 October 2026 09:02 SGT",
+  "generated": "Thursday 22 October 2026 14:04 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
@@ -38,6 +38,18 @@
     "Team 2": {
       "blockers": [
         {
+          "author": "mufor.",
+          "content": "<@1548883237391048835> can u help me to edit these card on To-Do zone on Figjam?",
+          "ts_str": "2026-10-22 02:17:35",
+          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1562651101206024333"
+        },
+        {
+          "author": "mufor.",
+          "content": "@everyone who can help me to update Figjam?",
+          "ts_str": "2026-10-22 01:54:27",
+          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1562645280497864799"
+        },
+        {
           "author": "haewon00_95831",
           "content": "The function looks compatible with my dashboard_data.py, but there's a syntax error at the top of tech_summary.py. Could you add the opening triple quotes (\"\"\") before the first line?",
           "ts_str": "2026-10-21 16:51:11",
@@ -54,18 +66,6 @@
           "content": "oh no my bad. It is the cmd problem. We should be running the cmd in the root folder",
           "ts_str": "2026-10-21 14:42:15",
           "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1562476116633976853"
-        },
-        {
-          "author": "mufor.",
-          "content": "i think it is folder link problems?",
-          "ts_str": "2026-10-21 14:40:38",
-          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1562475708452704319"
-        },
-        {
-          "author": "naing_26",
-          "content": "oh and btw the index.html (the ususal ui) is not loading any file on my local. Does anyone have the same problem?",
-          "ts_str": "2026-10-21 14:21:06",
-          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1562470793840173239"
         }
       ]
     },
@@ -91,12 +91,6 @@
           "content": "Could you please help me to check it out? Thanks~ <@1548926121058369609>",
           "ts_str": "2026-10-20 10:58:52",
           "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1562057512029519884"
-        },
-        {
-          "author": "jahanvi.10_37766",
-          "content": "Lemme know if you guys need any kind of help!",
-          "ts_str": "2026-10-20 03:02:03",
-          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1561937518440611971"
         }
       ]
     },
