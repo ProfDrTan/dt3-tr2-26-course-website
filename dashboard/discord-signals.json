@@ -1,37 +1,37 @@
 {
-  "generated": "Thursday 22 October 2026 14:04 SGT",
+  "generated": "Thursday 22 October 2026 19:53 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
         {
-          "author": "xuan087394",
-          "content": "@everyone Please post your individual Sprint 7 progress updates in this Discord channel by 20:00 on Thursday. Your update should include: work completed, plans for the next steps, and any issues or bl",
-          "ts_str": "2026-10-21 16:04:37",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1562496843747954741"
-        },
-        {
-          "author": "hawlermathew",
-          "content": "need any of my help?",
-          "ts_str": "2026-10-21 14:31:01",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1562473288838676571"
+          "author": "zhang_41520",
+          "content": "Yeah, I think asking Prof Tan would be safest. Since Sprint 7 doesn\u2019t explicitly mention LLM synthesis or provide a new template, I don\u2019t want us to do unnecessary work or use the wrong format. If he ",
+          "ts_str": "2026-10-22 10:12:53",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1562770716166987848"
         },
         {
           "author": "zhang_41520",
-          "content": "Nice work! If you need any help with anything, just let me know.",
-          "ts_str": "2026-10-21 12:29:51",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1562442797167153256"
+          "content": "R6A \u2013 Zhang Dawei  \n\nCompleted:  \n- Completed and tested engine/dashboard_data.py.\n- All seven timeframes are working: 1 Min, 5 Min, 15 Min, 30 Min, Hourly, 4 Hours and Daily.\n- Successfully generated",
+          "ts_str": "2026-10-22 10:07:52",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1562769454998495257"
         },
         {
           "author": "zhang_41520",
-          "content": "Hi An,  Could you let me know what you\u2019ve already completed and what you still need help with?",
-          "ts_str": "2026-10-21 11:33:56",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1562428725382086697"
+          "content": "I don\u2019t think Sprint 7 specifically requires an LLM synthesis file like Sprint 6. The instructions mainly focus on the gold dashboard and the weekly calls. I\u2019m currently focusing on the R6 dashboard d",
+          "ts_str": "2026-10-22 10:07:14",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1562769295564476429"
+        },
+        {
+          "author": "jq0289",
+          "content": "R5-JQ\n\nCompleted:\n\n* Reviewed the Sprint 6 UI and identified reusable components for the Sprint 7 R5 task.\n* Created a first draft of ui/gold.html with the page layout, seven timeframe buttons, three ",
+          "ts_str": "2026-10-22 09:35:06",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1562761207914569760"
         },
         {
           "author": "qiu0181",
-          "content": "jiaqi told me that he is not in Singapore now and cannot use discord. If he acts as r1, communication will be very troublesome",
-          "ts_str": "2026-10-20 14:37:54",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1562112634520604743"
+          "content": "## R2 - Shihao Qiu\n\n**Completed:**\n- Prepared the S&P 500 closing prediction of 7,750.00 for Friday, 23 October 2026.\n- Provided supporting reasons, confidence level, and key risks based on market new",
+          "ts_str": "2026-10-22 09:21:16",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1562757727220932660"
         }
       ]
     },
@@ -76,6 +76,12 @@
       "blockers": [
         {
           "author": "shiro_0272902",
+          "content": "can u help me to put it for tdy activities in figjam pls",
+          "ts_str": "2026-10-22 11:35:45",
+          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1562791569705402379"
+        },
+        {
+          "author": "shiro_0272902",
           "content": "Bro can u help me to put my data in figma?",
           "ts_str": "2026-10-21 14:05:22",
           "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1562466834987483177"
@@ -85,12 +91,6 @@
           "content": "lemme know if you need any kind of help.",
           "ts_str": "2026-10-21 10:39:06",
           "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1562414926620786689"
-        },
-        {
-          "author": "estelle_wen_05110",
-          "content": "Could you please help me to check it out? Thanks~ <@1548926121058369609>",
-          "ts_str": "2026-10-20 10:58:52",
-          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1562057512029519884"
         }
       ]
     },
