@@ -1,8 +1,26 @@
 {
-  "generated": "Friday 23 October 2026 20:44 SGT",
+  "generated": "Saturday 24 October 2026 01:32 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
+        {
+          "author": "qiu0181",
+          "content": "I\u2019ve updated the R2 gold price line in `ui/gold.html` to read R6\u2019s `price_line` data. It calculates the daily change and percentage change, displays the correct colours, and refreshes the price data e",
+          "ts_str": "2026-10-23 15:18:25",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1563209994411835506"
+        },
+        {
+          "author": "hawlermathew",
+          "content": "i will help u with gold.html again",
+          "ts_str": "2026-10-23 14:19:26",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1563195150102962317"
+        },
+        {
+          "author": "xuan087394",
+          "content": "Thanks both! I checked the files. The main issue is that our data is from 21 Oct, but the screenshots are from 23 Oct, so they don\u2019t match yet. Please check that the bar times match for 30 Min, Hourly",
+          "ts_str": "2026-10-23 13:09:25",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1563177531421630477"
+        },
         {
           "author": "wailinnthaw",
           "content": "Hi, I just want to update you on my Sprint 7 work.\n\nMy role is R4, which focuses on verifying the Gold Technical Dashboard.\n\nI've created the `docs/verify.md` document and collected six screenshots fr",
@@ -14,24 +32,6 @@
           "content": "tell me if u need help",
           "ts_str": "2026-10-23 08:17:39",
           "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1563104103285002241"
-        },
-        {
-          "author": "hawlermathew",
-          "content": "so if anybody test and see errors then it completely fine, nothin to worry",
-          "ts_str": "2026-10-23 08:17:23",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1563104036713136159"
-        },
-        {
-          "author": "hawlermathew",
-          "content": "currently u may see errors when using test_engine.py but that happens because expected_gold.json file that prof gave us does not update with the new indicators assign for this week",
-          "ts_str": "2026-10-23 08:16:58",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1563103930429349951"
-        },
-        {
-          "author": "xuan087394",
-          "content": "Alright, no problem",
-          "ts_str": "2026-10-23 07:37:36",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1563094024980795393"
         }
       ]
     },
@@ -48,24 +48,6 @@
           "content": "@everyone who can help me to update Figjam?",
           "ts_str": "2026-10-22 01:54:27",
           "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1562645280497864799"
-        },
-        {
-          "author": "haewon00_95831",
-          "content": "The function looks compatible with my dashboard_data.py, but there's a syntax error at the top of tech_summary.py. Could you add the opening triple quotes (\"\"\") before the first line?",
-          "ts_str": "2026-10-21 16:51:11",
-          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1562508563618730119"
-        },
-        {
-          "author": "naing_26",
-          "content": "I'll be working on the update for sprint 7. <@738757785013190676> can you update the gold.html as ur previous version but change the layout grid.\nBut please don't commit yet to github. I'll finish my ",
-          "ts_str": "2026-10-21 14:55:02",
-          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1562479332771766354"
-        },
-        {
-          "author": "naing_26",
-          "content": "oh no my bad. It is the cmd problem. We should be running the cmd in the root folder",
-          "ts_str": "2026-10-21 14:42:15",
-          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1562476116633976853"
         }
       ]
     },
@@ -85,12 +67,6 @@
           "content": "can u help me to put it for tdy activities in figjam pls",
           "ts_str": "2026-10-22 11:35:45",
           "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1562791569705402379"
-        },
-        {
-          "author": "shiro_0272902",
-          "content": "Bro can u help me to put my data in figma?",
-          "ts_str": "2026-10-21 14:05:22",
-          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1562466834987483177"
         }
       ]
     },
