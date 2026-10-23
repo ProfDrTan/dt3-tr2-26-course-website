@@ -1,8 +1,14 @@
 {
-  "generated": "Friday 23 October 2026 09:59 SGT",
+  "generated": "Friday 23 October 2026 15:22 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
+        {
+          "author": "xuan087394",
+          "content": "<@776049160369209355> Hi, could you please start working on your part as soon as possible? Or is there anything you need help with?",
+          "ts_str": "2026-10-23 07:17:43",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1563089022593540149"
+        },
         {
           "author": "zhang_41520",
           "content": "Yeah, I think asking Prof Tan would be safest. Since Sprint 7 doesn\u2019t explicitly mention LLM synthesis or provide a new template, I don\u2019t want us to do unnecessary work or use the wrong format. If he ",
@@ -26,12 +32,6 @@
           "content": "R5-JQ\n\nCompleted:\n\n* Reviewed the Sprint 6 UI and identified reusable components for the Sprint 7 R5 task.\n* Created a first draft of ui/gold.html with the page layout, seven timeframe buttons, three ",
           "ts_str": "2026-10-22 09:35:06",
           "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1562761207914569760"
-        },
-        {
-          "author": "qiu0181",
-          "content": "## R2 - Shihao Qiu\n\n**Completed:**\n- Prepared the S&P 500 closing prediction of 7,750.00 for Friday, 23 October 2026.\n- Provided supporting reasons, confidence level, and key risks based on market new",
-          "ts_str": "2026-10-22 09:21:16",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1562757727220932660"
         }
       ]
     },
