@@ -1,5 +1,5 @@
 {
-  "generated": "Saturday 24 October 2026 15:11 SGT",
+  "generated": "Saturday 24 October 2026 20:02 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
@@ -36,7 +36,14 @@
       ]
     },
     "Team 2": {
-      "blockers": []
+      "blockers": [
+        {
+          "author": "mufor.",
+          "content": "<@805335742925635615> I think there's a problem on verify.md. you said: \"this is not an exact same-bar comparison.\" is not good may cause some misunderstandings, I think \"The data is about 10 minutes ",
+          "ts_str": "2026-10-24 07:43:43",
+          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1563457954139873433"
+        }
+      ]
     },
     "Team 3": {
       "blockers": [
@@ -55,12 +62,6 @@
           "content": "<@1550773438669389825> R2, please update the SPX and NDX predictions in predictions/vW7.json ASAP, as Charles is waiting for the targets. Let me know if you need any help!",
           "ts_str": "2026-10-22 14:09:33",
           "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1562830274587394161"
-        },
-        {
-          "author": "shiro_0272902",
-          "content": "can u help me to put it for tdy activities in figjam pls",
-          "ts_str": "2026-10-22 11:35:45",
-          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1562791569705402379"
         }
       ]
     },
