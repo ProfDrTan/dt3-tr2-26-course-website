@@ -1,8 +1,20 @@
 {
-  "generated": "Saturday 24 October 2026 23:51 SGT",
+  "generated": "Sunday 25 October 2026 02:34 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
+        {
+          "author": "xuan087394",
+          "content": "Okay, something seems to have gone wrong.",
+          "ts_str": "2026-10-24 17:43:43",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1563608948328759437"
+        },
+        {
+          "author": "ayephyuss",
+          "content": "R1 <@1550140586340913235> , PPTX for R2. I'm a little bit confused about preparing PPTX but I prepared with The last sprint format. If we have to change anything else. R2 <@1550051897354752052> also w",
+          "ts_str": "2026-10-24 16:14:21",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1563586456235147376"
+        },
         {
           "author": "hawlermathew",
           "content": "Here it is R1: <@1550140586340913235> , **R2 \u2014 Sprint 7 Wednesday Check-in**\n\n**Completed:**\n- Prepared a draft Gold Futures (GCZ26.CMX) prediction of USD 4,090 for 23 October 2026, with a cautiously ",
@@ -20,18 +32,6 @@
           "content": "dw friend i will help fix the issue",
           "ts_str": "2026-10-24 13:45:41",
           "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1563549042754064568"
-        },
-        {
-          "author": "zhang_41520",
-          "content": "I found the issue. My local version works because I\u2019m using the Sprint 7-compatible tech_summary.py, but the version currently on main is still using the older output structure. dashboard_data.py expe",
-          "ts_str": "2026-10-24 13:37:58",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1563547103719063583"
-        },
-        {
-          "author": "hawlermathew",
-          "content": "currently there is an error here",
-          "ts_str": "2026-10-24 13:32:38",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1563545760434360431"
         }
       ]
     },
@@ -47,6 +47,12 @@
     },
     "Team 3": {
       "blockers": [
+        {
+          "author": "alexlee149",
+          "content": "My R4 report and screenshots are now on GitHub. I compared Gold across 30 Min, Hourly and Daily, recording 72 value pairs. All three overall ratings match, but some details still need review.\nR3, coul",
+          "ts_str": "2026-10-24 16:08:05",
+          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1563584879583559774"
+        },
         {
           "author": "wendilin_39493_15226",
           "content": "For Monday's Sprint 7 presentation, you can open our dashboard by running this command in CMD from the main project folder:\n\n`python -m http.server 8000`\n\nThen open this link in Chrome:\n\nhttp://localh",
@@ -69,6 +75,18 @@
     },
     "Team 4": {
       "blockers": [
+        {
+          "author": "shiro_0272902",
+          "content": "<@816496998588350516>  Which LLM synthesis file do you need? The Sprint 7 gold page should read ui/data.json, which I\u2019ve committed. Please send the exact missing filename and the code error so we can ",
+          "ts_str": "2026-10-24 16:22:30",
+          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1563588508247924858"
+        },
+        {
+          "author": "axey_125",
+          "content": "<@622045340098494466> My UI is not completed and can't be done",
+          "ts_str": "2026-10-24 16:15:41",
+          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1563586792110821507"
+        },
         {
           "author": "axey_125",
           "content": "i got some problems with the code",
