@@ -1,5 +1,5 @@
 {
-  "generated": "Saturday 24 October 2026 09:56 SGT",
+  "generated": "Saturday 24 October 2026 15:11 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
@@ -36,17 +36,17 @@
       ]
     },
     "Team 2": {
-      "blockers": [
-        {
-          "author": "mufor.",
-          "content": "<@1548883237391048835> can u help me to edit these card on To-Do zone on Figjam?",
-          "ts_str": "2026-10-22 02:17:35",
-          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1562651101206024333"
-        }
-      ]
+      "blockers": []
     },
     "Team 3": {
-      "blockers": []
+      "blockers": [
+        {
+          "author": "alexlee149",
+          "content": "**Sprint 7 / vW7 \u2014 R4 update | LI HAOYANG**\n\nHi R1 and team, my R4 files and 4-slide PPT are now on GitHub. The PPT covers this week\u2019s goals, my original forecast, screenshots, findings and next steps",
+          "ts_str": "2026-10-24 06:02:02",
+          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1563432362254143510"
+        }
+      ]
     },
     "Team 4": {
       "blockers": [
