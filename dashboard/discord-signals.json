@@ -1,37 +1,37 @@
 {
-  "generated": "Saturday 24 October 2026 20:02 SGT",
+  "generated": "Saturday 24 October 2026 23:51 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
         {
-          "author": "qiu0181",
-          "content": "I\u2019ve updated the R2 gold price line in `ui/gold.html` to read R6\u2019s `price_line` data. It calculates the daily change and percentage change, displays the correct colours, and refreshes the price data e",
-          "ts_str": "2026-10-23 15:18:25",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1563209994411835506"
+          "author": "hawlermathew",
+          "content": "Here it is R1: <@1550140586340913235> , **R2 \u2014 Sprint 7 Wednesday Check-in**\n\n**Completed:**\n- Prepared a draft Gold Futures (GCZ26.CMX) prediction of USD 4,090 for 23 October 2026, with a cautiously ",
+          "ts_str": "2026-10-24 14:56:42",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1563566918189973517"
+        },
+        {
+          "author": "zhang_41520",
+          "content": "thanks An, if you need any help just let me know.",
+          "ts_str": "2026-10-24 13:50:10",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1563550174272299139"
         },
         {
           "author": "hawlermathew",
-          "content": "i will help u with gold.html again",
-          "ts_str": "2026-10-23 14:19:26",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1563195150102962317"
+          "content": "dw friend i will help fix the issue",
+          "ts_str": "2026-10-24 13:45:41",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1563549042754064568"
         },
         {
-          "author": "xuan087394",
-          "content": "Thanks both! I checked the files. The main issue is that our data is from 21 Oct, but the screenshots are from 23 Oct, so they don\u2019t match yet. Please check that the bar times match for 30 Min, Hourly",
-          "ts_str": "2026-10-23 13:09:25",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1563177531421630477"
-        },
-        {
-          "author": "wailinnthaw",
-          "content": "Hi, I just want to update you on my Sprint 7 work.\n\nMy role is R4, which focuses on verifying the Gold Technical Dashboard.\n\nI've created the `docs/verify.md` document and collected six screenshots fr",
-          "ts_str": "2026-10-23 11:22:08",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1563150532854685788"
+          "author": "zhang_41520",
+          "content": "I found the issue. My local version works because I\u2019m using the Sprint 7-compatible tech_summary.py, but the version currently on main is still using the older output structure. dashboard_data.py expe",
+          "ts_str": "2026-10-24 13:37:58",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1563547103719063583"
         },
         {
           "author": "hawlermathew",
-          "content": "tell me if u need help",
-          "ts_str": "2026-10-23 08:17:39",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1563104103285002241"
+          "content": "currently there is an error here",
+          "ts_str": "2026-10-24 13:32:38",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1563545760434360431"
         }
       ]
     },
@@ -48,6 +48,18 @@
     "Team 3": {
       "blockers": [
         {
+          "author": "wendilin_39493_15226",
+          "content": "For Monday's Sprint 7 presentation, you can open our dashboard by running this command in CMD from the main project folder:\n\n`python -m http.server 8000`\n\nThen open this link in Chrome:\n\nhttp://localh",
+          "ts_str": "2026-10-24 15:48:17",
+          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1563579897404989520"
+        },
+        {
+          "author": "persitatu",
+          "content": "I've completed the PowerPoint for section R6; please let me know if there are any issues.",
+          "ts_str": "2026-10-24 13:39:54",
+          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1563547588051996703"
+        },
+        {
           "author": "alexlee149",
           "content": "**Sprint 7 / vW7 \u2014 R4 update | LI HAOYANG**\n\nHi R1 and team, my R4 files and 4-slide PPT are now on GitHub. The PPT covers this week\u2019s goals, my original forecast, screenshots, findings and next steps",
           "ts_str": "2026-10-24 06:02:02",
@@ -58,10 +70,10 @@
     "Team 4": {
       "blockers": [
         {
-          "author": "jahanvi.10_37766",
-          "content": "<@1550773438669389825> R2, please update the SPX and NDX predictions in predictions/vW7.json ASAP, as Charles is waiting for the targets. Let me know if you need any help!",
-          "ts_str": "2026-10-22 14:09:33",
-          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1562830274587394161"
+          "author": "axey_125",
+          "content": "i got some problems with the code",
+          "ts_str": "2026-10-24 14:37:58",
+          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1563562200306679892"
         }
       ]
     },
