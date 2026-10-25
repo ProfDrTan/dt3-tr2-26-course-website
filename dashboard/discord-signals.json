@@ -1,8 +1,14 @@
 {
-  "generated": "Sunday 25 October 2026 14:43 SGT",
+  "generated": "Sunday 25 October 2026 20:09 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
+        {
+          "author": "sololeveller233637",
+          "content": "there is a big issue in the document i checked",
+          "ts_str": "2026-10-25 10:13:17",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1563857979587952681"
+        },
         {
           "author": "hawlermathew",
           "content": "ok guys, due to high workloads on A1 Part B and github gold.html, I will distribute the work for u.\n\n**Tasks:**\n- Scrum artefacts: collecting evidence for Team charter, Product backlog, Sprint backlog",
@@ -26,17 +32,17 @@
           "content": "Here it is R1: <@1550140586340913235> , **R2 \u2014 Sprint 7 Wednesday Check-in**\n\n**Completed:**\n- Prepared a draft Gold Futures (GCZ26.CMX) prediction of USD 4,090 for 23 October 2026, with a cautiously ",
           "ts_str": "2026-10-24 14:56:42",
           "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1563566918189973517"
-        },
-        {
-          "author": "zhang_41520",
-          "content": "thanks An, if you need any help just let me know.",
-          "ts_str": "2026-10-24 13:50:10",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1563550174272299139"
         }
       ]
     },
     "Team 2": {
       "blockers": [
+        {
+          "author": "mufor.",
+          "content": "<@738757785013190676> can u help me to attach commit link for each card?: R1 -- Product Owner & Scrum Master\uff1ahttps://github.com/cp3405-tr3-2026/team-2/blob/main/predictions/vW7.json\n\nR2 -- Almanac & M",
+          "ts_str": "2026-10-25 08:26:56",
+          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1563831215281414195"
+        },
         {
           "author": "mufor.",
           "content": "if can't, I will call other to cover",
@@ -65,6 +71,12 @@
     },
     "Team 3": {
       "blockers": [
+        {
+          "author": "persitatu",
+          "content": "Without engine prediction data, I can't do the things I mentioned earlier.",
+          "ts_str": "2026-10-25 10:29:28",
+          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1563862053687656454"
+        },
         {
           "author": "alexlee149",
           "content": "My R4 report and screenshots are now on GitHub. I compared Gold across 30 Min, Hourly and Daily, recording 72 value pairs. All three overall ratings match, but some details still need review.\nR3, coul",
