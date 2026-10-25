@@ -1,8 +1,14 @@
 {
-  "generated": "Sunday 25 October 2026 09:23 SGT",
+  "generated": "Sunday 25 October 2026 14:43 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
+        {
+          "author": "hawlermathew",
+          "content": "ok guys, due to high workloads on A1 Part B and github gold.html, I will distribute the work for u.\n\n**Tasks:**\n- Scrum artefacts: collecting evidence for Team charter, Product backlog, Sprint backlog",
+          "ts_str": "2026-10-25 03:35:57",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1563757989448384593"
+        },
         {
           "author": "xuan087394",
           "content": "Okay, something seems to have gone wrong.",
@@ -26,17 +32,29 @@
           "content": "thanks An, if you need any help just let me know.",
           "ts_str": "2026-10-24 13:50:10",
           "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1563550174272299139"
-        },
-        {
-          "author": "hawlermathew",
-          "content": "dw friend i will help fix the issue",
-          "ts_str": "2026-10-24 13:45:41",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1563549042754064568"
         }
       ]
     },
     "Team 2": {
       "blockers": [
+        {
+          "author": "mufor.",
+          "content": "if can't, I will call other to cover",
+          "ts_str": "2026-10-25 05:22:41",
+          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1563784847237972000"
+        },
+        {
+          "author": "mufor.",
+          "content": "Dr Tan said he gives you all access, you still can't move?",
+          "ts_str": "2026-10-25 05:07:57",
+          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1563781141562134590"
+        },
+        {
+          "author": "mufor.",
+          "content": "ok I notice, i can't edit figjam, can u move the figjam card and I will update new figjam_activity.json",
+          "ts_str": "2026-10-25 05:06:21",
+          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1563780737273171992"
+        },
         {
           "author": "mufor.",
           "content": "<@805335742925635615> I think there's a problem on verify.md. you said: \"this is not an exact same-bar comparison.\" is not good may cause some misunderstandings, I think \"The data is about 10 minutes ",
