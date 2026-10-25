@@ -1,8 +1,20 @@
 {
-  "generated": "Sunday 25 October 2026 20:09 SGT",
+  "generated": "Monday 26 October 2026 00:26 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
+        {
+          "author": "sololeveller233637",
+          "content": "<@710506116441702504> Definition of Done (DoD)\n\nTeam 1 used GitHub sprint versions and FigJam to document sprint deliverables, allocate responsibilities and monitor progress. The following summarizes ",
+          "ts_str": "2026-10-25 13:17:50",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1563904424747864085"
+        },
+        {
+          "author": "ayephyuss",
+          "content": "That's Ok <@776049160369209355> , it's not making mistake. I'm happy for helping me.",
+          "ts_str": "2026-10-25 12:28:33",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1563892020756611073"
+        },
         {
           "author": "sololeveller233637",
           "content": "there is a big issue in the document i checked",
@@ -20,18 +32,6 @@
           "content": "Okay, something seems to have gone wrong.",
           "ts_str": "2026-10-24 17:43:43",
           "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1563608948328759437"
-        },
-        {
-          "author": "ayephyuss",
-          "content": "R1 <@1550140586340913235> , PPTX for R2. I'm a little bit confused about preparing PPTX but I prepared with The last sprint format. If we have to change anything else. R2 <@1550051897354752052> also w",
-          "ts_str": "2026-10-24 16:14:21",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1563586456235147376"
-        },
-        {
-          "author": "hawlermathew",
-          "content": "Here it is R1: <@1550140586340913235> , **R2 \u2014 Sprint 7 Wednesday Check-in**\n\n**Completed:**\n- Prepared a draft Gold Futures (GCZ26.CMX) prediction of USD 4,090 for 23 October 2026, with a cautiously ",
-          "ts_str": "2026-10-24 14:56:42",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1563566918189973517"
         }
       ]
     },
