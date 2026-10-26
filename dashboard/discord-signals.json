@@ -1,5 +1,5 @@
 {
-  "generated": "Tuesday 27 October 2026 00:13 SGT",
+  "generated": "Tuesday 27 October 2026 05:05 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
@@ -26,12 +26,6 @@
           "content": "ok guys, due to high workloads on A1 Part B and github gold.html, I will distribute the work for u.\n\n**Tasks:**\n- Scrum artefacts: collecting evidence for Team charter, Product backlog, Sprint backlog",
           "ts_str": "2026-10-25 03:35:57",
           "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1563757989448384593"
-        },
-        {
-          "author": "xuan087394",
-          "content": "Okay, something seems to have gone wrong.",
-          "ts_str": "2026-10-24 17:43:43",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1563608948328759437"
         }
       ]
     },
@@ -104,12 +98,6 @@
           "content": "also guys R2, R3, R4 should be able to explain how you arrived at this week\u2019s prediction, how it compared with the actual result (the difference/error), and whether the market movement was bullish or ",
           "ts_str": "2026-10-26 01:23:06",
           "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1564086943342403625"
-        },
-        {
-          "author": "shiro_0272902",
-          "content": "<@816496998588350516>  Which LLM synthesis file do you need? The Sprint 7 gold page should read ui/data.json, which I\u2019ve committed. Please send the exact missing filename and the code error so we can ",
-          "ts_str": "2026-10-24 16:22:30",
-          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1563588508247924858"
         }
       ]
     },
