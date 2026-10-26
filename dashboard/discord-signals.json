@@ -1,5 +1,5 @@
 {
-  "generated": "Monday 26 October 2026 11:28 SGT",
+  "generated": "Monday 26 October 2026 17:18 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
@@ -38,6 +38,12 @@
     "Team 2": {
       "blockers": [
         {
+          "author": "iaknauxoet",
+          "content": "btw sorry guys i still couldn\u2019t make it cuz i caught sore throat here in jakarta but just lmk what role i get i\u2019ll get it done asap \ud83e\udd1e\ud83c\udffb",
+          "ts_str": "2026-10-26 07:39:16",
+          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1564181609287127103"
+        },
+        {
           "author": "mufor.",
           "content": "<@738757785013190676> can u help me to attach commit link for each card?: R1 -- Product Owner & Scrum Master\uff1ahttps://github.com/cp3405-tr3-2026/team-2/blob/main/predictions/vW7.json\n\nR2 -- Almanac & M",
           "ts_str": "2026-10-25 08:26:56",
@@ -60,12 +66,6 @@
           "content": "ok I notice, i can't edit figjam, can u move the figjam card and I will update new figjam_activity.json",
           "ts_str": "2026-10-25 05:06:21",
           "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1563780737273171992"
-        },
-        {
-          "author": "mufor.",
-          "content": "<@805335742925635615> I think there's a problem on verify.md. you said: \"this is not an exact same-bar comparison.\" is not good may cause some misunderstandings, I think \"The data is about 10 minutes ",
-          "ts_str": "2026-10-24 07:43:43",
-          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1563457954139873433"
         }
       ]
     },
@@ -94,12 +94,6 @@
           "content": "I've completed the PowerPoint for section R6; please let me know if there are any issues.",
           "ts_str": "2026-10-24 13:39:54",
           "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1563547588051996703"
-        },
-        {
-          "author": "alexlee149",
-          "content": "**Sprint 7 / vW7 \u2014 R4 update | LI HAOYANG**\n\nHi R1 and team, my R4 files and 4-slide PPT are now on GitHub. The PPT covers this week\u2019s goals, my original forecast, screenshots, findings and next steps",
-          "ts_str": "2026-10-24 06:02:02",
-          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1563432362254143510"
         }
       ]
     },
