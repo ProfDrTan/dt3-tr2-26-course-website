@@ -1,5 +1,5 @@
 {
-  "generated": "Monday 26 October 2026 17:18 SGT",
+  "generated": "Tuesday 27 October 2026 00:13 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
@@ -76,29 +76,17 @@
           "content": "Without engine prediction data, I can't do the things I mentioned earlier.",
           "ts_str": "2026-10-25 10:29:28",
           "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1563862053687656454"
-        },
-        {
-          "author": "alexlee149",
-          "content": "My R4 report and screenshots are now on GitHub. I compared Gold across 30 Min, Hourly and Daily, recording 72 value pairs. All three overall ratings match, but some details still need review.\nR3, coul",
-          "ts_str": "2026-10-24 16:08:05",
-          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1563584879583559774"
-        },
-        {
-          "author": "wendilin_39493_15226",
-          "content": "For Monday's Sprint 7 presentation, you can open our dashboard by running this command in CMD from the main project folder:\n\n`python -m http.server 8000`\n\nThen open this link in Chrome:\n\nhttp://localh",
-          "ts_str": "2026-10-24 15:48:17",
-          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1563579897404989520"
-        },
-        {
-          "author": "persitatu",
-          "content": "I've completed the PowerPoint for section R6; please let me know if there are any issues.",
-          "ts_str": "2026-10-24 13:39:54",
-          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1563547588051996703"
         }
       ]
     },
     "Team 4": {
       "blockers": [
+        {
+          "author": "shiro_0272902",
+          "content": "No problem",
+          "ts_str": "2026-10-26 12:05:27",
+          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1564248593739681968"
+        },
         {
           "author": "shiro_0272902",
           "content": "My one was wrong",
@@ -122,12 +110,6 @@
           "content": "<@816496998588350516>  Which LLM synthesis file do you need? The Sprint 7 gold page should read ui/data.json, which I\u2019ve committed. Please send the exact missing filename and the code error so we can ",
           "ts_str": "2026-10-24 16:22:30",
           "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1563588508247924858"
-        },
-        {
-          "author": "axey_125",
-          "content": "<@622045340098494466> My UI is not completed and can't be done",
-          "ts_str": "2026-10-24 16:15:41",
-          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1563586792110821507"
         }
       ]
     },
