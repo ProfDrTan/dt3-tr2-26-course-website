@@ -1,8 +1,15 @@
 {
-  "generated": "Wednesday 28 October 2026 00:26 SGT",
+  "generated": "Wednesday 28 October 2026 04:54 SGT",
   "teams": {
     "Team 1": {
-      "blockers": []
+      "blockers": [
+        {
+          "author": "sololeveller233637",
+          "content": "So that no one faces an issue moving forward",
+          "ts_str": "2026-10-27 16:36:58",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1564679312454717502"
+        }
+      ]
     },
     "Team 2": {
       "blockers": [
