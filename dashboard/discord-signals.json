@@ -1,5 +1,5 @@
 {
-  "generated": "Tuesday 27 October 2026 08:26 SGT",
+  "generated": "Tuesday 27 October 2026 13:30 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
@@ -20,17 +20,17 @@
           "content": "there is a big issue in the document i checked",
           "ts_str": "2026-10-25 10:13:17",
           "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1563857979587952681"
-        },
-        {
-          "author": "hawlermathew",
-          "content": "ok guys, due to high workloads on A1 Part B and github gold.html, I will distribute the work for u.\n\n**Tasks:**\n- Scrum artefacts: collecting evidence for Team charter, Product backlog, Sprint backlog",
-          "ts_str": "2026-10-25 03:35:57",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1563757989448384593"
         }
       ]
     },
     "Team 2": {
       "blockers": [
+        {
+          "author": "naing_26",
+          "content": "Urgent tasks for now:\nR6 + R3 (<@738757785013190676> , <@1550739890604351590> , <@1551423722689265805> ): update dashboard_data.py to include series and volume data by Wed 12:00\n\nR5 (<@805335742925635",
+          "ts_str": "2026-10-27 05:23:36",
+          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1564509853697974373"
+        },
         {
           "author": "iaknauxoet",
           "content": "btw sorry guys i still couldn\u2019t make it cuz i caught sore throat here in jakarta but just lmk what role i get i\u2019ll get it done asap \ud83e\udd1e\ud83c\udffb",
@@ -42,24 +42,6 @@
           "content": "<@738757785013190676> can u help me to attach commit link for each card?: R1 -- Product Owner & Scrum Master\uff1ahttps://github.com/cp3405-tr3-2026/team-2/blob/main/predictions/vW7.json\n\nR2 -- Almanac & M",
           "ts_str": "2026-10-25 08:26:56",
           "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1563831215281414195"
-        },
-        {
-          "author": "mufor.",
-          "content": "if can't, I will call other to cover",
-          "ts_str": "2026-10-25 05:22:41",
-          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1563784847237972000"
-        },
-        {
-          "author": "mufor.",
-          "content": "Dr Tan said he gives you all access, you still can't move?",
-          "ts_str": "2026-10-25 05:07:57",
-          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1563781141562134590"
-        },
-        {
-          "author": "mufor.",
-          "content": "ok I notice, i can't edit figjam, can u move the figjam card and I will update new figjam_activity.json",
-          "ts_str": "2026-10-25 05:06:21",
-          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1563780737273171992"
         }
       ]
     },
