@@ -1,21 +1,8 @@
 {
-  "generated": "Tuesday 27 October 2026 18:54 SGT",
+  "generated": "Wednesday 28 October 2026 00:26 SGT",
   "teams": {
     "Team 1": {
-      "blockers": [
-        {
-          "author": "sololeveller233637",
-          "content": "<@710506116441702504> Definition of Done (DoD)\n\nTeam 1 used GitHub sprint versions and FigJam to document sprint deliverables, allocate responsibilities and monitor progress. The following summarizes ",
-          "ts_str": "2026-10-25 13:17:50",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1563904424747864085"
-        },
-        {
-          "author": "ayephyuss",
-          "content": "That's Ok <@776049160369209355> , it's not making mistake. I'm happy for helping me.",
-          "ts_str": "2026-10-25 12:28:33",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1563892020756611073"
-        }
-      ]
+      "blockers": []
     },
     "Team 2": {
       "blockers": [
