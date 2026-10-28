@@ -1,8 +1,20 @@
 {
-  "generated": "Wednesday 28 October 2026 08:25 SGT",
+  "generated": "Wednesday 28 October 2026 14:12 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
+        {
+          "author": "zhang_41520",
+          "content": "Hi,<@997121495371358290> Don\u2019t worry, it\u2019s easy to fix. For the wrong branch, please don\u2019t merge the old Sprint 7 branch. The safest option is to create a new Sprint 8 R2 branch from the latest `main`",
+          "ts_str": "2026-10-28 03:55:58",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1564850186633613414"
+        },
+        {
+          "author": "wailinnthaw",
+          "content": "and also can anyone handle this one? cs I committed into the wrong branch thanks",
+          "ts_str": "2026-10-28 03:27:26",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1564843009131028570"
+        },
         {
           "author": "sololeveller233637",
           "content": "So that no one faces an issue moving forward",
@@ -14,22 +26,34 @@
     "Team 2": {
       "blockers": [
         {
-          "author": "naing_26",
-          "content": "<@1548883237391048835> hi could u help me update the roles for sprint 8 on figjam as well?",
-          "ts_str": "2026-10-27 06:50:34",
-          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1564531740175892521"
+          "author": "liangjinghong_97317",
+          "content": "Name / Role: Liang Jinghong / R6\nDone: Reviewed my R6 tasks and prepared an initial dashboard_data.py draft for fetching completed OHLCV bars and aggregating 4H/Daily data.\nPlan for today: Integrate t",
+          "ts_str": "2026-10-28 05:39:32",
+          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1564876250659557449"
         },
         {
-          "author": "naing_26",
-          "content": "Urgent tasks for now:\nR6 (<@738757785013190676> , <@1550739890604351590>  ): create new branch for this sprint on github\n\nR6 + R3 (<@738757785013190676> , <@1550739890604351590> , <@155142372268926580",
-          "ts_str": "2026-10-27 05:23:36",
-          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1564509853697974373"
+          "author": "aliceinsomewhere",
+          "content": "Name / Role: Phoo Pwint Myint Mo/ R5\n\nDone: Checked the current gold.html and the 7 timeframe tiles.\n\nPlan for today: Work on the Price & Volume panel once R6 updates the volume data.\n\nBlockers: Waiti",
+          "ts_str": "2026-10-28 05:20:44",
+          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1564871521271545898"
         },
         {
-          "author": "iaknauxoet",
-          "content": "btw sorry guys i still couldn\u2019t make it cuz i caught sore throat here in jakarta but just lmk what role i get i\u2019ll get it done asap \ud83e\udd1e\ud83c\udffb",
-          "ts_str": "2026-10-26 07:39:16",
-          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1564181609287127103"
+          "author": "1nonlyneon",
+          "content": "Name / Role: Bhone Myat Kyaw Thu / R6\n\nDone: Created the Sprint 8 R6 branch and reviewed my assigned tasks.\n\nPlan for today: Start working on dashboard_data.py, focusing on the 60 completed OHLCV bars",
+          "ts_str": "2026-10-28 03:28:54",
+          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1564843375436369972"
+        },
+        {
+          "author": "haewon00_95831",
+          "content": "**Sprint 8 Check-in \u2014 Wed 28 Oct**\n\n**Name / Role:** Haewon / R4 (Verification)\n\n**Done:** Compared all 12 technical indicators for 30 Min, Hourly, and Daily against Investing.com. Recorded numerical ",
+          "ts_str": "2026-10-28 03:12:13",
+          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1564839178800472165"
+        },
+        {
+          "author": "mufor.",
+          "content": "Sprint 8 Check-in \u2014 Wed 28 Oct\nName / Role: Junyi / R2\nDone: Reviewed Sprint 8 brief for R2 responsibilities (Weekly Call &amp; Check 4 price change logic) and verified Sprint 7 Step A status\nPlan for",
+          "ts_str": "2026-10-28 02:17:28",
+          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1564825400276942929"
         }
       ]
     },
@@ -43,24 +67,6 @@
           "content": "No problem",
           "ts_str": "2026-10-26 12:05:27",
           "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1564248593739681968"
-        },
-        {
-          "author": "shiro_0272902",
-          "content": "My one was wrong",
-          "ts_str": "2026-10-26 02:41:46",
-          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1564106741292212268"
-        },
-        {
-          "author": "jahanvi.10_37766",
-          "content": "i ll help you",
-          "ts_str": "2026-10-26 01:32:19",
-          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1564089260372656231"
-        },
-        {
-          "author": "jahanvi.10_37766",
-          "content": "also guys R2, R3, R4 should be able to explain how you arrived at this week\u2019s prediction, how it compared with the actual result (the difference/error), and whether the market movement was bullish or ",
-          "ts_str": "2026-10-26 01:23:06",
-          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1564086943342403625"
         }
       ]
     },
