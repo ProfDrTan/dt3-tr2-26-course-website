@@ -1,5 +1,5 @@
 {
-  "generated": "Thursday 29 October 2026 10:19 SGT",
+  "generated": "Thursday 29 October 2026 16:43 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
@@ -74,7 +74,20 @@
       ]
     },
     "Team 4": {
-      "blockers": []
+      "blockers": [
+        {
+          "author": "meeowoaw",
+          "content": "I'v reviewed the current Sprint 8 R5 UI and created r5_ui_integration_check.md to record the integration checks.\n\nThe main Gold UI is already in place, but the current ui/data.json is still Sprint 7 d",
+          "ts_str": "2026-10-29 07:59:07",
+          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1565273768111247402"
+        },
+        {
+          "author": "estelle_wen_05110",
+          "content": "I reviewed the latest code for the three R3 checks.\n\n1. Summary votes: all seven timeframes have 11 voting indicators and 12 moving-average votes, with ATR excluded. The Summary counts are consistent ",
+          "ts_str": "2026-10-29 02:57:44",
+          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1565197922344378390"
+        }
+      ]
     },
     "Team 5": {
       "blockers": []
