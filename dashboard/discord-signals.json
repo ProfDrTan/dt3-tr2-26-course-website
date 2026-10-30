@@ -1,19 +1,19 @@
 {
-  "generated": "Friday 30 October 2026 14:20 SGT",
+  "generated": "Friday 30 October 2026 21:17 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
+        {
+          "author": "ayephyuss",
+          "content": "Hi can someone help me to put into GitHub. this is Sprint8 Gold.html",
+          "ts_str": "2026-10-30 07:19:17",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1565626128796749874"
+        },
         {
           "author": "zhang_41520",
           "content": "Hi everyone, today is Friday. Thank you all for your work and effort this week.\n\nPlease try to complete your assigned Sprint 8 tasks by Saturday evening, including the required commits/PRs and any ver",
           "ts_str": "2026-10-30 03:30:12",
           "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1565568481259298897"
-        },
-        {
-          "author": "hawlermathew",
-          "content": "## R3 - Duong Hoai An\n\nCompleted:\n- Added volumns calculation to tech_summary.py\n- Make SPX predictions\n\nNext:\n- Prepare defend for SPX call\n- Prepare presentation\n- Help each other when needed\n\nBroke",
-          "ts_str": "2026-10-28 13:03:02",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1564987864171815033"
         }
       ]
     },
@@ -30,24 +30,6 @@
           "content": "Hi <@746230844771008552> <@805335742925635615> how is the progress for R5\nPlease let us know if there is any potential blockers or help needed",
           "ts_str": "2026-10-30 01:02:53",
           "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1565531406434697340"
-        },
-        {
-          "author": "zhangyuxuan0333",
-          "content": "Name\uff1aZhang Yuxuan \nRole\uff1aR3\nDone: Reviewed my R6 tasks.\nPlan for today: Look and understand the volume labelling and how the technical indicator works (the formula), cross-checking the functions.\nBlock",
-          "ts_str": "2026-10-28 09:01:29",
-          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1564927074953728101"
-        },
-        {
-          "author": "zhangyuxuan0333",
-          "content": "Name\uff1aZhang Yuxuan \nRole\uff1aR6\nDone: Reviewed my R6 tasks.\nPlan for today: Look and understand the volume labelling and how the technical indicator works (the formula), cross-checking the functions.\nBlock",
-          "ts_str": "2026-10-28 08:47:47",
-          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1564923625734144111"
-        },
-        {
-          "author": "iaknauxoet",
-          "content": "Sprint 8 Check-in \u2014 Wed 28 Oct\nName / Role: Xuan Kai Teo\nDone: Checked gold.html and 7 timeframe tiles\nPlan for today: Work on the price & volume panel once r6 update volume data\nBlockers (or \"none\"):",
-          "ts_str": "2026-10-28 08:40:40",
-          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1564921834476933161"
         }
       ]
     },
