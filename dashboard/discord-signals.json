@@ -1,30 +1,36 @@
 {
-  "generated": "Friday 30 October 2026 08:24 SGT",
+  "generated": "Friday 30 October 2026 14:20 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
+        {
+          "author": "zhang_41520",
+          "content": "Hi everyone, today is Friday. Thank you all for your work and effort this week.\n\nPlease try to complete your assigned Sprint 8 tasks by Saturday evening, including the required commits/PRs and any ver",
+          "ts_str": "2026-10-30 03:30:12",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1565568481259298897"
+        },
         {
           "author": "hawlermathew",
           "content": "## R3 - Duong Hoai An\n\nCompleted:\n- Added volumns calculation to tech_summary.py\n- Make SPX predictions\n\nNext:\n- Prepare defend for SPX call\n- Prepare presentation\n- Help each other when needed\n\nBroke",
           "ts_str": "2026-10-28 13:03:02",
           "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1564987864171815033"
-        },
-        {
-          "author": "zhang_41520",
-          "content": "Hi,<@997121495371358290> Don\u2019t worry, it\u2019s easy to fix. For the wrong branch, please don\u2019t merge the old Sprint 7 branch. The safest option is to create a new Sprint 8 R2 branch from the latest `main`",
-          "ts_str": "2026-10-28 03:55:58",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1564850186633613414"
-        },
-        {
-          "author": "wailinnthaw",
-          "content": "and also can anyone handle this one? cs I committed into the wrong branch thanks",
-          "ts_str": "2026-10-28 03:27:26",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1564843009131028570"
         }
       ]
     },
     "Team 2": {
       "blockers": [
+        {
+          "author": "aliceinsomewhere",
+          "content": "i will lykk if help needed thank you",
+          "ts_str": "2026-10-30 01:55:27",
+          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1565544634011222079"
+        },
+        {
+          "author": "naing_26",
+          "content": "Hi <@746230844771008552> <@805335742925635615> how is the progress for R5\nPlease let us know if there is any potential blockers or help needed",
+          "ts_str": "2026-10-30 01:02:53",
+          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1565531406434697340"
+        },
         {
           "author": "zhangyuxuan0333",
           "content": "Name\uff1aZhang Yuxuan \nRole\uff1aR3\nDone: Reviewed my R6 tasks.\nPlan for today: Look and understand the volume labelling and how the technical indicator works (the formula), cross-checking the functions.\nBlock",
@@ -42,18 +48,6 @@
           "content": "Sprint 8 Check-in \u2014 Wed 28 Oct\nName / Role: Xuan Kai Teo\nDone: Checked gold.html and 7 timeframe tiles\nPlan for today: Work on the price & volume panel once r6 update volume data\nBlockers (or \"none\"):",
           "ts_str": "2026-10-28 08:40:40",
           "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1564921834476933161"
-        },
-        {
-          "author": "liangjinghong_97317",
-          "content": "Why can't this file be displayed in its entirety?",
-          "ts_str": "2026-10-28 08:37:55",
-          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1564921143809278023"
-        },
-        {
-          "author": "naing_26",
-          "content": "<@1548883237391048835> hi can u help me move the R2 card to 'Done' stage. And put another card of R2 (the message above) to 'To Do' Stage",
-          "ts_str": "2026-10-28 08:30:31",
-          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1564919281219666035"
         }
       ]
     },
