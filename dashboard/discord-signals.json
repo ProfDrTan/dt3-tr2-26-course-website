@@ -1,19 +1,37 @@
 {
-  "generated": "Friday 30 October 2026 21:17 SGT",
+  "generated": "Saturday 31 October 2026 02:40 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
+        {
+          "author": "jq0289",
+          "content": "Friends, I have checked the r4 I am responsible for; you do not need any of my data, so I can wait until tomorrow evening to do it. I am truly sorry, but there have been some issues recently that have",
+          "ts_str": "2026-10-30 16:05:57",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1565758669277241385"
+        },
+        {
+          "author": "ayephyuss",
+          "content": "Thanks a lot for helping. Here is Updated gold.html. R6 <@1550051897354752052> and R1 <@1549946386441699400> .",
+          "ts_str": "2026-10-30 15:35:25",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1565750984725102612"
+        },
+        {
+          "author": "zhang_41520",
+          "content": "I\u2019ll help check the final version and make sure it works properly on my laptop. I\u2019ll also put it into GitHub once everything looks good.\ud83d\udc4d",
+          "ts_str": "2026-10-30 14:46:22",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1565738641274306631"
+        },
+        {
+          "author": "ayephyuss",
+          "content": "No problem! We're team. I also appreciate all of u.",
+          "ts_str": "2026-10-30 14:46:19",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1565738629752426519"
+        },
         {
           "author": "ayephyuss",
           "content": "Hi can someone help me to put into GitHub. this is Sprint8 Gold.html",
           "ts_str": "2026-10-30 07:19:17",
           "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1565626128796749874"
-        },
-        {
-          "author": "zhang_41520",
-          "content": "Hi everyone, today is Friday. Thank you all for your work and effort this week.\n\nPlease try to complete your assigned Sprint 8 tasks by Saturday evening, including the required commits/PRs and any ver",
-          "ts_str": "2026-10-30 03:30:12",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1565568481259298897"
         }
       ]
     },
@@ -37,9 +55,9 @@
       "blockers": [
         {
           "author": "persitatu",
-          "content": "I have completed the StepA task and updated it on GitHub. You can check it, and if you find any issues, please let me know.",
-          "ts_str": "2026-10-28 16:45:33",
-          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1565043862504734790"
+          "content": "My Figma account is having issues and I can't post anything. Does anyone have a Figma account I could borrow for a while?",
+          "ts_str": "2026-10-30 18:28:37",
+          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1565794574595530873"
         }
       ]
     },
