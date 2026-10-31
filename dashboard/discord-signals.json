@@ -1,8 +1,14 @@
 {
-  "generated": "Saturday 31 October 2026 09:51 SGT",
+  "generated": "Saturday 31 October 2026 15:57 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
+        {
+          "author": "zhang_41520",
+          "content": "Hi R5 and R6, I checked Step A Check 8. The Gold Technical link is available, but the current `ui/index.html` is still showing the Sprint 6 Market Dashboard and several Sprint 6 files return 404 error",
+          "ts_str": "2026-10-31 07:39:53",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1565993703557046383"
+        },
         {
           "author": "jq0289",
           "content": "Friends, I have checked the r4 I am responsible for; you do not need any of my data, so I can wait until tomorrow evening to do it. I am truly sorry, but there have been some issues recently that have",
@@ -26,17 +32,23 @@
           "content": "No problem! We're team. I also appreciate all of u.",
           "ts_str": "2026-10-30 14:46:19",
           "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1565738629752426519"
-        },
-        {
-          "author": "ayephyuss",
-          "content": "Hi can someone help me to put into GitHub. this is Sprint8 Gold.html",
-          "ts_str": "2026-10-30 07:19:17",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1565626128796749874"
         }
       ]
     },
     "Team 2": {
       "blockers": [
+        {
+          "author": "naing_26",
+          "content": "Sure and then can u complete slide 8 on the powerpoint with the reason for the error rate",
+          "ts_str": "2026-10-31 04:17:19",
+          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1565942725289840641"
+        },
+        {
+          "author": "naing_26",
+          "content": "for R2 <@1318933112909987854> how is the progress for the prescription and error rate of the prediction?",
+          "ts_str": "2026-10-31 03:56:00",
+          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1565937362482106452"
+        },
         {
           "author": "aliceinsomewhere",
           "content": "i will lykk if help needed thank you",
@@ -68,12 +80,6 @@
           "content": "I'v reviewed the current Sprint 8 R5 UI and created r5_ui_integration_check.md to record the integration checks.\n\nThe main Gold UI is already in place, but the current ui/data.json is still Sprint 7 d",
           "ts_str": "2026-10-29 07:59:07",
           "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1565273768111247402"
-        },
-        {
-          "author": "estelle_wen_05110",
-          "content": "I reviewed the latest code for the three R3 checks.\n\n1. Summary votes: all seven timeframes have 11 voting indicators and 12 moving-average votes, with ATR excluded. The Summary counts are consistent ",
-          "ts_str": "2026-10-29 02:57:44",
-          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1565197922344378390"
         }
       ]
     },
