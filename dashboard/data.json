@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30 22:40 UTC",
+  "updated": "2026-10-31 01:52 UTC",
   "sprint_tag": "vW30",
   "sprint_deadline_utc": "2026-07-26T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W30",
@@ -580,11 +580,11 @@
       "repo": "Gong-yinxuan/CP3405",
       "prac": "B",
       "is_ultra": false,
-      "last_commit_sha": "0a23ab0",
-      "last_commit_msg": "chore: update Prism data 2026-10-26",
-      "last_commit_date": "2026-10-26 03:34",
+      "last_commit_sha": "4bf1d04",
+      "last_commit_msg": "chore: update Prism data 2026-10-31",
+      "last_commit_date": "2026-10-31 01:21",
       "last_commit_author": "github-actions[bot]",
-      "last_commit_url": "https://github.com/Gong-yinxuan/CP3405/commit/0a23ab07926e0ab0bd194dd11dbc3f4d20713ce4",
+      "last_commit_url": "https://github.com/Gong-yinxuan/CP3405/commit/4bf1d0483f7435a147e1a76750dd86a9a158062d",
       "tags": [
         "vW31",
         "vW30",
@@ -597,23 +597,23 @@
       "sprint_tag_present": true,
       "last_run_name": "Update Market Data",
       "last_run_conclusion": "success",
-      "last_run_date": "2026-10-26 03:33",
-      "last_run_url": "https://github.com/Gong-yinxuan/CP3405/actions/runs/40264672280",
+      "last_run_date": "2026-10-31 01:20",
+      "last_run_url": "https://github.com/Gong-yinxuan/CP3405/actions/runs/41154911968",
       "last_run_was_filtered": true,
       "open_prs": 0,
       "pr_titles": [],
       "pr_links": [],
-      "days_since_commit": 4,
+      "days_since_commit": 0,
       "contributors": [
         {
           "name": "github-actions[bot]",
           "login": "github-actions[bot]",
           "kind": "bot",
           "commits": 6,
-          "latest_date": "2026-10-26 03:34",
-          "latest_msg": "chore: update Prism data 2026-10-26",
-          "latest_sha": "0a23ab0",
-          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/0a23ab07926e0ab0bd194dd11dbc3f4d20713ce4"
+          "latest_date": "2026-10-31 01:21",
+          "latest_msg": "chore: update Prism data 2026-10-31",
+          "latest_sha": "4bf1d04",
+          "latest_url": "https://github.com/Gong-yinxuan/CP3405/commit/4bf1d0483f7435a147e1a76750dd86a9a158062d"
         }
       ],
       "pr_history": {
@@ -716,7 +716,7 @@
       "midweek_artefact": {
         "present": true,
         "path": "Week8/R2_Scrum_Master/standup_midweek_W30.md",
-        "url": "https://github.com/Gong-yinxuan/CP3405/blob/0a23ab07926e0ab0bd194dd11dbc3f4d20713ce4/Week8/R2_Scrum_Master/standup_midweek_W30.md"
+        "url": "https://github.com/Gong-yinxuan/CP3405/blob/4bf1d0483f7435a147e1a76750dd86a9a158062d/Week8/R2_Scrum_Master/standup_midweek_W30.md"
       },
       "repo_url": "https://github.com/Gong-yinxuan/CP3405"
     },
