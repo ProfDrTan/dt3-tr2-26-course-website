@@ -1,5 +1,5 @@
 {
-  "generated": "Saturday 31 October 2026 15:57 SGT",
+  "generated": "Saturday 31 October 2026 22:28 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
@@ -39,6 +39,12 @@
       "blockers": [
         {
           "author": "naing_26",
+          "content": "Sure but most activities are done already I suppose. Just the branch merging at the end so shall not affect the file referencing. \n\nJust let us know if there would be any potential blockers",
+          "ts_str": "2026-10-31 10:23:50",
+          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1566034963315425462"
+        },
+        {
+          "author": "naing_26",
           "content": "Sure and then can u complete slide 8 on the powerpoint with the reason for the error rate",
           "ts_str": "2026-10-31 04:17:19",
           "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1565942725289840641"
@@ -67,6 +73,12 @@
       "blockers": [
         {
           "author": "persitatu",
+          "content": "I\u2019m updating the Sprint 8 board and Step A records. Please check the remaining items for your role and send me your status and evidence:\n- R2: Please confirm that the vW8 forecast is in predictions/vW",
+          "ts_str": "2026-10-31 10:58:21",
+          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1566043649521881120"
+        },
+        {
+          "author": "persitatu",
           "content": "My Figma account is having issues and I can't post anything. Does anyone have a Figma account I could borrow for a while?",
           "ts_str": "2026-10-30 18:28:37",
           "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1565794574595530873"
@@ -74,14 +86,7 @@
       ]
     },
     "Team 4": {
-      "blockers": [
-        {
-          "author": "meeowoaw",
-          "content": "I'v reviewed the current Sprint 8 R5 UI and created r5_ui_integration_check.md to record the integration checks.\n\nThe main Gold UI is already in place, but the current ui/data.json is still Sprint 7 d",
-          "ts_str": "2026-10-29 07:59:07",
-          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1565273768111247402"
-        }
-      ]
+      "blockers": []
     },
     "Team 5": {
       "blockers": []
