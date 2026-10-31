@@ -1,8 +1,14 @@
 {
-  "generated": "Sunday 01 November 2026 02:42 SGT",
+  "generated": "Sunday 01 November 2026 05:55 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
+        {
+          "author": "jq0289",
+          "content": "**R4 \u2013 Sprint 8 (vW8) Progress Update**\n\n**Completed:**\n- Checked all seven timeframes in `ui/data.json`.\n- Verified the 23-vote Summary calculations and volume labels.\n- Prepared `docs/verify.md`.\n\n*",
+          "ts_str": "2026-10-31 19:35:00",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1566173666549698722"
+        },
         {
           "author": "zhang_41520",
           "content": "Hi R5 and R6, I checked Step A Check 8. The Gold Technical link is available, but the current `ui/index.html` is still showing the Sprint 6 Market Dashboard and several Sprint 6 files return 404 error",
@@ -26,12 +32,6 @@
           "content": "I\u2019ll help check the final version and make sure it works properly on my laptop. I\u2019ll also put it into GitHub once everything looks good.\ud83d\udc4d",
           "ts_str": "2026-10-30 14:46:22",
           "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1565738641274306631"
-        },
-        {
-          "author": "ayephyuss",
-          "content": "No problem! We're team. I also appreciate all of u.",
-          "ts_str": "2026-10-30 14:46:19",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1565738629752426519"
         }
       ]
     },
