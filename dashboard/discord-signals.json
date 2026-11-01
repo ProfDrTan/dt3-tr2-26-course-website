@@ -1,42 +1,48 @@
 {
-  "generated": "Sunday 01 November 2026 08:59 SGT",
+  "generated": "Sunday 01 November 2026 15:25 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
         {
-          "author": "jq0289",
-          "content": "**R4 \u2013 Sprint 8 (vW8) Progress Update**\n\n**Completed:**\n- Checked all seven timeframes in `ui/data.json`.\n- Verified the 23-vote Summary calculations and volume labels.\n- Prepared `docs/verify.md`.\n\n*",
-          "ts_str": "2026-10-31 19:35:00",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1566173666549698722"
-        },
-        {
           "author": "zhang_41520",
-          "content": "Hi R5 and R6, I checked Step A Check 8. The Gold Technical link is available, but the current `ui/index.html` is still showing the Sprint 6 Market Dashboard and several Sprint 6 files return 404 error",
-          "ts_str": "2026-10-31 07:39:53",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1565993703557046383"
+          "content": "<@927069413088309298>Hi An, I\u2019ve restored the original full `index.html` dashboard and updated it for Sprint 8. The Roles, FigJam, GitHub/file checks and the Gold dashboard link are all working now.\n\n",
+          "ts_str": "2026-11-01 05:53:40",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1566329361651474542"
         },
         {
-          "author": "jq0289",
-          "content": "Friends, I have checked the r4 I am responsible for; you do not need any of my data, so I can wait until tomorrow evening to do it. I am truly sorry, but there have been some issues recently that have",
-          "ts_str": "2026-10-30 16:05:57",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1565758669277241385"
+          "author": "hawlermathew",
+          "content": "or finish ur work and i will help fix it",
+          "ts_str": "2026-11-01 05:27:21",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1566322736937046148"
         },
         {
-          "author": "ayephyuss",
-          "content": "Thanks a lot for helping. Here is Updated gold.html. R6 <@1550051897354752052> and R1 <@1549946386441699400> .",
-          "ts_str": "2026-10-30 15:35:25",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1565750984725102612"
+          "author": "hawlermathew",
+          "content": "if R5 and R6 need help",
+          "ts_str": "2026-11-01 05:27:10",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1566322692360114219"
         },
         {
-          "author": "zhang_41520",
-          "content": "I\u2019ll help check the final version and make sure it works properly on my laptop. I\u2019ll also put it into GitHub once everything looks good.\ud83d\udc4d",
-          "ts_str": "2026-10-30 14:46:22",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1565738641274306631"
+          "author": "hawlermathew",
+          "content": "possible error is that the index.html program cannot find the file i guess",
+          "ts_str": "2026-11-01 05:18:11",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1566320431185534986"
+        },
+        {
+          "author": "hawlermathew",
+          "content": "try to make it go back to this version but just fix the file rendering error",
+          "ts_str": "2026-11-01 05:16:17",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1566319952141750353"
         }
       ]
     },
     "Team 2": {
       "blockers": [
+        {
+          "author": "naing_26",
+          "content": "<@1548883237391048835> hi could u help me place the figjam card to the done stage?",
+          "ts_str": "2026-11-01 03:28:57",
+          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1566292940333121567"
+        },
         {
           "author": "naing_26",
           "content": "Sure but most activities are done already I suppose. Just the branch merging at the end so shall not affect the file referencing. \n\nJust let us know if there would be any potential blockers",
@@ -54,18 +60,6 @@
           "content": "for R2 <@1318933112909987854> how is the progress for the prescription and error rate of the prediction?",
           "ts_str": "2026-10-31 03:56:00",
           "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1565937362482106452"
-        },
-        {
-          "author": "aliceinsomewhere",
-          "content": "i will lykk if help needed thank you",
-          "ts_str": "2026-10-30 01:55:27",
-          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1565544634011222079"
-        },
-        {
-          "author": "naing_26",
-          "content": "Hi <@746230844771008552> <@805335742925635615> how is the progress for R5\nPlease let us know if there is any potential blockers or help needed",
-          "ts_str": "2026-10-30 01:02:53",
-          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1565531406434697340"
         }
       ]
     },
