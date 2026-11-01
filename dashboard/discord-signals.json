@@ -1,37 +1,37 @@
 {
-  "generated": "Sunday 01 November 2026 15:25 SGT",
+  "generated": "Sunday 01 November 2026 22:27 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
         {
+          "author": "jq0289",
+          "content": "is there anything I can help about our ppt slides",
+          "ts_str": "2026-11-01 12:13:01",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1566424827869401099"
+        },
+        {
+          "author": "xuan087394",
+          "content": "if anything I can help with pls tell me",
+          "ts_str": "2026-11-01 12:11:49",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1566424525325864983"
+        },
+        {
           "author": "zhang_41520",
-          "content": "<@927069413088309298>Hi An, I\u2019ve restored the original full `index.html` dashboard and updated it for Sprint 8. The Roles, FigJam, GitHub/file checks and the Gold dashboard link are all working now.\n\n",
-          "ts_str": "2026-11-01 05:53:40",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1566329361651474542"
+          "content": "<@927069413088309298> could you please help me complete catalysts/vW8.json as well? R2 doesn\u2019t seem to be online today, and I\u2019d like to make sure we finish the remaining Sprint 8 files before the dead",
+          "ts_str": "2026-11-01 11:40:35",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1566416663748808786"
         },
         {
           "author": "hawlermathew",
-          "content": "or finish ur work and i will help fix it",
-          "ts_str": "2026-11-01 05:27:21",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1566322736937046148"
+          "content": "i help change it but i still need predictions for gold and TNX",
+          "ts_str": "2026-11-01 09:37:45",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1566385752680570974"
         },
         {
           "author": "hawlermathew",
-          "content": "if R5 and R6 need help",
-          "ts_str": "2026-11-01 05:27:10",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1566322692360114219"
-        },
-        {
-          "author": "hawlermathew",
-          "content": "possible error is that the index.html program cannot find the file i guess",
-          "ts_str": "2026-11-01 05:18:11",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1566320431185534986"
-        },
-        {
-          "author": "hawlermathew",
-          "content": "try to make it go back to this version but just fix the file rendering error",
-          "ts_str": "2026-11-01 05:16:17",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1566319952141750353"
+          "content": "```\n{\n  \"sprint\": \"vW8\",\n  \"team\": \"team-1\",\n  \"team_call\": {\n    \"spx_close\": 7750.0,\n    \"ndx_close\": 29750.0,\n    \"gold_close\": 0,\n    \"tnx_close\": 5.12\n  },\n  \"engine_call\": {\n    \"gold_close\": 40",
+          "ts_str": "2026-11-01 09:36:32",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1566385447892951143"
         }
       ]
     },
@@ -80,7 +80,26 @@
       ]
     },
     "Team 4": {
-      "blockers": []
+      "blockers": [
+        {
+          "author": "shiro_0272902",
+          "content": "that one and 30mins was still wrong",
+          "ts_str": "2026-11-01 14:20:49",
+          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1566456987959431430"
+        },
+        {
+          "author": "shiro_0272902",
+          "content": "done but there's still just one error",
+          "ts_str": "2026-11-01 14:16:46",
+          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1566455970589057137"
+        },
+        {
+          "author": "alanmusk_01429",
+          "content": "I\u2019ve added delta/vW8.json for all four markets, including weekly changes, signed and absolute forecast errors, and source records.\n\nGold\u2019s Tuesday and weekly directions are recorded separately. TNX er",
+          "ts_str": "2026-11-01 12:14:35",
+          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1566425219147505695"
+        }
+      ]
     },
     "Team 5": {
       "blockers": []
