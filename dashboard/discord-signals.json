@@ -1,5 +1,5 @@
 {
-  "generated": "Monday 02 November 2026 03:07 SGT",
+  "generated": "Monday 02 November 2026 06:49 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
@@ -71,6 +71,18 @@
     },
     "Team 3": {
       "blockers": [
+        {
+          "author": "alexlee149",
+          "content": "It\u2019s okay I will help you with your job",
+          "ts_str": "2026-11-01 20:53:03",
+          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1566555697238507553"
+        },
+        {
+          "author": "persitatu",
+          "content": "Guys, I'm so sorry. I've encountered a very urgent situation. When I just got out of bed, I accidentally twisted my foot. Now I'm looking for someone to accompany me to the hospital for some urgent ex",
+          "ts_str": "2026-11-01 19:33:19",
+          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1566535632002748538"
+        },
         {
           "author": "persitatu",
           "content": "I\u2019m updating the Sprint 8 board and Step A records. Please check the remaining items for your role and send me your status and evidence:\n- R2: Please confirm that the vW8 forecast is in predictions/vW",
