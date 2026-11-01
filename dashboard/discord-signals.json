@@ -1,5 +1,5 @@
 {
-  "generated": "Sunday 01 November 2026 22:27 SGT",
+  "generated": "Monday 02 November 2026 03:07 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
@@ -39,6 +39,12 @@
       "blockers": [
         {
           "author": "naing_26",
+          "content": "Hey guys once u guys finished debugging please remember to release the tag for this sprint as well <@1550739890604351590>",
+          "ts_str": "2026-11-01 16:17:52",
+          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1566486445718245597"
+        },
+        {
+          "author": "naing_26",
           "content": "<@1548883237391048835> hi could u help me place the figjam card to the done stage?",
           "ts_str": "2026-11-01 03:28:57",
           "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1566292940333121567"
@@ -70,12 +76,6 @@
           "content": "I\u2019m updating the Sprint 8 board and Step A records. Please check the remaining items for your role and send me your status and evidence:\n- R2: Please confirm that the vW8 forecast is in predictions/vW",
           "ts_str": "2026-10-31 10:58:21",
           "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1566043649521881120"
-        },
-        {
-          "author": "persitatu",
-          "content": "My Figma account is having issues and I can't post anything. Does anyone have a Figma account I could borrow for a while?",
-          "ts_str": "2026-10-30 18:28:37",
-          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1565794574595530873"
         }
       ]
     },
