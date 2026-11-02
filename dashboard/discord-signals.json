@@ -1,5 +1,5 @@
 {
-  "generated": "Monday 02 November 2026 06:49 SGT",
+  "generated": "Monday 02 November 2026 09:59 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
@@ -93,6 +93,12 @@
     },
     "Team 4": {
       "blockers": [
+        {
+          "author": "hjy987._44307",
+          "content": "Hi Jahanvi, Kevin and Axel, please make sure Slide 5 is ready for the live demo.\n\nJahanvi: Run the data script and local server.\n\nKevin: Open the team dashboard, enter the gold page and demonstrate al",
+          "ts_str": "2026-11-02 01:42:36",
+          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1566628565930213499"
+        },
         {
           "author": "shiro_0272902",
           "content": "that one and 30mins was still wrong",
