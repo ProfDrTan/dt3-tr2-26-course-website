@@ -1,5 +1,5 @@
 {
-  "generated": "Tuesday 03 November 2026 09:48 SGT",
+  "generated": "Tuesday 03 November 2026 16:47 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
@@ -42,12 +42,6 @@
           "content": "Hey guys once u guys finished debugging please remember to release the tag for this sprint as well <@1550739890604351590>",
           "ts_str": "2026-11-01 16:17:52",
           "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1566486445718245597"
-        },
-        {
-          "author": "naing_26",
-          "content": "<@1548883237391048835> hi could u help me place the figjam card to the done stage?",
-          "ts_str": "2026-11-01 03:28:57",
-          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1566292940333121567"
         }
       ]
     },
