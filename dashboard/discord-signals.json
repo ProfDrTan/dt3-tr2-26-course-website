@@ -1,47 +1,40 @@
 {
-  "generated": "Tuesday 03 November 2026 16:47 SGT",
+  "generated": "Tuesday 03 November 2026 23:10 SGT",
   "teams": {
     "Team 1": {
-      "blockers": [
-        {
-          "author": "jq0289",
-          "content": "is there anything I can help about our ppt slides",
-          "ts_str": "2026-11-01 12:13:01",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1566424827869401099"
-        },
-        {
-          "author": "xuan087394",
-          "content": "if anything I can help with pls tell me",
-          "ts_str": "2026-11-01 12:11:49",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1566424525325864983"
-        },
-        {
-          "author": "zhang_41520",
-          "content": "<@927069413088309298> could you please help me complete catalysts/vW8.json as well? R2 doesn\u2019t seem to be online today, and I\u2019d like to make sure we finish the remaining Sprint 8 files before the dead",
-          "ts_str": "2026-11-01 11:40:35",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1566416663748808786"
-        },
-        {
-          "author": "hawlermathew",
-          "content": "i help change it but i still need predictions for gold and TNX",
-          "ts_str": "2026-11-01 09:37:45",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1566385752680570974"
-        },
-        {
-          "author": "hawlermathew",
-          "content": "```\n{\n  \"sprint\": \"vW8\",\n  \"team\": \"team-1\",\n  \"team_call\": {\n    \"spx_close\": 7750.0,\n    \"ndx_close\": 29750.0,\n    \"gold_close\": 0,\n    \"tnx_close\": 5.12\n  },\n  \"engine_call\": {\n    \"gold_close\": 40",
-          "ts_str": "2026-11-01 09:36:32",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1566385447892951143"
-        }
-      ]
+      "blockers": []
     },
     "Team 2": {
       "blockers": [
         {
-          "author": "naing_26",
-          "content": "Hey guys once u guys finished debugging please remember to release the tag for this sprint as well <@1550739890604351590>",
-          "ts_str": "2026-11-01 16:17:52",
-          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1566486445718245597"
+          "author": "liangjinghong_97317",
+          "content": "<@805335742925635615> Could you please help upload these as five separate cards to the FigJam board?",
+          "ts_str": "2026-11-03 09:12:27",
+          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1567104162897072180"
+        },
+        {
+          "author": "liangjinghong_97317",
+          "content": "Urgent tasks for now:\n- R1 : Create the Sprint 9 backlog cards for milestones 2\u20136 by Tue 23:59.\n- R2, R3, R4 & R6: Prepare each assigned vW9 market prediction for R1 to lock by Wed 23:59.\n- R4: Compil",
+          "ts_str": "2026-11-03 09:11:23",
+          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1567103895166263388"
+        },
+        {
+          "author": "liangjinghong_97317",
+          "content": "R6 (Haewon Park & Yuxuan Zhang): Add Yahoo Finance downloads to the error script, make the TNX vW9 prediction, write the TNX retrospective and merge work into main on time.\nDue: Prediction Wed 23:59; ",
+          "ts_str": "2026-11-03 09:11:15",
+          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1567103859988496527"
+        },
+        {
+          "author": "liangjinghong_97317",
+          "content": "R5 (Bhone Myat Kyaw Thu): Add error charts to the team page.\nDue: Sat 23:59\nDoD: ui/index.html shows one chart per instrument (SPX, NDX, GOLD and TNX), with a zero line and Friday dates.",
+          "ts_str": "2026-11-03 09:11:08",
+          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1567103830884229254"
+        },
+        {
+          "author": "liangjinghong_97317",
+          "content": "R4 ( Junyi Fan & . Khaing Yati Naing ): Compile old predictions, write the error script, make the GOLD vW9 prediction and write the GOLD retrospective.\nDue: Old predictions and forecast Wed 23:59; err",
+          "ts_str": "2026-11-03 09:10:56",
+          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1567103779956981831"
         }
       ]
     },
@@ -68,24 +61,6 @@
           "content": "Hi Jahanvi, Kevin and Axel, please make sure Slide 5 is ready for the live demo.\n\nJahanvi: Run the data script and local server.\n\nKevin: Open the team dashboard, enter the gold page and demonstrate al",
           "ts_str": "2026-11-02 01:42:36",
           "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1566628565930213499"
-        },
-        {
-          "author": "shiro_0272902",
-          "content": "that one and 30mins was still wrong",
-          "ts_str": "2026-11-01 14:20:49",
-          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1566456987959431430"
-        },
-        {
-          "author": "shiro_0272902",
-          "content": "done but there's still just one error",
-          "ts_str": "2026-11-01 14:16:46",
-          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1566455970589057137"
-        },
-        {
-          "author": "alanmusk_01429",
-          "content": "I\u2019ve added delta/vW8.json for all four markets, including weekly changes, signed and absolute forecast errors, and source records.\n\nGold\u2019s Tuesday and weekly directions are recorded separately. TNX er",
-          "ts_str": "2026-11-01 12:14:35",
-          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1566425219147505695"
         }
       ]
     },
