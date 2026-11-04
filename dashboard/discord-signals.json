@@ -1,11 +1,54 @@
 {
-  "generated": "Wednesday 04 November 2026 10:20 SGT",
+  "generated": "Wednesday 04 November 2026 17:35 SGT",
   "teams": {
     "Team 1": {
-      "blockers": []
+      "blockers": [
+        {
+          "author": "hawlermathew",
+          "content": "hope this help",
+          "ts_str": "2026-11-04 05:14:58",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1567406782748295240"
+        },
+        {
+          "author": "hawlermathew",
+          "content": "Lemme try to help find it",
+          "ts_str": "2026-11-04 05:10:12",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1567405585018658839"
+        },
+        {
+          "author": "jq0289",
+          "content": "**Team 1 \u2013 Sprint 9A Wednesday Reminder**\n\nHi team, just a reminder that today's deadline is **11:59 PM SGT**.\n\n- **R2:** Please send your SPX prediction.\n- **R3:** Please send your NDX prediction.\n- ",
+          "ts_str": "2026-11-04 04:39:55",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1567397966220623903"
+        },
+        {
+          "author": "jq0289",
+          "content": "<@927069413088309298>  I cannot find sprint 5 members, can u help to fix? I added vW7,8,9",
+          "ts_str": "2026-11-04 04:00:22",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1567388011719565402"
+        }
+      ]
     },
     "Team 2": {
       "blockers": [
+        {
+          "author": "aliceinsomewhere",
+          "content": "Name / Role: Phoo Pwint Myint Mo / R3 \n\nDone: I looked at the recent NDX prices and checked the market trends to help with my prediction.\n\nPlan for today: I\u2019ll finalise my NDX prediction for this week",
+          "ts_str": "2026-11-04 05:59:19",
+          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1567417947742408776"
+        },
+        {
+          "author": "haewon00_95831",
+          "content": "Name : Park Haewon/ Role:  R6 LLM & GitHub\nDone: Agreed on task split with the team: Albert takes the Yahoo actual-close download for check_error.py (due Thu), and I take TNX.\nPlan for today: Decide o",
+          "ts_str": "2026-11-04 05:26:29",
+          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1567409681591173161"
+        },
+        {
+          "author": "liangjinghong_97317",
+          "content": "Sprint 9 Check-in \u2014 Wed 4 Nov\nName / Role: \nDone: \nPlan for today: \nBlockers:",
+          "ts_str": "2026-11-04 05:14:43",
+          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1567406722153451634"
+        },
         {
           "author": "liangjinghong_97317",
           "content": "<@805335742925635615> Could you please help upload these as five separate cards to the FigJam board?",
@@ -17,24 +60,6 @@
           "content": "Urgent tasks for now:\n- R1 : Create the Sprint 9 backlog cards for milestones 2\u20136 by Tue 23:59.\n- R2, R3, R4 & R6: Prepare each assigned vW9 market prediction for R1 to lock by Wed 23:59.\n- R4: Compil",
           "ts_str": "2026-11-03 09:11:23",
           "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1567103895166263388"
-        },
-        {
-          "author": "liangjinghong_97317",
-          "content": "R6 (Haewon Park & Yuxuan Zhang): Add Yahoo Finance downloads to the error script, make the TNX vW9 prediction, write the TNX retrospective and merge work into main on time.\nDue: Prediction Wed 23:59; ",
-          "ts_str": "2026-11-03 09:11:15",
-          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1567103859988496527"
-        },
-        {
-          "author": "liangjinghong_97317",
-          "content": "R5 (Bhone Myat Kyaw Thu): Add error charts to the team page.\nDue: Sat 23:59\nDoD: ui/index.html shows one chart per instrument (SPX, NDX, GOLD and TNX), with a zero line and Friday dates.",
-          "ts_str": "2026-11-03 09:11:08",
-          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1567103830884229254"
-        },
-        {
-          "author": "liangjinghong_97317",
-          "content": "R4 ( Junyi Fan & . Khaing Yati Naing ): Compile old predictions, write the error script, make the GOLD vW9 prediction and write the GOLD retrospective.\nDue: Old predictions and forecast Wed 23:59; err",
-          "ts_str": "2026-11-03 09:10:56",
-          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1567103779956981831"
         }
       ]
     },
