@@ -1,8 +1,14 @@
 {
-  "generated": "Wednesday 04 November 2026 17:35 SGT",
+  "generated": "Thursday 05 November 2026 01:32 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
+        {
+          "author": "jq0289",
+          "content": "**Team 1 \u2013 Sprint 9A Progress Update & Tomorrow's Plan**\n\nHi team!\n\nFirst, thank you everyone for completing today's tasks on time! I really appreciate everyone's effort and cooperation.\n\n**Completed ",
+          "ts_str": "2026-11-04 15:33:10",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1567562359386546220"
+        },
         {
           "author": "hawlermathew",
           "content": "hope this help",
@@ -32,42 +38,74 @@
     "Team 2": {
       "blockers": [
         {
-          "author": "aliceinsomewhere",
-          "content": "Name / Role: Phoo Pwint Myint Mo / R3 \n\nDone: I looked at the recent NDX prices and checked the market trends to help with my prediction.\n\nPlan for today: I\u2019ll finalise my NDX prediction for this week",
-          "ts_str": "2026-11-04 05:59:19",
-          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1567417947742408776"
+          "author": "zhangyuxuan0333",
+          "content": "Name / Role: Zhang Yuxuan / R6 (LLM & GitHub)\nCompleted: Created and populated the TNX predictions in `predictions/vW9.json`; developed the error-checking script `engine/check_error.py`.\nPlan for toda",
+          "ts_str": "2026-11-04 15:04:08",
+          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1567555053601030247"
         },
         {
-          "author": "haewon00_95831",
-          "content": "Name : Park Haewon/ Role:  R6 LLM & GitHub\nDone: Agreed on task split with the team: Albert takes the Yahoo actual-close download for check_error.py (due Thu), and I take TNX.\nPlan for today: Decide o",
-          "ts_str": "2026-11-04 05:26:29",
-          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1567409681591173161"
+          "author": "1nonlyneon",
+          "content": "Name / Role: Bhone Myat Kyaw Thu /R5\nDone: Reviewed the Sprint 9A requirements and confirmed my task is Milestone 5, the error charts on ui/index.html.\nPlan for today: Start building the error charts ",
+          "ts_str": "2026-11-04 13:16:05",
+          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1567527862754349237"
         },
         {
-          "author": "liangjinghong_97317",
-          "content": "Sprint 9 Check-in \u2014 Wed 4 Nov\nName / Role: \nDone: \nPlan for today: \nBlockers:",
-          "ts_str": "2026-11-04 05:14:43",
-          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1567406722153451634"
+          "author": "naing_26",
+          "content": "Hi is this the file for comparing the errors between actual prediction and our old prediction? \nFor R6, I suppose u would need to give the scraping file from yahoo finance for the actual Friday close ",
+          "ts_str": "2026-11-04 12:45:01",
+          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1567520044357910610"
         },
         {
-          "author": "liangjinghong_97317",
-          "content": "<@805335742925635615> Could you please help upload these as five separate cards to the FigJam board?",
-          "ts_str": "2026-11-03 09:12:27",
-          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1567104162897072180"
+          "author": "naing_26",
+          "content": "Sorry for the late reply. I was sick tdy.\nSprint 9 Check-in \u2014 Wed 4 Nov\nName / Role: Naing / R4\nDone: task split with partner\nPlan for today: finish checking error between old prediction and actual cl",
+          "ts_str": "2026-11-04 12:43:30",
+          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1567519660340150390"
         },
         {
-          "author": "liangjinghong_97317",
-          "content": "Urgent tasks for now:\n- R1 : Create the Sprint 9 backlog cards for milestones 2\u20136 by Tue 23:59.\n- R2, R3, R4 & R6: Prepare each assigned vW9 market prediction for R1 to lock by Wed 23:59.\n- R4: Compil",
-          "ts_str": "2026-11-03 09:11:23",
-          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1567103895166263388"
+          "author": "mufor.",
+          "content": "Name / Role: Junyi Fan / R4\n\nDone: Created old_predictions.csv from vW4-vW8 records. Locked in Gold vW9 prediction (3890) and sent to R1.\n\nPlan for today: On standby until Friday's close for the M6 Go",
+          "ts_str": "2026-11-04 09:53:00",
+          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1567476752895180801"
         }
       ]
     },
     "Team 3": {
-      "blockers": []
+      "blockers": [
+        {
+          "author": "wendilin_39493_15226",
+          "content": "Here\u2019s a checklist of what was due by **4 Nov, 23:59 SGT**:\n\n\u2022 **R1 (me):** Collect the four predictions, check predictions/vW9.json, and coordinate with R6 to merge and lock it on main. The Sprint 9 ",
+          "ts_str": "2026-11-04 17:09:01",
+          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1567586480560545793"
+        },
+        {
+          "author": "alexlee149",
+          "content": "<@1510333269277806785>  Yu Wenhao, for our shared R6 work, could you take the integration and review side? I have completed the TNX proposal, Yahoo downloader and historical data snapshot, all on main",
+          "ts_str": "2026-11-04 15:43:06",
+          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1567564861121232937"
+        },
+        {
+          "author": "alexlee149",
+          "content": "<@1420006709966934087>  Hi, we are the two R6 members for Sprint 9A. Suggested split:\n\n\u2022 I will handle the TNX forecast and evidence note, and prepare/test the Yahoo actual-close download module.\n\u2022 Co",
+          "ts_str": "2026-11-04 15:23:25",
+          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1567559907488567428"
+        }
+      ]
     },
     "Team 4": {
-      "blockers": []
+      "blockers": [
+        {
+          "author": "estelle_wen_05110",
+          "content": "I've updated predictions/vW9.json on main to the format required by the brief (numbers only, 6 fields). It has SPX 7560, NDX 28300, GOLD 4050, TNX 4.92. Please don't edit it anymore, and tell me if an",
+          "ts_str": "2026-11-04 15:43:00",
+          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1567564833941884929"
+        },
+        {
+          "author": "alanmusk_01429",
+          "content": "My Sprint 9A error-chart UI is ready and pushed to r5/sprint9-error-charts. <@1548926121058369609>, please review the layout and help with the final integration check.\n\nPublic dashboard:\nhttps://cp340",
+          "ts_str": "2026-11-04 15:39:08",
+          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1567563860473282610"
+        }
+      ]
     },
     "Team 5": {
       "blockers": []
