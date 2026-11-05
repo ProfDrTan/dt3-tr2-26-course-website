@@ -1,8 +1,20 @@
 {
-  "generated": "Thursday 05 November 2026 11:05 SGT",
+  "generated": "Thursday 05 November 2026 18:56 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
+        {
+          "author": "jq0289",
+          "content": "Hi R4 and R6!\n\nI checked the teacher's Scrum Scoreboard, and Team 1 missed Milestone 3 because of two issues:\n\n1. The CSV was uploaded to `data/old_predictions/predictions.csv`, but the required path ",
+          "ts_str": "2026-11-05 10:37:52",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1567850432036995103"
+        },
+        {
+          "author": "qiu0181",
+          "content": "<@927069413088309298>Hi An, I\u2019ve checked the historical NDX predictions in data/old_predictions.csv. Could you share the NDX actual closes and errors when they\u2019re ready? I need them for my section in ",
+          "ts_str": "2026-11-05 06:18:08",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1567785070956122174"
+        },
         {
           "author": "jq0289",
           "content": "<@776049160369209355>You need to:\n\nUpdate ui/index.html to display four prediction error charts: SPX, NDX, GOLD, and TNX.\n\nUse the data from data/errors.csv provided by R4 and R6.\n\nMake sure each char",
@@ -20,18 +32,6 @@
           "content": "hope this help",
           "ts_str": "2026-11-04 05:14:58",
           "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1567406782748295240"
-        },
-        {
-          "author": "hawlermathew",
-          "content": "Lemme try to help find it",
-          "ts_str": "2026-11-04 05:10:12",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1567405585018658839"
-        },
-        {
-          "author": "jq0289",
-          "content": "**Team 1 \u2013 Sprint 9A Wednesday Reminder**\n\nHi team, just a reminder that today's deadline is **11:59 PM SGT**.\n\n- **R2:** Please send your SPX prediction.\n- **R3:** Please send your NDX prediction.\n- ",
-          "ts_str": "2026-11-04 04:39:55",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1567397966220623903"
         }
       ]
     },
