@@ -1,8 +1,20 @@
 {
-  "generated": "Thursday 05 November 2026 18:56 SGT",
+  "generated": "Friday 06 November 2026 02:39 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
+        {
+          "author": "hawlermathew",
+          "content": "my remaining work is to update errors.csv in the future when Friday actual close is out for vW9.json and finally make the prescription for this week",
+          "ts_str": "2026-11-05 17:15:42",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1567950553101639792"
+        },
+        {
+          "author": "hawlermathew",
+          "content": "hi <@1550051897354752052> and <@1562513082276642913> i have finished my check_errors.py and output the result to data/errors.csv",
+          "ts_str": "2026-11-05 17:14:00",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1567950123710029916"
+        },
         {
           "author": "jq0289",
           "content": "Hi R4 and R6!\n\nI checked the teacher's Scrum Scoreboard, and Team 1 missed Milestone 3 because of two issues:\n\n1. The CSV was uploaded to `data/old_predictions/predictions.csv`, but the required path ",
@@ -20,18 +32,6 @@
           "content": "<@776049160369209355>You need to:\n\nUpdate ui/index.html to display four prediction error charts: SPX, NDX, GOLD, and TNX.\n\nUse the data from data/errors.csv provided by R4 and R6.\n\nMake sure each char",
           "ts_str": "2026-11-05 01:14:00",
           "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1567708533418631220"
-        },
-        {
-          "author": "jq0289",
-          "content": "**Team 1 \u2013 Sprint 9A Progress Update & Tomorrow's Plan**\n\nHi team!\n\nFirst, thank you everyone for completing today's tasks on time! I really appreciate everyone's effort and cooperation.\n\n**Completed ",
-          "ts_str": "2026-11-04 15:33:10",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1567562359386546220"
-        },
-        {
-          "author": "hawlermathew",
-          "content": "hope this help",
-          "ts_str": "2026-11-04 05:14:58",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1567406782748295240"
         }
       ]
     },
@@ -72,6 +72,24 @@
     "Team 3": {
       "blockers": [
         {
+          "author": "wilil_20",
+          "content": "Hi R4 and R6, just checking on the progress of `data/errors.csv` for Sprint 9A.\n\nI've already pushed my R2 SPX retrospective draft to GitHub. I just need the SPX error results for vW4\u2013vW8 to complete ",
+          "ts_str": "2026-11-05 16:32:07",
+          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1567939583805493259"
+        },
+        {
+          "author": "wendilin_39493_15226",
+          "content": "The official deadline was **4 Nov, 23:59 SGT**.\n\n\u2022 **R2:** Send me your SPX prediction for Friday 6 Nov.\n\n\u2022 **R3:** Send me your NDX prediction for Friday 6 Nov.\n\n\u2022 **R4:** Send me your GOLD predictio",
+          "ts_str": "2026-11-05 13:30:26",
+          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1567893861001334835"
+        },
+        {
+          "author": "persitatu",
+          "content": "Hi r4, I\u2019m handling the R6 integration and review. The Yahoo downloader is already on main at engine/yahoo_actuals.py. Could you share the current location or branch of engine/check_error.py and the i",
+          "ts_str": "2026-11-05 11:08:08",
+          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1567858049371340921"
+        },
+        {
           "author": "wendilin_39493_15226",
           "content": "Here\u2019s a checklist of what was due by **4 Nov, 23:59 SGT**:\n\n\u2022 **R1 (me):** Collect the four predictions, check predictions/vW9.json, and coordinate with R6 to merge and lock it on main. The Sprint 9 ",
           "ts_str": "2026-11-04 17:09:01",
@@ -82,12 +100,6 @@
           "content": "<@1510333269277806785>  Yu Wenhao, for our shared R6 work, could you take the integration and review side? I have completed the TNX proposal, Yahoo downloader and historical data snapshot, all on main",
           "ts_str": "2026-11-04 15:43:06",
           "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1567564861121232937"
-        },
-        {
-          "author": "alexlee149",
-          "content": "<@1420006709966934087>  Hi, we are the two R6 members for Sprint 9A. Suggested split:\n\n\u2022 I will handle the TNX forecast and evidence note, and prepare/test the Yahoo actual-close download module.\n\u2022 Co",
-          "ts_str": "2026-11-04 15:23:25",
-          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1567559907488567428"
         }
       ]
     },
