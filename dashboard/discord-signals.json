@@ -1,8 +1,14 @@
 {
-  "generated": "Thursday 05 November 2026 06:51 SGT",
+  "generated": "Thursday 05 November 2026 11:05 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
+        {
+          "author": "jq0289",
+          "content": "<@776049160369209355>You need to:\n\nUpdate ui/index.html to display four prediction error charts: SPX, NDX, GOLD, and TNX.\n\nUse the data from data/errors.csv provided by R4 and R6.\n\nMake sure each char",
+          "ts_str": "2026-11-05 01:14:00",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1567708533418631220"
+        },
         {
           "author": "jq0289",
           "content": "**Team 1 \u2013 Sprint 9A Progress Update & Tomorrow's Plan**\n\nHi team!\n\nFirst, thank you everyone for completing today's tasks on time! I really appreciate everyone's effort and cooperation.\n\n**Completed ",
@@ -26,12 +32,6 @@
           "content": "**Team 1 \u2013 Sprint 9A Wednesday Reminder**\n\nHi team, just a reminder that today's deadline is **11:59 PM SGT**.\n\n- **R2:** Please send your SPX prediction.\n- **R3:** Please send your NDX prediction.\n- ",
           "ts_str": "2026-11-04 04:39:55",
           "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1567397966220623903"
-        },
-        {
-          "author": "jq0289",
-          "content": "<@927069413088309298>  I cannot find sprint 5 members, can u help to fix? I added vW7,8,9",
-          "ts_str": "2026-11-04 04:00:22",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1567388011719565402"
         }
       ]
     },
