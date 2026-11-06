@@ -1,8 +1,20 @@
 {
-  "generated": "Friday 06 November 2026 12:52 SGT",
+  "generated": "Friday 06 November 2026 20:43 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
+        {
+          "author": "hawlermathew",
+          "content": "u guys can continue ur what_went_wrong.md",
+          "ts_str": "2026-11-06 12:30:18",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1568241114773983246"
+        },
+        {
+          "author": "hawlermathew",
+          "content": "hi R2, R3, and R6 the data/errors.csv is updated for sprint 9",
+          "ts_str": "2026-11-06 12:30:02",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1568241049736847365"
+        },
         {
           "author": "hawlermathew",
           "content": "my remaining work is to update errors.csv in the future when Friday actual close is out for vW9.json and finally make the prescription for this week",
@@ -20,23 +32,17 @@
           "content": "Hi R4 and R6!\n\nI checked the teacher's Scrum Scoreboard, and Team 1 missed Milestone 3 because of two issues:\n\n1. The CSV was uploaded to `data/old_predictions/predictions.csv`, but the required path ",
           "ts_str": "2026-11-05 10:37:52",
           "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1567850432036995103"
-        },
-        {
-          "author": "qiu0181",
-          "content": "<@927069413088309298>Hi An, I\u2019ve checked the historical NDX predictions in data/old_predictions.csv. Could you share the NDX actual closes and errors when they\u2019re ready? I need them for my section in ",
-          "ts_str": "2026-11-05 06:18:08",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1567785070956122174"
-        },
-        {
-          "author": "jq0289",
-          "content": "<@776049160369209355>You need to:\n\nUpdate ui/index.html to display four prediction error charts: SPX, NDX, GOLD, and TNX.\n\nUse the data from data/errors.csv provided by R4 and R6.\n\nMake sure each char",
-          "ts_str": "2026-11-05 01:14:00",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1567708533418631220"
         }
       ]
     },
     "Team 2": {
       "blockers": [
+        {
+          "author": "aliceinsomewhere",
+          "content": "Hey guys, is the errors.csv file done yet? I checked it in github, but it seems to contain Python code instead of the actual error data.I thought its check_error.py. I need the NDX error results to co",
+          "ts_str": "2026-11-06 10:34:43",
+          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1568212029767032950"
+        },
         {
           "author": "zhangyuxuan0333",
           "content": "Name / Role: Zhang Yuxuan / R6 (LLM & GitHub)\nCompleted: Created and populated the TNX predictions in `predictions/vW9.json`; developed the error-checking script `engine/check_error.py`.\nPlan for toda",
@@ -54,23 +60,29 @@
           "content": "Hi is this the file for comparing the errors between actual prediction and our old prediction? \nFor R6, I suppose u would need to give the scraping file from yahoo finance for the actual Friday close ",
           "ts_str": "2026-11-04 12:45:01",
           "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1567520044357910610"
-        },
-        {
-          "author": "naing_26",
-          "content": "Sorry for the late reply. I was sick tdy.\nSprint 9 Check-in \u2014 Wed 4 Nov\nName / Role: Naing / R4\nDone: task split with partner\nPlan for today: finish checking error between old prediction and actual cl",
-          "ts_str": "2026-11-04 12:43:30",
-          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1567519660340150390"
-        },
-        {
-          "author": "mufor.",
-          "content": "Name / Role: Junyi Fan / R4\n\nDone: Created old_predictions.csv from vW4-vW8 records. Locked in Gold vW9 prediction (3890) and sent to R1.\n\nPlan for today: On standby until Friday's close for the M6 Go",
-          "ts_str": "2026-11-04 09:53:00",
-          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1567476752895180801"
         }
       ]
     },
     "Team 3": {
       "blockers": [
+        {
+          "author": "wendilin_39493_15226",
+          "content": "quick check\n\u2022 **R2:** R4 has confirmed that data/errors.csv is available. Please use the SPX results to finish your retrospective.\n\u2022 **R5:** Please use data/errors.csv to complete the four error chart",
+          "ts_str": "2026-11-06 10:37:16",
+          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1568212670912667739"
+        },
+        {
+          "author": "27ccc_",
+          "content": "Hi R5 and R6, I have completed and uploaded my R4 files to GitHub main.\n\n- data/old_predictions.csv\n- engine/check_error.py\n- data/errors.csv\n- docs/what_went_wrong.md\n\nThe historical error results ar",
+          "ts_str": "2026-11-06 09:47:32",
+          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1568200154270408745"
+        },
+        {
+          "author": "27ccc_",
+          "content": "Hi R1, here is my R4 GOLD prediction for Sprint 9A (vW9).\n\nInstrument: GOLD (December 2026 Gold Futures)\nTarget date: Friday, 6 November 2026\nPredicted close: **4050**\nDirection: Slightly Bearish\nConf",
+          "ts_str": "2026-11-06 08:10:21",
+          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1568175696361291851"
+        },
         {
           "author": "wendilin_39493_15226",
           "content": "\u2022 **R3:** Please send your NDX prediction for 6 Nov, or share the link if already submitted.\n\u2022 **R4:** Please send your GOLD prediction and confirm whether data/old_predictions.csv is on main.\n\u2022 **R4 ",
@@ -82,24 +94,6 @@
           "content": "Hi R4 and R6, just checking on the progress of `data/errors.csv` for Sprint 9A.\n\nI've already pushed my R2 SPX retrospective draft to GitHub. I just need the SPX error results for vW4\u2013vW8 to complete ",
           "ts_str": "2026-11-05 16:32:07",
           "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1567939583805493259"
-        },
-        {
-          "author": "wendilin_39493_15226",
-          "content": "The official deadline was **4 Nov, 23:59 SGT**.\n\n\u2022 **R2:** Send me your SPX prediction for Friday 6 Nov.\n\n\u2022 **R3:** Send me your NDX prediction for Friday 6 Nov.\n\n\u2022 **R4:** Send me your GOLD predictio",
-          "ts_str": "2026-11-05 13:30:26",
-          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1567893861001334835"
-        },
-        {
-          "author": "persitatu",
-          "content": "Hi r4, I\u2019m handling the R6 integration and review. The Yahoo downloader is already on main at engine/yahoo_actuals.py. Could you share the current location or branch of engine/check_error.py and the i",
-          "ts_str": "2026-11-05 11:08:08",
-          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1567858049371340921"
-        },
-        {
-          "author": "wendilin_39493_15226",
-          "content": "Here\u2019s a checklist of what was due by **4 Nov, 23:59 SGT**:\n\n\u2022 **R1 (me):** Collect the four predictions, check predictions/vW9.json, and coordinate with R6 to merge and lock it on main. The Sprint 9 ",
-          "ts_str": "2026-11-04 17:09:01",
-          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1567586480560545793"
         }
       ]
     },
