@@ -1,5 +1,5 @@
 {
-  "generated": "Saturday 07 November 2026 03:44 SGT",
+  "generated": "Saturday 07 November 2026 07:51 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
@@ -38,6 +38,24 @@
     "Team 2": {
       "blockers": [
         {
+          "author": "haewon00_95831",
+          "content": "TNX paragraph is also updated in docs/what_went_wrong.md",
+          "ts_str": "2026-11-06 22:18:30",
+          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1568389140997734441"
+        },
+        {
+          "author": "haewon00_95831",
+          "content": "<@1551423722689265805> please dont overwrite engine or data/errors.csv",
+          "ts_str": "2026-11-06 22:12:53",
+          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1568387726468976771"
+        },
+        {
+          "author": "haewon00_95831",
+          "content": "I fixed errors.csv, it\u2019s on main now",
+          "ts_str": "2026-11-06 22:11:58",
+          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1568387497619099793"
+        },
+        {
           "author": "aliceinsomewhere",
           "content": "i think albert did it wrong",
           "ts_str": "2026-11-06 16:13:09",
@@ -48,12 +66,6 @@
           "content": "data/errors.csv and engine/check_error.py are R4\u2019s tasks. R6 is responsible for adding the actual closing prices from Yahoo Finance to the CSV",
           "ts_str": "2026-11-06 16:08:20",
           "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1568295984662839296"
-        },
-        {
-          "author": "aliceinsomewhere",
-          "content": "Hey guys, is the errors.csv file done yet? I checked it in github, but it seems to contain Python code instead of the actual error data.I thought its check_error.py. I need the NDX error results to co",
-          "ts_str": "2026-11-06 10:34:43",
-          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1568212029767032950"
         }
       ]
     },
