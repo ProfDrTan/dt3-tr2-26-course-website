@@ -1,5 +1,5 @@
 {
-  "generated": "Saturday 07 November 2026 12:31 SGT",
+  "generated": "Saturday 07 November 2026 19:17 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
@@ -38,6 +38,12 @@
     "Team 2": {
       "blockers": [
         {
+          "author": "1nonlyneon",
+          "content": "R5 work is done..... I finished the error charts for SPX, NDX, Gold and TNX in ui/index.html, tested them, committed and pushed everything to the sprint-9 branch.",
+          "ts_str": "2026-11-07 10:45:04",
+          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1568577019913044051"
+        },
+        {
           "author": "mufor.",
           "content": "if I can't find",
           "ts_str": "2026-11-07 03:59:05",
@@ -60,51 +66,57 @@
           "content": "TNX paragraph is also updated in docs/what_went_wrong.md",
           "ts_str": "2026-11-06 22:18:30",
           "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1568389140997734441"
-        },
-        {
-          "author": "haewon00_95831",
-          "content": "<@1551423722689265805> please dont overwrite engine or data/errors.csv",
-          "ts_str": "2026-11-06 22:12:53",
-          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1568387726468976771"
         }
       ]
     },
     "Team 3": {
       "blockers": [
         {
+          "author": "wendilin_39493_15226",
+          "content": "\u2022 **R5:** Complete the four charts in ui/index.html using the updated CSV, including dates, units and a zero line.\n\u2022 **R2 & R3:** Finalise your SPX and NDX paragraphs in docs/what_went_wrong.md using ",
+          "ts_str": "2026-11-07 10:52:21",
+          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1568578855294210140"
+        },
+        {
+          "author": "27ccc_",
+          "content": "**R4 \u2013 To Do (LIU QUANDA)**\n- Confirm that R5 and R6 have received the updated `data/errors.csv`.\n- Support the final dashboard integration if any data issues are reported.\n- Check whether the team ne",
+          "ts_str": "2026-11-07 08:04:57",
+          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1568536725683175476"
+        },
+        {
+          "author": "27ccc_",
+          "content": "Hi everyone, I have completed all my R4 tasks for Sprint 9A.\n\nI have uploaded and updated all required files on GitHub main:\n- `data/old_predictions.csv`\n- `engine/check_error.py`\n- `data/errors.csv`\n",
+          "ts_str": "2026-11-07 08:04:11",
+          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1568536534167195732"
+        },
+        {
+          "author": "27ccc_",
+          "content": "Hi R5 and R6, I have completed the final R4 error calculations.\n\nThe updated data/errors.csv is now on GitHub main, containing all 21 records, including the four vW9 results.\n\nThe GOLD prediction erro",
+          "ts_str": "2026-11-07 07:38:20",
+          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1568530026096496683"
+        },
+        {
           "author": "persitatu",
           "content": "Hi team, I\u2019ve uploaded the R6 integration script, tests and handoff notes. The script now reads predictions/vW9.json and preserves all 17 historical rows. All 19 local tests passed.  \n\nR4, could you p",
           "ts_str": "2026-11-06 18:16:47",
           "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1568328313087197195"
-        },
-        {
-          "author": "alexlee149",
-          "content": "<@1510333269277806785>  Yu Wenhao, could you take the R6 integration and data check for Sprint 9A? The deadline for M4\u2013M6 is Saturday 7 Nov at 23:59 SGT.\n\n\u2022 Your part with Liu Quanda (R4): the 17 hist",
-          "ts_str": "2026-11-06 13:11:53",
-          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1568251578790449215"
-        },
-        {
-          "author": "wendilin_39493_15226",
-          "content": "quick check\n\u2022 **R2:** R4 has confirmed that data/errors.csv is available. Please use the SPX results to finish your retrospective.\n\u2022 **R5:** Please use data/errors.csv to complete the four error chart",
-          "ts_str": "2026-11-06 10:37:16",
-          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1568212670912667739"
-        },
-        {
-          "author": "27ccc_",
-          "content": "Hi R5 and R6, I have completed and uploaded my R4 files to GitHub main.\n\n- data/old_predictions.csv\n- engine/check_error.py\n- data/errors.csv\n- docs/what_went_wrong.md\n\nThe historical error results ar",
-          "ts_str": "2026-11-06 09:47:32",
-          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1568200154270408745"
-        },
-        {
-          "author": "27ccc_",
-          "content": "Hi R1, here is my R4 GOLD prediction for Sprint 9A (vW9).\n\nInstrument: GOLD (December 2026 Gold Futures)\nTarget date: Friday, 6 November 2026\nPredicted close: **4050**\nDirection: Slightly Bearish\nConf",
-          "ts_str": "2026-11-06 08:10:21",
-          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1568175696361291851"
         }
       ]
     },
     "Team 4": {
       "blockers": [
+        {
+          "author": "shiro_0272902",
+          "content": "<@1550773438669389825> R1 I\u2019ve finished my Sprint 9A R3 (NDX) retrospective. It\u2019s in docs/what_went_wrong.md. You can check it",
+          "ts_str": "2026-11-07 08:39:44",
+          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1568545478457565286"
+        },
+        {
+          "author": "alanmusk_01429",
+          "content": "Two files are still missing from main: engine/check_error.py and data/errors.csv. Could you coordinate with LiDan and Derick to complete them before tonight\u2019s 23:59 SGT deadline?\n\nOnce the real CSV is",
+          "ts_str": "2026-11-07 04:49:39",
+          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1568487577923878943"
+        },
         {
           "author": "axey_125",
           "content": "And just a friendly reminder that tonight** 23:59 SGT** is the hard deadline for everything. Let\u2019s fill in our sections, get the UI/error stuff merged with Derick and Charles",
