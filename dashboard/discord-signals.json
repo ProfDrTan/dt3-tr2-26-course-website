@@ -1,5 +1,5 @@
 {
-  "generated": "Saturday 07 November 2026 07:51 SGT",
+  "generated": "Saturday 07 November 2026 12:31 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
@@ -38,6 +38,24 @@
     "Team 2": {
       "blockers": [
         {
+          "author": "mufor.",
+          "content": "if I can't find",
+          "ts_str": "2026-11-07 03:59:05",
+          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1568474850048213025"
+        },
+        {
+          "author": "liangjinghong_97317",
+          "content": "I\u2019m not know where the PPTX template is; could you help me find it?",
+          "ts_str": "2026-11-07 03:58:32",
+          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1568474711766204622"
+        },
+        {
+          "author": "mufor.",
+          "content": "<@1550739890604351590> Gold paragraph is updated in docs/what_went_wrong.md",
+          "ts_str": "2026-11-07 01:24:16",
+          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1568435891108708466"
+        },
+        {
           "author": "haewon00_95831",
           "content": "TNX paragraph is also updated in docs/what_went_wrong.md",
           "ts_str": "2026-11-06 22:18:30",
@@ -48,24 +66,6 @@
           "content": "<@1551423722689265805> please dont overwrite engine or data/errors.csv",
           "ts_str": "2026-11-06 22:12:53",
           "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1568387726468976771"
-        },
-        {
-          "author": "haewon00_95831",
-          "content": "I fixed errors.csv, it\u2019s on main now",
-          "ts_str": "2026-11-06 22:11:58",
-          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1568387497619099793"
-        },
-        {
-          "author": "aliceinsomewhere",
-          "content": "i think albert did it wrong",
-          "ts_str": "2026-11-06 16:13:09",
-          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1568297198830227467"
-        },
-        {
-          "author": "liangjinghong_97317",
-          "content": "data/errors.csv and engine/check_error.py are R4\u2019s tasks. R6 is responsible for adding the actual closing prices from Yahoo Finance to the CSV",
-          "ts_str": "2026-11-06 16:08:20",
-          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1568295984662839296"
         }
       ]
     },
@@ -104,7 +104,20 @@
       ]
     },
     "Team 4": {
-      "blockers": []
+      "blockers": [
+        {
+          "author": "axey_125",
+          "content": "And just a friendly reminder that tonight** 23:59 SGT** is the hard deadline for everything. Let\u2019s fill in our sections, get the UI/error stuff merged with Derick and Charles",
+          "ts_str": "2026-11-07 03:50:02",
+          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1568472573862482024"
+        },
+        {
+          "author": "axey_125",
+          "content": "I\u2019ve set up docs/what_went_wrong.md in the repo with placeholders for everyone so you can just drop your info in",
+          "ts_str": "2026-11-07 03:49:43",
+          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1568472494283690006"
+        }
+      ]
     },
     "Team 5": {
       "blockers": []
