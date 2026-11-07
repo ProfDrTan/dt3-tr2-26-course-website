@@ -1,5 +1,5 @@
 {
-  "generated": "Sunday 08 November 2026 00:55 SGT",
+  "generated": "Sunday 08 November 2026 04:48 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
@@ -72,6 +72,12 @@
     "Team 3": {
       "blockers": [
         {
+          "author": "persitatu",
+          "content": "Hi team, I\u2019ve completed my R6 integration and data review. All 21 records were checked against the saved Yahoo data, and all 24 local tests passed. The TNX actual close is 4.859000206%, giving a signe",
+          "ts_str": "2026-11-07 19:20:23",
+          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1568706703090909295"
+        },
+        {
           "author": "wendilin_39493_15226",
           "content": "<@1342031020081418240> R2, I've helped complete your SPX retrospective and added it to `docs/what_went_wrong.md` based on the error data. Could you please take a look and confirm it's accurate when yo",
           "ts_str": "2026-11-07 15:02:17",
@@ -94,12 +100,6 @@
           "content": "R2 and R3, could you please confirm whether your final SPX and NDX retrospective paragraphs have been merged into `docs/what_went_wrong.md` on main?\n\nR5 and R6 have confirmed their work is complete. I",
           "ts_str": "2026-11-07 13:15:50",
           "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1568614960504774732"
-        },
-        {
-          "author": "alexlee149",
-          "content": "<@1550458527338729502>  Hi R1 and team, I have helped complete R5\u2019s Sprint 9A work and submitted it to main. My R6 part is also complete.\n\nR5: the four weekly error charts are now in ui/index.html, us",
-          "ts_str": "2026-11-07 12:35:59",
-          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1568604933824188421"
         }
       ]
     },
