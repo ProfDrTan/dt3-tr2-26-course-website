@@ -1,5 +1,5 @@
 {
-  "generated": "Monday 09 November 2026 02:24 SGT",
+  "generated": "Monday 09 November 2026 06:25 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
@@ -60,12 +60,6 @@
           "content": "<@1550739890604351590> Gold paragraph is updated in docs/what_went_wrong.md",
           "ts_str": "2026-11-07 01:24:16",
           "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1568435891108708466"
-        },
-        {
-          "author": "haewon00_95831",
-          "content": "TNX paragraph is also updated in docs/what_went_wrong.md",
-          "ts_str": "2026-11-06 22:18:30",
-          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1568389140997734441"
         }
       ]
     },
