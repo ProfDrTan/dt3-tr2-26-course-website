@@ -1,8 +1,14 @@
 {
-  "generated": "Sunday 08 November 2026 21:14 SGT",
+  "generated": "Monday 09 November 2026 02:24 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
+        {
+          "author": "ayephyuss",
+          "content": "If I have a chance, I can work on as R2(B) . B coz I also worked on as previous SPX prediction errors from Sprint 9A. That would be more easy and perfect flow on work. thank u sm team!",
+          "ts_str": "2026-11-08 14:00:52",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1568988681258139801"
+        },
         {
           "author": "jq0289",
           "content": "We can keep those sections if they work, but please prioritise making the four error charts work correctly.\nAlso, please make sure `ui/index.html` is merged into GitHub main before the deadline.",
@@ -26,12 +32,6 @@
           "content": "please share which files are missing so we can fix the issue together.",
           "ts_str": "2026-11-07 15:14:49",
           "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1568644905998483469"
-        },
-        {
-          "author": "zhang_41520",
-          "content": "R6 \u2014 Sprint 9A update\n\nCompleted:\n\nChecked engine/check_error.py and confirmed the Yahoo Finance download logic is working.\n\nIn Progress:\n\nChecking the remaining Sprint 9A files and preparing the comp",
-          "ts_str": "2026-11-07 13:22:23",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1568616611198537840"
         }
       ]
     },
