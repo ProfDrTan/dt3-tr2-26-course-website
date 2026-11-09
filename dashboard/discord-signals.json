@@ -1,5 +1,5 @@
 {
-  "generated": "Monday 09 November 2026 17:37 SGT",
+  "generated": "Tuesday 10 November 2026 04:08 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
@@ -8,110 +8,48 @@
           "content": "If I have a chance, I can work on as R2(B) . B coz I also worked on as previous SPX prediction errors from Sprint 9A. That would be more easy and perfect flow on work. thank u sm team!",
           "ts_str": "2026-11-08 14:00:52",
           "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1568988681258139801"
-        },
-        {
-          "author": "jq0289",
-          "content": "We can keep those sections if they work, but please prioritise making the four error charts work correctly.\nAlso, please make sure `ui/index.html` is merged into GitHub main before the deadline.",
-          "ts_str": "2026-11-07 15:21:06",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1568646486324019251"
-        },
-        {
-          "author": "jq0289",
-          "content": "Yes, according to the Sprint 9A requirements, our main task for M5 is to show the four error charts (SPX, NDX, GOLD and TNX).\n\nEach chart needs to show Friday dates, error values and a zero baseline.\n",
-          "ts_str": "2026-11-07 15:20:42",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1568646386856231022"
-        },
-        {
-          "author": "jq0289",
-          "content": "<@1549946386441699400> <@997121495371358290> Since you have completed your part, could you please help R5 check the missing files and GitHub paths?",
-          "ts_str": "2026-11-07 15:15:20",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1568645034205511841"
-        },
-        {
-          "author": "jq0289",
-          "content": "please share which files are missing so we can fix the issue together.",
-          "ts_str": "2026-11-07 15:14:49",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1568644905998483469"
         }
       ]
     },
     "Team 2": {
       "blockers": [
         {
-          "author": "1nonlyneon",
-          "content": "R5 work is done..... I finished the error charts for SPX, NDX, Gold and TNX in ui/index.html, tested them, committed and pushed everything to the sprint-9 branch.",
-          "ts_str": "2026-11-07 10:45:04",
-          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1568577019913044051"
+          "author": "liangjinghong_97317",
+          "content": "Urgent tasks for now:- R1: Create the Sprint 9B backlog cards for milestones 2\u20135 in FigJam and document them in docs/backlog-9b.md by Tue 10 Nov 23:59.\n- R2, R3, R4 & R6: Write one actionable change r",
+          "ts_str": "2026-11-09 12:13:54",
+          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1569324150286192732"
+        },
+        {
+          "author": "liangjinghong_97317",
+          "content": "R6 (Haewon Park & Yuxuan Zhang): Write the TNX change rule, provide both vW10 predictions, run the error script after Friday\u2019s close, and merge the team\u2019s work into main\nDue: Change rule and predictio",
+          "ts_str": "2026-11-09 12:12:12",
+          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1569323726070091969"
+        },
+        {
+          "author": "liangjinghong_97317",
+          "content": "R5 (Bhone Myat Kyaw Thu): Add A/B error charts to the team page.\nDue: Sat 14 Nov 23:59.\nDoD: ui/index.html shows side-by-side vW10 old, new, and baseline errors for SPX, NDX, GOLD, and TNX, with a zer",
+          "ts_str": "2026-11-09 12:11:03",
+          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1569323433207009414"
+        },
+        {
+          "author": "liangjinghong_97317",
+          "content": "R4 (Junyi Fan & Khaing Yati Naing): Add the method and baseline rows to the error script, write the GOLD change rule, provide both vW10 predictions, and write the GOLD evaluation\nDue: Change rule and ",
+          "ts_str": "2026-11-09 12:09:54",
+          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1569323146119618651"
+        },
+        {
+          "author": "liangjinghong_97317",
+          "content": "R3 (Phoo Pwint Myint Mo): Write the NDX change rule, provide both vW10 predictions, and write the NDX evaluation.\nDue: Change rule and predictions Wed 11 Nov 23:59; evaluation Sat 14 Nov 23:59.\nDoD:`d",
+          "ts_str": "2026-11-09 12:08:33",
+          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1569322806649553008"
         }
       ]
     },
     "Team 3": {
-      "blockers": [
-        {
-          "author": "persitatu",
-          "content": "Hi team, I\u2019ve completed my R6 integration and data review. All 21 records were checked against the saved Yahoo data, and all 24 local tests passed. The TNX actual close is 4.859000206%, giving a signe",
-          "ts_str": "2026-11-07 19:20:23",
-          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1568706703090909295"
-        },
-        {
-          "author": "wendilin_39493_15226",
-          "content": "<@1342031020081418240> R2, I've helped complete your SPX retrospective and added it to `docs/what_went_wrong.md` based on the error data. Could you please take a look and confirm it's accurate when yo",
-          "ts_str": "2026-11-07 15:02:17",
-          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1568641751978213599"
-        },
-        {
-          "author": "wendilin_39493_15226",
-          "content": "<@1342031020081418240> Hi R2, just a reminder that your SPX retrospective is the last missing section in `docs/what_went_wrong.md`.\n\nCould you please complete it and merge it into main as soon as poss",
-          "ts_str": "2026-11-07 14:22:56",
-          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1568631847800274957"
-        },
-        {
-          "author": "j097697",
-          "content": "Markdown\n### NDX (Technical & Economic)\n* **What we see:** Looking at the error table, our predictions for NDX were consistently too high in vW6, vW7, and vW8, overestimating the index close by an ave",
-          "ts_str": "2026-11-07 13:53:04",
-          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1568624333444747285"
-        },
-        {
-          "author": "wendilin_39493_15226",
-          "content": "R2 and R3, could you please confirm whether your final SPX and NDX retrospective paragraphs have been merged into `docs/what_went_wrong.md` on main?\n\nR5 and R6 have confirmed their work is complete. I",
-          "ts_str": "2026-11-07 13:15:50",
-          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1568614960504774732"
-        }
-      ]
+      "blockers": []
     },
     "Team 4": {
-      "blockers": [
-        {
-          "author": "meeowoaw",
-          "content": "`engine/check_error.py` has been completed and uploaded.\n\nThe GOLD retrospective and error analysis has also been completed in `docs/what_went_wrong.md`.",
-          "ts_str": "2026-11-07 15:26:59",
-          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1568647966393106483"
-        },
-        {
-          "author": "hjy987._44307",
-          "content": "Hi Charles and Jahanvi, I have completed the R6 error calculation verification and uploaded `data/errors.csv` to the main branch.\n\nHowever, I found a format mismatch between `error-charts.js` and our ",
-          "ts_str": "2026-11-07 14:13:41",
-          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1568629522146791457"
-        },
-        {
-          "author": "axey_125",
-          "content": "make sure fill this in the docs/what_went_wrong.md",
-          "ts_str": "2026-11-07 13:46:26",
-          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1568622663050723350"
-        },
-        {
-          "author": "meeowoaw",
-          "content": "<@1298826886188761192>  `engine/check_error.py` has now been completed and uploaded to main.\n\n<@1548926510398840902> Derick, you should be able to run the script and continue with `data/errors.csv` no",
-          "ts_str": "2026-11-07 13:26:20",
-          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1568617606724849675"
-        },
-        {
-          "author": "hjy987._44307",
-          "content": "Hi everyone, I have completed my R6 TNX Forecast & Data Pipeline Retrospective section in `docs/what_went_wrong.md` and submitted it to GitHub.\n\nFor my second task (M4), I checked the main branch, but",
-          "ts_str": "2026-11-07 12:00:41",
-          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1568596051533893725"
-        }
-      ]
+      "blockers": []
     },
     "Team 5": {
       "blockers": []
