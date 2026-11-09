@@ -1,5 +1,5 @@
 {
-  "generated": "Monday 09 November 2026 06:25 SGT",
+  "generated": "Monday 09 November 2026 09:54 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
@@ -54,12 +54,6 @@
           "content": "I\u2019m not know where the PPTX template is; could you help me find it?",
           "ts_str": "2026-11-07 03:58:32",
           "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1568474711766204622"
-        },
-        {
-          "author": "mufor.",
-          "content": "<@1550739890604351590> Gold paragraph is updated in docs/what_went_wrong.md",
-          "ts_str": "2026-11-07 01:24:16",
-          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1568435891108708466"
         }
       ]
     },
