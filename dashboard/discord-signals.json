@@ -1,5 +1,5 @@
 {
-  "generated": "Tuesday 10 November 2026 10:44 SGT",
+  "generated": "Tuesday 10 November 2026 18:33 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
@@ -46,7 +46,20 @@
       ]
     },
     "Team 3": {
-      "blockers": []
+      "blockers": [
+        {
+          "author": "alexlee149",
+          "content": "<@1548956144737722382>  R1, the nearest Sprint 9B deadline is TONIGHT, Tue 10 Nov at 23:59 SGT. Please put the same four milestone cards on our shared FigJam section AND in docs/backlog-9b.md on main.",
+          "ts_str": "2026-11-10 03:13:36",
+          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1569550568593031228"
+        },
+        {
+          "author": "alexlee149",
+          "content": "<@697661487589752893>  Hi Huang Yinghan, we are the two R6 members for Sprint 9B. I have merged our TNX rule, preparation script and preflight notes into main: https://github.com/cp3405-tr3-2026/team-",
+          "ts_str": "2026-11-10 03:13:16",
+          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1569550485990547496"
+        }
+      ]
     },
     "Team 4": {
       "blockers": []
