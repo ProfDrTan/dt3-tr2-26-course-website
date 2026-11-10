@@ -1,18 +1,30 @@
 {
-  "generated": "Tuesday 10 November 2026 18:33 SGT",
+  "generated": "Wednesday 11 November 2026 02:13 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
         {
-          "author": "ayephyuss",
-          "content": "If I have a chance, I can work on as R2(B) . B coz I also worked on as previous SPX prediction errors from Sprint 9A. That would be more easy and perfect flow on work. thank u sm team!",
-          "ts_str": "2026-11-08 14:00:52",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1568988681258139801"
+          "author": "wailinnthaw",
+          "content": "Hi Team! this one for tmr what we do before the deadline since R2 is alrdy done part ,the rest , can you guys pls do it early\n\nR3 \u2013 NDX\n\nWrite the NDX improvement rule in docs/change.md.\n\nProvide old ",
+          "ts_str": "2026-11-10 13:37:31",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1569707582409408533"
+        },
+        {
+          "author": "sololeveller233637",
+          "content": "Sure not an issue",
+          "ts_str": "2026-11-10 13:26:00",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1569704684904648835"
         }
       ]
     },
     "Team 2": {
       "blockers": [
+        {
+          "author": "mufor.",
+          "content": "<@1550739890604351590> Here are the R4 backlog cards for Sprint 9B. Please add them to FigJam and backlog-9b.md.\n\nM2 (change.md): Write Gold prediction rule. Done: Gold rule added to docs/change.md.\n\n",
+          "ts_str": "2026-11-10 15:03:01",
+          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1569729097922387995"
+        },
         {
           "author": "liangjinghong_97317",
           "content": "Urgent tasks for now:- R1: Create the Sprint 9B backlog cards for milestones 2\u20135 in FigJam and document them in docs/backlog-9b.md by Tue 10 Nov 23:59.\n- R2, R3, R4 & R6: Write one actionable change r",
@@ -36,12 +48,6 @@
           "content": "R4 (Junyi Fan & Khaing Yati Naing): Add the method and baseline rows to the error script, write the GOLD change rule, provide both vW10 predictions, and write the GOLD evaluation\nDue: Change rule and ",
           "ts_str": "2026-11-09 12:09:54",
           "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1569323146119618651"
-        },
-        {
-          "author": "liangjinghong_97317",
-          "content": "R3 (Phoo Pwint Myint Mo): Write the NDX change rule, provide both vW10 predictions, and write the NDX evaluation.\nDue: Change rule and predictions Wed 11 Nov 23:59; evaluation Sat 14 Nov 23:59.\nDoD:`d",
-          "ts_str": "2026-11-09 12:08:33",
-          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1569322806649553008"
         }
       ]
     },
