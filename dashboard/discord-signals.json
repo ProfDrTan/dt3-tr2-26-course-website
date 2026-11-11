@@ -1,8 +1,20 @@
 {
-  "generated": "Wednesday 11 November 2026 11:03 SGT",
+  "generated": "Wednesday 11 November 2026 18:58 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
+        {
+          "author": "jq0289",
+          "content": "**R6-A \u2013 TNX Progress Update**\n\n**Completed:**\n- Analysed TNX prediction errors from vW5 to vW9.\n- Found that our TNX predictions were too high in all five weeks.\n- Calculated the median error as 13.2",
+          "ts_str": "2026-11-11 05:04:10",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1569940783707197511"
+        },
+        {
+          "author": "hawlermathew",
+          "content": "hey guys i realized that R6 work for what_went_wrong.md is missing",
+          "ts_str": "2026-11-11 03:48:59",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1569921860890796085"
+        },
         {
           "author": "wailinnthaw",
           "content": "Hi Team! this one for tmr what we do before the deadline since R2 is alrdy done part ,the rest , can you guys pls do it early\n\nR3 \u2013 NDX\n\nWrite the NDX improvement rule in docs/change.md.\n\nProvide old ",
@@ -68,7 +80,20 @@
       ]
     },
     "Team 4": {
-      "blockers": []
+      "blockers": [
+        {
+          "author": "estelle_wen_05110",
+          "content": "your old TNX (4.983) equals Tuesday's close, which is the baseline, so old and baseline can't be told apart. Please make old the number you would have given with the vW9 method.",
+          "ts_str": "2026-11-11 06:57:33",
+          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1569969313895419995"
+        },
+        {
+          "author": "hjy987._44307",
+          "content": "Hi everyone, I have completed my R6 TNX tasks for Sprint 9B.\n\nI updated the TNX change rule in `docs/change.md` and filled in both prediction files:\n\n- Old method (`vW10_old.json`): 4.983\n- New method",
+          "ts_str": "2026-11-11 06:14:53",
+          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1569958579677564991"
+        }
+      ]
     },
     "Team 5": {
       "blockers": []
