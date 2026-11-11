@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11 10:59 UTC",
+  "updated": "2026-11-11 18:37 UTC",
   "sprint_tag": "vW30",
   "sprint_deadline_utc": "2026-07-26T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W30",
@@ -600,9 +600,18 @@
       "last_run_date": "2026-11-09 04:57",
       "last_run_url": "https://github.com/Gong-yinxuan/CP3405/actions/runs/42564532643",
       "last_run_was_filtered": true,
-      "open_prs": 0,
-      "pr_titles": [],
-      "pr_links": [],
+      "open_prs": 1,
+      "pr_titles": [
+        "docs: dependency audit notes"
+      ],
+      "pr_links": [
+        {
+          "title": "docs: dependency audit notes",
+          "number": 10,
+          "url": "https://github.com/Gong-yinxuan/CP3405/pull/10",
+          "author": "ProfDrTan"
+        }
+      ],
       "days_since_commit": 2,
       "contributors": [
         {
@@ -617,11 +626,16 @@
         }
       ],
       "pr_history": {
-        "total": 9,
+        "total": 10,
         "merged": 7,
-        "open": 0,
+        "open": 1,
         "abandoned": 2,
         "weekly": {
+          "2026-11-09": {
+            "merged": 0,
+            "open": 1,
+            "abandoned": 0
+          },
           "2026-07-27": {
             "merged": 1,
             "open": 0,
@@ -639,6 +653,14 @@
           }
         },
         "recent": [
+          {
+            "number": 10,
+            "title": "docs: dependency audit notes",
+            "status": "open",
+            "url": "https://github.com/Gong-yinxuan/CP3405/pull/10",
+            "created_at": "2026-11-11",
+            "author": "ProfDrTan"
+          },
           {
             "number": 9,
             "title": "Create frontend",
