@@ -1,8 +1,26 @@
 {
-  "generated": "Wednesday 11 November 2026 18:58 SGT",
+  "generated": "Thursday 12 November 2026 02:36 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
+        {
+          "author": "jq0289",
+          "content": "**R6-A \u2013 Sprint 9B Progress Update**\n\n**Completed:**\n- Analysed TNX historical prediction errors (vW5\u2013vW9).\n- Completed the TNX improvement rule in `docs/change.md`.\n- Prepared the Old TNX prediction:",
+          "ts_str": "2026-11-11 15:43:56",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1570101785840975923"
+        },
+        {
+          "author": "wailinnthaw",
+          "content": "Hi, I checked `vW10_old.json`, and the NDX value is currently 27,100. However, it appears to be a placeholder from the Sprint 9B example, so I can't confirm it as our final old-method prediction yet.\n",
+          "ts_str": "2026-11-11 13:02:06",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1570061057404313701"
+        },
+        {
+          "author": "wailinnthaw",
+          "content": "Hi team, just a friendly reminder about our Sprint 9B tasks.\n\nDeadline: Tonight, 11 November, 23:59 SGT.\n\nPlease make sure the following tasks are completed:\n\n* R2 (SPX): Change rule + old and new pre",
+          "ts_str": "2026-11-11 12:15:28",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1570049321087410311"
+        },
         {
           "author": "jq0289",
           "content": "**R6-A \u2013 TNX Progress Update**\n\n**Completed:**\n- Analysed TNX prediction errors from vW5 to vW9.\n- Found that our TNX predictions were too high in all five weeks.\n- Calculated the median error as 13.2",
@@ -14,18 +32,6 @@
           "content": "hey guys i realized that R6 work for what_went_wrong.md is missing",
           "ts_str": "2026-11-11 03:48:59",
           "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1569921860890796085"
-        },
-        {
-          "author": "wailinnthaw",
-          "content": "Hi Team! this one for tmr what we do before the deadline since R2 is alrdy done part ,the rest , can you guys pls do it early\n\nR3 \u2013 NDX\n\nWrite the NDX improvement rule in docs/change.md.\n\nProvide old ",
-          "ts_str": "2026-11-10 13:37:31",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1569707582409408533"
-        },
-        {
-          "author": "sololeveller233637",
-          "content": "Sure not an issue",
-          "ts_str": "2026-11-10 13:26:00",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1569704684904648835"
         }
       ]
     },
@@ -36,35 +42,23 @@
           "content": "<@1550739890604351590> Here are the R4 backlog cards for Sprint 9B. Please add them to FigJam and backlog-9b.md.\n\nM2 (change.md): Write Gold prediction rule. Done: Gold rule added to docs/change.md.\n\n",
           "ts_str": "2026-11-10 15:03:01",
           "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1569729097922387995"
-        },
-        {
-          "author": "liangjinghong_97317",
-          "content": "Urgent tasks for now:- R1: Create the Sprint 9B backlog cards for milestones 2\u20135 in FigJam and document them in docs/backlog-9b.md by Tue 10 Nov 23:59.\n- R2, R3, R4 & R6: Write one actionable change r",
-          "ts_str": "2026-11-09 12:13:54",
-          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1569324150286192732"
-        },
-        {
-          "author": "liangjinghong_97317",
-          "content": "R6 (Haewon Park & Yuxuan Zhang): Write the TNX change rule, provide both vW10 predictions, run the error script after Friday\u2019s close, and merge the team\u2019s work into main\nDue: Change rule and predictio",
-          "ts_str": "2026-11-09 12:12:12",
-          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1569323726070091969"
-        },
-        {
-          "author": "liangjinghong_97317",
-          "content": "R5 (Bhone Myat Kyaw Thu): Add A/B error charts to the team page.\nDue: Sat 14 Nov 23:59.\nDoD: ui/index.html shows side-by-side vW10 old, new, and baseline errors for SPX, NDX, GOLD, and TNX, with a zer",
-          "ts_str": "2026-11-09 12:11:03",
-          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1569323433207009414"
-        },
-        {
-          "author": "liangjinghong_97317",
-          "content": "R4 (Junyi Fan & Khaing Yati Naing): Add the method and baseline rows to the error script, write the GOLD change rule, provide both vW10 predictions, and write the GOLD evaluation\nDue: Change rule and ",
-          "ts_str": "2026-11-09 12:09:54",
-          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1569323146119618651"
         }
       ]
     },
     "Team 3": {
       "blockers": [
+        {
+          "author": "persitatu",
+          "content": "I\u2019ve completed the NDX section in `docs/change.md` and submitted my vW10 NDX values for the two prediction locks:\n\n- Old method A: 26,775.82\n- New method B: 26,483.36\n- Tuesday-close baseline: 27,740.",
+          "ts_str": "2026-11-11 16:08:19",
+          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1570107919469387870"
+        },
+        {
+          "author": "wendilin_39493_15226",
+          "content": "<@1548956144737722382> I've completed the R2 SPX section in docs/change.md for Sprint 9B.\n\nMy SPX predictions for 13 November are:\n\nOld method (A): 7483.33\n\nNew method (B): 7357.55\n\nThe new method app",
+          "ts_str": "2026-11-11 13:14:34",
+          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1570064194731122751"
+        },
         {
           "author": "alexlee149",
           "content": "<@1548956144737722382>  R1, the nearest Sprint 9B deadline is TONIGHT, Tue 10 Nov at 23:59 SGT. Please put the same four milestone cards on our shared FigJam section AND in docs/backlog-9b.md on main.",
@@ -81,6 +75,12 @@
     },
     "Team 4": {
       "blockers": [
+        {
+          "author": "meeowoaw",
+          "content": "I have completed the GOLD rule change in `docs/change.md`, using the historical median signed error for the new method.\n\nGOLD values have also been added to both `predictions/vW10.json` and `predictio",
+          "ts_str": "2026-11-11 11:09:28",
+          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1570032714579579021"
+        },
         {
           "author": "estelle_wen_05110",
           "content": "your old TNX (4.983) equals Tuesday's close, which is the baseline, so old and baseline can't be told apart. Please make old the number you would have given with the vW9 method.",
