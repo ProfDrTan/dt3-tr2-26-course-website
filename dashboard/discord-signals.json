@@ -1,8 +1,14 @@
 {
-  "generated": "Thursday 12 November 2026 16:12 SGT",
+  "generated": "Friday 13 November 2026 00:52 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
+        {
+          "author": "wailinnthaw",
+          "content": "Hi team,\n\nHere is our Sprint 9B plan for today, Thursday, 12 November.\n\nMilestones 1, 2 and 3 are completed. Thank you, everyone!\n\nToday, we\u2019ll focus on preparing Milestones 4 and 5.\n\nMilestone 4 \u2013 A/",
+          "ts_str": "2026-11-12 11:52:58",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1570406047129141305"
+        },
         {
           "author": "jq0289",
           "content": "**R6-A \u2013 Sprint 9B Progress Update**\n\n**Completed:**\n- Analysed TNX historical prediction errors (vW5\u2013vW9).\n- Completed the TNX improvement rule in `docs/change.md`.\n- Prepared the Old TNX prediction:",
@@ -26,12 +32,6 @@
           "content": "**R6-A \u2013 TNX Progress Update**\n\n**Completed:**\n- Analysed TNX prediction errors from vW5 to vW9.\n- Found that our TNX predictions were too high in all five weeks.\n- Calculated the median error as 13.2",
           "ts_str": "2026-11-11 05:04:10",
           "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1569940783707197511"
-        },
-        {
-          "author": "hawlermathew",
-          "content": "hey guys i realized that R6 work for what_went_wrong.md is missing",
-          "ts_str": "2026-11-11 03:48:59",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1569921860890796085"
         }
       ]
     },
@@ -42,17 +42,17 @@
           "content": "Hi Team 2, a quick private note after last night's lock.\n\nYour Sprint 9A was the strongest in the class: six of six milestones on time, and every error row correct. That's why last night stood out. Th",
           "ts_str": "2026-11-12 03:20:51",
           "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1570277169215836272"
-        },
-        {
-          "author": "mufor.",
-          "content": "<@1550739890604351590> Here are the R4 backlog cards for Sprint 9B. Please add them to FigJam and backlog-9b.md.\n\nM2 (change.md): Write Gold prediction rule. Done: Gold rule added to docs/change.md.\n\n",
-          "ts_str": "2026-11-10 15:03:01",
-          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1569729097922387995"
         }
       ]
     },
     "Team 3": {
       "blockers": [
+        {
+          "author": "j097697",
+          "content": "<@1390282790314184808> Hi teacher ,I have submit the main but I am sorry that I give it a wrong name,I have change and resubmit now.",
+          "ts_str": "2026-11-12 10:36:34",
+          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1570386819697348649"
+        },
         {
           "author": "alexlee149",
           "content": "Team 3 \u2014 please confirm your next step here today. M4/M5 are due Sat 14 Nov at 23:59 SGT.\n\n<@1548956144737722382> R1: Please add the missing docs/backlog-9b.md, check it against FigJam and confirm the",
