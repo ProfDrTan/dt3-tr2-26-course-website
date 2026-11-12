@@ -1,5 +1,5 @@
 {
-  "generated": "Thursday 12 November 2026 09:05 SGT",
+  "generated": "Thursday 12 November 2026 16:12 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
@@ -38,6 +38,12 @@
     "Team 2": {
       "blockers": [
         {
+          "author": "profdrtktan",
+          "content": "Hi Team 2, a quick private note after last night's lock.\n\nYour Sprint 9A was the strongest in the class: six of six milestones on time, and every error row correct. That's why last night stood out. Th",
+          "ts_str": "2026-11-12 03:20:51",
+          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1570277169215836272"
+        },
+        {
           "author": "mufor.",
           "content": "<@1550739890604351590> Here are the R4 backlog cards for Sprint 9B. Please add them to FigJam and backlog-9b.md.\n\nM2 (change.md): Write Gold prediction rule. Done: Gold rule added to docs/change.md.\n\n",
           "ts_str": "2026-11-10 15:03:01",
@@ -47,6 +53,18 @@
     },
     "Team 3": {
       "blockers": [
+        {
+          "author": "alexlee149",
+          "content": "Team 3 \u2014 please confirm your next step here today. M4/M5 are due Sat 14 Nov at 23:59 SGT.\n\n<@1548956144737722382> R1: Please add the missing docs/backlog-9b.md, check it against FigJam and confirm the",
+          "ts_str": "2026-11-12 03:30:52",
+          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1570279691447836744"
+        },
+        {
+          "author": "profdrtktan",
+          "content": "Hi Team 3, a private note after last night's lock.\n\nFirst, credit where it's due. Your Sprint 9A error file was one of the best-documented in the class, and your rules for SPX and TNX are clear and te",
+          "ts_str": "2026-11-12 03:21:57",
+          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1570277444244480043"
+        },
         {
           "author": "persitatu",
           "content": "I\u2019ve completed the NDX section in `docs/change.md` and submitted my vW10 NDX values for the two prediction locks:\n\n- Old method A: 26,775.82\n- New method B: 26,483.36\n- Tuesday-close baseline: 27,740.",
@@ -58,18 +76,6 @@
           "content": "<@1548956144737722382> I've completed the R2 SPX section in docs/change.md for Sprint 9B.\n\nMy SPX predictions for 13 November are:\n\nOld method (A): 7483.33\n\nNew method (B): 7357.55\n\nThe new method app",
           "ts_str": "2026-11-11 13:14:34",
           "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1570064194731122751"
-        },
-        {
-          "author": "alexlee149",
-          "content": "<@1548956144737722382>  R1, the nearest Sprint 9B deadline is TONIGHT, Tue 10 Nov at 23:59 SGT. Please put the same four milestone cards on our shared FigJam section AND in docs/backlog-9b.md on main.",
-          "ts_str": "2026-11-10 03:13:36",
-          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1569550568593031228"
-        },
-        {
-          "author": "alexlee149",
-          "content": "<@697661487589752893>  Hi Huang Yinghan, we are the two R6 members for Sprint 9B. I have merged our TNX rule, preparation script and preflight notes into main: https://github.com/cp3405-tr3-2026/team-",
-          "ts_str": "2026-11-10 03:13:16",
-          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1569550485990547496"
         }
       ]
     },
