@@ -1,8 +1,26 @@
 {
-  "generated": "Friday 13 November 2026 10:55 SGT",
+  "generated": "Friday 13 November 2026 18:49 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
+        {
+          "author": "wailinnthaw",
+          "content": "Hi R4, could you please update `engine/check_error.py` for Sprint 9B as soon as possible?\n\nThe script needs to support all three methods:\n1. Old (`vW10_old.json`)\n2. New (`vW10.json`)\n3. Baseline (Tue",
+          "ts_str": "2026-11-13 05:33:00",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1570672814728552530"
+        },
+        {
+          "author": "zhang_41520",
+          "content": "R6-B \u2014 Sprint 9B Progress Update\n\nCompleted:\n- Checked `predictions/vW10_old.json` and `predictions/vW10.json` on `main`.\n- Checked `engine/check_error.py` and confirmed that the current `main` versio",
+          "ts_str": "2026-11-13 05:27:04",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1570671321409392664"
+        },
+        {
+          "author": "zhang_41520",
+          "content": "Hi, I checked engine/check_error.py on main, and it still looks like the Sprint 9A version using vW9.json.\n\nSince my R6-B task is to run the error calculation after Friday\u2019s US market close, could you",
+          "ts_str": "2026-11-13 05:24:17",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1570670621631713311"
+        },
         {
           "author": "wailinnthaw",
           "content": "Hi team,\n\nHere is our Sprint 9B plan for today, Thursday, 12 November.\n\nMilestones 1, 2 and 3 are completed. Thank you, everyone!\n\nToday, we\u2019ll focus on preparing Milestones 4 and 5.\n\nMilestone 4 \u2013 A/",
@@ -14,24 +32,6 @@
           "content": "**R6-A \u2013 Sprint 9B Progress Update**\n\n**Completed:**\n- Analysed TNX historical prediction errors (vW5\u2013vW9).\n- Completed the TNX improvement rule in `docs/change.md`.\n- Prepared the Old TNX prediction:",
           "ts_str": "2026-11-11 15:43:56",
           "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1570101785840975923"
-        },
-        {
-          "author": "wailinnthaw",
-          "content": "Hi, I checked `vW10_old.json`, and the NDX value is currently 27,100. However, it appears to be a placeholder from the Sprint 9B example, so I can't confirm it as our final old-method prediction yet.\n",
-          "ts_str": "2026-11-11 13:02:06",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1570061057404313701"
-        },
-        {
-          "author": "wailinnthaw",
-          "content": "Hi team, just a friendly reminder about our Sprint 9B tasks.\n\nDeadline: Tonight, 11 November, 23:59 SGT.\n\nPlease make sure the following tasks are completed:\n\n* R2 (SPX): Change rule + old and new pre",
-          "ts_str": "2026-11-11 12:15:28",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1570049321087410311"
-        },
-        {
-          "author": "jq0289",
-          "content": "**R6-A \u2013 TNX Progress Update**\n\n**Completed:**\n- Analysed TNX prediction errors from vW5 to vW9.\n- Found that our TNX predictions were too high in all five weeks.\n- Calculated the median error as 13.2",
-          "ts_str": "2026-11-11 05:04:10",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1569940783707197511"
         }
       ]
     },
@@ -86,18 +86,6 @@
           "content": "I have completed the GOLD rule change in `docs/change.md`, using the historical median signed error for the new method.\n\nGOLD values have also been added to both `predictions/vW10.json` and `predictio",
           "ts_str": "2026-11-11 11:09:28",
           "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1570032714579579021"
-        },
-        {
-          "author": "estelle_wen_05110",
-          "content": "your old TNX (4.983) equals Tuesday's close, which is the baseline, so old and baseline can't be told apart. Please make old the number you would have given with the vW9 method.",
-          "ts_str": "2026-11-11 06:57:33",
-          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1569969313895419995"
-        },
-        {
-          "author": "hjy987._44307",
-          "content": "Hi everyone, I have completed my R6 TNX tasks for Sprint 9B.\n\nI updated the TNX change rule in `docs/change.md` and filled in both prediction files:\n\n- Old method (`vW10_old.json`): 4.983\n- New method",
-          "ts_str": "2026-11-11 06:14:53",
-          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1569958579677564991"
         }
       ]
     },
