@@ -1,8 +1,20 @@
 {
-  "generated": "Saturday 14 November 2026 02:17 SGT",
+  "generated": "Saturday 14 November 2026 07:44 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
+        {
+          "author": "wailinnthaw",
+          "content": "Hi team! Quick Sprint 9B update.\n\nR4 has updated engine/check_error.py to support Old, New and Tuesday-close Baseline predictions, including the method column.\n\nToday\u2019s priorities:\n\n1. R4: Please conf",
+          "ts_str": "2026-11-13 20:59:39",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1570906013748428912"
+        },
+        {
+          "author": "wailinnthaw",
+          "content": "Hi R6, R4 has updated engine/check_error.py to support Old, New and Tuesday-close Baseline predictions, including the method column.\n\nPlease check once the update is merged into main, then proceed wit",
+          "ts_str": "2026-11-13 20:59:12",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1570905899864821851"
+        },
         {
           "author": "xuan087394",
           "content": "<@997121495371358290> Hi, I\u2019ve updated `engine/check_error.py` to support old, new, and Tuesday-close baseline predictions, and added the `method` column.",
@@ -20,18 +32,6 @@
           "content": "R6-B \u2014 Sprint 9B Progress Update\n\nCompleted:\n- Checked `predictions/vW10_old.json` and `predictions/vW10.json` on `main`.\n- Checked `engine/check_error.py` and confirmed that the current `main` versio",
           "ts_str": "2026-11-13 05:27:04",
           "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1570671321409392664"
-        },
-        {
-          "author": "zhang_41520",
-          "content": "Hi, I checked engine/check_error.py on main, and it still looks like the Sprint 9A version using vW9.json.\n\nSince my R6-B task is to run the error calculation after Friday\u2019s US market close, could you",
-          "ts_str": "2026-11-13 05:24:17",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1570670621631713311"
-        },
-        {
-          "author": "wailinnthaw",
-          "content": "Hi team,\n\nHere is our Sprint 9B plan for today, Thursday, 12 November.\n\nMilestones 1, 2 and 3 are completed. Thank you, everyone!\n\nToday, we\u2019ll focus on preparing Milestones 4 and 5.\n\nMilestone 4 \u2013 A/",
-          "ts_str": "2026-11-12 11:52:58",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1570406047129141305"
         }
       ]
     },
