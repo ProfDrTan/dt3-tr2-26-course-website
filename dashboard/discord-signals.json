@@ -1,5 +1,5 @@
 {
-  "generated": "Friday 13 November 2026 06:35 SGT",
+  "generated": "Friday 13 November 2026 10:55 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
@@ -48,6 +48,12 @@
     "Team 3": {
       "blockers": [
         {
+          "author": "wendilin_39493_15226",
+          "content": "Hi everyone, quick reminder for Sprint 9B\n\nThere is no official deadline today (Friday, 13 Nov), but **Milestones 4 & 5 are due tomorrow, Saturday 14 Nov at 23:59 SGT.**\n\nPlease try to complete the fo",
+          "ts_str": "2026-11-13 02:38:42",
+          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1570628950948974613"
+        },
+        {
           "author": "j097697",
           "content": "<@1390282790314184808> Hi teacher ,I have submit the main but I am sorry that I give it a wrong name,I have change and resubmit now.",
           "ts_str": "2026-11-12 10:36:34",
@@ -70,12 +76,6 @@
           "content": "I\u2019ve completed the NDX section in `docs/change.md` and submitted my vW10 NDX values for the two prediction locks:\n\n- Old method A: 26,775.82\n- New method B: 26,483.36\n- Tuesday-close baseline: 27,740.",
           "ts_str": "2026-11-11 16:08:19",
           "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1570107919469387870"
-        },
-        {
-          "author": "wendilin_39493_15226",
-          "content": "<@1548956144737722382> I've completed the R2 SPX section in docs/change.md for Sprint 9B.\n\nMy SPX predictions for 13 November are:\n\nOld method (A): 7483.33\n\nNew method (B): 7357.55\n\nThe new method app",
-          "ts_str": "2026-11-11 13:14:34",
-          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1570064194731122751"
         }
       ]
     },
