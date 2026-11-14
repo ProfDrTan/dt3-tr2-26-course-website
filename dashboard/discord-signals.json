@@ -1,5 +1,5 @@
 {
-  "generated": "Saturday 14 November 2026 07:44 SGT",
+  "generated": "Saturday 14 November 2026 11:49 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
@@ -38,10 +38,16 @@
     "Team 2": {
       "blockers": [
         {
-          "author": "profdrtktan",
-          "content": "Hi Team 2, a quick private note after last night's lock.\n\nYour Sprint 9A was the strongest in the class: six of six milestones on time, and every error row correct. That's why last night stood out. Th",
-          "ts_str": "2026-11-12 03:20:51",
-          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1570277169215836272"
+          "author": "naing_26",
+          "content": "Since we did not lock our this week prediction on time. The errors.csv would only contain baseline row for vw10 (which assumes that the Tuesday close is the same as actual close and calculate the erro",
+          "ts_str": "2026-11-14 02:22:06",
+          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1570987158162907237"
+        },
+        {
+          "author": "haewon00_95831",
+          "content": "<@1318933112909987854> Hi! Is the 9B check_error.py ready? I can\u2019t find it on main. Could you run it and push data/errors.csv? I can\u2019t run Python on my side.",
+          "ts_str": "2026-11-14 00:24:20",
+          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1570957522599288954"
         }
       ]
     },
