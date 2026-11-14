@@ -1,8 +1,14 @@
 {
-  "generated": "Saturday 14 November 2026 11:49 SGT",
+  "generated": "Saturday 14 November 2026 19:06 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
+        {
+          "author": "zhang_41520",
+          "content": "I\u2019ve created `docs/did_it_work.md` on `main` and completed the TNX section using the final Old, New and Baseline errors.\n\nR2, R3 and R4 can now add the SPX, NDX and GOLD evaluation sections to the sam",
+          "ts_str": "2026-11-14 06:01:27",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1571042363252539423"
+        },
         {
           "author": "wailinnthaw",
           "content": "Hi team! Quick Sprint 9B update.\n\nR4 has updated engine/check_error.py to support Old, New and Tuesday-close Baseline predictions, including the method column.\n\nToday\u2019s priorities:\n\n1. R4: Please conf",
@@ -26,17 +32,23 @@
           "content": "Hi R4, could you please update `engine/check_error.py` for Sprint 9B as soon as possible?\n\nThe script needs to support all three methods:\n1. Old (`vW10_old.json`)\n2. New (`vW10.json`)\n3. Baseline (Tue",
           "ts_str": "2026-11-13 05:33:00",
           "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1570672814728552530"
-        },
-        {
-          "author": "zhang_41520",
-          "content": "R6-B \u2014 Sprint 9B Progress Update\n\nCompleted:\n- Checked `predictions/vW10_old.json` and `predictions/vW10.json` on `main`.\n- Checked `engine/check_error.py` and confirmed that the current `main` versio",
-          "ts_str": "2026-11-13 05:27:04",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1570671321409392664"
         }
       ]
     },
     "Team 2": {
       "blockers": [
+        {
+          "author": "naing_26",
+          "content": "If only baseline row is needed then it can be found in sprint9b-R4 branch for the newly committed errors.csv",
+          "ts_str": "2026-11-14 08:29:07",
+          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1571079522202292266"
+        },
+        {
+          "author": "1nonlyneon",
+          "content": "Hello....is the updated data/errors.csv for Sprint 9B ready? I need to check the vW10 old/new/baseline rows before I update the A/B charts.",
+          "ts_str": "2026-11-14 08:26:40",
+          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1571078906885185648"
+        },
         {
           "author": "naing_26",
           "content": "Since we did not lock our this week prediction on time. The errors.csv would only contain baseline row for vw10 (which assumes that the Tuesday close is the same as actual close and calculate the erro",
@@ -76,17 +88,18 @@
           "content": "Hi everyone, quick reminder for Sprint 9B\n\nThere is no official deadline today (Friday, 13 Nov), but **Milestones 4 & 5 are due tomorrow, Saturday 14 Nov at 23:59 SGT.**\n\nPlease try to complete the fo",
           "ts_str": "2026-11-13 02:38:42",
           "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1570628950948974613"
-        },
-        {
-          "author": "j097697",
-          "content": "<@1390282790314184808> Hi teacher ,I have submit the main but I am sorry that I give it a wrong name,I have change and resubmit now.",
-          "ts_str": "2026-11-12 10:36:34",
-          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1570386819697348649"
         }
       ]
     },
     "Team 4": {
-      "blockers": []
+      "blockers": [
+        {
+          "author": "axey_125",
+          "content": "Hey guys, I've created and committed docs/did_it_work.md on main with my R2 (SPX) evaluation filled out.\n\nI also set up the placeholder templates inside the file for NDX (<@622045340098494466> ), GOLD",
+          "ts_str": "2026-11-14 09:47:18",
+          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1571099198042931270"
+        }
+      ]
     },
     "Team 5": {
       "blockers": []
