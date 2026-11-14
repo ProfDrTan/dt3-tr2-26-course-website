@@ -1,5 +1,5 @@
 {
-  "generated": "Saturday 14 November 2026 19:06 SGT",
+  "generated": "Sunday 15 November 2026 01:08 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
@@ -66,33 +66,57 @@
     "Team 3": {
       "blockers": [
         {
+          "author": "27ccc_",
+          "content": "Hi team, I've finished my R5 part for Sprint 9B.\n\nI tested all four A/B comparison charts (SPX, NDX, GOLD and TNX), and everything is displaying correctly. I also checked the forecast error values aga",
+          "ts_str": "2026-11-14 14:01:56",
+          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1571163278879760466"
+        },
+        {
+          "author": "27ccc_",
+          "content": "Hi team, I have tested the Sprint 9B R5 dashboard locally.\n\nAll four A/B comparison charts (SPX, NDX, GOLD and TNX) are displaying correctly.\n\nI also checked the Old, New and Baseline values against `",
+          "ts_str": "2026-11-14 13:48:11",
+          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1571159818931019842"
+        },
+        {
+          "author": "ying73",
+          "content": "<@1548892619801763940> Hi Haoyang, I checked main and saw that you\u2019ve already uploaded the 12 vW10 error rows and completed the TNX verdict. Thanks for completing the evaluation. The TNX old/new/basel",
+          "ts_str": "2026-11-14 13:11:06",
+          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1571150484943929425"
+        },
+        {
           "author": "persitatu",
-          "content": "Hi team, I confirm the NDX pair on main: old = 26,775.82 and new = 26,483.36. The Tuesday-close baseline is 27,740.7890625, matching the verified baseline file.\n\nMy remaining task is the NDX verdict i",
-          "ts_str": "2026-11-13 17:58:16",
-          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1570860364973875301"
-        },
-        {
-          "author": "wilil_20",
-          "content": "Hi team, I've completed the R4 GOLD forecasting rules for Sprint 9B, including the old method (A), new method (B), historical error correction, and baseline.\n\nI've pushed the changes to my `r4-sprint9",
-          "ts_str": "2026-11-13 14:49:35",
-          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1570812880540934326"
-        },
-        {
-          "author": "alexlee149",
-          "content": "Sprint 9B update \u2014 Saturday 14 Nov, 23:59 SGT deadline. I verified all four 10 Nov Yahoo Close baselines and added the source file to main. My TNX draft is in docs/did_it_work.md. The 13 Nov closes ar",
-          "ts_str": "2026-11-13 11:01:56",
-          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1570755592044150855"
+          "content": "Hi team, I\u2019ve added the NDX verdict to `docs/did_it_work.md` and my verification notes to `evidence/vW10/R3/NDX_final_review.md`.\n\nThe signed errors are \u22124.179542% for old, \u22125.226144% for new, and \u22120.",
+          "ts_str": "2026-11-14 11:50:57",
+          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1571130317190860823"
         },
         {
           "author": "wendilin_39493_15226",
-          "content": "Hi everyone, quick reminder for Sprint 9B\n\nThere is no official deadline today (Friday, 13 Nov), but **Milestones 4 & 5 are due tomorrow, Saturday 14 Nov at 23:59 SGT.**\n\nPlease try to complete the fo",
-          "ts_str": "2026-11-13 02:38:42",
-          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1570628950948974613"
+          "content": "Hi R1, I've completed the R2 SPX section in `docs/did_it_work.md`, including the three prediction errors, A/B comparison, and Sprint 10 verdict.\n\nThe new method performed worse than the old method, so",
+          "ts_str": "2026-11-14 11:16:40",
+          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1571121690027757673"
         }
       ]
     },
     "Team 4": {
       "blockers": [
+        {
+          "author": "meeowoaw",
+          "content": "I have completed the GOLD vW10 evaluation and verdict in `docs/did_it_work.md`.\n\nThe new GOLD method reduced the error compared with both the old method and the Tuesday-close baseline, so the verdict ",
+          "ts_str": "2026-11-14 14:11:58",
+          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1571165803989045329"
+        },
+        {
+          "author": "hjy987._44307",
+          "content": "Hey team, quick update on what I completed today for Sprint 9B:\n\n- Updated `engine/check_error.py` to compare the old forecast, the new forecast, and the Tuesday-close baseline for all four markets.\n-",
+          "ts_str": "2026-11-14 13:11:19",
+          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1571150540119744635"
+        },
+        {
+          "author": "shiro_0272902",
+          "content": "<@&1548709517083279360> my R3 NDX write-up and verdict are on `main` in `docs/did_it_work.md`. The old and new forecasts tied, and both beat the Tuesday baseline. My verdict is **keep the rule for one",
+          "ts_str": "2026-11-14 12:13:21",
+          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1571135951839826023"
+        },
         {
           "author": "axey_125",
           "content": "Hey guys, I've created and committed docs/did_it_work.md on main with my R2 (SPX) evaluation filled out.\n\nI also set up the placeholder templates inside the file for NDX (<@622045340098494466> ), GOLD",
