@@ -1,8 +1,20 @@
 {
-  "generated": "Sunday 15 November 2026 09:16 SGT",
+  "generated": "Sunday 15 November 2026 15:58 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
+        {
+          "author": "wailinnthaw",
+          "content": "Hi R5, please prioritise updating ui/index.html for Sprint 9B.\n\nThe latest data/errors.csv is already generated and merged into main.\n\nPlease update the chart logic to use the method column and show O",
+          "ts_str": "2026-11-15 04:11:49",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1571377158683889746"
+        },
+        {
+          "author": "zhang_41520",
+          "content": "Hi, I checked the current `ui/index.html` against the updated Sprint 9B `data/errors.csv`.\n\nThe current page still appears to be the Sprint 9A version, and the chart logic does not yet support the new",
+          "ts_str": "2026-11-15 03:56:31",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1571373308878913588"
+        },
         {
           "author": "zhang_41520",
           "content": "I\u2019ve created `docs/did_it_work.md` on `main` and completed the TNX section using the final Old, New and Baseline errors.\n\nR2, R3 and R4 can now add the SPX, NDX and GOLD evaluation sections to the sam",
@@ -20,18 +32,6 @@
           "content": "Hi R6, R4 has updated engine/check_error.py to support Old, New and Tuesday-close Baseline predictions, including the method column.\n\nPlease check once the update is merged into main, then proceed wit",
           "ts_str": "2026-11-13 20:59:12",
           "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1570905899864821851"
-        },
-        {
-          "author": "xuan087394",
-          "content": "<@997121495371358290> Hi, I\u2019ve updated `engine/check_error.py` to support old, new, and Tuesday-close baseline predictions, and added the `method` column.",
-          "ts_str": "2026-11-13 11:08:44",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1570757304180023398"
-        },
-        {
-          "author": "wailinnthaw",
-          "content": "Hi R4, could you please update `engine/check_error.py` for Sprint 9B as soon as possible?\n\nThe script needs to support all three methods:\n1. Old (`vW10_old.json`)\n2. New (`vW10.json`)\n3. Baseline (Tue",
-          "ts_str": "2026-11-13 05:33:00",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1570672814728552530"
         }
       ]
     },
