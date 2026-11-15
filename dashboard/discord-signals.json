@@ -1,5 +1,5 @@
 {
-  "generated": "Sunday 15 November 2026 15:58 SGT",
+  "generated": "Sunday 15 November 2026 23:35 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
@@ -66,6 +66,24 @@
     "Team 3": {
       "blockers": [
         {
+          "author": "wendilin_39493_15226",
+          "content": "Based on Dr Tan's updated Run Sheet, here's the proposed PPT allocation:\n\nR1 (Sprint 9B): Slides 1, 2, 3, 5\nAttendance, team introduction, roles, Sprint 9A summary, prediction locks and typo checks. T",
+          "ts_str": "2026-11-15 12:48:36",
+          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1571507213678157916"
+        },
+        {
+          "author": "wendilin_39493_15226",
+          "content": "**Slide 5 \u2014 Prediction Locks**\n- Sprint 9B R1: Explain the two vW10 predictions, lock status and typo checks.\n\n**Slide 6 \u2014 Error Calculation & A/B Charts**\n- Sprint 9B R4: Rerun the error calculation ",
+          "ts_str": "2026-11-15 11:23:38",
+          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1571485830613041263"
+        },
+        {
+          "author": "wendilin_39493_15226",
+          "content": "Since our roles changed between Sprint 9A and Sprint 9B, I suggest separating the responsibilities by sprint to avoid confusion.\n\n**Slide 1 \u2014 Attendance**\n- Sprint 9B R1: Prepare the attendance record",
+          "ts_str": "2026-11-15 11:23:22",
+          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1571485761612681278"
+        },
+        {
           "author": "27ccc_",
           "content": "Hi team, I've finished my R5 part for Sprint 9B.\n\nI tested all four A/B comparison charts (SPX, NDX, GOLD and TNX), and everything is displaying correctly. I also checked the forecast error values aga",
           "ts_str": "2026-11-14 14:01:56",
@@ -76,24 +94,6 @@
           "content": "Hi team, I have tested the Sprint 9B R5 dashboard locally.\n\nAll four A/B comparison charts (SPX, NDX, GOLD and TNX) are displaying correctly.\n\nI also checked the Old, New and Baseline values against `",
           "ts_str": "2026-11-14 13:48:11",
           "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1571159818931019842"
-        },
-        {
-          "author": "ying73",
-          "content": "<@1548892619801763940> Hi Haoyang, I checked main and saw that you\u2019ve already uploaded the 12 vW10 error rows and completed the TNX verdict. Thanks for completing the evaluation. The TNX old/new/basel",
-          "ts_str": "2026-11-14 13:11:06",
-          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1571150484943929425"
-        },
-        {
-          "author": "persitatu",
-          "content": "Hi team, I\u2019ve added the NDX verdict to `docs/did_it_work.md` and my verification notes to `evidence/vW10/R3/NDX_final_review.md`.\n\nThe signed errors are \u22124.179542% for old, \u22125.226144% for new, and \u22120.",
-          "ts_str": "2026-11-14 11:50:57",
-          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1571130317190860823"
-        },
-        {
-          "author": "wendilin_39493_15226",
-          "content": "Hi R1, I've completed the R2 SPX section in `docs/did_it_work.md`, including the three prediction errors, A/B comparison, and Sprint 10 verdict.\n\nThe new method performed worse than the old method, so",
-          "ts_str": "2026-11-14 11:16:40",
-          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1571121690027757673"
         }
       ]
     },
