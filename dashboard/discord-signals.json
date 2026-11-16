@@ -1,5 +1,5 @@
 {
-  "generated": "Monday 16 November 2026 15:05 SGT",
+  "generated": "Tuesday 17 November 2026 01:01 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
@@ -30,18 +30,6 @@
           "content": "I\u2019ve added everyone\u2019s attendance records; please take a look and see if there are any errors.",
           "ts_str": "2026-11-15 20:47:43",
           "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1571627784554414101"
-        },
-        {
-          "author": "naing_26",
-          "content": "If only baseline row is needed then it can be found in sprint9b-R4 branch for the newly committed errors.csv",
-          "ts_str": "2026-11-14 08:29:07",
-          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1571079522202292266"
-        },
-        {
-          "author": "1nonlyneon",
-          "content": "Hello....is the updated data/errors.csv for Sprint 9B ready? I need to check the vW10 old/new/baseline rows before I update the A/B charts.",
-          "ts_str": "2026-11-14 08:26:40",
-          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1571078906885185648"
         }
       ]
     },
@@ -64,48 +52,11 @@
           "content": "Since our roles changed between Sprint 9A and Sprint 9B, I suggest separating the responsibilities by sprint to avoid confusion.\n\n**Slide 1 \u2014 Attendance**\n- Sprint 9B R1: Prepare the attendance record",
           "ts_str": "2026-11-15 11:23:22",
           "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1571485761612681278"
-        },
-        {
-          "author": "27ccc_",
-          "content": "Hi team, I've finished my R5 part for Sprint 9B.\n\nI tested all four A/B comparison charts (SPX, NDX, GOLD and TNX), and everything is displaying correctly. I also checked the forecast error values aga",
-          "ts_str": "2026-11-14 14:01:56",
-          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1571163278879760466"
-        },
-        {
-          "author": "27ccc_",
-          "content": "Hi team, I have tested the Sprint 9B R5 dashboard locally.\n\nAll four A/B comparison charts (SPX, NDX, GOLD and TNX) are displaying correctly.\n\nI also checked the Old, New and Baseline values against `",
-          "ts_str": "2026-11-14 13:48:11",
-          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1571159818931019842"
         }
       ]
     },
     "Team 4": {
-      "blockers": [
-        {
-          "author": "meeowoaw",
-          "content": "I have completed the GOLD vW10 evaluation and verdict in `docs/did_it_work.md`.\n\nThe new GOLD method reduced the error compared with both the old method and the Tuesday-close baseline, so the verdict ",
-          "ts_str": "2026-11-14 14:11:58",
-          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1571165803989045329"
-        },
-        {
-          "author": "hjy987._44307",
-          "content": "Hey team, quick update on what I completed today for Sprint 9B:\n\n- Updated `engine/check_error.py` to compare the old forecast, the new forecast, and the Tuesday-close baseline for all four markets.\n-",
-          "ts_str": "2026-11-14 13:11:19",
-          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1571150540119744635"
-        },
-        {
-          "author": "shiro_0272902",
-          "content": "<@&1548709517083279360> my R3 NDX write-up and verdict are on `main` in `docs/did_it_work.md`. The old and new forecasts tied, and both beat the Tuesday baseline. My verdict is **keep the rule for one",
-          "ts_str": "2026-11-14 12:13:21",
-          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1571135951839826023"
-        },
-        {
-          "author": "axey_125",
-          "content": "Hey guys, I've created and committed docs/did_it_work.md on main with my R2 (SPX) evaluation filled out.\n\nI also set up the placeholder templates inside the file for NDX (<@622045340098494466> ), GOLD",
-          "ts_str": "2026-11-14 09:47:18",
-          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1571099198042931270"
-        }
-      ]
+      "blockers": []
     },
     "Team 5": {
       "blockers": []
