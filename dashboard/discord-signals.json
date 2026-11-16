@@ -1,5 +1,5 @@
 {
-  "generated": "Monday 16 November 2026 08:23 SGT",
+  "generated": "Monday 16 November 2026 15:05 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
@@ -14,17 +14,17 @@
           "content": "Hi, I checked the current `ui/index.html` against the updated Sprint 9B `data/errors.csv`.\n\nThe current page still appears to be the Sprint 9A version, and the chart logic does not yet support the new",
           "ts_str": "2026-11-15 03:56:31",
           "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1571373308878913588"
-        },
-        {
-          "author": "zhang_41520",
-          "content": "I\u2019ve created `docs/did_it_work.md` on `main` and completed the TNX section using the final Old, New and Baseline errors.\n\nR2, R3 and R4 can now add the SPX, NDX and GOLD evaluation sections to the sam",
-          "ts_str": "2026-11-14 06:01:27",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1571042363252539423"
         }
       ]
     },
     "Team 2": {
       "blockers": [
+        {
+          "author": "haewon00_95831",
+          "content": "For TNX, our Sprint 9A errors showed we were too high four weeks in a row: +17.2, +13.2, +6.1 and +9.1 basis points from vW6 to vW9, while the yield kept falling.\u2028So our rule is: new prediction = Tues",
+          "ts_str": "2026-11-16 02:17:41",
+          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1571710826174349333"
+        },
         {
           "author": "liangjinghong_97317",
           "content": "I\u2019ve added everyone\u2019s attendance records; please take a look and see if there are any errors.",
@@ -42,18 +42,6 @@
           "content": "Hello....is the updated data/errors.csv for Sprint 9B ready? I need to check the vW10 old/new/baseline rows before I update the A/B charts.",
           "ts_str": "2026-11-14 08:26:40",
           "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1571078906885185648"
-        },
-        {
-          "author": "naing_26",
-          "content": "Since we did not lock our this week prediction on time. The errors.csv would only contain baseline row for vw10 (which assumes that the Tuesday close is the same as actual close and calculate the erro",
-          "ts_str": "2026-11-14 02:22:06",
-          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1570987158162907237"
-        },
-        {
-          "author": "haewon00_95831",
-          "content": "<@1318933112909987854> Hi! Is the 9B check_error.py ready? I can\u2019t find it on main. Could you run it and push data/errors.csv? I can\u2019t run Python on my side.",
-          "ts_str": "2026-11-14 00:24:20",
-          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1570957522599288954"
         }
       ]
     },
