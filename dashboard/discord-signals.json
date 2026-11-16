@@ -1,5 +1,5 @@
 {
-  "generated": "Monday 16 November 2026 04:35 SGT",
+  "generated": "Monday 16 November 2026 08:23 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
@@ -20,23 +20,17 @@
           "content": "I\u2019ve created `docs/did_it_work.md` on `main` and completed the TNX section using the final Old, New and Baseline errors.\n\nR2, R3 and R4 can now add the SPX, NDX and GOLD evaluation sections to the sam",
           "ts_str": "2026-11-14 06:01:27",
           "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1571042363252539423"
-        },
-        {
-          "author": "wailinnthaw",
-          "content": "Hi team! Quick Sprint 9B update.\n\nR4 has updated engine/check_error.py to support Old, New and Tuesday-close Baseline predictions, including the method column.\n\nToday\u2019s priorities:\n\n1. R4: Please conf",
-          "ts_str": "2026-11-13 20:59:39",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1570906013748428912"
-        },
-        {
-          "author": "wailinnthaw",
-          "content": "Hi R6, R4 has updated engine/check_error.py to support Old, New and Tuesday-close Baseline predictions, including the method column.\n\nPlease check once the update is merged into main, then proceed wit",
-          "ts_str": "2026-11-13 20:59:12",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1570905899864821851"
         }
       ]
     },
     "Team 2": {
       "blockers": [
+        {
+          "author": "liangjinghong_97317",
+          "content": "I\u2019ve added everyone\u2019s attendance records; please take a look and see if there are any errors.",
+          "ts_str": "2026-11-15 20:47:43",
+          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1571627784554414101"
+        },
         {
           "author": "naing_26",
           "content": "If only baseline row is needed then it can be found in sprint9b-R4 branch for the newly committed errors.csv",
