@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17 08:37 UTC",
+  "updated": "2026-11-17 17:54 UTC",
   "sprint_tag": "vW30",
   "sprint_deadline_utc": "2026-07-26T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W30",
@@ -736,9 +736,9 @@
         ]
       },
       "midweek_artefact": {
-        "present": false,
-        "path": null,
-        "url": null
+        "present": true,
+        "path": "Week8/R2_Scrum_Master/standup_midweek_W30.md",
+        "url": "https://github.com/Gong-yinxuan/CP3405/blob/3ea29824b06cdc2e6136fb8d26b8bcc42a165ee3/Week8/R2_Scrum_Master/standup_midweek_W30.md"
       },
       "repo_url": "https://github.com/Gong-yinxuan/CP3405"
     },
