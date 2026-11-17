@@ -1,24 +1,17 @@
 {
-  "generated": "Tuesday 17 November 2026 01:01 SGT",
+  "generated": "Tuesday 17 November 2026 16:37 SGT",
   "teams": {
     "Team 1": {
-      "blockers": [
-        {
-          "author": "wailinnthaw",
-          "content": "Hi R5, please prioritise updating ui/index.html for Sprint 9B.\n\nThe latest data/errors.csv is already generated and merged into main.\n\nPlease update the chart logic to use the method column and show O",
-          "ts_str": "2026-11-15 04:11:49",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1571377158683889746"
-        },
-        {
-          "author": "zhang_41520",
-          "content": "Hi, I checked the current `ui/index.html` against the updated Sprint 9B `data/errors.csv`.\n\nThe current page still appears to be the Sprint 9A version, and the chart logic does not yet support the new",
-          "ts_str": "2026-11-15 03:56:31",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1571373308878913588"
-        }
-      ]
+      "blockers": []
     },
     "Team 2": {
       "blockers": [
+        {
+          "author": "aliceinsomewhere",
+          "content": "Here's what everyone needs to do:\n\nR2 (SPX): Write the vW11 SPX rule, provide old and new predictions, and complete the final verdict.\n\nR3 (NDX): Write the vW11 NDX rule, provide old and new predictio",
+          "ts_str": "2026-11-17 05:33:59",
+          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1572122613990424639"
+        },
         {
           "author": "haewon00_95831",
           "content": "For TNX, our Sprint 9A errors showed we were too high four weeks in a row: +17.2, +13.2, +6.1 and +9.1 basis points from vW6 to vW9, while the yield kept falling.\u2028So our rule is: new prediction = Tues",
