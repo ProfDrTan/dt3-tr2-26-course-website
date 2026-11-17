@@ -1,8 +1,27 @@
 {
-  "generated": "Tuesday 17 November 2026 16:37 SGT",
+  "generated": "Wednesday 18 November 2026 01:54 SGT",
   "teams": {
     "Team 1": {
-      "blockers": []
+      "blockers": [
+        {
+          "author": "jq0289",
+          "content": "<@927069413088309298> Ang, could you please help restore last week\u2019s Sprint 9B (vW10) rules in `docs/change.md` from the GitHub history? I think you know how to do this, thank u. This way, each sprint",
+          "ts_str": "2026-11-17 15:40:31",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1572275252409663491"
+        },
+        {
+          "author": "sololeveller233637",
+          "content": "Guys can anyone help me with the figjam",
+          "ts_str": "2026-11-17 15:21:27",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1572270454432071741"
+        },
+        {
+          "author": "sololeveller233637",
+          "content": "mine is not working idk why",
+          "ts_str": "2026-11-17 15:11:07",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1572267851610325033"
+        }
+      ]
     },
     "Team 2": {
       "blockers": [
@@ -29,27 +48,28 @@
     "Team 3": {
       "blockers": [
         {
-          "author": "wendilin_39493_15226",
-          "content": "Based on Dr Tan's updated Run Sheet, here's the proposed PPT allocation:\n\nR1 (Sprint 9B): Slides 1, 2, 3, 5\nAttendance, team introduction, roles, Sprint 9A summary, prediction locks and typo checks. T",
-          "ts_str": "2026-11-15 12:48:36",
-          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1571507213678157916"
-        },
-        {
-          "author": "wendilin_39493_15226",
-          "content": "**Slide 5 \u2014 Prediction Locks**\n- Sprint 9B R1: Explain the two vW10 predictions, lock status and typo checks.\n\n**Slide 6 \u2014 Error Calculation & A/B Charts**\n- Sprint 9B R4: Rerun the error calculation ",
-          "ts_str": "2026-11-15 11:23:38",
-          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1571485830613041263"
-        },
-        {
-          "author": "wendilin_39493_15226",
-          "content": "Since our roles changed between Sprint 9A and Sprint 9B, I suggest separating the responsibilities by sprint to avoid confusion.\n\n**Slide 1 \u2014 Attendance**\n- Sprint 9B R1: Prepare the attendance record",
-          "ts_str": "2026-11-15 11:23:22",
-          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1571485761612681278"
+          "author": "alexlee149",
+          "content": "**Team 3 | Sprint 10 and Demo Day**\nI\u2019ll be R1/RE for our final sprint. Please work from Ying\u2019s latest role list and reply here with your progress, PR link or any blocker. I\u2019ll update FigJam as you se",
+          "ts_str": "2026-11-17 11:30:10",
+          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1572212249433473164"
         }
       ]
     },
     "Team 4": {
-      "blockers": []
+      "blockers": [
+        {
+          "author": "axey_125",
+          "content": "And please inform me when you're done or need some help guys",
+          "ts_str": "2026-11-17 14:11:16",
+          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1572252792750477354"
+        },
+        {
+          "author": "axey_125",
+          "content": "Hello everyone, sorry for the late announcement and we have an urgent thing to do tonight (23:59 SGT deadline) \nNow, here what you guys need to do:\n\n<@1548926510398840902> erick (R4) & <@6220453400984",
+          "ts_str": "2026-11-17 14:03:12",
+          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1572250763156127855"
+        }
+      ]
     },
     "Team 5": {
       "blockers": []
