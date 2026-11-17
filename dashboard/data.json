@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16 17:02 UTC",
+  "updated": "2026-11-17 08:37 UTC",
   "sprint_tag": "vW30",
   "sprint_deadline_utc": "2026-07-26T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W30",
@@ -43,7 +43,7 @@
           "author": "github-actions[bot]"
         }
       ],
-      "days_since_commit": 99,
+      "days_since_commit": 100,
       "contributors": [],
       "pr_history": {
         "total": 130,
@@ -266,7 +266,7 @@
       "open_prs": 0,
       "pr_titles": [],
       "pr_links": [],
-      "days_since_commit": 69,
+      "days_since_commit": 70,
       "contributors": [],
       "pr_history": {
         "total": 32,
@@ -509,7 +509,7 @@
       "open_prs": 0,
       "pr_titles": [],
       "pr_links": [],
-      "days_since_commit": 105,
+      "days_since_commit": 106,
       "contributors": [],
       "pr_history": {
         "total": 4,
@@ -612,7 +612,7 @@
           "author": "ProfDrTan"
         }
       ],
-      "days_since_commit": 0,
+      "days_since_commit": 1,
       "contributors": [
         {
           "name": "github-actions[bot]",
@@ -736,9 +736,9 @@
         ]
       },
       "midweek_artefact": {
-        "present": true,
-        "path": "Week8/R2_Scrum_Master/standup_midweek_W30.md",
-        "url": "https://github.com/Gong-yinxuan/CP3405/blob/3ea29824b06cdc2e6136fb8d26b8bcc42a165ee3/Week8/R2_Scrum_Master/standup_midweek_W30.md"
+        "present": false,
+        "path": null,
+        "url": null
       },
       "repo_url": "https://github.com/Gong-yinxuan/CP3405"
     },
