@@ -1,5 +1,5 @@
 {
-  "generated": "Wednesday 18 November 2026 16:26 SGT",
+  "generated": "Thursday 19 November 2026 01:29 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
@@ -35,6 +35,12 @@
     },
     "Team 3": {
       "blockers": [
+        {
+          "author": "persitatu",
+          "content": "Hi Haoyang, I\u2019ve prepared my Sprint 10 R5 UI update. It shows old/new/baseline errors for both weeks, with zero lines. vW10 is labelled exploratory/unlocked, and vW11 remains pending until the verifie",
+          "ts_str": "2026-11-18 11:35:38",
+          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1572576013156618282"
+        },
         {
           "author": "alexlee149",
           "content": "**Team 3 | Sprint 10 and Demo Day**\nI\u2019ll be R1/RE for our final sprint. Please work from Ying\u2019s latest role list and reply here with your progress, PR link or any blocker. I\u2019ll update FigJam as you se",
