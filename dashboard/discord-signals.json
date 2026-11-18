@@ -1,5 +1,5 @@
 {
-  "generated": "Wednesday 18 November 2026 08:53 SGT",
+  "generated": "Wednesday 18 November 2026 16:26 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
@@ -30,12 +30,6 @@
           "content": "Here's what everyone needs to do:\n\nR2 (SPX): Write the vW11 SPX rule, provide old and new predictions, and complete the final verdict.\n\nR3 (NDX): Write the vW11 NDX rule, provide old and new predictio",
           "ts_str": "2026-11-17 05:33:59",
           "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1572122613990424639"
-        },
-        {
-          "author": "haewon00_95831",
-          "content": "For TNX, our Sprint 9A errors showed we were too high four weeks in a row: +17.2, +13.2, +6.1 and +9.1 basis points from vW6 to vW9, while the yield kept falling.\u2028So our rule is: new prediction = Tues",
-          "ts_str": "2026-11-16 02:17:41",
-          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1571710826174349333"
         }
       ]
     },
