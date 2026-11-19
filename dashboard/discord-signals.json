@@ -1,5 +1,5 @@
 {
-  "generated": "Thursday 19 November 2026 12:28 SGT",
+  "generated": "Thursday 19 November 2026 21:48 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
@@ -24,14 +24,7 @@
       ]
     },
     "Team 2": {
-      "blockers": [
-        {
-          "author": "aliceinsomewhere",
-          "content": "Here's what everyone needs to do:\n\nR2 (SPX): Write the vW11 SPX rule, provide old and new predictions, and complete the final verdict.\n\nR3 (NDX): Write the vW11 NDX rule, provide old and new predictio",
-          "ts_str": "2026-11-17 05:33:59",
-          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1572122613990424639"
-        }
-      ]
+      "blockers": []
     },
     "Team 3": {
       "blockers": [
@@ -40,12 +33,6 @@
           "content": "Hi Haoyang, I\u2019ve prepared my Sprint 10 R5 UI update. It shows old/new/baseline errors for both weeks, with zero lines. vW10 is labelled exploratory/unlocked, and vW11 remains pending until the verifie",
           "ts_str": "2026-11-18 11:35:38",
           "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1572576013156618282"
-        },
-        {
-          "author": "alexlee149",
-          "content": "**Team 3 | Sprint 10 and Demo Day**\nI\u2019ll be R1/RE for our final sprint. Please work from Ying\u2019s latest role list and reply here with your progress, PR link or any blocker. I\u2019ll update FigJam as you se",
-          "ts_str": "2026-11-17 11:30:10",
-          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1572212249433473164"
         }
       ]
     },
