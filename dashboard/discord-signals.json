@@ -1,33 +1,20 @@
 {
-  "generated": "Thursday 19 November 2026 21:48 SGT",
+  "generated": "Friday 20 November 2026 05:54 SGT",
   "teams": {
     "Team 1": {
-      "blockers": [
-        {
-          "author": "jq0289",
-          "content": "<@927069413088309298> Ang, could you please help restore last week\u2019s Sprint 9B (vW10) rules in `docs/change.md` from the GitHub history? I think you know how to do this, thank u. This way, each sprint",
-          "ts_str": "2026-11-17 15:40:31",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1572275252409663491"
-        },
-        {
-          "author": "sololeveller233637",
-          "content": "Guys can anyone help me with the figjam",
-          "ts_str": "2026-11-17 15:21:27",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1572270454432071741"
-        },
-        {
-          "author": "sololeveller233637",
-          "content": "mine is not working idk why",
-          "ts_str": "2026-11-17 15:11:07",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1572267851610325033"
-        }
-      ]
+      "blockers": []
     },
     "Team 2": {
       "blockers": []
     },
     "Team 3": {
       "blockers": [
+        {
+          "author": "alexlee149",
+          "content": "**Team 3 | Sprint 10 check-in (Fri 20 Nov)**\n\nOur next official deadline is **Sat 21 Nov, 23:59 SGT** for `data/errors.csv`, `ui/index.html` and `docs/final_verdict.md` on `main`. Please reply with a ",
+          "ts_str": "2026-11-19 18:55:46",
+          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1573049162797158480"
+        },
         {
           "author": "persitatu",
           "content": "Hi Haoyang, I\u2019ve prepared my Sprint 10 R5 UI update. It shows old/new/baseline errors for both weeks, with zero lines. vW10 is labelled exploratory/unlocked, and vW11 remains pending until the verifie",
@@ -37,20 +24,7 @@
       ]
     },
     "Team 4": {
-      "blockers": [
-        {
-          "author": "axey_125",
-          "content": "And please inform me when you're done or need some help guys",
-          "ts_str": "2026-11-17 14:11:16",
-          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1572252792750477354"
-        },
-        {
-          "author": "axey_125",
-          "content": "Hello everyone, sorry for the late announcement and we have an urgent thing to do tonight (23:59 SGT deadline) \nNow, here what you guys need to do:\n\n<@1548926510398840902> erick (R4) & <@6220453400984",
-          "ts_str": "2026-11-17 14:03:12",
-          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1572250763156127855"
-        }
-      ]
+      "blockers": []
     },
     "Team 5": {
       "blockers": []
