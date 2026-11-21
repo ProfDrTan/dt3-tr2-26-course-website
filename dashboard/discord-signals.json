@@ -1,5 +1,5 @@
 {
-  "generated": "Sunday 22 November 2026 00:05 SGT",
+  "generated": "Sunday 22 November 2026 05:39 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
@@ -64,12 +64,6 @@
           "content": "<@1548892619801763940>  Haoyang, I've updated the R3 NDX section in `docs/final_verdict.md` with the vW10/vW11 errors, average absolute errors, and final verdict. The comparison is clearly labelled as",
           "ts_str": "2026-11-21 11:58:08",
           "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1573668840792137729"
-        },
-        {
-          "author": "alexlee149",
-          "content": "**Team 3 | Sprint 10 check-in (Fri 20 Nov)**\n\nOur next official deadline is **Sat 21 Nov, 23:59 SGT** for `data/errors.csv`, `ui/index.html` and `docs/final_verdict.md` on `main`. Please reply with a ",
-          "ts_str": "2026-11-19 18:55:46",
-          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1573049162797158480"
         }
       ]
     },
