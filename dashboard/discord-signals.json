@@ -1,8 +1,26 @@
 {
-  "generated": "Sunday 22 November 2026 09:37 SGT",
+  "generated": "Sunday 22 November 2026 16:51 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
+        {
+          "author": "xuan087394",
+          "content": "<@776049160369209355> hi uv, I can help with that. Just send me the cards and I\u2019ll move them",
+          "ts_str": "2026-11-22 05:53:32",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1573939469978173551"
+        },
+        {
+          "author": "sololeveller233637",
+          "content": "I am doing the clean up so if anyone can help me with the figjam i can send u the cards and u can just put them in done i am still not able to edit sorry for giving someone the extra work",
+          "ts_str": "2026-11-22 05:50:16",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1573938651115683853"
+        },
+        {
+          "author": "sololeveller233637",
+          "content": "I made some changes in the ui its working from my side not an issue",
+          "ts_str": "2026-11-22 05:47:08",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1573937862028566573"
+        },
         {
           "author": "sololeveller233637",
           "content": "sure not an issue all the work is done by everyone all of u can rest i will do the clean up and the review and make it look perfect well done by @everyone amazing job i enjoyed working with all of u o",
@@ -14,24 +32,6 @@
           "content": "and for the testing and walkthrough and cross questioning R4 <@1549710124292251683> if u need any help setting up the run and everything pls let me know i will help u",
           "ts_str": "2026-11-21 12:48:09",
           "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1573681423767048223"
-        },
-        {
-          "author": "ayephyuss",
-          "content": "R1 <@776049160369209355> If it is OK. Can u help me to prepare the PPTX to present for Tmr sprint. I'm a little confused of to prepared PPTX. Thanks for ur help R1.",
-          "ts_str": "2026-11-21 12:46:48",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1573681086209196063"
-        },
-        {
-          "author": "sololeveller233637",
-          "content": "Hey guys amazing work in meeting all the deadlines for this whole week slight tweaks need to be made and if u need my help in them i will help Team, I reviewed our latest Sprint 10 GitHub files. We ha",
-          "ts_str": "2026-11-21 11:44:49",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1573665485642530948"
-        },
-        {
-          "author": "zhang_41520",
-          "content": "R6 update:\n\nCompleted:\n- Updated `engine/check_error.py` for Sprint 10 / vW11.\n- Ran the updated script after the Friday market close.\n- Generated the updated `data/errors.csv` with vW11 Old, New and ",
-          "ts_str": "2026-11-21 11:14:12",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1573657781184106508"
         }
       ]
     },
@@ -42,12 +42,6 @@
           "content": "Does that mean the error script, TNX verdict, and merging everything into main are all finished?",
           "ts_str": "2026-11-21 11:15:32",
           "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1573658116137164945"
-        },
-        {
-          "author": "aliceinsomewhere",
-          "content": "@everyone Hi guys! Just a reminder that our remaining Sprint 10 tasks are due tomorrow, Saturday (21 Nov), 11:59 PM.\n\nR2: Complete the final SPX verdict.\n\nR3: Complete the final NDX verdict.\n\nR4: Upda",
-          "ts_str": "2026-11-20 05:08:47",
-          "url": "https://discord.com/channels/1548703733813088256/1548705354173517946/1573203435468361729"
         }
       ]
     },
@@ -69,6 +63,12 @@
     },
     "Team 4": {
       "blockers": [
+        {
+          "author": "alanmusk_01429",
+          "content": "Hey team, I\u2019ve synced with the latest main and tested the Sprint 10 dashboard locally. Both vW10 and vW11 show all 12 results, with Old, New and Tuesday-close baseline errors for all four markets.\n\nI\u2019",
+          "ts_str": "2026-11-22 02:53:28",
+          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1573894154679754835"
+        },
         {
           "author": "meeowoaw",
           "content": "`data/errors.csv` has been updated with the latest vW11 results.\n\nThe TNX evaluation and final verdict have also been completed in `docs/did_it_work.md`.",
@@ -92,12 +92,6 @@
           "content": "<@1548925975851438140>  remember u just finished the TNX write-up in docs/did_it_work.md, but you also covers running engine/check_error.py to update data/errors.csv and merging branches to main",
           "ts_str": "2026-11-21 14:29:59",
           "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1573707052851789835"
-        },
-        {
-          "author": "axey_125",
-          "content": "<@1550773438669389825> <@1548926121058369609> <@1548925975851438140> <@1298826886188761192> please tell me you guys done with it or need help",
-          "ts_str": "2026-11-21 13:05:32",
-          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1573685799692673205"
         }
       ]
     },
