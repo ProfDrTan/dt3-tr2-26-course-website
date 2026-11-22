@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22 01:37 UTC",
+  "updated": "2026-11-22 08:52 UTC",
   "sprint_tag": "vW30",
   "sprint_deadline_utc": "2026-07-26T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W30",
@@ -43,7 +43,7 @@
           "author": "github-actions[bot]"
         }
       ],
-      "days_since_commit": 104,
+      "days_since_commit": 105,
       "contributors": [],
       "pr_history": {
         "total": 130,
@@ -509,7 +509,7 @@
       "open_prs": 0,
       "pr_titles": [],
       "pr_links": [],
-      "days_since_commit": 110,
+      "days_since_commit": 111,
       "contributors": [],
       "pr_history": {
         "total": 4,
@@ -612,13 +612,13 @@
           "author": "ProfDrTan"
         }
       ],
-      "days_since_commit": 0,
+      "days_since_commit": 1,
       "contributors": [
         {
           "name": "github-actions[bot]",
           "login": "github-actions[bot]",
           "kind": "bot",
-          "commits": 7,
+          "commits": 6,
           "latest_date": "2026-11-21 02:57",
           "latest_msg": "chore: update Prism data 2026-11-21",
           "latest_sha": "1fa1be6",
