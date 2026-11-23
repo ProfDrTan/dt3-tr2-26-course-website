@@ -1,5 +1,5 @@
 {
-  "generated": "Monday 23 November 2026 06:18 SGT",
+  "generated": "Monday 23 November 2026 10:55 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
@@ -48,6 +48,12 @@
     "Team 3": {
       "blockers": [
         {
+          "author": "wilil_20",
+          "content": "**Matthew \u2014 Sprint 6 (R1: Product Owner & Scrum Master)**\n\n**What I did:** I coordinated Sprint 6 planning, established the Sprint Goal and Definition of Done, coordinated the collection of four marke",
+          "ts_str": "2026-11-23 01:06:06",
+          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1574229524726550629"
+        },
+        {
           "author": "persitatu",
           "content": "In Sprint 8, I was R1 and organised our FigJam board so each task had an owner, a clear Definition of Done and a link to evidence. During our review of the Gold dashboard, we needed a way to check how",
           "ts_str": "2026-11-22 14:09:49",
@@ -70,12 +76,6 @@
           "content": "Hi Haoyang and Quanda, here\u2019s my late Friday check-in for R5. My dashboard update is in PR #18.\n\nI checked the charts against data/errors.csv. The dashboard shows all 12 error rows for vW10 and 8 of 1",
           "ts_str": "2026-11-22 09:08:22",
           "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1573988503308738564"
-        },
-        {
-          "author": "ying73",
-          "content": "<@1548892619801763940> <@1420006709966934087>  My R6/TNX rule, final verdict and audit are now on main:\nhttps://github.com/cp3405-tr3-2026/team-3/tree/main/evidence/vW11/R6\nThe error script rerun pass",
-          "ts_str": "2026-11-21 14:54:50",
-          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1573713305816535296"
         }
       ]
     },
