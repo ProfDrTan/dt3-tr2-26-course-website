@@ -1,5 +1,5 @@
 {
-  "generated": "Monday 23 November 2026 20:14 SGT",
+  "generated": "Tuesday 24 November 2026 08:07 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
@@ -26,12 +26,6 @@
           "content": "I made some changes in the ui its working from my side not an issue",
           "ts_str": "2026-11-22 05:47:08",
           "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1573937862028566573"
-        },
-        {
-          "author": "sololeveller233637",
-          "content": "sure not an issue all the work is done by everyone all of u can rest i will do the clean up and the review and make it look perfect well done by @everyone amazing job i enjoyed working with all of u o",
-          "ts_str": "2026-11-21 14:58:30",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1573714231214211195"
         }
       ]
     },
@@ -79,30 +73,6 @@
           "content": "Hey team, I\u2019ve synced with the latest main and tested the Sprint 10 dashboard locally. Both vW10 and vW11 show all 12 results, with Old, New and Tuesday-close baseline errors for all four markets.\n\nI\u2019",
           "ts_str": "2026-11-22 02:53:28",
           "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1573894154679754835"
-        },
-        {
-          "author": "meeowoaw",
-          "content": "`data/errors.csv` has been updated with the latest vW11 results.\n\nThe TNX evaluation and final verdict have also been completed in `docs/did_it_work.md`.",
-          "ts_str": "2026-11-21 15:39:14",
-          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1573724480184778763"
-        },
-        {
-          "author": "axey_125",
-          "content": "just pull the latest main, run python engine/check_error.py, and commit/push the updated data/errors.csv (plus merge any open PRs) to main so the vW11 numbers are synced.",
-          "ts_str": "2026-11-21 15:24:19",
-          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1573720725481586890"
-        },
-        {
-          "author": "axey_125",
-          "content": "<@1550773438669389825> <@1548926121058369609> <@1298826886188761192>  got any issues guys? need some help? if yes dont hesitate to ask\n\nand please tell me once you guys are done",
-          "ts_str": "2026-11-21 14:30:58",
-          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1573707301116715059"
-        },
-        {
-          "author": "axey_125",
-          "content": "<@1548925975851438140>  remember u just finished the TNX write-up in docs/did_it_work.md, but you also covers running engine/check_error.py to update data/errors.csv and merging branches to main",
-          "ts_str": "2026-11-21 14:29:59",
-          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1573707052851789835"
         }
       ]
     },
