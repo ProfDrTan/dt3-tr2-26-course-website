@@ -1,5 +1,5 @@
 {
-  "generated": "Tuesday 24 November 2026 08:07 SGT",
+  "generated": "Tuesday 24 November 2026 17:54 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
@@ -8,24 +8,6 @@
           "content": "Hey guys I am done with cleaning up and removing small issues in our GitHub",
           "ts_str": "2026-11-22 12:00:27",
           "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1574031811015737496"
-        },
-        {
-          "author": "xuan087394",
-          "content": "<@776049160369209355> hi uv, I can help with that. Just send me the cards and I\u2019ll move them",
-          "ts_str": "2026-11-22 05:53:32",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1573939469978173551"
-        },
-        {
-          "author": "sololeveller233637",
-          "content": "I am doing the clean up so if anyone can help me with the figjam i can send u the cards and u can just put them in done i am still not able to edit sorry for giving someone the extra work",
-          "ts_str": "2026-11-22 05:50:16",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1573938651115683853"
-        },
-        {
-          "author": "sololeveller233637",
-          "content": "I made some changes in the ui its working from my side not an issue",
-          "ts_str": "2026-11-22 05:47:08",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1573937862028566573"
         }
       ]
     },
@@ -57,24 +39,11 @@
           "content": "Confirmed for Monday\u2019s live demo: use the dashboard on main and the final error CSV. I reran the vW11 evaluation from main and reproduced all 8 available rows. Both weeks are exploratory. For vW11, sh",
           "ts_str": "2026-11-22 12:14:47",
           "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1574035416556904479"
-        },
-        {
-          "author": "persitatu",
-          "content": "Hi Haoyang and Quanda, here\u2019s my late Friday check-in for R5. My dashboard update is in PR #18.\n\nI checked the charts against data/errors.csv. The dashboard shows all 12 error rows for vW10 and 8 of 1",
-          "ts_str": "2026-11-22 09:08:22",
-          "url": "https://discord.com/channels/1548703733813088256/1548705391129657434/1573988503308738564"
         }
       ]
     },
     "Team 4": {
-      "blockers": [
-        {
-          "author": "alanmusk_01429",
-          "content": "Hey team, I\u2019ve synced with the latest main and tested the Sprint 10 dashboard locally. Both vW10 and vW11 show all 12 results, with Old, New and Tuesday-close baseline errors for all four markets.\n\nI\u2019",
-          "ts_str": "2026-11-22 02:53:28",
-          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1573894154679754835"
-        }
-      ]
+      "blockers": []
     },
     "Team 5": {
       "blockers": []
