@@ -1,5 +1,5 @@
 {
-  "generated": "Thursday 26 November 2026 12:35 SGT",
+  "generated": "Thursday 26 November 2026 22:29 SGT",
   "teams": {
     "Team 1": {
       "blockers": []
@@ -11,7 +11,20 @@
       "blockers": []
     },
     "Team 4": {
-      "blockers": []
+      "blockers": [
+        {
+          "author": "meeowoaw",
+          "content": "hello <@816496998588350516> here is my contribution evidence for Part A:\n\n1. Human Score and UI testing: R5 evidence and human-score files.\n2. NDX forecasting and technical analysis: R3 evidence folde",
+          "ts_str": "2026-11-26 12:58:32",
+          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1575495977803063421"
+        },
+        {
+          "author": "shiro_0272902",
+          "content": "<@816496998588350516> here is my contribution evidence for Part A:\n1. NDX forecast and calculations: R3 evidence folder\n2. NDX retrospective: My R3 section in what_went_wrong.md\n3. NDX evaluation and ",
+          "ts_str": "2026-11-26 09:26:15",
+          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1575442557125795933"
+        }
+      ]
     },
     "Team 5": {
       "blockers": []
