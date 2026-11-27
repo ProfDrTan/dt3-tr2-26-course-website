@@ -1,8 +1,27 @@
 {
-  "generated": "Friday 27 November 2026 13:11 SGT",
+  "generated": "Friday 27 November 2026 23:11 SGT",
   "teams": {
     "Team 1": {
-      "blockers": []
+      "blockers": [
+        {
+          "author": "sololeveller233637",
+          "content": "And help u out",
+          "ts_str": "2026-11-27 14:08:39",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1575876011176755213"
+        },
+        {
+          "author": "ayephyuss",
+          "content": "<@776049160369209355> <@927069413088309298> any suggession. please lead us and help us to figure it out.",
+          "ts_str": "2026-11-27 13:53:51",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1575872289038139525"
+        },
+        {
+          "author": "ayephyuss",
+          "content": "For me, My problem is I'm not understand well of Product backlog to write what is based.",
+          "ts_str": "2026-11-27 13:53:37",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1575872228938219533"
+        }
+      ]
     },
     "Team 2": {
       "blockers": []
@@ -14,7 +33,7 @@
       "blockers": [
         {
           "author": "meeowoaw",
-          "content": "hello <@816496998588350516> here is my contribution evidence for Part A:\n\n1. Human Score and UI testing: R5 evidence and human-score files.\n2. NDX forecasting and technical analysis: R3 evidence folde",
+          "content": "afternoon <@816496998588350516> here is my contribution evidence for Part A:\n\n1. **Week 5 \u2013 R5, Human Score:** Prepared human forecast assessments and supporting reasoning. Evidence: `vW5_r5_human_sco",
           "ts_str": "2026-11-26 12:58:32",
           "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1575495977803063421"
         },
