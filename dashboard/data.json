@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-28 04:55 UTC",
+  "updated": "2026-11-28 14:03 UTC",
   "sprint_tag": "vW30",
   "sprint_deadline_utc": "2026-07-26T15:59:00Z",
   "midweek_artefact_name": "standup_midweek_W30",
@@ -43,7 +43,7 @@
           "author": "github-actions[bot]"
         }
       ],
-      "days_since_commit": 110,
+      "days_since_commit": 111,
       "contributors": [],
       "pr_history": {
         "total": 130,
@@ -509,7 +509,7 @@
       "open_prs": 0,
       "pr_titles": [],
       "pr_links": [],
-      "days_since_commit": 116,
+      "days_since_commit": 117,
       "contributors": [],
       "pr_history": {
         "total": 4,
