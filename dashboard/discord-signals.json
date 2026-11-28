@@ -1,8 +1,20 @@
 {
-  "generated": "Saturday 28 November 2026 12:55 SGT",
+  "generated": "Saturday 28 November 2026 22:03 SGT",
   "teams": {
     "Team 1": {
       "blockers": [
+        {
+          "author": "hawlermathew",
+          "content": "its a log about what task have u done wrong or weakly and need to be improved for the next sprint (write them out if have, if no then try to state why is the done criteria successful))\n\nfor the checke",
+          "ts_str": "2026-11-28 06:08:34",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1576117580534382603"
+        },
+        {
+          "author": "hawlermathew",
+          "content": "**A2 task assignments**\n\n@everyone I will update plan here\n\n**Task assignment: **\n- Anybody on that sprint who is R1 should be doing sprint_backlog.pdf, product_backlog.pdf and R1-DoD.docx\n- Others fr",
+          "ts_str": "2026-11-28 05:43:43",
+          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1576111327888408699"
+        },
         {
           "author": "hawlermathew",
           "content": "does this help answer u <@1562513082276642913> ?",
@@ -20,18 +32,6 @@
           "content": "And help u out",
           "ts_str": "2026-11-27 14:08:39",
           "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1575876011176755213"
-        },
-        {
-          "author": "ayephyuss",
-          "content": "<@776049160369209355> <@927069413088309298> any suggession. please lead us and help us to figure it out.",
-          "ts_str": "2026-11-27 13:53:51",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1575872289038139525"
-        },
-        {
-          "author": "ayephyuss",
-          "content": "For me, My problem is I'm not understand well of Product backlog to write what is based.",
-          "ts_str": "2026-11-27 13:53:37",
-          "url": "https://discord.com/channels/1548703733813088256/1548705305062416415/1575872228938219533"
         }
       ]
     },
@@ -44,16 +44,10 @@
     "Team 4": {
       "blockers": [
         {
-          "author": "meeowoaw",
-          "content": "afternoon <@816496998588350516> here is my contribution evidence for Part A:\n\n1. **Week 5 \u2013 R5, Human Score:** Prepared human forecast assessments and supporting reasoning. Evidence: `vW5_r5_human_sco",
-          "ts_str": "2026-11-26 12:58:32",
-          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1575495977803063421"
-        },
-        {
-          "author": "shiro_0272902",
-          "content": "<@816496998588350516> here is my contribution evidence for Part A:\n1. NDX forecast and calculations: R3 evidence folder\n2. NDX retrospective: My R3 section in what_went_wrong.md\n3. NDX evaluation and ",
-          "ts_str": "2026-11-26 09:26:15",
-          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1575442557125795933"
+          "author": "hjy987._44307",
+          "content": "Hi team, here is my contribution evidence for Part A:\n\n1. Sprint 4 \u2013 R6, GitHub Integration:\nI checked the GitHub repository, organised project files, updated the README, and helped connect the market",
+          "ts_str": "2026-11-28 11:09:53",
+          "url": "https://discord.com/channels/1548703733813088256/1548705454480302141/1576193412024246424"
         }
       ]
     },
